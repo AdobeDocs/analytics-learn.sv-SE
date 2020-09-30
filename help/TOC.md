@@ -5,10 +5,10 @@ breadcrumb-title: Analytics Tutorials
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
 translation-type: tm+mt
-source-git-commit: 00a376d434a08665de00b2dccec02fc86e63b36e
+source-git-commit: 6a62298bc79ab3c94cea17863fabdb2e7840b46b
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '1834'
+ht-degree: 9%
 
 ---
 
@@ -209,7 +209,7 @@ ht-degree: 0%
    + Manage Report Suites {#manage-report-suites}
       + [Konfigurera inställningar för postnummer och postnummer](administration/manage-report-suites/configuring-zip-and-postal-code-settings.md)
       + [Konfigurera variabler i Admin Console](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
-   + Datastyrning och GDPR {data-Governance-and-gdpr}
+   + Datastyrning och GDPR {#data-governance-and-gdpr}
       + [Datastyrning och GDPR i Adobe Analytics](administration/data-governance-and-gdpr/data-governance-and-gdpr.md)
       + [Få rätt personer i ert analysteam](administration/data-governance-and-gdpr/getting-the-right-people-on-your-analytics-team.md)
    + Trafikhantering {#traffic-management}
