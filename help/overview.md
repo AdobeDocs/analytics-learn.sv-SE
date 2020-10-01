@@ -73,7 +73,7 @@ Välkommen till webbplatsen [!DNL Analytics] Tutorials.  Genom att använda dess
   </td>
   <td>
     <a href="analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md">
-      <img alt="miniatyrbild för videon"Analysis Workspace Overview"" src="assets/thumb_analysis-workspace-overview.png" />
+      <img alt="miniatyrbild för videon &quot;Analysis Workspace Overview&quot;" src="assets/thumb_analysis-workspace-overview.png" />
     </a>
     <div>
       <a href="analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md">
