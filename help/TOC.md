@@ -1,13 +1,13 @@
 ---
 user-guide-title: Adobe Analytics självstudiekurser
-user-guide-description: A collection of videos and tutorials for Adobe Analytics.
+user-guide-description: En samling videor och självstudiekurser för Adobe Analytics.
 breadcrumb-title: Analytics Tutorials
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
 translation-type: tm+mt
 source-git-commit: 91fa52941263dcac4a30a54ae0916df7233712c9
 workflow-type: tm+mt
-source-wordcount: '1846'
+source-wordcount: '1857'
 ht-degree: 9%
 
 ---
@@ -251,8 +251,8 @@ ht-degree: 9%
    + Validera och felsöka {#validating-and-troubleshooting}
       + [Inspektera implementeringar med Adobe Experience Cloud Debugger](implementation/validating-and-troubleshooting/inspecting-implementations-with-the-adobe-experience-cloud-debugger.md)
       + [Visa efterbearbetade träffar med Experience Cloud Debugger](implementation/validating-and-troubleshooting/view-post-processed-hits-with-the-experience-cloud-debugger.md)
-   + SPA-sidor {#spa-pages}
-      + [Använda bästa praxis vid spårning av SPA](implementation/spa-pages/using-best-practices-when-tracking-spa.md)
+   + SPA sidor {#spa-pages}
+      + [Använda vedertagna metoder för att spåra SPA](implementation/spa-pages/using-best-practices-when-tracking-spa.md)
 + Komponenter {#components}
    + Segmentering {#segmentation}
       + [Översikt över segmentbyggaren](components/segmentation/segment-builder-overview.md)
