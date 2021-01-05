@@ -5,18 +5,18 @@ breadcrumb-title: Analytics Tutorials
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
 translation-type: tm+mt
-source-git-commit: 91fa52941263dcac4a30a54ae0916df7233712c9
+source-git-commit: 30868ad30134f1233c643dc7ed23ef060a94e61b
 workflow-type: tm+mt
-source-wordcount: '1857'
+source-wordcount: '1869'
 ht-degree: 9%
 
 ---
 
 
-# Analytics Tutorials {#tutorials}
+# Analytics-Tutorials {#tutorials}
 
 + [Översikt](overview.md)
-+ Introduktion till Analytics {#intro-to-analytics}
++ Introduktion till analys {#intro-to-analytics}
    + Vad kan Adobe Analytics göra för mig? {#what-can-aa-do-for-me}
       + [Hur Adobe Analysis Workspace kan förändra ert företag](intro-to-analytics/what-can-aa-do-for-me/how-adobe-analysis-workspace-can-change-your-business.md)
       + [Det är mer än data. Det är kundanalys](intro-to-analytics/what-can-aa-do-for-me/adobe-analytics-customer-intelligence.md)
@@ -27,7 +27,7 @@ ht-degree: 9%
       + [Summit 2019 Super Session - Resor och turism](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-travel.md)
       + [Summit 2019 Super Session - Retail](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-retail.md)
       + [Summit 2019 Super Session - High Tech](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.md)
-   + Grundläggande om analyser {#analytics-basics}
+   + Grundläggande om analys {#analytics-basics}
       + [Knappen Prova i arbetsytan i Reports and Analytics](intro-to-analytics/analytics-basics/try-in-workspace-button.md)
       + [Personmått](intro-to-analytics/analytics-basics/people-metric.md)
       + [Analyscykeln](intro-to-analytics/analytics-basics/understanding-the-analytics-cycle.md)
@@ -45,7 +45,7 @@ ht-degree: 9%
       + [Ange Analysis Workspace som landningssida](intro-to-analytics/customizing-the-ui/set-analysis-workspace-as-your-landing-page.md)
       + [Ange ett Analysis Workspace-projekt som landningssida](intro-to-analytics/customizing-the-ui/setting-an-analysis-workspace-project-as-your-landing-page.md)
       + [Tillägg för mörkt läge i Analysis Workspace](intro-to-analytics/customizing-the-ui/dark-mode-extension-for-analysis-workspace.md)
-   + Få hjälp {#getting-help}
+   + Hämta hjälp {#getting-help}
       + [Analysis Workspace In-Product Tips](intro-to-analytics/getting-help/in-product-tips.md)
       + [Inlämning av supportanmälan inifrån produkten](intro-to-analytics/getting-help/in-product-support-ticket-submission.md)
       + [Få hjälp i Adobe Analytics](intro-to-analytics/getting-help/getting-help.md)
@@ -84,6 +84,7 @@ ht-degree: 9%
       + [Använda tabeller, visualiseringar och paneler i Analysis Workspace](analysis-workspace/using-panels/using-tables-visualizations-and-panels.md)
       + [Panelen Quick Insights i Analysis Workspace](analysis-workspace/using-panels/quick-insights-panel-in-analysis-workspace.md)
       + [Använda panelen Attribution IQ](analysis-workspace/attribution-iq/using-the-attribution-iq-panel.md)
+      + [Media Concurrent Viewer Panel i Analysis Workspace](analysis-workspace/using-panels/media-concurrent-viewers-panel-in-analysis-workspace.md)
       + [Använda nedrullningsbara filter](analysis-workspace/using-panels/using-drop-down-filters.md)
       + [Panelnivåsegment](analysis-workspace/using-panels/panel-level-segments.md)
       + [Organisera dina Analysis Workspace-projekt med paneler](analysis-workspace/using-panels/using-panels-to-organize-your-analysis-workspace-projects.md)
@@ -111,6 +112,7 @@ ht-degree: 9%
       + [Använda tabeller, visualiseringar och paneler i Analysis Workspace](analysis-workspace/using-panels/using-tables-visualizations-and-panels.md)
       + [Markera data som ska visas](analysis-workspace/visualizations/selecting-data-to-visualize.md)
       + [Linjevisualisering i Analysis Workspace](analysis-workspace/visualizations/line-visualization-in-analysis-workspace.md)
+      + [Lägga till trendlinjer i linjevisualiseringar](analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.md)
       + [Visualisering av punktdiagram](analysis-workspace/visualizations/bullet-graph-visualization.md)
       + [Histogramvisualisering](analysis-workspace/visualizations/histogram-visualization.md)
       + [Kartvisualisering](analysis-workspace/visualizations/map-visualization.md)
@@ -131,7 +133,7 @@ ht-degree: 9%
       + [Treemap och Scatterplot Visualizations](analysis-workspace/visualizations/treemap-and-scatterplot-visualizations.md)
       + [Visualisering av Venndiagram](analysis-workspace/visualizations/venn-diagram-visualization.md)
       + [Inställningar för visualisering av datakälla](analysis-workspace/visualizations/visualization-data-source-settings.md)
-   + Tillämpar segment {#applying-segments}
+   + Använder segment {#applying-segments}
       + [Använda segment i ditt Analysis Workspace-projekt](analysis-workspace/applying-segments/applying-segments-to-your-analysis-workspace-project.md)
       + [Använda segment i Analysis Workspace](analysis-workspace/applying-segments/using-segments-in-analysis-workspace.md)
       + [Ad hoc-segment (temporära)](analysis-workspace/applying-segments/ad-hoc-temporary-segments.md)
@@ -152,14 +154,14 @@ ht-degree: 9%
       + [Introduktion till trafikvariabler (Props)](analysis-workspace/dimensions/introduction-to-traffic-variables-props.md)
       + [Introduktion till konverteringsvariabler (eVars)](analysis-workspace/dimensions/introduction-to-conversion-variables-evars.md)
       + [Arbeta med Dimensioner i en frihandstabell](analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.md)
-   + Calendar and Date Ranges {#calendar-and-date-ranges}
+   + Kalender- och datumintervall {#calendar-and-date-ranges}
       + [Använda datum i Analysis Workspace](analysis-workspace/calendar-and-date-ranges/using-dates-in-analysis-workspace.md)
       + [Använda datumintervall och jämförelser i Analysis Workspace](analysis-workspace/calendar-and-date-ranges/using-date-ranges-and-comparisons-in-analysis-workspace.md)
       + [Använda datumintervall och kalender i Analysis Workspace](analysis-workspace/calendar-and-date-ranges/date-ranges-and-calendar-in-analysis-workspace.md)
       + [Skapa anpassade datumintervall](analysis-workspace/calendar-and-date-ranges/creating-custom-date-ranges-in-analysis-workspace.md)
       + [Datumjämförelser i Analysis Workspace](analysis-workspace/calendar-and-date-ranges/date-comparisons-in-analysis-workspace.md)
       + [Lägga till jämförelser med föregående månad och år i trender](analysis-workspace/calendar-and-date-ranges/adding-prior-month-and-year-comparisons-to-trends.md)
-   + Analysera kundresor {#analyzing-customer-journeys}
+   + Analyserar kundresor {#analyzing-customer-journeys}
       + [Resa-IQ - Enhetsövergripande analys](analysis-workspace/analyzing-customer-journeys/understanding-and-using-journey-iq-cross-device-analytics.md)
       + [Bortfallsvisualisering](analysis-workspace/analyzing-customer-journeys/fallout-visualization.md)
       + [Förbättringar av utfallsvisualisering](analysis-workspace/analyzing-customer-journeys/enhancements-to-fallout-visualization.md)
@@ -168,7 +170,7 @@ ht-degree: 9%
       + [Flödesvisualisering](analysis-workspace/analyzing-customer-journeys/flow-visualization.md)
       + [Expandera vid Flödesvisualisering](analysis-workspace/analyzing-customer-journeys/expanding-on-flow-visualization.md)
       + [Figursättning och flerdimensionellt flöde](analysis-workspace/analyzing-customer-journeys/text-wrapping-and-multi-dimensional-flow.md)
-   + Curate and Share Projects {#curate-and-share-projects}
+   + Kuratera och dela projekt {#curate-and-share-projects}
       + [Spara, dela och samarbeta i projekt i Analysis Workspace](analysis-workspace/curate-and-share-projects/saving-sharing-and-collaborating-on-projects-in-analysis-workspace.md)
       + [Curation and Sharing in Analysis Workspace](analysis-workspace/curate-and-share-projects/curation-and-sharing-in-analysis-workspace.md)
       + [Direktlänk till ett projekt](analysis-workspace/curate-and-share-projects/direct-link-to-a-project.md)
@@ -205,10 +207,10 @@ ht-degree: 9%
 + Reports and Analytics {#reports-and-analytics}
    + [Realtidsrapportering i Reports and Analytics](reports-and-analytics/realtime-reporting-in-reports-and-analytics.md)
 + Administrering {#administration}
-   + User Management {#user-management}
+   + Användarhantering {#user-management}
       + [Lägga till en administratör i Adobe Analytics](administration/user-management/adding-an-administrator-to-adobe-analytics.md)
       + [Begränsa åtkomst till rapportsviten i Admin Console](administration/user-management/limit-report-suite-access-in-the-admin-console.md)
-   + Manage Report Suites {#manage-report-suites}
+   + Hantera rapportsviter {#manage-report-suites}
       + [Konfigurera inställningar för postnummer och postnummer](administration/manage-report-suites/configuring-zip-and-postal-code-settings.md)
       + [Konfigurera variabler i Admin Console](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
    + Datastyrning och GDPR {#data-governance-and-gdpr}
@@ -248,7 +250,7 @@ ht-degree: 9%
    + Använda JavaScript {#using-javascript}
       + [Anpassad länkspårning utan tagghanterare](implementation/using-javascript/custom-link-tracking-without-a-tag-manager.md)
       + [Uppdatera AppMeasurement när Experience Platform Launch inte används](implementation/using-javascript/updating-appmeasurement-when-not-using-adobe-launch.md)
-   + Validera och felsöka {#validating-and-troubleshooting}
+   + Validerar och felsöker {#validating-and-troubleshooting}
       + [Inspektera implementeringar med Adobe Experience Cloud Debugger](implementation/validating-and-troubleshooting/inspecting-implementations-with-the-adobe-experience-cloud-debugger.md)
       + [Visa efterbearbetade träffar med Experience Cloud Debugger](implementation/validating-and-troubleshooting/view-post-processed-hits-with-the-experience-cloud-debugger.md)
    + SPA sidor {#spa-pages}
@@ -337,7 +339,7 @@ ht-degree: 9%
    + [Bidragsanalys i Analysis Workspace](data-science/contribution-analysis-workspace.md)
    + [Intelligenta aviseringar](data-science/intelligent-alerts.md)
    + [Adobe Analytics och Adobe Sensei - Demokratisera datavetenskap för ALLA](data-science/adobe-analytics-and-adobe-sensei-democratizing-data-science-for-all.md)
-+ Lodrätt-specifik {#vertical-specific}
++ Lodrätt specifik {#vertical-specific}
    + Högteknologi {#high-tech}
       + [Summit 2019 Super Session - High Tech](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.md)
    + Resor och turism {#travel-and-hospitality}
@@ -347,10 +349,10 @@ ht-degree: 9%
       + [Lägga till grundläggande butiksvariabler och händelser i startregler](vertical-specific/retail/adding-basic-retail-variables-and-events-to-launch-rules.md)
       + [Lägga till en startregel för inköpshändelsen](vertical-specific/retail/adding-a-launch-rule-for-the-purchase-event.md)
       + [Summit 2019 Super Session - Retail](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-retail.md)
-+ Media Analytics {#media-analytics}
++ Medieanalys {#media-analytics}
    + Mäta röst eller ljud {#measuring-voice-or-audio}
       + [Använda mallen Ljudförbrukning i Analysis Workspace](media-analytics/measuring-voice-or-audio/using-the-audio-consumption-template-in-analysis-workspace.md)
-+ Mobilappsanalys {#mobile-app-analytics}
++ Analytics för mobilappar {#mobile-app-analytics}
    + Implementering {#implementation}
       + [Administratörsinställningar för mobilappar](mobile-app-analytics/implementation/admin-settings-for-mobile-apps.md)
       + [Initiera och visa livscykelvärden med Experience Platform SDK](mobile-app-analytics/implementation/initializing-and-viewing-lifecycle-metrics-with-the-experience-platform-sdk.md)
@@ -359,7 +361,7 @@ ht-degree: 9%
       + [Implementera i iOS Swift Apps](https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-ios-swift-apps-with-launch/index.html)
       + [Implementera iOS-målappar](https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html)
       + [Implementera i Android-appar](https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-android-apps-with-launch/index.html)
-   + Mäta mobilanalys {#measuring-mobile-analytics}
+   + Mätning av mobilanalys {#measuring-mobile-analytics}
       + [Komma igång med Adobe Mobile Analytics](mobile-app-analytics/measuring-mobile-analytics/getting-started-with-mobile-analytics.md)
       + [Inverkan av kontaktytor över hela den mobila resan](mobile-app-analytics/measuring-mobile-analytics/impact-of-touchpoints-across-mobile-journey.md)
       + [Analyserar användarbeteende över flera kanaler](mobile-app-analytics/measuring-mobile-analytics/analyzing-user-behavior-across-channels.md)
@@ -368,5 +370,5 @@ ht-degree: 9%
    + [Använda Analysis Workspace för att skapa API 2.0-begäranden](apis/using-analysis-workspace-to-build-api-2-requests.md)
    + [Använda Report Builder för att lära sig mer om Adobe Analytics API](exporting/report-builder/using-report-builder-to-learn-the-adobe-analytics-api.md)
    + [Använda Postman för att göra Adobe Analytics 2.0 API-begäranden](apis/using-postman-to-make-adobe-analytics-2-0-api-requests.md)
-+ Analysis Use Cases {#analysis-use-cases}
++ Användningsexempel för analys {#analysis-use-cases}
    + [Konfigurera postnummeranalys på marknaden](analysis-use-cases/setting-up-in-market-zip-code-analysis-use-case.md)
