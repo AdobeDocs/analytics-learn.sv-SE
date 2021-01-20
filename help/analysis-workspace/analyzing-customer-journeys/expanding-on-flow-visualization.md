@@ -10,18 +10,18 @@ team: Technical Marketing
 thumbnail: 24044.jpg
 kt: 2280
 translation-type: tm+mt
-source-git-commit: 29d63fccf471f94569c7632be3361bca15b1ff3f
+source-git-commit: 7629db3735eb4b81c6a1787cce71b350a603ac3a
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '85'
 ht-degree: 0%
 
 ---
 
 
-# Utöka [!DNL Flow visualization] i Analysis Workspace {#expanding-on-flow-visualization-in-analysis-workspace}
+# Expandera på [!DNL Flow visualization] i Analysis Workspace {#expanding-on-flow-visualization-in-analysis-workspace}
 
-I den här videon visas de olika högerklicksalternativen som är tillgängliga i [!DNL Flow visualization] Analysis Workspace. Du kan bland annat skapa ett segment från en bana och komprimera kolumner.
+I den här videon visas de olika högerklicksalternativen som är tillgängliga i [!DNL Flow visualization] i Analysis Workspace. Du kan bland annat skapa ett segment från en bana och komprimera kolumner.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24044/?quality=12)
 
-Mer information om den här funktionen finns i [dokumentationen](https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/flow.html).
+Mer information om den här funktionen finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/flow/flow.html?lang=en#analysis-workspace).
