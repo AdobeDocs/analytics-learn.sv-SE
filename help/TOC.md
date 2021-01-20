@@ -5,9 +5,9 @@ breadcrumb-title: Analytics Tutorials
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
 translation-type: tm+mt
-source-git-commit: 30868ad30134f1233c643dc7ed23ef060a94e61b
+source-git-commit: a6d96878798f2ec2302bcd207aa419fb084d19b1
 workflow-type: tm+mt
-source-wordcount: '1869'
+source-wordcount: '1872'
 ht-degree: 9%
 
 ---
@@ -236,7 +236,8 @@ ht-degree: 9%
       + [Konfigurera globala variabler i Launch Analytics-tillägget](implementation/via-adobe-launch/configuring-global-variables-in-the-launch-analytics-extension.md)
       + [Konfigurera cookie-inställningar i Launch Analytics-tillägget](implementation/via-adobe-launch/configuring-cookie-settings-in-the-launch-analytics-extension.md)
       + [Använda anpassad kod när du konfigurerar Launch Analytics-tillägget](implementation/via-adobe-launch/using-custom-code-while-configuring-the-launch-analytics-extension.md)
-      + [Använda ett datalager för att ange sidnamn och andra variabler via Experience Platform Launch](implementation/via-adobe-launch/using-a-data-layer-to-set-page-name-and-other-variables-via-launch.md)
+      + [Använda ett datalager för att ange sidnamn och andra variabler via Launch](implementation/via-adobe-launch/using-a-data-layer-to-set-page-name-and-other-variables-via-launch.md)
+      + [Lägga till implementeringsplugin-program i Launch](implementation/via-adobe-launch/adding-implementation-plug-ins-in-launch.md)
       + [Använd doPlugins i Adobe Analytics Extension](implementation/via-adobe-launch/use-doplugins-in-the-adobe-analytics-extension.md)
       + [Konfigurera Easy Download Link Tracking](implementation/via-adobe-launch/configuring-easy-download-link-tracking.md)
       + [Konfigurera enkel avslut länkspårning](implementation/via-adobe-launch/configuring-easy-exit-link-tracking.md)
