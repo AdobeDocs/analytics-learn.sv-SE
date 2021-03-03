@@ -1,18 +1,19 @@
 ---
 title: Lägga till implementeringsplugin-program i Launch
 description: Implementeringsplugin-program är JavaScript-kod som du kan lägga till i Analytics-implementeringen för att spåra ytterligare, anpassade data. I den här videon får du lära dig hur och var koden ska läggas till i Launch.
-feature: launch implementation
+feature: Starta implementering
 topics: null
-audience: implementer
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 28772.jpg
 kt: 3594
+role: '"Utvecklare, datatekniker"'
+level: Nybörjare
 translation-type: tm+mt
-source-git-commit: bdb6fc6cd9431a3b3ca78628b2014d6415976ff2
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '86'
 ht-degree: 0%
 
 ---
