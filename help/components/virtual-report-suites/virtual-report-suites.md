@@ -1,25 +1,26 @@
 ---
 title: Virtuella rapportsviter i Adobe Analytics
 description: Med Adobe Analytics kan ni skapa"virtuella rapportsviter" för era användare, som segmenterar era data och begränsar användare/grupper till endast de tillåtna datasegmenten. I den här videon visas hur du skapar och arbetar med virtuella rapportsviter.
-feature: vrs
+feature: VRS
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2325
+role: Yrkesverksamma inom affärsverksamhet
+level: Mellanliggande
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '100'
+source-wordcount: '104'
 ht-degree: 0%
 
 ---
 
 
-# [!UICONTROL Virtual Report Suites] i Adobe Analytics {#virtual-report-suites-in-adobe-analytics}
+# [!UICONTROL Virtual Report Suites] i Adobe Analytics  {#virtual-report-suites-in-adobe-analytics}
 
-Med Adobe Analytics kan ni skapa&quot;[!UICONTROL Virtual Report Suites]&quot; för era användare, som segmenterar era data och begränsar användare/grupper till endast de tillåtna datasegmenten. I den här videon visas hur du skapar och arbetar med [!UICONTROL Virtual Report Suites].
+Med Adobe Analytics kan du skapa &quot;[!UICONTROL Virtual Report Suites]&quot; för dina användare, vilket segmenterar dina data och begränsar användare/grupper till endast tillåtna datasegment. I den här videon visas hur du skapar och arbetar med [!UICONTROL Virtual Report Suites].
 
 >[!VIDEO](https://video.tv.adobe.com/v/25412/?quality=12)
 
