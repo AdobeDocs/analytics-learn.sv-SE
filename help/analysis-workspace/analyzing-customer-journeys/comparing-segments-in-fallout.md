@@ -1,24 +1,25 @@
 ---
 title: Jämföra segment i utfall i Analysis Workspace
 description: I den här videon visas hur du jämför viktiga arbetsflöden mellan olika segment i Analysis Workspace.
-feature: visualizations
+feature: Visualiseringar
 topics: null
-audience: analyst, marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 24046.jpg
 kt: 2278
+role: Yrkesverksamma inom affärsverksamhet
+level: Nybörjare
 translation-type: tm+mt
-source-git-commit: 29d63fccf471f94569c7632be3361bca15b1ff3f
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '63'
+ht-degree: 1%
 
 ---
 
 
-# Jämföra segment i [!UICONTROL Fallout] Analysis Workspace {#comparing-segments-in-fallout-in-analysis-workspace}
+# Jämföra segment i [!UICONTROL Fallout] i Analysis Workspace {#comparing-segments-in-fallout-in-analysis-workspace}
 
 I den här videon visas hur du jämför viktiga arbetsflöden mellan olika segment i Analysis Workspace.
 
