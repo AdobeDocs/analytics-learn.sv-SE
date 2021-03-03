@@ -1,23 +1,24 @@
 ---
 title: Visualisering av punktdiagram i Analysis Workspace
 description: Punktdiagram är ett användbart sätt att visa förloppet mot (eller över) ett mål i din analys. De ger er ett annat sätt att visualisera er organisations framgång.
-feature: visualizations
+feature: Visualiseringar
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2116
+role: Yrkesverksamma inom affärsverksamhet
+level: Nybörjare
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '73'
+ht-degree: 1%
 
 ---
 
 
-# [!UICONTROL Bullet] Diagram [!UICONTROL Visualization] i Analysis Workspace {#bullet-graph-visualization-in-analysis-workspace}
+# [!UICONTROL Bullet] Diagram  [!UICONTROL Visualization] i Analysis Workspace  {#bullet-graph-visualization-in-analysis-workspace}
 
 [!UICONTROL Bullet] diagram är ett användbart sätt att visa förloppet mot (eller över) ett mål i din analys. De ger er ett annat sätt att visualisera er organisations framgång.
 
