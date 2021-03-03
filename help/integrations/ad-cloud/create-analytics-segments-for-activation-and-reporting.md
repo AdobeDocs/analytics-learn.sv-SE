@@ -1,19 +1,21 @@
 ---
 title: Skapa Analytics-segment för aktivering och rapportering
 description: Använda Advertising Cloud-dimensioner för att skapa segment för tydligare rapportering och analys.
-feature: integration with ad cloud
+feature: Advertising Cloud Integration
 topics: null
-audience: marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 35117.jpg
 kt: 5474
+topic: Integreringar
+role: Yrkesverksamma inom affärsverksamhet
+level: Mellanliggande
 translation-type: tm+mt
-source-git-commit: f7065aa474339cc90c00a6ac13924ec8d4e41e5d
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '45'
+ht-degree: 86%
 
 ---
 
