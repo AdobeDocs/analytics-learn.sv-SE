@@ -1,17 +1,18 @@
 ---
 title: Adobe Sensei och Adobe Analytics
 description: Adobe Sensei gör Adobe Analytics smartare och hjälper marknadsförare att hitta meningsfulla insikter om sina kunder. I den här videon finns ytterligare förklaringar av de viktigaste funktionerna i Adobe Analytics som drivs av Adobe Sensei, inklusive avvikelseidentifiering, bidragsanalys, intelligenta aviseringar, klustring, segmentanalys och benägenhetsmodellering.
-feature: data science
+feature: Datavetenskap
 topics: null
-audience: all
 activity: understand
 doc-type: value video
 team: Technical Marketing
 kt: 4383
+role: '"Affärsledare, utvecklare, datatekniker, arkitekt, dataarkitekt, administratör, ledare"'
+level: Nybörjare
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '104'
 ht-degree: 0%
 
 ---
@@ -19,8 +20,8 @@ ht-degree: 0%
 
 # [!DNL Adobe Sensei] och Adobe Analytics
 
-[!DNL Adobe Sensei] gör Adobe Analytics smartare och hjälper marknadsförare att hitta meningsfulla insikter om sina kunder. Den här videon innehåller ytterligare förklaringar av nyckelfunktionerna i Adobe Analytics, som drivs av [!DNL Adobe Sensei]bland annat [!UICONTROL Anomaly Detection], [!UICONTROL Contribution Analysis], [!UICONTROL Intelligent Alerts], klustring [!UICONTROL Segment IQ]och benägenhetsmodellering.
+[!DNL Adobe Sensei] gör Adobe Analytics smartare och hjälper marknadsförare att hitta meningsfulla insikter om sina kunder. I den här videon finns ytterligare förklaringar av nyckelfunktionerna i Adobe Analytics som drivs av [!DNL Adobe Sensei], inklusive [!UICONTROL Anomaly Detection], [!UICONTROL Contribution Analysis], [!UICONTROL Intelligent Alerts], Klustring, [!UICONTROL Segment IQ] och Propensity Modeling.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31500/?quality=12)
 
-Läs mer om [!DNL Adobe Sensei][HÄR](https://www.adobe.com/sensei.html).
+Läs mer om [!DNL Adobe Sensei] [HÄR](https://www.adobe.com/sensei.html).
