@@ -1,19 +1,20 @@
 ---
 title: Projektdelning i Analysis Workspace
 description: Projektdelning är ett sätt att demokratisera data och insikter från Analysis Workspace till användare i organisationen. Du kan placera mottagare i en av tre projektroller, beroende på vilken erfarenhet du vill att de ska ha Redigera, Duplicera och Visa.
-feature: curate and share
+feature: Kuratera och dela
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 36207.jpg
 kt: 5555
+role: Yrkesverksamma inom affärsverksamhet
+level: Nybörjare
 translation-type: tm+mt
-source-git-commit: 026602e66ec7a08e81ef67b9bf00bd517afe7d31
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '110'
-ht-degree: 94%
+source-wordcount: '116'
+ht-degree: 89%
 
 ---
 
