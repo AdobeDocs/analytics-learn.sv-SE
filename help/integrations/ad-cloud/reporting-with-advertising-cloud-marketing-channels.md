@@ -1,25 +1,27 @@
 ---
 title: Rapportering med Advertising Cloud marknadsföringskanaler
 description: Hur Advertising Cloud-data för genomskinlig och klickbar post fungerar med Adobe Analytics Marketing Channels
-feature: integration with ad cloud
+feature: Advertising Cloud Integration
 topics: null
-audience: marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 35115.jpg
 kt: 5472
+topic: Integreringar
+role: Yrkesverksamma inom affärsverksamhet
+level: Mellanliggande
 translation-type: tm+mt
-source-git-commit: a42658cfd4bae7b077ddd48b4cf5c7db54e35c98
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '47'
+ht-degree: 2%
 
 ---
 
 
 # Rapportering med Advertising Cloud marknadsföringskanaler
 
-Hur Advertising Cloud-data för genomskinlig och klickbar post fungerar tillsammans med Adobe Analytics [!UICONTROL Marketing Channels].
+Hur Advertising Cloud-informationen för genomskinlig och klickbar post fungerar med Adobe Analytics [!UICONTROL Marketing Channels].
 
 >[!VIDEO](https://video.tv.adobe.com/v/35115/?quality=12&learn=on)
