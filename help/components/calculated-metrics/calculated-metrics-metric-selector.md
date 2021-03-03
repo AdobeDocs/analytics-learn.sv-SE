@@ -1,23 +1,24 @@
 ---
 title: Beräknade mått - mätväljare
 description: Översikt över mätväljaren i Adobe Analytics
-feature: calculated metrics
+feature: Beräknade mätvärden
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2317
+role: Yrkesverksamma inom affärsverksamhet
+level: Nybörjare
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '27'
+ht-degree: 7%
 
 ---
 
 
-# [!UICONTROL Calculated metrics]: Mätväljare {#calculated-metrics-metric-selector}
+# [!UICONTROL Calculated metrics]: Mätväljare  {#calculated-metrics-metric-selector}
 
 Översikt över mätväljaren i Rapporter och analyser
 
