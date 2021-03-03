@@ -1,26 +1,27 @@
 ---
 title: Flödesvisualisering i Analysis Workspace
 description: I den här videon går du igenom Flow-visualiseringen i Analysis Workspace. Du kan använda Flow för att visa och utforska användarrörelser och bättre förstå kundresan.
-feature: visualizations
+feature: Visualiseringar
 topics: null
-audience: analyst, marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 24045.jpg
 kt: 2279
+role: Yrkesverksamma inom affärsverksamhet
+level: Nybörjare
 translation-type: tm+mt
-source-git-commit: 29d63fccf471f94569c7632be3361bca15b1ff3f
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '75'
-ht-degree: 0%
+source-wordcount: '79'
+ht-degree: 1%
 
 ---
 
 
-# [!DNL Flow Visualization] i Analysis Workspace {#flow-visualization-in-analysis-workspace}
+# [!DNL Flow Visualization] i Analysis Workspace  {#flow-visualization-in-analysis-workspace}
 
-I den här videon går du igenom [!DNL Flow visualization] Analysis Workspace. Du kan använda [!DNL Flow] för att visa och utforska användarrörelser och bättre förstå dina [!DNL customer journey].
+I den här videon visas hur du går igenom [!DNL Flow visualization] i Analysis Workspace. Du kan använda [!DNL Flow] för att visa och utforska användarens rörelser, för att bättre förstå din [!DNL customer journey].
 
 >[!VIDEO](https://video.tv.adobe.com/v/24045/?quality=12)
 
