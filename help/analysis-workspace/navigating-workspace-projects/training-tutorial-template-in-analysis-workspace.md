@@ -1,18 +1,19 @@
 ---
 title: Självstudiemall i Analysis Workspace
 description: 'Självstudiekursen (Analysis Workspace Training Tutorial) leder användarna genom vanliga termer och steg för hur de bygger sin första analys i Workspace. '
-feature: projects
+feature: Paneler
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 5032
+role: Yrkesverksamma inom affärsverksamhet
+level: Nybörjare
 translation-type: tm+mt
-source-git-commit: 4d423c9148e973e4ca0efd2385233da8c4467e79
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '90'
+ht-degree: 14%
 
 ---
 
