@@ -1,19 +1,21 @@
 ---
 title: Aktivera vidarebefordran på serversidan i Experience Platform Launch
 description: 'Lär dig hur du använder Experience Platform Launch för att få dina Adobe Analytics-träffar automatiskt skickade till Adobe Audience Manager via vidarebefordran på serversidan. '
-feature: integrering med Experience Cloud
+feature: Integrering med Experience Cloud
 topics: null
-audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25172.jpg
 kt: 1993
+topic: Integreringar
+role: '"Affärsledare, utvecklare, datatekniker, arkitekt, dataarkitekt, administratör, ledare"'
+level: Mellanliggande
 translation-type: tm+mt
-source-git-commit: 6e227494650e3905560973ba7c3ad336a34ac9d0
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '59'
-ht-degree: 0%
+source-wordcount: '70'
+ht-degree: 1%
 
 ---
 
