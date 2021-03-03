@@ -1,31 +1,32 @@
 ---
 title: Använda panelen Attribution IQ i Analysis Workspace
 description: I den här videon ser du Attribution IQ Panel, en bra plats att börja på när du bygger upp ditt Analysis Workspace-projekt för attribuering.
-feature: attribution
+feature: Attribuering
 topics: null
-audience: analyst, marketer
 activity: use
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 thumbnail: 23139.jpg
 kt: 1667
+role: Yrkesverksamma inom affärsverksamhet
+level: Mellanliggande
 translation-type: tm+mt
-source-git-commit: 29d63fccf471f94569c7632be3361bca15b1ff3f
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '114'
-ht-degree: 1%
+source-wordcount: '118'
+ht-degree: 2%
 
 ---
 
 
 # Använda [!DNL Attribution IQ] [!UICONTROL Panel] i Analysis Workspace {#using-the-attribution-iq-panel-in-analysis-workspace}
 
-I den här videon ser du den [!DNL Attribution IQ] perfekta platsen [!UICONTROL Panel]när du bygger upp ditt Analysis Workspace-projekt.
+I den här videon ser du [!DNL Attribution IQ] [!UICONTROL Panel], en bra startpunkt när du bygger upp ditt Analysis Workspace-projekt för attribuering.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23139/?quality=12)
 
-Med [!DNL Attribution IQ] Analysis Workspace kan du snabbt jämföra alla tio regelbaserade [!UICONTROL Panel] [!DNL attribution models] på ett visuellt sätt. Se hur varje modell påverkar alla dimensioner med [!DNL Bar Charts], [!DNL Venn diagrams], [!DNL Histograms], [!DNL Scatter Plots]och till och med en [!DNL Flow Diagram]. Det [!DNL Attribution] [!UICONTROL Panel] är en bra startpunkt för mer sofistikerad attribueringsanalys.
+[!DNL Attribution IQ] [!UICONTROL Panel] i Analysis Workspace är ett sätt att snabbt jämföra alla tio regelbaserade [!DNL attribution models] på ett visuellt sätt. Se hur varje modell påverkar alla dimensioner med [!DNL Bar Charts], [!DNL Venn diagrams], [!DNL Histograms], [!DNL Scatter Plots] och till och med en [!DNL Flow Diagram]. [!DNL Attribution] [!UICONTROL Panel] är en bra utgångspunkt för en mer avancerad attribueringsanalys.
 
 ## Ytterligare material {#additional-resources}
 
