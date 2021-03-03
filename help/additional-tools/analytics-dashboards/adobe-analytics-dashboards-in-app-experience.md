@@ -1,18 +1,19 @@
 ---
 title: Adobe Analytics-instrumentpaneler i appupplevelsen
 description: I den här videon får du lära dig hur du använder Adobe Analytics-instrumentpaneler (mobilapp) för att komma åt och visa styrkort som skapats av eller delats med dig.
-feature: analytics dashboards
+feature: Kontrollpaneler för analyser
 topics: null
-audience: marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 5287
+role: Yrkesverksamma inom affärsverksamhet
+level: Nybörjare
 translation-type: tm+mt
-source-git-commit: 5dc5be58800a8ebdc9867854580450f1378fd588
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '71'
-ht-degree: 25%
+source-wordcount: '76'
+ht-degree: 23%
 
 ---
 
