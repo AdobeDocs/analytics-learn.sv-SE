@@ -1,26 +1,27 @@
 ---
 title: Översikt över kohorttabeller i Analysis Workspace
 description: Inställningen Rolling Calculation i Cohort Tables kan användas för att analysera kohortperiod över en period och för att förstå hur samma användare behålls (eller faller bort) över tiden.
-feature: visualizations
+feature: Visualiseringar
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25965.jpg
 kt: 2477
+role: Yrkesverksamma inom affärsverksamhet
+level: Mellanliggande
 translation-type: tm+mt
-source-git-commit: 29d63fccf471f94569c7632be3361bca15b1ff3f
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '79'
+ht-degree: 1%
 
 ---
 
 
 # Översikt över [!UICONTROL Cohort Tables] i Analysis Workspace {#overview-of-cohort-tables-in-analysis-workspace}
 
-Inställningen [!UICONTROL Rolling Calculation] inom [!UICONTROL Cohort Tables] kan användas för att analysera [!UICONTROL cohorts] period över period och förstå hur samma användare behålls (eller [!UICONTROL churn]) över tid.
+Inställningen [!UICONTROL Rolling Calculation] inom [!UICONTROL Cohort Tables] kan användas för att analysera perioden [!UICONTROL cohorts] för att förstå hur samma användare behålls (eller [!UICONTROL churn]) över tiden.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25965/?quality=12)
 
