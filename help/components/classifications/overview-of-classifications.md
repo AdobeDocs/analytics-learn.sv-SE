@@ -1,17 +1,18 @@
 ---
 title: Översikt över klassificeringar i Adobe Analytics
 description: Klassificeringar är ett kraftfullt sätt att lägga till metadata - beskrivande attribut - till produkter, kampanjer, sidor, kunder och mycket annat. Dessa attribut kan hjälpa er att förstå era marknadsförings- och upplevelsesatsningar bättre genom att ni kan gruppera liknande element och dela upp data för att göra djupdykning i vad som är och inte fungerar för er.
-feature: classifications
+feature: Klassificeringar
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2350
+role: Yrkesverksamma inom affärsverksamhet
+level: Nybörjare
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '135'
 ht-degree: 0%
 
 ---
