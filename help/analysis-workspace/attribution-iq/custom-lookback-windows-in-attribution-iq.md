@@ -1,19 +1,20 @@
 ---
 title: Anpassade summeringsfönster i Attribution IQ
 description: Med anpassade summeringsfönster kan du expandera attribueringsfönstret utanför rapporteringsintervallet (upp till högst 90 dagar), och det gäller för varje konvertering i rapporteringsintervallet. Detta alternativ ökar vanligen attribueringens noggrannhet för händelser som inträffar tidigt under rapporteringsperioden genom att redovisa interaktioner som inträffat under föregående månad(er).
-feature: attribution
+feature: Attribuering
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 36204.jpg
 kt: 5553
+role: Yrkesverksamma inom affärsverksamhet
+level: Mellanliggande
 translation-type: tm+mt
-source-git-commit: 026602e66ec7a08e81ef67b9bf00bd517afe7d31
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '147'
+ht-degree: 48%
 
 ---
 
