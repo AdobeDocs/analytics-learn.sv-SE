@@ -1,25 +1,26 @@
 ---
 title: Använda mallen Ljudförbrukning i Analysis Workspace
 description: I den här videon visas mallen Ljudförbrukning i Analysis Workspace, som är tillgänglig direkt för ljudanalys.
-feature: panels
+feature: Paneler
 topics: null
-audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1950
+role: '"Affärsledare, utvecklare, datatekniker, arkitekt, dataarkitekt, administratör, ledare"'
+level: Mellanliggande
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '100'
+source-wordcount: '112'
 ht-degree: 0%
 
 ---
 
 
-# Använda [!UICONTROL Audio Consumption] mallen i Analysis Workspace {#using-the-audio-consumption-template-in-analysis-workspace}
+# Använda mallen [!UICONTROL Audio Consumption] i Analysis Workspace {#using-the-audio-consumption-template-in-analysis-workspace}
 
-I den här videon visas en översikt över [!UICONTROL Audio Consumption] mallen i Analysis Workspace, som är tillgänglig för [!DNL Audio Analytics]leverans.
+I den här videon visas [!UICONTROL Audio Consumption]-mallen i Analysis Workspace, som är tillgänglig direkt för [!DNL Audio Analytics].
 
 >[!VIDEO](https://video.tv.adobe.com/v/23901/?quality=12)
 
