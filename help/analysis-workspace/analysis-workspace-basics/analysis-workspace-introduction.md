@@ -2,18 +2,19 @@
 title: 'Snabb introduktion till Analysis Workspace '
 seo-title: 'Snabb introduktion till Analysis Workspace '
 description: Snabb översikt över Analysis Workspace för att lära dig hur programmet stöder datanoper och experter.
-feature: workspace basics
+feature: Grundläggande om arbetsytan
 topics: null
-audience: analyst, marketer
 activity: use
 doc-type: feature video
 author: Doug Moore
 team: TM
 kt: 3268
+role: Yrkesverksamma inom affärsverksamhet
+level: Nybörjare
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '48'
 ht-degree: 0%
 
 ---
