@@ -1,18 +1,19 @@
 ---
 title: Introduktion till konverteringshändelser
 description: I den här videon får du en introduktion till konverteringshändelser eller variabeln som hjälper dig att spåra konverteringar på din webbplats (t.ex. order, registreringar, ifyllningar av formulär)
-feature: metrics
+feature: Mätvärden
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 3578
+role: Yrkesverksamma inom affärsverksamhet
+level: Nybörjare
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '66'
+ht-degree: 1%
 
 ---
 
