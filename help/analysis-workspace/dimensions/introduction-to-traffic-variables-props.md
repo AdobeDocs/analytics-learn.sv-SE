@@ -1,24 +1,25 @@
 ---
 title: Introduktion till trafikvariabler (Props)
 description: I den här videon får du en introduktion till trafikvariabler som sidnamn, webbplatsavsnitt och"utkast".
-feature: dimensions
+feature: Mått
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 3576
+role: Yrkesverksamma inom affärsverksamhet
+level: Nybörjare
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '40'
+ht-degree: 2%
 
 ---
 
 
 # Introduktion till trafikvariabler ([!UICONTROL Props])
 
-I den här videon får du en introduktion till trafikvariabler, inklusive [!UICONTROL Page Name], [!UICONTROL Site Section]och &quot;[!UICONTROL props]&quot;.
+I den här videon får du en introduktion till trafikvariabler, inklusive [!UICONTROL Page Name], [!UICONTROL Site Section] och [!UICONTROL props].
 
 >[!VIDEO](https://video.tv.adobe.com/v/28767/?quality=12)
