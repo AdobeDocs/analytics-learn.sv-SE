@@ -1,25 +1,26 @@
 ---
 title: Segmentbehållare i Adobe Analytics
 description: I den här videon visas hur du arbetar med de tre olika segmentbehållartyperna i Segment Builder i Adobe Analytics.
-feature: segmentation
+feature: Segmentering
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2301
+role: Yrkesverksamma inom affärsverksamhet
+level: Nybörjare
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '66'
-ht-degree: 0%
+source-wordcount: '70'
+ht-degree: 1%
 
 ---
 
 
-# [!UICONTROL Segment] [!UICONTROL containers] i Adobe Analytics {#segment-containers-in-adobe-analytics}
+# [!UICONTROL Segment] [!UICONTROL containers] i Adobe Analytics  {#segment-containers-in-adobe-analytics}
 
-I den här videon visas hur du arbetar med de tre olika [!UICONTROL segment] typerna i [!UICONTROL container] [!UICONTROL Segment Builder] Adobe Analytics.
+I den här videon visas hur du arbetar med de tre olika [!UICONTROL segment] [!UICONTROL container]-typerna i [!UICONTROL Segment Builder] för Adobe Analytics.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25401/?quality=12)
 
