@@ -1,17 +1,18 @@
 ---
 title: Anpassad länkspårning utan tagghanterare
 description: För många åtgärder på sidan ska spårning inte behandlas som en sidvy. I den här videon får du lära dig att koda en länkspårningsfyr till Analytics, om du inte använder en tagghanterare (som Experience Platform Launch). Se koden och lär dig ett viktigt tips.
-feature: appmeasurement implementation
+feature: Implementering av mätning
 topics: null
-audience: implementer
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1845
+role: '"Utvecklare, datatekniker"'
+level: Mellanliggande
 translation-type: tm+mt
-source-git-commit: 8276828e9e759a1964ca5ea89bb1395e5e78b500
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '297'
 ht-degree: 0%
 
 ---
@@ -30,7 +31,7 @@ Det finns två funktioner som skickar data till Adobe Analytics:
 
 >[!NOTE]
 >
->I den här videon visar vi hur du kodar en anpassad länkträff när du INTE använder en tagghanterare som Adobe [!DNL Experience Platform Launch]. Vi rekommenderar att du använder [!DNL Experience Platform Launch]våra rekommendationer för implementering. Men om du behöver koda i en `s.tl()`kod gör du så här.
+>I den här videon visar vi hur du kodar en anpassad länkträff när du INTE använder en tagghanterare som Adobe [!DNL Experience Platform Launch]. Vi rekommenderar att du använder [!DNL Experience Platform Launch], vår metodrekommendation för implementering. Om du behöver koda i en `s.tl()` gör du så här.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25832/?quality=12)
 
