@@ -1,18 +1,19 @@
 ---
 title: Använda filter (taggar) i det vänstra fältet
 description: Filter (eller taggar) är ett snabbt och enkelt sätt att filtrera den vänstra listen i Analysis Workspace för att hitta de komponenter du behöver. Utnyttja färdiga taggar från Adobe eller lägg till egna taggar för att ordna relaterade komponenter.
-feature: workspace basics
+feature: Grundläggande om arbetsytan
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 32959.jpg
 kt: 4845
+role: Yrkesverksamma inom affärsverksamhet
+level: Nybörjare
 translation-type: tm+mt
-source-git-commit: 35558831862c0756e7aaceb3640aef155b3af703
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '110'
 ht-degree: 8%
 
 ---
@@ -20,7 +21,7 @@ ht-degree: 8%
 
 # Använda filter (taggar) i det vänstra fältet
 
-Filter (eller taggar) är ett snabbt och enkelt sätt att filtrera den vänstra listen i Analysis Workspace för att hitta det [!UICONTROL components] du behöver. Använd färdiga taggar från Adobe eller lägg till egna taggar för att ordna relaterade [!UICONTROL components]taggar.
+Filter (eller taggar) är ett snabbt och enkelt sätt att filtrera den vänstra listen i Analysis Workspace för att hitta den [!UICONTROL components] du behöver. Utnyttja färdiga taggar från Adobe eller lägg till egna taggar för att ordna relaterade [!UICONTROL components].
 
 >[!VIDEO](https://video.tv.adobe.com/v/32959/?quality=12)
 
