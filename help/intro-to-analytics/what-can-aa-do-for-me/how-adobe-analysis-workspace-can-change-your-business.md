@@ -2,17 +2,18 @@
 title: Hur Adobe Analysis Workspace kan förändra ert företag
 landing-page-description: Med Analysis Workspace kan du göra ad hoc-analyser, flexibel analys, kohortanalys och utfallsanalys.
 description: Analysis Workspace är ett nytt och lättanvänt gränssnitt i Adobe Analytics. I Analysis Workspace kan du göra ad hoc-analyser, flexibel analys, kohortanalys och utfallsanalys. Du kan också dela analysarbetsmiljön med alla på företaget, och med dra-och-släpp-funktionen kan alla enkelt analysera data och få insikter snabbt.
-feature: grundläggande om arbetsytan
+feature: Grundläggande om arbetsytan
 topics: null
-audience: all
 activity: understand
 doc-type: value video
 team: Technical Marketing
 kt: 4382
+role: '"Affärsledare, utvecklare, datatekniker, arkitekt, dataarkitekt, administratör, ledare"'
+level: Nybörjare
 translation-type: tm+mt
-source-git-commit: a02deecd0f95160c634703130f92a79870c41a9d
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '162'
 ht-degree: 0%
 
 ---
