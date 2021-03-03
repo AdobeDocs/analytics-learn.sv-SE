@@ -1,19 +1,20 @@
 ---
 title: 'Använda segment som Dimensioner i Analysis Workspace '
 description: I den här videon visas hur du kan jämföra och visualisera segment genom att använda dem som en dimension i Analysis Workspace.
-feature: segmentation
+feature: Segmentering
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 2009
+role: Yrkesverksamma inom affärsverksamhet
+level: Nybörjare
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '52'
-ht-degree: 0%
+source-wordcount: '56'
+ht-degree: 1%
 
 ---
 
