@@ -1,19 +1,20 @@
 ---
 title: Hämta 50 000 objekt som CSV
 description: Med alternativet Hämta objekt som CSV kan du hämta upp till 50 000 objekt för en dimension i en frihandstabell med segment och filter. Gränssnittet kommer att fortsätta att visa upp till 400 objekt före sidnumrering, men med det här alternativet kan du komma åt fler rader med data utanför Analysis Workspace.
-feature: curate and share
+feature: Kuratera och dela
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 40385.jpg
 kt: 6278
+role: Yrkesverksamma inom affärsverksamhet
+level: Nybörjare
 translation-type: tm+mt
-source-git-commit: 5d8c660a4974936f9f3ec1132430d42b1d261965
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '129'
+ht-degree: 7%
 
 ---
 
