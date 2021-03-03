@@ -1,25 +1,26 @@
 ---
 title: Översikt över segmentbyggaren
 description: En snabb översikt och orientering för segmentbyggaren i Adobe Analytics.
-feature: segmentation
+feature: Segmentering
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2300
+role: Yrkesverksamma inom affärsverksamhet
+level: Nybörjare
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '54'
+ht-degree: 1%
 
 ---
 
 
-# [!UICONTROL Segment Builder] i Adobe Analytics {#segment-builder-in-adobe-analytics}
+# [!UICONTROL Segment Builder] i Adobe Analytics  {#segment-builder-in-adobe-analytics}
 
-En snabb översikt och orientering för [!UICONTROL segment builder] Adobe Analytics.
+En snabb översikt och orientering för [!UICONTROL segment builder] i Adobe Analytics.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25404/?quality=12)
 
