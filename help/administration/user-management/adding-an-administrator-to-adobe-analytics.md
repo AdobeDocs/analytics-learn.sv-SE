@@ -1,19 +1,21 @@
 ---
 title: Lägga till en administratör i Adobe Analytics
 description: Lär dig hur du lägger till en användare som administratör i Adobe Admin Console.
-feature: user management
+feature: Användarhantering
 topics: null
-audience: administrator
 activity: setup
 doc-type: feature video
 team: Evangelism
 thumbnail: 37648.jpg
 kt: 5520
+topic: Administrering
+role: Administratör
+level: Nybörjare
 translation-type: tm+mt
-source-git-commit: 89bd86bdf081ce664d46c6faacaf470f9f5b5ca6
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '57'
+ht-degree: 31%
 
 ---
 
