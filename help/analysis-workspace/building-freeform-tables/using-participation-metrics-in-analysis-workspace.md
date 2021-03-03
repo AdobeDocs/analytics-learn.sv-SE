@@ -1,19 +1,20 @@
 ---
 title: Använda deltagandemått i Analysis Workspace
 description: Använd det här enkla tricket för att få mätvärden för deltagande i Analysis Workspace när som helst.
-feature: metrics
+feature: Mätvärden
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 41266.jpg
 kt: 6355
+role: Yrkesverksamma inom affärsverksamhet
+level: Nybörjare
 translation-type: tm+mt
-source-git-commit: fb755fa698e2803249a354a1db533f0d49111db3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '55'
-ht-degree: 0%
+source-wordcount: '59'
+ht-degree: 1%
 
 ---
 
