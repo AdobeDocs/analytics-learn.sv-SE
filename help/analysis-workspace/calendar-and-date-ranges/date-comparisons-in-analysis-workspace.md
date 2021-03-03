@@ -1,18 +1,19 @@
 ---
 title: Datumjämförelser i Analysis Workspace
 description: I den här videon ska vi visa hur du kan utnyttja två datumjämförelsefunktioner i frihandstabeller -"lägg till tidsperiodkolumn" och"jämföra tidsperioder".
-feature: calendar
+feature: Kalender
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 23985.jpg
 kt: 2011
+role: Yrkesverksamma inom affärsverksamhet
+level: Nybörjare
 translation-type: tm+mt
-source-git-commit: 35558831862c0756e7aaceb3640aef155b3af703
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '101'
+source-wordcount: '105'
 ht-degree: 0%
 
 ---
@@ -20,7 +21,7 @@ ht-degree: 0%
 
 # Datumjämförelser i Analysis Workspace {#date-comparisons-in-analysis-workspace}
 
-I den här videon visar vi hur du kan utnyttja två datumjämförelsefunktioner i [!UICONTROL freeform tables] -&quot;[!UICONTROL add time period column]&quot; och&quot;[!UICONTROL compare time periods].&quot;
+I den här videon visar vi hur du kan utnyttja två datumjämförelsefunktioner i [!UICONTROL freeform tables] - [!UICONTROL add time period column] och [!UICONTROL compare time periods].
 
 >[!VIDEO](https://video.tv.adobe.com/v/23985/?quality=12)
 
