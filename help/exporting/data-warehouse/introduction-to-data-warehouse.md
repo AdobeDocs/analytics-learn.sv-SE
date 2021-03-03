@@ -1,24 +1,25 @@
 ---
 title: Introduktion till Data warehouse
 description: Med Data warehouse-begärandeverktyget i Adobe Analytics får du tillgång till frågor om rådata. data warehouse kan bearbeta ett obegränsat antal rader i en och samma begäran för enskilda schemalagda och nedladdade rapporter. Den här videon är en introduktion till verktyget, inklusive en genomgång av hur du skapar en Data warehouse-rapport.
-feature: data warehouse
+feature: Data Warehouse
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2916
+role: Yrkesverksamma inom affärsverksamhet
+level: Nybörjare
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '109'
+ht-degree: 1%
 
 ---
 
 
-# Introduction to [!UICONTROL Data Warehouse] {#introduction-to-data-warehouse}
+# Introduktion till [!UICONTROL Data Warehouse] {#introduction-to-data-warehouse}
 
-Med [!UICONTROL Data Warehouse] förfrågningsverktyget i Adobe Analytics kan du ställa frågor mot rådata. [!UICONTROL Data Warehouse] kan bearbeta ett obegränsat antal rader i en och samma begäran för enskilda schemalagda och nedladdade rapporter. Den här videon är en introduktion till verktyget, inklusive en genomgång av hur du skapar en [!UICONTROL Data Warehouse] rapport.
+Med [!UICONTROL Data Warehouse]-begärandeverktyget i Adobe Analytics kan du fråga rådata. [!UICONTROL Data Warehouse] kan bearbeta ett obegränsat antal rader i en och samma begäran för enskilda schemalagda och nedladdade rapporter. Den här videon är en introduktion till verktyget, inklusive en genomgång av hur du skapar en [!UICONTROL Data Warehouse]-rapport.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27306/?quality=12)
