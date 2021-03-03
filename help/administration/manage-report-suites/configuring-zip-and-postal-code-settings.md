@@ -3,27 +3,29 @@ title: Konfigurera inställningar för postnummer och postnummer i Adobe Analyti
 seo-title: Konfigurera inställningar för postnummer och postnummer i Adobe Analytics
 description: I den här videon får du lära dig hur du konfigurerar inställningar för postnummer så att du kan göra analyser baserat på den här regionens data.
 seo-description: I den här videon får du lära dig hur du konfigurerar inställningar för postnummer så att du kan göra analyser baserat på den här regionens data.
-feature: data configuration and collection
+feature: Datakonfiguration och insamling
 topics: null
-audience: administrator, architect
 activity: setup
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 2679
+topic: Administrering
+role: '"Administratör, arkitekt"'
+level: Nybörjare
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '117'
+source-wordcount: '125'
 ht-degree: 0%
 
 ---
 
 
-# Konfigurera [!UICONTROL Zip] och ange postnummer i Adobe Analytics {#configuring-zip-and-postal-code-settings-in-adobe-analytics}
+# Konfigurera [!UICONTROL Zip]- och postkodsinställningar i Adobe Analytics {#configuring-zip-and-postal-code-settings-in-adobe-analytics}
 
-I den här videon får du lära dig hur du konfigurerar [!UICONTROL zip] och postkodar så att du kan göra analyser baserat på den här regionens data.
+I den här videon får du lära dig hur du konfigurerar [!UICONTROL zip] och postnummerinställningar, så att du kan göra analyser baserat på den här regioninformationen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27051/?quality=12)
 
-Mer information om [!UICONTROL zip code] inställningar finns i [dokumentationen](https://marketing.adobe.com/resources/help/en_US/reference/reports_zip.html).
+Mer information om [!UICONTROL zip code]-inställningar finns i [dokumentationen](https://marketing.adobe.com/resources/help/en_US/reference/reports_zip.html).
