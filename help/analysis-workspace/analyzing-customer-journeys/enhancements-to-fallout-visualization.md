@@ -1,26 +1,27 @@
 ---
 title: Förbättringar av utfallsvisualisering i Analysis Workspace
 description: I den här videon visas uppdateringar av Fallout-visualiseringen som kunderna har efterfrågat i hög grad, inklusive direkta eller slutliga steg, namnbyte av kontaktpunkter, jämförelse av obegränsade segment och trendkonverteringsprocentsatser för kontaktytor över tiden.
-feature: visualizations
+feature: Visualiseringar
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 24047.jpg
 kt: 2276
+role: Yrkesverksamma inom affärsverksamhet
+level: Nybörjare
 translation-type: tm+mt
-source-git-commit: 29d63fccf471f94569c7632be3361bca15b1ff3f
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '98'
+ht-degree: 1%
 
 ---
 
 
-# Förbättringar [!DNL Fallout Visualization] i Analysis Workspace {#enhancements-to-fallout-visualization-in-analysis-workspace}
+# Förbättringar av [!DNL Fallout Visualization] i Analysis Workspace {#enhancements-to-fallout-visualization-in-analysis-workspace}
 
-I den här videon visas uppdateringar av de [!DNL Fallout Visualization] som kunderna har efterfrågat i hög grad, inklusive direkta eller efterföljande steg, namnbyte av kontaktytor, jämförelse av obegränsat antal segment och trendkonvertering av kontaktytor över tid.
+I den här videon visas uppdateringar av [!DNL Fallout Visualization] som kunderna har efterfrågat i hög grad, inklusive direkta eller slutliga steg, namnbyte av kontaktytor, jämförelse av obegränsade segment och trendkonverteringsprocentsatser för kontaktytor över tiden.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24047/?quality=12)
 
