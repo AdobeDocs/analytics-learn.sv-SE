@@ -1,26 +1,27 @@
 ---
 title: Kohortanalys med valfri Dimension
 description: Med alternativet Dimension för anpassad kohort kan du analysera kohorter med andra dimensioner än tid. Jämför kohorter efter marknadsföringskanal, kampanjregion, produktsida osv. för att bättre förstå hur kvarhållande (eller bortfall) ändras efter dimensionsobjekt.
-feature: visualizations
+feature: Visualiseringar
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25967.jpg
 kt: 2478
+role: Yrkesverksamma inom affärsverksamhet
+level: Mellanliggande
 translation-type: tm+mt
-source-git-commit: 29d63fccf471f94569c7632be3361bca15b1ff3f
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 0%
+source-wordcount: '93'
+ht-degree: 1%
 
 ---
 
 
-# [!UICONTROL Cohort] Analys med [!UICONTROL Dimension] {#cohort-analysis-using-any-dimension}
+# [!UICONTROL Cohort] Analys med  [!UICONTROL Dimension] {#cohort-analysis-using-any-dimension}
 
-Med [!UICONTROL Cohort] alternativet Egen kan du analysera [!UICONTROL Dimension] med [!UICONTROL cohorts] [!UICONTROL dimensions] andra tidpunkter. Jämför [!UICONTROL cohorts] med marknadsföringskanal, kampanjregion, produktsida osv. för att bättre förstå hur [!UICONTROL retention] (eller [!UICONTROL churn]) ändras efter [!UICONTROL dimension] objekt.
+Med alternativet Anpassad [!UICONTROL Cohort] [!UICONTROL Dimension] kan du analysera [!UICONTROL cohorts] med [!UICONTROL dimensions] annat än tid. Jämför [!UICONTROL cohorts] med marknadsföringskanal, kampanjregion, produktsida osv. om du vill veta mer om hur [!UICONTROL retention] (eller [!UICONTROL churn]) ändras av [!UICONTROL dimension]-objektet.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25967/?quality=12)
 
