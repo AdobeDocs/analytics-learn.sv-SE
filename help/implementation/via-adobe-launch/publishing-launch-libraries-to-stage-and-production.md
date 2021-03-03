@@ -1,17 +1,18 @@
 ---
 title: Publishing Launch Libraries to Stage and Production
 description: När du har låst implementeringen på utvecklingsservern vill du flytta den till en staging-miljö, testa den där och sedan flytta den till produktionsmiljön. Den här videon visar processen steg för steg.
-feature: launch implementation
+feature: Starta implementering
 topics: null
-audience: implementer
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 3595
+role: '"Utvecklare, datatekniker"'
+level: Nybörjare
 translation-type: tm+mt
-source-git-commit: f4d4b506b6771d75402de54a471e437d81d9a1ea
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '100'
 ht-degree: 0%
 
 ---
