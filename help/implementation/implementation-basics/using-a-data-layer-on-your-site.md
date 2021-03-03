@@ -1,17 +1,18 @@
 ---
 title: Använda ett datalager på platsen
 description: Det anses vara en god vana att använda ett datalager på webbplatsen när du arbetar med Experience Cloud, även när du arbetar med Adobe Analytics. I den här videon presenteras datalagret, och exempel visas.
-feature: implementation basics
+feature: Implementeringsgrunder
 topics: null
-audience: implementer
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 kt: 3585
+role: '"Utvecklare, datatekniker"'
+level: Nybörjare
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '99'
 ht-degree: 0%
 
 ---
