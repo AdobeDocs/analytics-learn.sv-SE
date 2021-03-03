@@ -1,26 +1,27 @@
 ---
 title: Bortfallsvisualisering i Analysis Workspace
 description: I den här videon får du hjälp med den utfallsvisualisering som finns i Analysis Workspace i Adobe Analytics. Använd Utfall för att skapa funktioner eller visa användarflödet i viktiga arbetsflöden för appar/webbplatser.
-feature: visualizations
+feature: Visualiseringar
 topics: null
-audience: analyst, marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 24042.jpg
 kt: 2275
+role: Yrkesverksamma inom affärsverksamhet
+level: Nybörjare
 translation-type: tm+mt
-source-git-commit: 29d63fccf471f94569c7632be3361bca15b1ff3f
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '86'
+ht-degree: 1%
 
 ---
 
 
-# [!DNL Fallout Visualization] i Analysis Workspace {#fallout-visualization-in-analysis-workspace}
+# [!DNL Fallout Visualization] i Analysis Workspace  {#fallout-visualization-in-analysis-workspace}
 
-I den här videon går du igenom vad som [!DNL Fallout visualization] finns i Analysis Workspace i Adobe Analytics. Används [!DNL Fallout] för att skapa resurser eller visa användarflödet i viktiga arbetsflöden för appar/webbplatser.
+I den här videon får du information om [!DNL Fallout visualization] som finns i Analysis Workspace i Adobe Analytics. Använd [!DNL Fallout] för att skapa funktioner eller visa användarflödet i viktiga arbetsflöden för appar/webbplatser.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24042/?quality=12)
 
