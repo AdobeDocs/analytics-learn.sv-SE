@@ -1,23 +1,24 @@
 ---
 title: Översikt över Activity Map i Adobe Analytics
 description: Activity Map är ett verktyg som Adobe Analytics-användare kan använda för att visualisera användaraktivitetsdata direkt på din webbplats. Se antalet klick (eller andra mätvärden) direkt på länkarna på sidan.
-feature: activity map
+feature: Activity Map
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2349
+role: Yrkesverksamma inom affärsverksamhet
+level: Nybörjare
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '102'
+ht-degree: 1%
 
 ---
 
 
-# [!UICONTROL Activity Map] i Adobe Analytics {#activity-map-in-adobe-analytics}
+# [!UICONTROL Activity Map] i Adobe Analytics  {#activity-map-in-adobe-analytics}
 
 [!UICONTROL Activity Map] är ett verktyg som Adobe Analytics-användare kan använda för att visualisera användaraktivitetsdata direkt på din webbplats. Se antalet klick (eller andra [!UICONTROL metrics]) direkt på länkarna på sidan.
 
