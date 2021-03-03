@@ -1,17 +1,18 @@
 ---
 title: Använda högerklicksmenyn i Analysis Workspace
 description: Lär dig hur du använder högerklicksmenyn i Analysis Workspace för att göra snabbare uppdelningar och mycket mer.
-feature: freeform tables
+feature: Frihandstabeller
 topics: null
-audience: analyst, marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2029
+role: Yrkesverksamma inom affärsverksamhet
+level: Nybörjare
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '67'
 ht-degree: 0%
 
 ---
@@ -23,4 +24,4 @@ Lär dig hur du använder högerklicksmenyn i Analysis Workspace för att göra 
 
 >[!VIDEO](https://video.tv.adobe.com/v/23981/?quality=12)
 
-Obs! Menyn för högerklickning har utvecklats ännu mer för att inkludera [!DNL Date comparisons]åtgärder, skapa [!UICONTROL alerts], kopiera, sammanhangsberoende [!UICONTROL Fallout] åtgärder osv.
+Obs! Snabbmenyn har utvecklats ännu mer för att inkludera [!DNL Date comparisons], skapa [!UICONTROL alerts], kopiera, sammanhangsberoende [!UICONTROL Fallout]-åtgärder osv.
