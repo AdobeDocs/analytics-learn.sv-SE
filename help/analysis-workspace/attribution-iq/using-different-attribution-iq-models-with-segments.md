@@ -1,25 +1,26 @@
 ---
 title: Använda olika Attribution IQ med segment i Analysis Workspace
 description: I den här videon får du lära dig hur du använder Attribution IQ-modeller tillsammans med Adobe Analytics-segment på din webbplats.
-feature: attribution
+feature: Attribuering
 topics: null
-audience: analyst, marketer
 activity: use
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 thumbnail: 23743.jpg
 kt: 1707
+role: Yrkesverksamma inom affärsverksamhet
+level: Mellanliggande
 translation-type: tm+mt
-source-git-commit: 29d63fccf471f94569c7632be3361bca15b1ff3f
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '110'
 ht-degree: 0%
 
 ---
 
 
-# Använda olika [!DNL Attribution IQ] segment [!UICONTROL models] i Analysis Workspace {#using-different-attribution-iq-models-with-segments-in-analysis-workspace}
+# Använd en annan [!DNL Attribution IQ] [!UICONTROL models] med segment i Analysis Workspace {#using-different-attribution-iq-models-with-segments-in-analysis-workspace}
 
 I den här videon får du lära dig att använda [!DNL Attribution IQ] [!UICONTROL models] tillsammans med Adobe Analytics-segment på din webbplats.
 
