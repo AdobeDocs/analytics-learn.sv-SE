@@ -1,26 +1,27 @@
 ---
 title: Distinkt funktion för ungefärligt antal i beräknade värden
 description: En funktion för ungefärligt antal distinkt har lagts till i verktyget för beräkning av metrisk generering. Det är en funktion som väntar länge och som returnerar det ungefärliga distinkta antalet dimensionsobjekt för en vald dimension.
-feature: calculated metrics
+feature: Beräknade mätvärden
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1910
+role: Yrkesverksamma inom affärsverksamhet
+level: Nybörjare
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '88'
-ht-degree: 0%
+source-wordcount: '93'
+ht-degree: 2%
 
 ---
 
 
-# [!UICONTROL Approximate Count Distinct] [!UICONTROL Function] in [!UICONTROL Calculated Metrics]{#approximate-count-distinct-function-in-calculated-metrics}
+# [!UICONTROL Approximate Count Distinct] [!UICONTROL Function] in  [!UICONTROL Calculated Metrics]{#approximate-count-distinct-function-in-calculated-metrics}
 
-Ett [!UICONTROL Approximate Count Distinct] tillägg [!UICONTROL function] har lagts till i [!UICONTROL Calculated Metric Builder]. Det är en lång väntan [!UICONTROL function] som returnerar antalet [!UICONTROL approximate distinct count] objekt för [!UICONTROL dimension] ett markerat objekt [!UICONTROL dimension].
+En [!UICONTROL Approximate Count Distinct] [!UICONTROL function] har lagts till i [!UICONTROL Calculated Metric Builder]. Det är en väntande [!UICONTROL function] som returnerar [!UICONTROL approximate distinct count] av [!UICONTROL dimension] objekt för ett valt [!UICONTROL dimension].
 
 >[!VIDEO](https://video.tv.adobe.com/v/23722/?quality=12)
 
-Du kan använda funktionen [!UICONTROL metric] i alla rapporter för att förstå hur många som räknas [!UICONTROL dimension] mot andra värden. Till exempel antalet unika kunder per marknadsföringskanal.
+Du kan använda [!UICONTROL metric] i vilken rapport som helst för att förstå antalet av en [!UICONTROL dimension] jämfört med andra värden. Till exempel antalet unika kunder per marknadsföringskanal.
