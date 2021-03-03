@@ -1,17 +1,18 @@
 ---
 title: Analysvideor och Tutorials
 description: En samling videor och självstudiekurser för Adobe Analytics.
-feature: overview
+feature: Grundläggande om analyser
 topics: null
-audience: all
 activity: use
 doc-type: overview
 team: Technical Marketing
+role: '"Affärsledare, utvecklare, datatekniker, arkitekt, dataarkitekt, administratör, ledare"'
+level: Nybörjare
 translation-type: tm+mt
-source-git-commit: 9fbdd96c3a2bb2a6a26e10a7f2dfeddfa33ec572
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '305'
+ht-degree: 31%
 
 ---
 
@@ -20,16 +21,16 @@ ht-degree: 0%
 
 Välkommen till webbplatsen [!DNL Analytics] Tutorials.  Genom att använda dessa självstudiekurser tillsammans med [dokumentationen](https://docs.adobe.com/content/help/sv-SE/analytics/landing/home.html) får du en bättre förståelse för hur du använder Adobe Analytics för att få kundinsikter snabbare än någonsin.  För att komma igång,
 * Se avsnittet **&quot;Nyheter&quot;** nedan för de senaste funktionerna
-* **Personalval** visar en del av vårt favoritinnehåll
-* Utforska innehållet efter ämne och underämne i den **vänstra navigeringen**
-* Använd **sökfältet** längst upp på sidan om du vet vad du söker efter
+* **Personalväljaren** lyfter fram en del av vårt favoritinnehåll
+* Utforska innehållet efter ämne och underämne i **vänster navigering**
+* Använd fältet **sök** längst upp på sidan om du vet vad du söker efter
 
 ## Nyheter
 
 * **[Högerklicka för arbetsyteeffektivitet (video)](analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.md)**
 
    <br>
-   *Läs om alla våra högerklick på Analysis Workspace och hur du använder dem. Från[!UICONTROL Freeform Tables]och[!UICONTROL Fallout Visualizations]med högerklick blir du effektivare och mer skicklig på[!DNL Workspace].*
+   *Läs om alla våra högerklick på Analysis Workspace och hur du använder dem. Från [!UICONTROL Freeform Tables] till [!UICONTROL Fallout Visualizations] gör högerklickning att du blir effektivare och mer effektiv i [!DNL Workspace].*
 
 * **[Panelen Snabbinsikter i Analysis Workspace (video)](analysis-workspace/using-panels/quick-insights-panel-in-analysis-workspace.md)**
 
@@ -73,7 +74,7 @@ Välkommen till webbplatsen [!DNL Analytics] Tutorials.  Genom att använda dess
   </td>
   <td>
     <a href="analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md">
-      <img alt="miniatyrbild för videon &quot;Analysis Workspace Overview&quot;" src="assets/thumb_analysis-workspace-overview.png" />
+      <img alt="miniatyrbild för videon"Analysis Workspace Overview"" src="assets/thumb_analysis-workspace-overview.png" />
     </a>
     <div>
       <a href="analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md">
