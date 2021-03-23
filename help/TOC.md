@@ -5,9 +5,9 @@ breadcrumb-title: Analytics Tutorials
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
 translation-type: tm+mt
-source-git-commit: df326b0711ad05c3a0ae73480d66d1980901216f
+source-git-commit: c1683979e1b7146c3d5c9d94eb8d59bf1bc9cef4
 workflow-type: tm+mt
-source-wordcount: '1871'
+source-wordcount: '1877'
 ht-degree: 9%
 
 ---
@@ -211,6 +211,7 @@ ht-degree: 9%
       + [Lägga till en administratör i Adobe Analytics](administration/user-management/adding-an-administrator-to-adobe-analytics.md)
       + [Begränsa åtkomst till rapportsviten i Admin Console](administration/user-management/limit-report-suite-access-in-the-admin-console.md)
    + Hantera rapportsviter {#manage-report-suites}
+      + [Konfigurera allmänna kontoinställningar](administration/manage-report-suites/configuring-general-account-settings.md)
       + [Konfigurera inställningar för postnummer och postnummer](administration/manage-report-suites/configuring-zip-and-postal-code-settings.md)
       + [Konfigurera variabler i Admin Console](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
    + Datastyrning och GDPR {#data-governance-and-gdpr}
