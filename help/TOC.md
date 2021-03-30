@@ -5,10 +5,10 @@ breadcrumb-title: Analytics Tutorials
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
 translation-type: tm+mt
-source-git-commit: 6194d9fc8227cde1d452c738518c523028c60f6e
+source-git-commit: 666d453c392119ed6bffdd8bb9c074a9570c1c99
 workflow-type: tm+mt
-source-wordcount: '1877'
-ht-degree: 9%
+source-wordcount: '1881'
+ht-degree: 8%
 
 ---
 
@@ -296,6 +296,7 @@ ht-degree: 9%
 + Ytterligare verktyg {#additional-tools}
    + Kontrollpaneler för analyser {#analytics-dashboards}
       + [Adobe Analytics-instrumentpaneler i Styrkort](additional-tools/analytics-dashboards/adobe-analytics-dashboards-scorecard-builder.md)
+      + [Använd anpassade datumintervall](additional-tools/analytics-dashboards/apply-custom-date-ranges-to-mobile-scorecard-projects.md)
       + [Kontrollpaneler för analys i appupplevelser](additional-tools/analytics-dashboards/adobe-analytics-dashboards-in-app-experience.md)
 + Exporterar {#exporting}
    + Från gränssnittet {#from-the-ui}
