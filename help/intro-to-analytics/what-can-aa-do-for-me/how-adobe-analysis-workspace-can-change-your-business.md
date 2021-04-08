@@ -8,16 +8,16 @@ activity: understand
 doc-type: value video
 team: Technical Marketing
 kt: 4382
-role: '"Affärsledare, utvecklare, datatekniker, arkitekt, dataarkitekt, administratör, ledare"'
-level: Nybörjare
+role: Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader
+level: Beginner
+exl-id: 6e23fcf4-b4e2-4370-8904-801a13acf651
 translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+source-git-commit: 5dead486510dd74b7f6a04848ecd7dc03267958f
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '151'
 ht-degree: 0%
 
 ---
-
 
 # Hur Adobe Analysis Workspace kan förändra ert företag
 
