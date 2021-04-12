@@ -5,7 +5,7 @@ breadcrumb-title: Analytics Tutorials
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
 translation-type: tm+mt
-source-git-commit: 3e5b0118822722b9c7c00132a995e387bfe7449f
+source-git-commit: 38e0c9fdf0d5033c176d822de8a218f82bcd333c
 workflow-type: tm+mt
 source-wordcount: '1885'
 ht-degree: 8%
@@ -95,7 +95,7 @@ ht-degree: 8%
       + [Skapa frihandstabeller i Analysis Workspace automatiskt](analysis-workspace/building-freeform-tables/auto-build-freeform-tables-in-analysis-workspace.md)
       + [Arbeta med Dimensioner i en frihandstabell](analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.md)
       + [Arbeta med mått i en frihandstabell](analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.md)
-      + [Använda deltagandemått i Analysis Workspace](analysis-workspace/building-freeform-tables/using-participation-metrics-in-analysis-workspace.md)
+      + [Använda deltagandemått i Analysis Workspace](analysis-workspace/metrics/using-participation-metrics-in-analysis-workspace.md)
       + [Rad- och kolumninställningar i frihandstabeller](analysis-workspace/building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
       + [Använda Frihand tabellverktyg](analysis-workspace/building-freeform-tables/using-the-freeform-table-builder-in-analysis-workspace.md)
       + [Ändra ordning på statiska rader i Analysis Workspace](analysis-workspace/building-freeform-tables/reordering-static-rows-in-analysis-workspace.md)
@@ -149,7 +149,7 @@ ht-degree: 8%
       + [Lägga till Dimensioner och statistik i ditt projekt i Analysis Workspace](analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.md)
       + [Introduktion till konverteringshändelser](analysis-workspace/metrics/introduction-to-conversion-events.md)
       + [Arbeta med mått i en frihandstabell](analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.md)
-      + [Använda deltagandemått i Analysis Workspace](analysis-workspace/building-freeform-tables/using-participation-metrics-in-analysis-workspace.md)
+      + [Använda deltagandemått i Analysis Workspace](analysis-workspace/metrics/using-participation-metrics-in-analysis-workspace.md)
    + Dimensioner {#dimensions}
       + [Lägga till Dimensioner och statistik i ditt projekt i Analysis Workspace](analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.md)
       + [Introduktion till trafikvariabler (Props)](analysis-workspace/dimensions/introduction-to-traffic-variables-props.md)
