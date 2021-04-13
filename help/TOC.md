@@ -5,9 +5,9 @@ breadcrumb-title: Analytics Tutorials
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
 translation-type: tm+mt
-source-git-commit: b33c6d1d22758f1fb88dec9beed83fde823aba79
+source-git-commit: df4876d8cca8023036e75edfb1150aee5243b591
 workflow-type: tm+mt
-source-wordcount: '1970'
+source-wordcount: '1980'
 ht-degree: 8%
 
 ---
@@ -37,6 +37,7 @@ ht-degree: 8%
       + [Förstå och skapa rapportsviter](intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.md)
       + [Adobe Labs (förhandsvisning av teknik)](intro-to-analytics/analytics-basics/adobe-labs-technology-previews.md)
    + Anpassa användargränssnittet {#customizing-the-ui}
+      + [Användarinställningar i Adobe Analytics](intro-to-analytics/customizing-the-ui/user-preferences.md)
       + [Lägga till beskrivningar av Dimension och mått](intro-to-analytics/customizing-the-ui/adding-dimension-and-metric-descriptions.md)
       + [Använda anpassade färgpaletter i Analysis Workspace](intro-to-analytics/customizing-the-ui/using-custom-color-palettes-in-analysis-workspace.md)
       + [Tillägg för färgpipett för definition av anpassade paletter](intro-to-analytics/customizing-the-ui/color-eyedropper-extension-for-defining-custom-palettes.md)
@@ -107,6 +108,7 @@ ht-degree: 8%
       + [Visualiseringstyper](analysis-workspace/visualizations/visualization-types.md)
       + [Markera data som ska visas](analysis-workspace/visualizations/selecting-data-to-visualize.md)
       + [Hämta data till visualiseringar](analysis-workspace/visualizations/getting-data-into-visualizations.md)
+      + [Använda komponentlistrutor i arbetsytan](analysis-workspace/visualizations/using-component-dropdowns-in-workspace.md)
       + [Linjevisualisering i Analysis Workspace](analysis-workspace/visualizations/line-visualization-in-analysis-workspace.md)
       + [Lägga till trendlinjer i linjevisualiseringar](analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.md)
       + [Visualisering av punktdiagram](analysis-workspace/visualizations/bullet-graph-visualization.md)
