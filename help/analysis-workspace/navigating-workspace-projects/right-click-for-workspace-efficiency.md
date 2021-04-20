@@ -1,15 +1,15 @@
 ---
 title: Högerklicka om du vill se arbetsytans effektivitet
 description: Läs om alla våra högerklick på Analysis Workspace och hur du använder dem. Från frihandstabeller till utfallsvisualiseringar - genom att högerklicka blir du effektivare och effektivare på arbetsytan.
-feature: Grundläggande om arbetsytan
+feature: Workspace Basics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 39377.jpg
 kt: 5939
-role: Yrkesverksamma inom affärsverksamhet
-level: Nybörjare
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

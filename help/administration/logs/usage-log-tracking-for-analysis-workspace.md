@@ -1,15 +1,15 @@
 ---
 title: Loggspårning för användning för Analysis Workspace
 description: Under Admin - Logs - Usage & Access (Administrera - Loggar - Användning och åtkomst) kan du bättre förstå hur dina användare använder Adobe Analytics. I den här videon fokuseras specifikt på mätning av projektanvändning i Workspace.
-feature: Datakonfiguration och insamling
+feature: Data Configuration and Collection
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4024
-topic: Administrering
-role: Administratör
-level: Nybörjare
+topic: Administration
+role: Administrator
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

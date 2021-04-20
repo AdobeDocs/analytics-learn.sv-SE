@@ -1,14 +1,14 @@
 ---
 title: Visa densitet i Analysis Workspace
 description: Med inställningen Visa densitet under Projekt > Information och inställningar kan du styra den lodräta utfyllnaden som används på den vänstra listen och tabellerna (Frihand och kohort). Du kan välja mellan Utökat (standard), Komplext eller Kompakt.
-feature: Projekt
+feature: Projects
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2492
-role: Yrkesverksamma inom affärsverksamhet
-level: Nybörjare
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

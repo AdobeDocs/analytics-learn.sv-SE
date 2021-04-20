@@ -1,14 +1,14 @@
 ---
 title: Bidragsanalys i Analysis Workspace
 description: Den här videon går igenom bidragsanalysen och dess förmåga att använda maskininlärning för att snabbt och enkelt förklara de faktorer som har bidragit till en trend i dina data.
-feature: Datavetenskap
+feature: Data Science
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2337
-role: '"Affärsledare, utvecklare, datatekniker, arkitekt, dataarkitekt, administratör, ledare"'
-level: Nybörjare
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

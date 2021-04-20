@@ -1,14 +1,14 @@
 ---
 title: Lägga till en startregel för inköpshändelsen
 description: I den här videon visas hur du använder produktsträngstillägget i Launch för att spåra inköp på din webbplats, vilket resulterar i skatte-, order- och enhetsstatistik i din analys.
-feature: Starta implementering
+feature: Launch Implementation
 topics: null
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 3593
-role: '"Utvecklare, datatekniker"'
-level: Nybörjare
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

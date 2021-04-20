@@ -1,14 +1,14 @@
 ---
 title: Exportera till CSV från Analysis Workspace
 description: Lär dig hur du exporterar frihandsprojekt till CSV för analys i Excel och andra BI-verktyg.
-feature: Kuratera och dela
+feature: Curate and Share
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2297
-role: Yrkesverksamma inom affärsverksamhet
-level: Nybörjare
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

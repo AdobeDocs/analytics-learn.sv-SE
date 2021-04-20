@@ -1,15 +1,15 @@
 ---
 title: Svarsanalys med kohorttabeller
 description: Inställningen Latency Table i Cohort Tables gör att du kan analysera beteendet för dina kohorter före och efter inkluderingshändelsen (inte bara efter likartade Cohort-bilder). Den här inställningen är praktisk när du vill analysera effekten av en ny produkt eller lansering av en kampanj, som exempel.
-feature: Visualiseringar
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25964.jpg
 kt: 2480
-role: Yrkesverksamma inom affärsverksamhet
-level: Mellanliggande
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -3,15 +3,15 @@ title: Konfigurera postnummeranalys på marknaden - ett användningsfall
 seo-title: Konfigurera postnummeranalys på marknaden - ett användningsfall
 description: I det här fallet kommer vi att konfigurera systemet så att postnummer infogas, klassificeras som ej marknadsförda eller marknadsförda och sedan använda dessa data i Analysis Workspace så att vi kan se hur effektiva våra geo-riktade marknadsföringskampanjer är.
 seo-description: I det här fallet kommer vi att konfigurera systemet så att postnummer infogas, klassificeras som ej marknadsförda eller marknadsförda och sedan använda dessa data i Analysis Workspace så att vi kan se hur effektiva våra geo-riktade marknadsföringskampanjer är.
-feature: Användningsexempel
+feature: Use Cases
 topics: null
 activity: use
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 2846
-role: Yrkesverksamma inom affärsverksamhet
-level: Nybörjare
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -1,15 +1,15 @@
 ---
 title: Visa projekt i Analysis Workspace
 description: Skrivskyddade Workspace-projekt kan delas med användare som Can view. När mottagare med View-behörighet öppnar det delade projektet får de en begränsad upplevelse där den vänstra listen saknas och interaktionen är begränsad.
-feature: Kuratera och dela
+feature: Curate and Share
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 36206.jpg
 kt: 5556
-role: Yrkesverksamma inom affärsverksamhet
-level: Nybörjare
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

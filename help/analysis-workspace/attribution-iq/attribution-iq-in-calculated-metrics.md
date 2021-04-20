@@ -1,15 +1,15 @@
 ---
 title: Attribution IQ i beräknade värden
 description: I den här videon visas hur du använder Attribution IQ i Beräknade mått.
-feature: Attribuering
+feature: Attribution
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 23140.jpg
 kt: 1668
-role: Yrkesverksamma inom affärsverksamhet
-level: Mellanliggande
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

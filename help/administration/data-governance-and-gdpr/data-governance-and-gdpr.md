@@ -1,14 +1,14 @@
 ---
 title: Datastyrning och GDPR i Adobe Analytics
 description: Den här videon visar dig vägen genom datastyrning och hur datamärkning passar in i GDPR-beredskapen. Det ger ett praktiskt exempel på datamärkning med datastyrning.
-feature: Sekretess
+feature: Privacy
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2361
-role: '"Administratör, arkitekt"'
-level: Mellanliggande
+role: "Administrator, Architect"
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

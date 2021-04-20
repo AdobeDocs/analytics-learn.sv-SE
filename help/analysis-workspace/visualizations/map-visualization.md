@@ -1,14 +1,14 @@
 ---
 title: Mappa visualisering i Analysis Workspace
 description: I den här videon visas hur du använder den nya kartvisualiseringen i Analysis Workspace. Med kartviz kan du visa antingen mobildata (lat/long) eller webbdata (IP-adress) mot en dynamisk karta, så att du kan få en uppfattning om hur kunderna använder sig av deras plats.
-feature: Visualiseringar
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1771
-role: Yrkesverksamma inom affärsverksamhet
-level: Nybörjare
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -1,14 +1,14 @@
 ---
 title: Ångra åtgärder i Analysis Workspace
 description: Nu kan du i Analysis Workspace i Adobe Analytics ångra åtgärder som att dra ett objekt till arbetsytan eller utföra ett sammanbrott. I den här videon visas hur du kan använda ångra för att göra analysen mer effektiv.
-feature: Grundläggande om arbetsytan
+feature: Workspace Basics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2032
-role: Yrkesverksamma inom affärsverksamhet
-level: Nybörjare
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

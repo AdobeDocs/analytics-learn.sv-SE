@@ -1,14 +1,14 @@
 ---
 title: Lägga till Dimensioner och statistik i ditt projekt i Analysis Workspace
 description: I den här videon får du lära dig om mått och mätvärden, skillnaden mellan dem och hur du lägger till dem i tabeller och visualiseringar i Analysis Workspace. Lär dig även hur du lägger till färdiga beräknade värden.
-feature: Mått
+feature: Dimensions
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4104
-role: Yrkesverksamma inom affärsverksamhet
-level: Nybörjare
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

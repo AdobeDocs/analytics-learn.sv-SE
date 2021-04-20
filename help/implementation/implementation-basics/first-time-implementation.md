@@ -2,7 +2,7 @@
 title: Första gången Adobe Analytics implementeras
 landing-page-description: Den här videon visar hur du kommer igång med Adobe Analytics-data på några minuter.
 description: Det är enklare än någonsin att implementera Adobe Analytics. Om du inte har använt vår lösning tidigare kommer den här videon att hjälpa dig att komma igång med data på bara några minuter.
-feature: Implementeringsgrunder
+feature: Implementation Basics
 topics: null
 activity: implement
 doc-type: feature video

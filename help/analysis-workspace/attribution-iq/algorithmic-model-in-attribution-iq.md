@@ -1,15 +1,15 @@
 ---
 title: Algoritmisk modell i Attribution IQ
 description: I modellen för algoritmisk attribuering i Analysis Workspace används statistiska tekniker för att dynamiskt fastställa den optimala kreditfördelningen för det valda måttet.
-feature: Attribuering
+feature: Attribution
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 36205.jpg
 kt: 5554
-role: Yrkesverksamma inom affärsverksamhet
-level: Mellanliggande
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

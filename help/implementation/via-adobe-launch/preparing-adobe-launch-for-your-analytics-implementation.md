@@ -1,14 +1,14 @@
 ---
 title: Förbereda Experience Platform Launch för er analysimplementering
 description: Innan ni implementerar Analytics i Launch måste ni ha dokument som är redo och ni har velat konfigurera några saker i systemet, både i Analytics och i Launch. Den här videon går igenom de där sakerna.
-feature: Starta implementering
+feature: Launch Implementation
 topics: null
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 3584
-role: '"Utvecklare, datatekniker"'
-level: Nybörjare
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

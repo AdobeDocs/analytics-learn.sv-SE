@@ -1,14 +1,14 @@
 ---
 title: Förstå användarens röstresa
 description: Lär dig förstå kundresan i röstappen genom att titta på arbetsflödet och dra ut för att identifiera vad som är de vanligaste åtgärderna, sekvensen av dessa åtgärder och när och var användarna faller bort från resan.
-feature: Visualiseringar
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2903
-role: Yrkesverksamma inom affärsverksamhet
-level: Mellanliggande
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

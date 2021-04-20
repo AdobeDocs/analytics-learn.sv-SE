@@ -1,14 +1,14 @@
 ---
 title: Skapa startregler för lyckade händelser
 description: I den här videon visas hur du använder Launch för att spåra konverteringshändelser (AKA success events) på din webbplats. Det här visas om du vill spåra en programprocess på en exempelwebbplats.
-feature: Starta implementering
+feature: Launch Implementation
 topics: null
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 3591
-role: '"Utvecklare, datatekniker"'
-level: Nybörjare
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

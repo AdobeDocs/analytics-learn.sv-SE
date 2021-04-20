@@ -1,14 +1,14 @@
 ---
 title: Skapa anpassade datumintervall i Analysis Workspace
 description: Den här videon visar hur du använder datumintervall i Analysis Workspace.
-feature: Kalender
+feature: Calendar
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2113
-role: Yrkesverksamma inom affärsverksamhet
-level: Nybörjare
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

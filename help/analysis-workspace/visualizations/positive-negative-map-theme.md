@@ -1,14 +1,14 @@
 ---
 title: Tema för positiv-negativ karta i Analysis Workspace
 description: Med det nya positiva/negativa färgtemat kan du tydligt avbilda positiva respektive negativa tal på en karta. Det nya temat respekterar även alla polaritetsändringar du gör när du ställer in händelsen (i Admin) eller skapar den i beräknade värden.
-feature: Visualiseringar
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1662
-role: Yrkesverksamma inom affärsverksamhet
-level: Nybörjare
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

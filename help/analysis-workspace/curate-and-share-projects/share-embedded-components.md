@@ -1,14 +1,14 @@
 ---
 title: Dela inbäddade komponenter i Analysis Workspace
 description: Ibland vill du dela ett Analysis Workspace-projekt, men du glömmer att också dela segment och mätvärden som du har inkluderat med dina kollegor. I den här videon visas hur du nu kan dela segment och mätvärden när du delar dina projekt, så att dina kollegor ser vad du tänkt dig varje gång.
-feature: Kuratera och dela
+feature: Curate and Share
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2295
-role: Yrkesverksamma inom affärsverksamhet
-level: Nybörjare
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

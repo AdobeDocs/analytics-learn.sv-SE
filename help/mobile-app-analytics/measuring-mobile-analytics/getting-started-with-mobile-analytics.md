@@ -1,14 +1,14 @@
 ---
 title: Komma igång med Adobe Mobile Analytics
 description: Lär dig hur du kommer igång med Adobe Analytics för mobilappar med hjälp av mallar. Fördefinierade standardmallar hjälper er att förstå användarinteraktion och prestandamått i Analysis Workspace. Lär dig även hur du anpassar ditt projekt med vårt lättanvända dra och släpp-gränssnitt.
-feature: Grundläggande om arbetsytan
+feature: Workspace Basics
 topics: mobile
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 3051
-role: Yrkesverksamma inom affärsverksamhet
-level: Nybörjare
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

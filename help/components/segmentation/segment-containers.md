@@ -1,14 +1,14 @@
 ---
 title: Segmentbehållare i Adobe Analytics
 description: I den här videon visas hur du arbetar med de tre olika segmentbehållartyperna i Segment Builder i Adobe Analytics.
-feature: Segmentering
+feature: Segmentation
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2301
-role: Yrkesverksamma inom affärsverksamhet
-level: Nybörjare
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

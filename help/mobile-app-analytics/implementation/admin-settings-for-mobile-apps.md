@@ -7,9 +7,9 @@ activity: setup
 doc-type: feature video
 team: Technical Marketing
 kt: 2493
-topic: Mobil
-role: Administratör
-level: Erfaren
+topic: Mobile
+role: Administrator
+level: Experienced
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -1,14 +1,14 @@
 ---
 title: Lägga till beskrivningar av Dimension och mått i Adobe Analytics
 description: I den här videon får du lära dig hur du lägger till innehåll i rapporter, mätvärden och dimensioner i Adobe Analytics.
-feature: Grundläggande om arbetsytan
+feature: Workspace Basics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2352
-role: Yrkesverksamma inom affärsverksamhet
-level: Nybörjare
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

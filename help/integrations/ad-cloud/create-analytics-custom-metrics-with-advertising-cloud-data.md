@@ -8,9 +8,9 @@ doc-type: feature video
 team: Technical Marketing
 thumbnail: 35119.jpg
 kt: 5476
-topic: Integreringar
-role: Yrkesverksamma inom affärsverksamhet
-level: Mellanliggande
+topic: Integrations
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

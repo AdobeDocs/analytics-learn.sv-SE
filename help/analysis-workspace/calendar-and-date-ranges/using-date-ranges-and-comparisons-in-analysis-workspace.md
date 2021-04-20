@@ -1,14 +1,14 @@
 ---
 title: Använda datumintervall och jämförelser i Analysis Workspace
 description: I den här videon får du lära dig hur du använder datum, datumintervall och datumjämförelser för att anpassa tabeller och visualiseringar till rätt tidsram.
-feature: Kalender
+feature: Calendar
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4105
-role: Yrkesverksamma inom affärsverksamhet
-level: Nybörjare
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

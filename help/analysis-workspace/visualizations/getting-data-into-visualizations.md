@@ -1,7 +1,7 @@
 ---
 title: Hämta data till visualiseringar
 description: När du lägger till visualiseringar i Analysis Workspace finns det flera olika sätt att lägga till data till dem, beroende på visualiseringstyp. I den här videon visas de här metoderna.
-feature: Visualiseringar
+feature: Visualizations
 role: Business Practitioner
 level: Beginner
 doc-type: feature video

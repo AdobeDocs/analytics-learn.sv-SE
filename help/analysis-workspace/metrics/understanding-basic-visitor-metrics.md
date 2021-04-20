@@ -1,14 +1,14 @@
 ---
 title: Grundläggande besöksmått
 description: Sidvyer, besök och besökare (åh?). I den här korta videon får du grundläggande information om hur du förstår dessa staplar för att förstå webbtrafiken.
-feature: Mätvärden
+feature: Metrics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 3575
-role: Yrkesverksamma inom affärsverksamhet
-level: Nybörjare
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

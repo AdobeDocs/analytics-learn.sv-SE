@@ -1,15 +1,15 @@
 ---
 title: Expandera vid Flödesvisualisering i Analysis Workspace
 description: I den här videon visas de olika högerklicksalternativen som är tillgängliga i Flödesvisualiseringen i Analysis Workspace. Du kan bland annat skapa ett segment från en bana och komprimera kolumner.
-feature: Visualiseringar
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 24044.jpg
 kt: 2280
-role: Yrkesverksamma inom affärsverksamhet
-level: Nybörjare
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

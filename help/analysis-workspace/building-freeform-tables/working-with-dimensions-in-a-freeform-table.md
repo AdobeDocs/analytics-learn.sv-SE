@@ -1,15 +1,15 @@
 ---
 title: Arbeta med Dimensioner i en frihandstabell
 description: Lär dig allt om att arbeta med dimensioner i frihandstabeller, inklusive att lägga till dem, sortera, filtrera, dela upp dem efter andra dimensioner osv.
-feature: Mått
+feature: Dimensions
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 40179.jpg
 kt: 6176
-role: Yrkesverksamma inom affärsverksamhet
-level: Nybörjare
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

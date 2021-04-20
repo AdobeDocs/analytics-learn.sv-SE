@@ -1,13 +1,13 @@
 ---
 title: Analysvideor och Tutorials
 description: En samling videor och självstudiekurser för Adobe Analytics.
-feature: Grundläggande om analyser
+feature: Analytics Basics
 topics: null
 activity: use
 doc-type: overview
 team: Technical Marketing
-role: '"Affärsledare, utvecklare, datatekniker, arkitekt, dataarkitekt, administratör, ledare"'
-level: Nybörjare
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

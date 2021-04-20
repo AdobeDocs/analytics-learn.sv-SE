@@ -7,8 +7,8 @@ activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2349
-role: Yrkesverksamma inom affärsverksamhet
-level: Nybörjare
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

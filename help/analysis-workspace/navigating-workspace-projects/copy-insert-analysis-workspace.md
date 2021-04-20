@@ -1,14 +1,14 @@
 ---
 title: Kopiera och infoga i Analysis Workspace
 description: Med Kopiera + Infoga kan du kopiera visualiseringar från en panel eller ett projekt till ett annat och kopiera hela paneler mellan projekt.
-feature: Paneler
+feature: Panels
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1698
-role: Yrkesverksamma inom affärsverksamhet
-level: Nybörjare
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

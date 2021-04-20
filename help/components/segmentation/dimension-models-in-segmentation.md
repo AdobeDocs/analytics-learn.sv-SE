@@ -1,14 +1,14 @@
 ---
 title: Dimension Models in Segmentation
 description: Dimensioner är tillgängliga via redskapet för alla segmenteringsdimensioner. Dessa modeller är i första hand användbara för sekventiell segmentering, och gör att du kan segmentera för bestående värden för en dimension (standard), instanser eller icke-upprepande instanser av en dimension.
-feature: Segmentering
+feature: Segmentation
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4846
-role: Yrkesverksamma inom affärsverksamhet
-level: Nybörjare
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -3,15 +3,15 @@ title: Använda anpassade mallar för att aktivera nybörjare i Analysis Workspa
 seo-title: Använda anpassade mallar för att aktivera nybörjare i Analysis Workspace
 description: I den här videon visas hur du sammanför anpassade mallar med funktionerna för att kopiera och klistra in/infoga så att nybörjare i organisationen får bättre service.
 seo-description: I den här videon visas hur du sammanför anpassade mallar med funktionerna för att kopiera och klistra in/infoga så att nybörjare i organisationen får bättre service.
-feature: Projekt
+feature: Projects
 topics: null
 activity: use
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 1694
-role: Yrkesverksamma inom affärsverksamhet
-level: Mellanliggande
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

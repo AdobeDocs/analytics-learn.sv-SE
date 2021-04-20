@@ -3,16 +3,16 @@ title: Konfigurera inställningar för postnummer och postnummer i Adobe Analyti
 seo-title: Konfigurera inställningar för postnummer och postnummer i Adobe Analytics
 description: I den här videon får du lära dig hur du konfigurerar inställningar för postnummer så att du kan göra analyser baserat på den här regionens data.
 seo-description: I den här videon får du lära dig hur du konfigurerar inställningar för postnummer så att du kan göra analyser baserat på den här regionens data.
-feature: Datakonfiguration och insamling
+feature: Data Configuration and Collection
 topics: null
 activity: setup
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 2679
-topic: Administrering
-role: '"Administratör, arkitekt"'
-level: Nybörjare
+topic: Administration
+role: "Administrator, Architect"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

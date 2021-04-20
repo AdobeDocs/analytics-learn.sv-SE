@@ -1,14 +1,14 @@
 ---
 title: Inställningar för tabelldatakälla i Analysis Workspace
 description: 'Datakällinställningarna är nu tillgängliga från frihands- och kohorttabeller. Tidigare kunde datakällor bara hanteras från de länkade visualiseringarna. Från tabellinställningarna kan du nu se vilka visualiseringar som är länkade till den och dölja själva källtabellen. '
-feature: Visualiseringar
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1772
-role: Yrkesverksamma inom affärsverksamhet
-level: Nybörjare
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

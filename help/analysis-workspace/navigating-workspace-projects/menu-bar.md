@@ -1,14 +1,14 @@
 ---
 title: Menyrad i Analysis Workspace
 description: Analysis Workspace har nu blivit ännu enklare att styra och navigera i med uppdaterade menyer som organiserar de olika alternativen för att hantera projekt och analyser i välkända kategorier.
-feature: Projekt
+feature: Projects
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2025
-role: Yrkesverksamma inom affärsverksamhet
-level: Nybörjare
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

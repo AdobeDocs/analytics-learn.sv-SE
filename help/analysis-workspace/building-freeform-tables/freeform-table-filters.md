@@ -1,15 +1,15 @@
 ---
 title: Frihandsfilter i Analysis Workspace
 description: Filter ger bättre kontroll över vilka datarader som delas i en friformstabell.
-feature: Frihandstabeller
+feature: Freeform Tables
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 23232.jpg
 kt: 1699
-role: Yrkesverksamma inom affärsverksamhet
-level: Nybörjare
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -1,14 +1,14 @@
 ---
 title: Använda tabeller, visualiseringar och paneler i Analysis Workspace
 description: I den här videon får du lära dig hur du använder byggstenarna i ditt Analysis Workspace-projekt, som paneler, tabeller och visualiseringar. Dessa element är arbetsytan som dina data målas på.
-feature: Paneler
+feature: Panels
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4103
-role: Yrkesverksamma inom affärsverksamhet
-level: Nybörjare
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

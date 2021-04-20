@@ -1,15 +1,15 @@
 ---
 title: Rad- och kolumninställningar i frihandstabeller
 description: Lär dig mer om inställningarna i frihandstabeller i Analysis Workspace och hur de påverkar data som kommer in i dessa tabeller.
-feature: Frihandstabeller
+feature: Freeform Tables
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 40382.jpg
 kt: 6225
-role: Yrkesverksamma inom affärsverksamhet
-level: Nybörjare
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

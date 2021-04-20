@@ -1,14 +1,14 @@
 ---
 title: Rullande datumintervall i segment
 description: Med Adobe Analytics kan du svara på frågor som - Vad var mitt 60-dagars rullande genomsnitt för Intäkter? eller - Hur många besökare visade innehåll i min app mer än fem gånger under den senaste veckan? genom att inkludera rullande datumintervall i segment. Den här videon visar hur du gör det.
-feature: Segmentering
+feature: Segmentation
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2304
-role: Yrkesverksamma inom affärsverksamhet
-level: Nybörjare
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

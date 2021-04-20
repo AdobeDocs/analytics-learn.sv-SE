@@ -1,14 +1,14 @@
 ---
 title: Tips för att öka produktiviteten i Analysis Workspace
 description: I den här videon får du fyra tips som hjälper dig att öka produktiviteten och spara tid i Analysis Workspace.
-feature: Grundläggande om arbetsytan
+feature: Workspace Basics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4110
-role: Yrkesverksamma inom affärsverksamhet
-level: Nybörjare
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

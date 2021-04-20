@@ -1,15 +1,15 @@
 ---
 title: Skapa frihandstabeller i Analysis Workspace automatiskt
 description: Släpp komponenter direkt i ett tomt projekt, en panel eller en frihandstabell så skapas en tabell automatiskt i det format som rekommenderas.
-feature: Frihandstabeller
+feature: Freeform Tables
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 40855.jpg
 kt: 6308
-role: Yrkesverksamma inom affärsverksamhet
-level: Nybörjare
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -1,15 +1,15 @@
 ---
 title: 'Beräkna kvarhållande av rullande text i kohorttabeller '
 description: Inställningen Rolling Calculation i Cohort Tables kan användas för att analysera kohortperiod över en period och för att förstå hur samma användare behålls (eller faller bort) över tiden.
-feature: Visualiseringar
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25962.jpg
 kt: 2481
-role: Yrkesverksamma inom affärsverksamhet
-level: Mellanliggande
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

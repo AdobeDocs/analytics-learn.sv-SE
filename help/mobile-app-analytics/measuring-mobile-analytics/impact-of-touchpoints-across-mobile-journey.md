@@ -1,15 +1,15 @@
 ---
 title: Påverkan av beröringspunkter över mobil resa
 description: Läs om hur mobilappsanvändare påverkas av kontaktpunkter och vilka kanaler som flyttar nålen för mobilappen med hjälp av Attribution IQ. Ta reda på vilka kanaler som samarbetar för att skapa framgångsrika händelser i mobilappen.
-feature: Grundläggande om arbetsytan
+feature: Workspace Basics
 topics: mobile
 activity: use
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 3052
-role: Yrkesverksamma inom affärsverksamhet
-level: Nybörjare
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

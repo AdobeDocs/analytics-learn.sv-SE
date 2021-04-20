@@ -1,14 +1,14 @@
 ---
 title: Använda anpassade färgpaletter i Analysis Workspace
 description: Du kan ändra färgpaletten som används i Analysis Workspace så att den bättre passar ert varumärke eller era kunders.
-feature: Grundläggande om arbetsytan
+feature: Workspace Basics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1943
-role: Yrkesverksamma inom affärsverksamhet
-level: Nybörjare
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

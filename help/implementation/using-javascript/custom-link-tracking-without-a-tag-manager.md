@@ -1,14 +1,14 @@
 ---
 title: Anpassad länkspårning utan tagghanterare
 description: För många åtgärder på sidan ska spårning inte behandlas som en sidvy. I den här videon får du lära dig att koda en länkspårningsfyr till Analytics, om du inte använder en tagghanterare (som Experience Platform Launch). Se koden och lär dig ett viktigt tips.
-feature: Implementering av mätning
+feature: Appmeasurement Implementation
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1845
-role: '"Utvecklare, datatekniker"'
-level: Mellanliggande
+role: "Developer, Data Engineer"
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

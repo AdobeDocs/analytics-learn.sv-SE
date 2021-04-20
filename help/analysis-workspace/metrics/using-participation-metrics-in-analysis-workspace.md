@@ -1,7 +1,7 @@
 ---
 title: Använda deltagandemått i Analysis Workspace
 description: Använd det här enkla tricket för att få mätvärden för deltagande i Analysis Workspace när som helst.
-feature: Mätvärden
+feature: Metrics
 topics: null
 activity: use
 doc-type: feature video

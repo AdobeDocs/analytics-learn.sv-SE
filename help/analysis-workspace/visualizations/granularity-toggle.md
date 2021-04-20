@@ -1,14 +1,14 @@
 ---
 title: Kornighet - växla i Analysis Workspace
 description: En granularitetsväljare har lagts till i de trendade visualiseringsinställningarna så att du enkelt kan justera datagranulariteten från minut ända upp till år. Inställningen justerar både diagrammet och källtabellen och sparar stegen för att visa och ändra tabellen.
-feature: Visualiseringar
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1770
-role: Yrkesverksamma inom affärsverksamhet
-level: Nybörjare
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

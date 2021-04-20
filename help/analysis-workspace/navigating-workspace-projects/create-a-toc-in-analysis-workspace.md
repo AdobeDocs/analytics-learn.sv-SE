@@ -1,14 +1,14 @@
 ---
 title: Skapa en innehållsförteckning i Analysis Workspace
 description: Lär dig hur du skapar ett projekt för en innehållsförteckning och anger det som användarens landningssida så att de snabbt kan hitta de data och insikter de behöver i Adobe Analytics.
-feature: Paneler
+feature: Panels
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2812
-role: Yrkesverksamma inom affärsverksamhet
-level: Nybörjare
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

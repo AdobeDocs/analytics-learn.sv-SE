@@ -1,15 +1,15 @@
 ---
 title: Korsförsäljningsanalys i Analysis Workspace
 description: Korsförsäljningsrapporten i Rapporter och analyser visar relationen mellan produkter i samma produktsträng, så att du kan analysera vilka produkter som köpts tillsammans. I den här videon visar vi hur du skapar korsförsäljningsrapporten i Analysis Workspace och hur du kan utöka den ytterligare till alla flervärdesmått och klassificeringar.
-feature: Frihandstabeller
+feature: Freeform Tables
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25864.jpg
 kt: 2367
-role: Yrkesverksamma inom affärsverksamhet
-level: Nybörjare
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

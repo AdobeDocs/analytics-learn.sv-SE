@@ -1,14 +1,14 @@
 ---
 title: Hur analysdata samlas in
 description: Hur hämtar data från er sida till rapporterna i Adobe Analytics? Den här videon visar hur du gör.
-feature: Grundläggande om analyser
+feature: Analytics Basics
 topics: null
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 kt: 3565
-role: Yrkesverksamma inom affärsverksamhet
-level: Nybörjare
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

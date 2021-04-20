@@ -1,14 +1,14 @@
 ---
 title: Analysis Workspace In-Product Tips
 description: Tips för arbetsytan är ett snabbt sätt att lära sig direkt i Analysis Workspace, med länkar till relaterade videoklipp så att du kan se varje tips i aktion.
-feature: Grundläggande om arbetsytan
+feature: Workspace Basics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1672
-role: '"Affärsledare, utvecklare, datatekniker, arkitekt, dataarkitekt, administratör, ledare"'
-level: Nybörjare
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

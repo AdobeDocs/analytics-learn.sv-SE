@@ -1,10 +1,10 @@
 ---
 title: Använda anpassade datumintervall för mobila styrkortsprojekt
 description: I den här videon visas hur du hanterar olika alternativ för datumintervall när du ställer in analysprojekt för mobila enheter, bland annat vilka intervall som ska visas och hur du skapar egna anpassade datumintervall.
-feature: Kontrollpaneler för analyser
-topic: Mobil
-role: Yrkesverksamma inom affärsverksamhet
-level: Nybörjare
+feature: Analytics Dashboards
+topic: Mobile
+role: Business Practitioner
+level: Beginner
 doc-type: feature video
 thumbnail: 332454.jpg
 kt: 7440

@@ -1,14 +1,14 @@
 ---
 title: Förbättringar av släppzoner för segment i Analysis Workspace
 description: Segmentsläppzoner har förbättrats så att du kan släppa vad som helst i ett projekt.
-feature: Paneler
+feature: Panels
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2008
-role: Yrkesverksamma inom affärsverksamhet
-level: Nybörjare
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

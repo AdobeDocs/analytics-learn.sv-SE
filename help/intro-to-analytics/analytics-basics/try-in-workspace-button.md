@@ -1,14 +1,14 @@
 ---
 title: Knappen Prova i arbetsytan i Reports and Analytics
 description: De flesta rapporter i Reports and Analytics innehåller en Prova i arbetsyta-knapp som gör att du kan återskapa den aktuella vyn i Analysis Workspace för ytterligare anpassning.
-feature: Grundläggande om analyser
+feature: Analytics Basics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1965
-role: '"Affärsledare, utvecklare, datatekniker, arkitekt, dataarkitekt, administratör, ledare"'
-level: Nybörjare
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

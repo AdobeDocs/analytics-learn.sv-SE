@@ -7,8 +7,8 @@ activity: use
 doc-type: technical video
 team: Technical Marketing
 kt: 2387
-role: '"Utvecklare, datatekniker"'
-level: Erfaren
+role: "Developer, Data Engineer"
+level: Experienced
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

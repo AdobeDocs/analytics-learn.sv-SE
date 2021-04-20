@@ -1,14 +1,14 @@
 ---
 title: Sammanfattningsnummer och sammanfattning av ändringsvisualiseringar i Analysis Workspace
 description: I den här videon visas hur du använder visualiseringar för sammanfattningsnummer och sammanfattningsändringar på arbetsytan för analytiker.
-feature: Visualiseringar
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2136
-role: Yrkesverksamma inom affärsverksamhet
-level: Nybörjare
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -1,8 +1,8 @@
 ---
 title: Användarinställningar i Adobe Analytics
 description: På sidan Komponenter - användarinställningar kan du hantera inställningar för Analysis Workspace och dess relaterade komponenter på användarnivå. Du kan t.ex. välja en standardrapport och en färgpalett. Användarinställningarna gäller för alla nya projekt och paneler.
-feature: Grundläggande om arbetsytan
-topic: Personalisering
+feature: Workspace Basics
+topic: Personalization
 role: Business Practitioner, Administrator
 level: Beginner
 doc-type: feature video

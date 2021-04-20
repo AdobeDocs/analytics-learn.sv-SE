@@ -1,14 +1,14 @@
 ---
 title: Använda Dimensioner i beräknade värden
 description: Dimensioner är nu tillgängliga i verktyget Beräknade mätvärden. De kan läggas till i alla beräknade mätformler för att skapa ett internt segment direkt.
-feature: Beräknade mätvärden
+feature: Calculated Metrics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1904
-role: Yrkesverksamma inom affärsverksamhet
-level: Nybörjare
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

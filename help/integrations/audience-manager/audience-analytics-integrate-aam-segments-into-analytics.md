@@ -1,16 +1,16 @@
 ---
 title: Audience Analytics - Integrera AAM segment i Analytics
 description: Audience Analytics är en ny integrering som gör att ni kan dela segment från Audience Manager (AAM) till Analytics (AA) i realtid för att informera om målgruppsidentifiering, segmentering och optimering.
-feature: Integrering med Experience Cloud
+feature: Experience Cloud Integration
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25450.jpg
 kt: 2354
-topic: Integreringar
-role: '"Affärsledare, utvecklare, datatekniker, arkitekt, dataarkitekt, administratör, ledare"'
-level: Mellanliggande
+topic: Integrations
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

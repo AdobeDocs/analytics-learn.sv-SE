@@ -1,15 +1,15 @@
 ---
 title: Förbättringar av utfallsvisualisering i Analysis Workspace
 description: I den här videon visas uppdateringar av Fallout-visualiseringen som kunderna har efterfrågat i hög grad, inklusive direkta eller slutliga steg, namnbyte av kontaktpunkter, jämförelse av obegränsade segment och trendkonverteringsprocentsatser för kontaktytor över tiden.
-feature: Visualiseringar
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 24047.jpg
 kt: 2276
-role: Yrkesverksamma inom affärsverksamhet
-level: Nybörjare
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

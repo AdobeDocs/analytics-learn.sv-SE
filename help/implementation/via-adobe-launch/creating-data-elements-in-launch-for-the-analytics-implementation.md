@@ -1,14 +1,14 @@
 ---
 title: Skapa dataelement i Launch för analysimplementeringen
 description: I den här videon visas hur du skapar dataelement för Analytics-implementeringen i Launch, baserat på de variabler och händelser som du har bestämt och dokumenterat i ett SDR-dokument (Solution Design Reference).
-feature: Starta implementering
+feature: Launch Implementation
 topics: null
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 3587
-role: '"Utvecklare, datatekniker"'
-level: Nybörjare
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

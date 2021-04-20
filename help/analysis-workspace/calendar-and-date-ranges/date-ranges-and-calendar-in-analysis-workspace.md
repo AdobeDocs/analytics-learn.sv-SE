@@ -1,14 +1,14 @@
 ---
 title: Använda datumintervall och kalender i Analysis Workspace
 description: Du kan använda anpassade datumintervall som förinställningar i kalendern i dina Analysis Workspace-projekt. Du kan också dra och släppa dem i kalendern för att snabbt använda dem som datumintervall i dina projekt. I den här videon visas hur du gör båda dessa saker i Analysis Workspace i Adobe Analytics.
-feature: Kalender
+feature: Calendar
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2013
-role: Yrkesverksamma inom affärsverksamhet
-level: Nybörjare
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

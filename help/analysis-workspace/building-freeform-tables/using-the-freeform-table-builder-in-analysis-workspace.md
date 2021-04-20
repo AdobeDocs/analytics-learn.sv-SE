@@ -1,15 +1,15 @@
 ---
 title: Använda Frihand tabellbyggare i Analysis Workspace
 description: Med Frihand Table Builder kan du dra och släppa i många dimensioner, uppdelningar, mätvärden och segment för att skapa tabeller som besvarar mer komplexa affärsfrågor. Data uppdateras inte direkt. i stället uppdateras den när du klickar på"Skapa", vilket sparar tid eftersom tabellen bara uppdateras en gång.
-feature: Frihandstabeller
+feature: Freeform Tables
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 31318.jpg
 kt: 4217
-role: Yrkesverksamma inom affärsverksamhet
-level: Nybörjare
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -1,14 +1,14 @@
 ---
 title: 'Använda Klassificeringsregelverktyget i Adobe Analytics '
 description: 'Lär dig använda klassificeringsregelbyggaren för att automatiskt tillämpa regelbaserade klassificeringar i Adobe Analytics. '
-feature: Klassificeringar
+feature: Classifications
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1936
-role: Yrkesverksamma inom affärsverksamhet
-level: Nybörjare
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

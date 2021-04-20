@@ -1,14 +1,14 @@
 ---
 title: Så här ökar du engagemangs- och kvarhållningsgraden
 description: Identifiera engagerade målgrupper genom deras beteende med Cohorts och se vilka bakomliggande orsaker som driver detaljrikedomen i era mobilappar. Använd datavetenskapsalgoritmer i segmentanalys för att ta reda på skillnader och likheter mellan segment.
-feature: Grundläggande om arbetsytan
+feature: Workspace Basics
 topics: mobile
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 3054
-role: Yrkesverksamma inom affärsverksamhet
-level: Nybörjare
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

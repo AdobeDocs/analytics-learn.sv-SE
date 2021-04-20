@@ -1,14 +1,14 @@
 ---
 title: Verifierar den globala sidinläsningsregeln i Launch
 description: När du implementerar Adobe Analytics på din webbplats vill du kunna validera vad du gör under tiden. Felsökaren Experience Cloud till räddningen! I den här videon visas hur du validerar den globala sidans inläsningsregel med felsökaren.
-feature: Validering
+feature: Validation
 topics: null
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 3589
-role: '"Utvecklare, datatekniker"'
-level: Nybörjare
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

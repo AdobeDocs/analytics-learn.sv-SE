@@ -1,15 +1,15 @@
 ---
 title: Använda flikövergripande analys för att utforska grundläggande marknadsattribuering i Analysis Workspace
 description: Det finns många sätt att utveckla din attribueringsmetod med Adobe Analytics. I den här videon visar vi hur ni kan få djupare insikter från rapporten om marknadsföringskanaler med hjälp av flikanalys i Workspace.
-feature: Marknadsföringskanaler
+feature: Marketing Channels
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 39237.jpg
 kt: 6067
-role: Yrkesverksamma inom affärsverksamhet
-level: Mellanliggande
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

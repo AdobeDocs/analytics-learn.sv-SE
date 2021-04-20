@@ -1,14 +1,14 @@
 ---
 title: Panelnivåsegment i Analysis Workspace
 description: En kort översikt över hur du använder segment på panelnivå
-feature: Paneler
+feature: Panels
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2106
-role: Yrkesverksamma inom affärsverksamhet
-level: Nybörjare
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

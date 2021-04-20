@@ -1,14 +1,14 @@
 ---
 title: Lägga till jämförelser med föregående månad och år i trender
 description: Lär dig hur du använder anpassade datumintervall för att skapa månads- och årsvisa trendjämförelser för alla mätvärden i Analysis Workspace.
-feature: Kalender
+feature: Calendar
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 5031
-role: Yrkesverksamma inom affärsverksamhet
-level: Nybörjare
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -1,14 +1,14 @@
 ---
 title: Tillägg för färgpipett för definition av anpassade paletter
 description: Lär dig hur du använder tillägget ColorPick EyeDropper Chrome för att enkelt hitta de hexvärden du behöver för en anpassad färgpalett i dina Workspace-projekt.
-feature: Grundläggande om arbetsytan
+feature: Workspace Basics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 5035
-role: Yrkesverksamma inom affärsverksamhet
-level: Nybörjare
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

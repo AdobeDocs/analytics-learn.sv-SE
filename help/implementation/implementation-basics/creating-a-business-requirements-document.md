@@ -1,14 +1,14 @@
 ---
 title: Skapa ett dokument med affärskrav
 description: 'I den här videon beskrivs det viktiga steget i att definiera vad du vill spåra med Adobe Analytics. Vad vill du veta om din webbplats? Låt oss skriva ner dem och börja bestämma hur vi ska spåra dem. '
-feature: Implementeringsgrunder
+feature: Implementation Basics
 topics: null
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 3580
-role: '"Utvecklare, datatekniker"'
-level: Nybörjare
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

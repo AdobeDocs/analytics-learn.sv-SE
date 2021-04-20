@@ -1,14 +1,14 @@
 ---
 title: Flera rapportsviter i Analysis Workspace
 description: Flera rapportsviter kan analyseras i ett enda Workspace-projekt genom att du väljer sviter på panelnivå. Det gör att du kan utföra panelanalyser sida vid sida för olika datauppsättningar.
-feature: Paneler
+feature: Panels
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4820
-role: Yrkesverksamma inom affärsverksamhet
-level: Nybörjare
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

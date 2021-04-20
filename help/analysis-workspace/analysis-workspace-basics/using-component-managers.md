@@ -3,15 +3,15 @@ title: Använda komponenthanterare i Adobe Analytics
 seo-title: Använda komponenthanterare i Adobe Analytics
 description: 'I den här videon visas hur du använder komponenthanterarna Alerts och Scheduled Projects i Adobe Analytics, tillsammans med några andra funktioner. Lär dig hur du enkelt hittar den varning eller det schemalagda projekt du söker samt Aktivera/Inaktivera aviseringar. '
 seo-description: 'I den här videon visas hur du använder komponenthanterarna Alerts och Scheduled Projects i Adobe Analytics, tillsammans med några andra funktioner. Lär dig hur du enkelt hittar den varning eller det schemalagda projekt du söker samt Aktivera/Inaktivera aviseringar. '
-feature: Grundläggande om arbetsytan
+feature: Workspace Basics
 topics: null
 activity: use
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 2351
-role: Yrkesverksamma inom affärsverksamhet
-level: Nybörjare
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -1,14 +1,14 @@
 ---
 title: Förstå och skapa rapportsviter
 description: Den här videon hjälper dig att förstå vilka rapportsviter som finns och visa hur du skapar dem i gränssnittet, så att du kan spåra och optimera personer som kommer till din webbplats.
-feature: Grundläggande om analyser
+feature: Analytics Basics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 3574
-role: Yrkesverksamma inom affärsverksamhet
-level: Nybörjare
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

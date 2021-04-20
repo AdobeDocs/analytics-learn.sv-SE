@@ -1,15 +1,15 @@
 ---
 title: Ändra ordning på statiska rader i Analysis Workspace
 description: Du kan ändra ordning på statiska rader manuellt i Frihand tabellverktyg. Det gör att du kan ordna statiska tabellrader i exakt den ordning du behöver dem, till exempel Besök, Beställningar och sedan Konverteringsgrad.
-feature: Frihandstabeller
+feature: Freeform Tables
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 31319.jpg
 kt: 4218
-role: Yrkesverksamma inom affärsverksamhet
-level: Nybörjare
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

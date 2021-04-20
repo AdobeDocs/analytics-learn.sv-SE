@@ -1,15 +1,15 @@
 ---
 title: 'Använda bästa praxis när du spårar enkelsidiga program (SPA) i Adobe Analytics '
 description: I det här dokumentet beskriver vi flera metodtips som du bör följa och vara medveten om när du använder Adobe Analytics för att spåra Single Page-program (SPA). Det här dokumentet fokuserar på att använda Experience Platform Launch, vilket är den rekommenderade implementeringsmetoden.
-feature: Implementeringsgrunder
+feature: Implementation Basics
 topics: spa
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1389
 topic: SPA
-role: '"Utvecklare, datatekniker"'
-level: Mellanliggande
+role: "Developer, Data Engineer"
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

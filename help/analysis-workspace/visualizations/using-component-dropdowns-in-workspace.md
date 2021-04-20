@@ -1,7 +1,7 @@
 ---
 title: Använda komponentlistrutor i arbetsytan
 description: Med komponentlistrutor kan du välja från en lista med kompatibla komponenter för att bygga din analys. Du kan också skapa nya komponenter direkt från listrutan om du inte hittar det du behöver. Dessa utrymmen fungerar även som släppzoner om du har ett mer avancerat användningsfall.
-feature: Komponenter
+feature: Components
 role: Business Practitioner
 level: Beginner
 doc-type: feature video

@@ -3,15 +3,15 @@ title: Standardmallar i Analysis Workspace
 seo-title: Standardmallar i Analysis Workspace
 description: Analysis Workspace ger dig ett försprång i din analys med standardmallar (kallades tidigare Starter Projects)
 seo-description: Analysis Workspace ger dig ett försprång i din analys med standardmallar (kallades tidigare Starter Projects)
-feature: Projekt
+feature: Projects
 topics: null
 activity: use
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 1963
-role: Yrkesverksamma inom affärsverksamhet
-level: Nybörjare
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

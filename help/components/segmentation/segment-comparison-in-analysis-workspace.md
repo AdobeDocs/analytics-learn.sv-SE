@@ -1,14 +1,14 @@
 ---
 title: Segmentjämförelse i Analysis Workspace
 description: Att förstå de verkliga skillnaderna mellan marknadsföringssegment har alltid varit en svår och tidskrävande process. Segmentanalys, som ingår i Analysis Workspace i Adobe Analytics, förenklar den här analysen genom att undersöka vilka två Analytics-segment som helst i alla era dimensioner och mätvärden för att automatiskt upptäcka deras mest statistiskt signifikanta skillnader.
-feature: Segmentering
+feature: Segmentation
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2103
-role: Yrkesverksamma inom affärsverksamhet
-level: Nybörjare
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

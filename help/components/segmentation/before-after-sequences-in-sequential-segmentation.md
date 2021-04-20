@@ -1,14 +1,14 @@
 ---
 title: Före/Efter sekvenser i sekventiell segmentering
 description: I den här videon förklaras hur du segmenterar i Adobe Analytics så att du bara får data från före eller efter en viss användarsökväg.
-feature: Segmentering
+feature: Segmentation
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2303
-role: Yrkesverksamma inom affärsverksamhet
-level: Nybörjare
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

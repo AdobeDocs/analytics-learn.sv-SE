@@ -1,15 +1,15 @@
 ---
 title: Ad hoc-segment (tillfälliga) i Analysis Workspace
 description: Har du någonsin velat skapa ett enkelt segment för att besvara en viss fråga och sedan förkasta segmentet så att det inte fyller upp listan med sparade segment? Nu kan du det!
-feature: Segmentering
+feature: Segmentation
 topics: null
 activity: use
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 2010
-role: Yrkesverksamma inom affärsverksamhet
-level: Nybörjare
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -3,16 +3,16 @@ title: Användning av serversamtal i Adobe Analytics
 seo-title: Användning av serversamtal i Adobe Analytics
 description: Rapporter om användning av serversamtal gör det möjligt för er att exakt följa upp hur mycket av ert åtagande om serversamtal som ni har använt vid en viss tidpunkt, och ni får också en varning i förväg när ni närmar er det totala åtagandet.
 seo-description: Rapporter om användning av serversamtal gör det möjligt för er att exakt följa upp hur mycket av ert åtagande om serversamtal som ni har använt vid en viss tidpunkt, och ni får också en varning i förväg när ni närmar er det totala åtagandet.
-feature: Datakonfiguration och insamling
+feature: Data Configuration and Collection
 topics: null
 activity: use
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 1665
-topic: Administrering
-role: '"Administratör, arkitekt"'
-level: Nybörjare
+topic: Administration
+role: "Administrator, Architect"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

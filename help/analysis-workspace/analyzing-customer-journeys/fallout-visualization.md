@@ -1,15 +1,15 @@
 ---
 title: Bortfallsvisualisering i Analysis Workspace
 description: I den här videon får du hjälp med den utfallsvisualisering som finns i Analysis Workspace i Adobe Analytics. Använd Utfall för att skapa funktioner eller visa användarflödet i viktiga arbetsflöden för appar/webbplatser.
-feature: Visualiseringar
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 24042.jpg
 kt: 2275
-role: Yrkesverksamma inom affärsverksamhet
-level: Nybörjare
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

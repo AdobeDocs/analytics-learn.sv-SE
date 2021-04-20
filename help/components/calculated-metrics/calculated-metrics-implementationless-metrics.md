@@ -1,14 +1,14 @@
 ---
 title: Beräknade mått - Mätvärden utan implementering
 description: Lär dig hur du skapar nya mätvärden i Adobe Analytics utan att ändra implementeringen.
-feature: Beräknade mätvärden
+feature: Calculated Metrics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2320
-role: Yrkesverksamma inom affärsverksamhet
-level: Nybörjare
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

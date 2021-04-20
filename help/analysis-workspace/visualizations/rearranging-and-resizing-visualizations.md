@@ -1,14 +1,14 @@
 ---
 title: Ändra ordning och storlek på visualiseringar i Analysis Workspace
 description: I den här videon visas hur du skapar en anpassad layout genom att ändra storlek på, ordna om och ordna om visualiseringar och tabeller i Analysis Workspace.
-feature: Visualiseringar
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2138
-role: Yrkesverksamma inom affärsverksamhet
-level: Nybörjare
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

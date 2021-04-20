@@ -1,14 +1,14 @@
 ---
 title: Använda nedrullningsbara filter i Analysis Workspace
 description: I den här videon får du lära dig hur du använder nedrullningsbara filter i Analysis Workspace för att dynamiskt ändra innehållet i en panel.
-feature: Paneler
+feature: Panels
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1944
-role: Yrkesverksamma inom affärsverksamhet
-level: Nybörjare
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -1,14 +1,14 @@
 ---
 title: Ändra skala/axel för visualiseringar i Analysis Workspace
 description: I den här videon visas hur du enkelt kan ändra skalan (eller axelgränserna) för Y-axeln i ett linjediagram i Analysis Workspace för att göra data svårare för dig och andra att feltolka.
-feature: Visualiseringar
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2133
-role: Yrkesverksamma inom affärsverksamhet
-level: Nybörjare
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

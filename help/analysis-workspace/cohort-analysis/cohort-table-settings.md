@@ -1,15 +1,15 @@
 ---
 title: Kohortabellinställningar
 description: 'Det finns flera kohorttabellinställningar som gör att du kan anpassa visningen av kvarhållande och urholkning. Se dem markerade i den här videon. '
-feature: Visualiseringar
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 29433.jpg
 kt: 3972
-role: Yrkesverksamma inom affärsverksamhet
-level: Mellanliggande
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -1,14 +1,14 @@
 ---
 title: Lägga till grundläggande butiksvariabler och händelser i startregler
 description: I den här videon visas hur du använder ett särskilt produktsträngstillägg i Launch för att spåra grundläggande butiksvariabler och händelser, som produktvyn, ett tillägg i kundvagnen, en utcheckning osv.
-feature: Starta implementering
+feature: Launch Implementation
 topics: null
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 3592
-role: '"Utvecklare, datatekniker"'
-level: Nybörjare
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

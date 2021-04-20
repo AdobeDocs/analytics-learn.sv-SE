@@ -1,15 +1,15 @@
 ---
 title: Lägga till trendlinjer i linjevisualiseringar
 description: Under Visualiseringsinställningar kan du välja att lägga till en regression eller en glidande medeltrendlinje i din radserie, vilket kan hjälpa dig att avbilda ett tydligare mönster i data. Alternativen är Linear, Logaritmic, Exponential, Power, Quadratic och Moving Averages.
-feature: Visualiseringar
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 330176.jpg
 kt: 6833
-role: Yrkesverksamma inom affärsverksamhet
-level: Nybörjare
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -1,7 +1,7 @@
 ---
 title: Använda panelen Attribution IQ i Analysis Workspace
 description: I den här videon ser du Attribution IQ Panel, en bra plats att börja på när du bygger upp ditt Analysis Workspace-projekt för attribuering.
-feature: Attribuering
+feature: Attribution
 topics: null
 activity: use
 doc-type: feature video
@@ -9,8 +9,8 @@ author: Doug Moore
 team: Technical Marketing
 thumbnail: 23139.jpg
 kt: 1667
-role: Yrkesverksamma inom affärsverksamhet
-level: Mellanliggande
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -1,15 +1,15 @@
 ---
 title: Churn Analysis with Cohort Tables
 description: Kohort Tables erbjuder två analystyper - Retention och Churn. Medan Kvarhållning visar hur många användare som behålls över tid, visar Churn-alternativet hur många användare som har gått förlorade (1 - Kvarhållning).
-feature: Visualiseringar
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25966.jpg
 kt: 2479
-role: Yrkesverksamma inom affärsverksamhet
-level: Mellanliggande
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

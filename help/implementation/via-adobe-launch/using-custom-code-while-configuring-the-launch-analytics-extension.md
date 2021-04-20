@@ -1,14 +1,14 @@
 ---
 title: Använda anpassad kod när Analytics-starttillägget konfigureras
 description: Om du precis har börjat med Launch, från Adobe och Adobe Analytics-tillägget, kan den här videon hjälpa dig att förstå anpassade alternativ för kodfönster, timing för kodkörning osv.
-feature: Starta implementering
+feature: Launch Implementation
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 2914
-role: '"Utvecklare, datatekniker"'
-level: Nybörjare
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

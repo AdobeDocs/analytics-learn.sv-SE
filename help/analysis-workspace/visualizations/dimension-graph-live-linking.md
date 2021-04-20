@@ -1,14 +1,14 @@
 ---
 title: Dimension-Graph Live Linking in Analysis Workspace
 description: Vi vet inte riktigt vad vi ska kalla det här, men det är smygande. När du skapar ett linjediagram från ett dimensionsvärde kan du nu välja olika dimensionsvärden och ändra diagrammet dynamiskt. Se videon och lär dig mer!
-feature: Visualiseringar
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2115
-role: Yrkesverksamma inom affärsverksamhet
-level: Nybörjare
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

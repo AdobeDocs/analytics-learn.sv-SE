@@ -1,14 +1,14 @@
 ---
 title: Hantera och spåra appdata för röstassistenten
 description: 'Lär dig hur du bygger en anpassad kontrollpanel för att hantera och spåra prestanda i din röstassistentapp på ett enkelt, flexibelt, intuitivt och visuellt sätt. '
-feature: Visualiseringar
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2902
-role: Yrkesverksamma inom affärsverksamhet
-level: Mellanliggande
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

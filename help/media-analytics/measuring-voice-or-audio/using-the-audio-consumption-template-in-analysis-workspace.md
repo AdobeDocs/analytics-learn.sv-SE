@@ -1,14 +1,14 @@
 ---
 title: Använda mallen Ljudförbrukning i Analysis Workspace
 description: I den här videon visas mallen Ljudförbrukning i Analysis Workspace, som är tillgänglig direkt för ljudanalys.
-feature: Paneler
+feature: Panels
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1950
-role: '"Affärsledare, utvecklare, datatekniker, arkitekt, dataarkitekt, administratör, ledare"'
-level: Mellanliggande
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

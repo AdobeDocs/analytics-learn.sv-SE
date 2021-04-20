@@ -1,14 +1,14 @@
 ---
 title: Konfigurera Easy Download Link Tracking i Experience Platform Launch
 description: Med bara några klick i Adobe Analytics Extension i Experience Platform Launch kan du börja spåra hämtningslänkar på din webbplats (länkar som hämtar filer som inte är webbläsare på din dator). I den här videon visas hur du konfigurerar den.
-feature: Starta implementering
+feature: Launch Implementation
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1844
-role: '"Utvecklare, datatekniker"'
-level: Nybörjare
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

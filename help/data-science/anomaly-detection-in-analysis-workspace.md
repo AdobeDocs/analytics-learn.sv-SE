@@ -1,14 +1,14 @@
 ---
 title: Analysidentifiering i Analysis Workspace
 description: Analysis Workspace identifierar automatiskt avvikelser i era data för alla tidsserievisualiseringar och datatabeller. Fånga upp de "okända" okända" utan att du behöver göra något mer!
-feature: Datavetenskap
+feature: Data Science
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2336
-role: '"Affärsledare, utvecklare, datatekniker, arkitekt, dataarkitekt, administratör, ledare"'
-level: Nybörjare
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

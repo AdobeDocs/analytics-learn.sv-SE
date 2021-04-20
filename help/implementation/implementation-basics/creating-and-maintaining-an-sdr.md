@@ -1,14 +1,14 @@
 ---
 title: Skapa och underhålla en SDR
 description: Dokumentet Solution Design Reference (SDR) är i stort sett en plan för er webbplats. I den här videon visas hur du skapar en i samband med dokumentet för affärskrav, så att du alltid kan få en källa till sanning som du kan gå tillbaka till när du implementerar Adobe Analytics, och som du ser det i framtiden.
-feature: Implementeringsgrunder
+feature: Implementation Basics
 topics: null
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 3581
-role: '"Utvecklare, datatekniker"'
-level: Nybörjare
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
