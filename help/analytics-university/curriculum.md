@@ -4,9 +4,9 @@ description: Adobe är stolta över att kunna presentera det här grundläggande
 hide: true
 hidefromtoc: true
 translation-type: tm+mt
-source-git-commit: 299d9ff15d3c2a4847e6b4f122dd80035043b41a
+source-git-commit: bdb2439218cff25fc619e627546a17204ad64c3d
 workflow-type: tm+mt
-source-wordcount: '237'
+source-wordcount: '240'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,7 @@ Adobe är stolta över att kunna presentera det här grundläggande Analytics-in
 
 Kursplanen med specialbyggda aktiviteter i slutet av varje avsnitt kan kombineras med Adobe Analytics University sandlådemiljö.
 
-Anmäl dig här för att få åtkomst: https://experienceleague.adobe.com/AnalyticsUniversity
+Anmäl dig här för att få åtkomst: [https://experienceleague.adobe.com/AnalyticsUniversity](https://experienceleague.adobe.com/AnalyticsUniversity)
 
 
 [Ladda ned PDF-kursplanen](assets/Adobe-Analytics-Curriculum_2021.pdf)
