@@ -4,16 +4,15 @@ user-guide-description: En samling videor och självstudiekurser för Adobe Anal
 breadcrumb-title: Analytics Tutorials
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
-translation-type: tm+mt
-source-git-commit: bdb2439218cff25fc619e627546a17204ad64c3d
+source-git-commit: 1cb9e6e4903c48514a75c18e530c74f7549369b5
 workflow-type: tm+mt
-source-wordcount: '1998'
+source-wordcount: '2007'
 ht-degree: 8%
 
 ---
 
 
-# Analytics-Tutorials {#tutorials}
+# Analytics Tutorials {#tutorials}
 
 + [Översikt](overview.md)
 + Introduktion till analys {#intro-to-analytics}
@@ -286,7 +285,7 @@ ht-degree: 8%
       + [Översikt över klassificeringar](components/classifications/overview-of-classifications.md)
       + [Använda Klassificeringsregelverktyget](components/classifications/using-the-classification-rule-builder.md)
    + Virtual Report Suites {#virtual-report-suites}
-      + [Virtuella rapportsviter](components/virtual-report-suites/virtual-report-suites.md)
+      + [Virtual Report Suites](components/virtual-report-suites/virtual-report-suites.md)
       + [Komponenturval i virtuella rapportsviter](components/virtual-report-suites/component-curation-in-virtual-report-suites.md)
       + [Sammanhangsberoende sessioner i virtuella rapportsviter](components/virtual-report-suites/context-aware-sessions-in-virtual-report-suites.md)
       + [Starta ett nytt besök på en händelse i virtuella rapportsviter](components/virtual-report-suites/start-a-new-visit-on-any-event-in-virtual-report-suites.md)
@@ -318,6 +317,7 @@ ht-degree: 8%
       + [Audience Analytics - Integrera AAM segment i Analytics](integrations/audience-manager/audience-analytics-integrate-aam-segments-into-analytics.md)
    + Målgrupp {#target}
       + [Panelen Analytics for Target (A4T) i Analysis Workspace](integrations/target/analytics-for-target-a4t-panel-in-analysis-workspace.md)
+      + [Analysera en automatisk målaktivitet med hjälp av A4T-panelen](integrations/target/analyze-an-auto-target-activity-using-the-a4t-panel.md)
    + Ad Cloud {#ad-cloud}
       + [Konfigurera Advertising Analytics](integrations/ad-cloud/configuring-advertising-analytics.md)
       + [Implementera spårningsmallar i sökmotorer](integrations/ad-cloud/implementing-tracking-templates-into-search-engines.md)
