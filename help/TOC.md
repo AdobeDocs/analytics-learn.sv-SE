@@ -4,9 +4,9 @@ user-guide-description: En samling videor och självstudiekurser för Adobe Anal
 breadcrumb-title: Analytics Tutorials
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
-source-git-commit: 1cb9e6e4903c48514a75c18e530c74f7549369b5
+source-git-commit: 04c046c74c5287ebdd1b01bc9a5586475d14363a
 workflow-type: tm+mt
-source-wordcount: '2007'
+source-wordcount: '2017'
 ht-degree: 8%
 
 ---
@@ -374,5 +374,7 @@ ht-degree: 8%
    + [Använda Report Builder för att lära sig mer om Adobe Analytics API](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/exporting/report-builder/using-report-builder-to-learn-the-adobe-analytics-api.html)
    + [Använda Postman för att göra Adobe Analytics 2.0 API-begäranden](apis/using-postman-to-make-adobe-analytics-2-0-api-requests.md)
 + Användningsexempel för analys {#analysis-use-cases}
+   + Intern webbplatssökning {#internal-site-search}
+      + [Definiera affärskrav för intern webbplatssökning](analysis-use-cases/internal-site-search/defining-your-internal-site-search-business-requirements.md)
    + [Konfigurera postnummeranalys på marknaden](analysis-use-cases/setting-up-in-market-zip-code-analysis-use-case.md)
 + [Analytics University - kursplan](analytics-university/curriculum.md)
