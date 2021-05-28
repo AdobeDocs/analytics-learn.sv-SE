@@ -4,9 +4,9 @@ user-guide-description: En samling videor och självstudiekurser för Adobe Anal
 breadcrumb-title: Analytics Tutorials
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
-source-git-commit: 04c046c74c5287ebdd1b01bc9a5586475d14363a
+source-git-commit: cc377025e4d793a908fd6cddceb74441300f3449
 workflow-type: tm+mt
-source-wordcount: '2017'
+source-wordcount: '2042'
 ht-degree: 8%
 
 ---
@@ -376,5 +376,9 @@ ht-degree: 8%
 + Användningsexempel för analys {#analysis-use-cases}
    + Intern webbplatssökning {#internal-site-search}
       + [Definiera affärskrav för intern webbplatssökning](analysis-use-cases/internal-site-search/defining-your-internal-site-search-business-requirements.md)
+      + [Implementera interna sökvariabler med AppMeasurement](analysis-use-cases/internal-site-search/implement-internal-search-variables-using-appmeasurement.md)
+      + [Implementera interna sökvariabler med Web SDK](analysis-use-cases/internal-site-search/implement-internal-search-variables-using-web-sdk.md)
+      + [Mappa Web SDK-variabler till Adobe Analytics](analysis-use-cases/internal-site-search/map-web-sdk-variables-into-adobe-analytics.md)
+      + [Konfigurera interna sökrapporter](analysis-use-cases/internal-site-search/configure-internal-site-search-reports.md)
    + [Konfigurera postnummeranalys på marknaden](analysis-use-cases/setting-up-in-market-zip-code-analysis-use-case.md)
 + [Analytics University - kursplan](analytics-university/curriculum.md)
