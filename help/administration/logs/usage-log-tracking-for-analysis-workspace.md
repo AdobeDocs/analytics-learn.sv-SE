@@ -1,27 +1,26 @@
 ---
 title: Loggspårning för användning för Analysis Workspace
 description: Under Admin - Logs - Usage & Access (Administrera - Loggar - Användning och åtkomst) kan du bättre förstå hur dina användare använder Adobe Analytics. I den här videon fokuseras specifikt på mätning av projektanvändning i Workspace.
-feature: Data Configuration and Collection
+feature: Datakonfiguration och insamling
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4024
-topic: Administration
+topic: Administrering
 role: Administrator
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 397cfb51-7d7d-49dd-8b54-e928fe77d39e
+source-git-commit: c23845ae2fc6bef5721f04283b9be039d076f631
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '98'
 ht-degree: 1%
 
 ---
 
-
 # Loggspårning för användning för Analysis Workspace
 
-Under [!UICONTROL Admin] - [!UICONTROL Logs] - [!UICONTROL Usage & Access] kan du bättre förstå hur dina användare använder Adobe Analytics. Den här videon fokuserar specifikt på att mäta [!DNL Workspace] projektanvändning. Du kan hämta Excel-filen som används i den här videon på https://adobe.ly/2ygP5ws
+Under [!UICONTROL Admin] - [!UICONTROL Logs] - [!UICONTROL Usage & Access] kan du bättre förstå hur dina användare använder Adobe Analytics. Den här videon fokuserar specifikt på att mäta [!DNL Workspace] projektanvändning. Obs! Sedan den här videon släpptes publicerades ett produkttips om hur man gör en stabil användningsanalys i Analysis Workspace på adobe.ly/aausage.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29768/?quality=12)
 
