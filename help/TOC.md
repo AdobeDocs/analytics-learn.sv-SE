@@ -4,9 +4,9 @@ user-guide-description: En samling videor och självstudiekurser för Adobe Anal
 breadcrumb-title: Analytics Tutorials
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
-source-git-commit: cc377025e4d793a908fd6cddceb74441300f3449
+source-git-commit: 1824ce43c99a56d2dd4c116783e06f71c0d74a46
 workflow-type: tm+mt
-source-wordcount: '2042'
+source-wordcount: '2067'
 ht-degree: 8%
 
 ---
@@ -54,6 +54,7 @@ ht-degree: 8%
       + [Analysis Workspace Introduction](analysis-workspace/analysis-workspace-basics/analysis-workspace-introduction.md)
       + [Analysis Workspace - översikt](analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md)
       + [Skapa nya Analysis Workspace-projekt](analysis-workspace/analysis-workspace-basics/creating-new-analysis-workspace-projects.md)
+      + [Bygga ett arbetsyteprojekt från grunden](analysis-workspace/analysis-workspace-basics/building-a-workspace-project-from-scratch.md)
       + [Skapa och hantera anpassade mallar i Analysis Workspace](analysis-workspace/analysis-workspace-basics/create-manage-custom-templates-in-analysis-workspace.md)
       + [Standardmallar i Analysis Workspace](analysis-workspace/analysis-workspace-basics/standard-templates-in-analysis-workspace.md)
       + [Använda anpassade mallar för att aktivera nybörjare i Analysis Workspace](analysis-workspace/analysis-workspace-basics/using-custom-templates-to-enable-novice-users.md)
@@ -88,6 +89,7 @@ ht-degree: 8%
       + [Förbättringar av släppzon för segment](analysis-workspace/using-panels/segment-dropzone-improvements.md)
       + [Flera rapportsviter i Analysis Workspace](analysis-workspace/using-panels/multiple-report-suites-in-analysis-workspace.md)
    + Bygger frihandstabeller {#building-freeform-tables}
+      + [Förstå era data - frihandstabeller](analysis-workspace/building-freeform-tables/understand-your-data-freeform-tables.md)
       + [Använda vänster järnväg för att skapa frihandstabeller i Analysis Workspace](analysis-workspace/building-freeform-tables/using-the-left-rail-to-build-freeform-tables-in-analysis-workspace.md)
       + [Skapa frihandstabeller i Analysis Workspace automatiskt](analysis-workspace/building-freeform-tables/auto-build-freeform-tables-in-analysis-workspace.md)
       + [Arbeta med Dimensioner i en frihandstabell](analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.md)
@@ -105,6 +107,7 @@ ht-degree: 8%
    + Visualiseringar {#visualizations}
       + [Datavisualisering i Analysis Workspace](analysis-workspace/visualizations/data-visualization-in-analysis-workspace.md)
       + [Visualiseringstyper](analysis-workspace/visualizations/visualization-types.md)
+      + [Visualisering - användningsfall](analysis-workspace/visualizations/visualization-use-cases.md)
       + [Markera data som ska visas](analysis-workspace/visualizations/selecting-data-to-visualize.md)
       + [Hämta data till visualiseringar](analysis-workspace/visualizations/getting-data-into-visualizations.md)
       + [Använda komponentlistrutor i arbetsytan](analysis-workspace/visualizations/using-component-dropdowns-in-workspace.md)
@@ -157,6 +160,7 @@ ht-degree: 8%
       + [Datumjämförelser i Analysis Workspace](analysis-workspace/calendar-and-date-ranges/date-comparisons-in-analysis-workspace.md)
       + [Lägga till jämförelser med föregående månad och år i trender](analysis-workspace/calendar-and-date-ranges/adding-prior-month-and-year-comparisons-to-trends.md)
    + Analyserar kundresor {#analyzing-customer-journeys}
+      + [Förstå era data - Utfall och flöde](analysis-workspace/analyzing-customer-journeys/understand-your-data-fallout-flow.md)
       + [Resa-IQ - Enhetsövergripande analys](analysis-workspace/analyzing-customer-journeys/understanding-and-using-journey-iq-cross-device-analytics.md)
       + [Bortfallsvisualisering](analysis-workspace/analyzing-customer-journeys/fallout-visualization.md)
       + [Förbättringar av utfallsvisualisering](analysis-workspace/analyzing-customer-journeys/enhancements-to-fallout-visualization.md)
@@ -186,6 +190,7 @@ ht-degree: 8%
       + [Anpassade summeringsfönster i Attribution IQ](analysis-workspace/attribution-iq/custom-lookback-windows-in-attribution-iq.md)
    + Kohortanalys {#cohort-analysis}
       + [Kohortanalys i Analysis Workspace](analysis-workspace/cohort-analysis/cohort-analysis-workspace.md)
+      + [Förstå era data - Kohorttabeller](analysis-workspace/cohort-analysis/understand-your-data-cohort-tables.md)
       + [Översikt över kohorttabeller](analysis-workspace/cohort-analysis/overview-of-cohort-tables-in-analysis-workspace.md)
       + [Kohortabellinställningar](analysis-workspace/cohort-analysis/cohort-table-settings.md)
       + [Churn Analysis with Cohort Tables](analysis-workspace/cohort-analysis/churn-analysis-with-cohort-tables.md)
@@ -259,6 +264,7 @@ ht-degree: 8%
 + Komponenter {#components}
    + Segmentering {#segmentation}
       + [Översikt över segmentbyggaren](components/segmentation/segment-builder-overview.md)
+      + [Söka efter och skapa segment](components/segmentation/finding-and-creating-segments.md)
       + [Före/Efter sekvenser i sekventiell segmentering](components/segmentation/before-after-sequences-in-sequential-segmentation.md)
       + [Rullande datumintervall i segment](components/segmentation/rolling-date-ranges-in-segments.md)
       + [Segmentjämförelse i Analysis Workspace](components/segmentation/segment-comparison-in-analysis-workspace.md)
