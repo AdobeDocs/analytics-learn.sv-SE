@@ -8,14 +8,13 @@ level: Beginner
 doc-type: feature video
 thumbnail: 333003.jpg
 kt: 7654
-translation-type: tm+mt
-source-git-commit: 299d9ff15d3c2a4847e6b4f122dd80035043b41a
+exl-id: d04273ec-58e1-4dd7-b0b2-84708e059a62
+source-git-commit: a1606697b78d1a48d4defffac3a8524cfb7fcf54
 workflow-type: tm+mt
 source-wordcount: '56'
 ht-degree: 1%
 
 ---
-
 
 # Anpassa kalenderinställningar i Adobe Analytics
 
