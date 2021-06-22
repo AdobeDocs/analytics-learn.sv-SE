@@ -7,13 +7,13 @@ level: Beginner
 doc-type: feature video
 thumbnail: 334093.jpg
 kt: 8059
-source-git-commit: 1824ce43c99a56d2dd4c116783e06f71c0d74a46
+exl-id: a074d503-94f2-449f-8d3e-8bb599752981
+source-git-commit: a1606697b78d1a48d4defffac3a8524cfb7fcf54
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 0%
 
 ---
-
 
 # Förstå era data - frihandstabeller
 
