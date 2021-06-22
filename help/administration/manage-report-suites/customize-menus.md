@@ -8,14 +8,13 @@ level: Beginner
 doc-type: feature video
 thumbnail: 333035.jpg
 kt: 7707
-translation-type: tm+mt
-source-git-commit: bdb2439218cff25fc619e627546a17204ad64c3d
+exl-id: 7465f4f9-0afb-447e-a8fe-ea46ac71e439
+source-git-commit: a1606697b78d1a48d4defffac3a8524cfb7fcf54
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
 
 ---
-
 
 # Anpassa menyer i rapporter och analyser
 
