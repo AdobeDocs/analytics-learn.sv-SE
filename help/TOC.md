@@ -4,9 +4,9 @@ user-guide-description: En samling videor och självstudiekurser för Adobe Anal
 breadcrumb-title: Analytics Tutorials
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
-source-git-commit: 4b5c50466a899ff84a628d0efe43765586d01216
+source-git-commit: 1896c5d47fcb0bdde0e6c854a78004cef32e9d90
 workflow-type: tm+mt
-source-wordcount: '2063'
+source-wordcount: '2072'
 ht-degree: 8%
 
 ---
@@ -114,7 +114,9 @@ ht-degree: 8%
       + [Linjevisualisering i Analysis Workspace](analysis-workspace/visualizations/line-visualization-in-analysis-workspace.md)
       + [Lägga till trendlinjer i linjevisualiseringar](analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.md)
       + [Område och område staplade](analysis-workspace/visualizations/area-and-area-stacked.md)
+      + [Stolpvisa visualiseringar i staplar](analysis-workspace/visualizations/bar-and-bar-stacked-visualizations.md)
       + [Visualisering av punktdiagram](analysis-workspace/visualizations/bullet-graph-visualization.md)
+      + [Använda Donut-visualisering](analysis-workspace/visualizations/using-the-donut-visualization.md)
       + [Histogramvisualisering](analysis-workspace/visualizations/histogram-visualization.md)
       + [Kartvisualisering](analysis-workspace/visualizations/map-visualization.md)
       + [Visualiseringar av sammanfattningsnummer och sammanfattningsändringar](analysis-workspace/visualizations/summary-number-and-summary-change-visualizations.md)
