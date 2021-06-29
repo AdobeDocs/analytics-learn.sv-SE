@@ -1,17 +1,19 @@
 ---
-title: Adobe Analytics University Curriculum
+title: Adobe Analytics kursplan för skolor
 description: Adobe är stolta över att kunna presentera det här grundläggande Analytics-innehållet för ert universitet. I kursplanen finns fyra olika moduler som är avsedda att presentera Adobe Analytics insamling och rapportering, vilka kan delas upp och indelas i digitala analyser eller marknadsföringskurser. Den här introduktionshandboken ger lärare och elever de kunskaper som behövs för att delta i Adobe Analytics globala utmaning varje höst.
 hide: true
 hidefromtoc: true
 exl-id: 1202b1f6-fa41-465d-8e76-b7feae217cce
-source-git-commit: a1606697b78d1a48d4defffac3a8524cfb7fcf54
+source-git-commit: 43382a7de3dc0b0d65ccf8403ce200c2fd980518
 workflow-type: tm+mt
-source-wordcount: '240'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# Adobe Analytics University
+# Adobe Analytics kursplan för skolor
+
+>[!VIDEO](https://video.tv.adobe.com/v/334350/?quality=12&learn=on)
 
 ## Analytics-kursinnehåll
 
