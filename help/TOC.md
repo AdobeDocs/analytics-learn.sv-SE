@@ -4,9 +4,9 @@ user-guide-description: En samling videor och självstudiekurser för Adobe Anal
 breadcrumb-title: Analytics Tutorials
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
-source-git-commit: 1896c5d47fcb0bdde0e6c854a78004cef32e9d90
+source-git-commit: 5689424f4597c509ca5040f8b8f2b06a1fd60bfb
 workflow-type: tm+mt
-source-wordcount: '2072'
+source-wordcount: '2066'
 ht-degree: 8%
 
 ---
@@ -111,15 +111,18 @@ ht-degree: 8%
       + [Markera data som ska visas](analysis-workspace/visualizations/selecting-data-to-visualize.md)
       + [Hämta data till visualiseringar](analysis-workspace/visualizations/getting-data-into-visualizations.md)
       + [Använda komponentlistrutor i arbetsytan](analysis-workspace/visualizations/using-component-dropdowns-in-workspace.md)
-      + [Linjevisualisering i Analysis Workspace](analysis-workspace/visualizations/line-visualization-in-analysis-workspace.md)
-      + [Lägga till trendlinjer i linjevisualiseringar](analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.md)
       + [Område och område staplade](analysis-workspace/visualizations/area-and-area-stacked.md)
       + [Stolpvisa visualiseringar i staplar](analysis-workspace/visualizations/bar-and-bar-stacked-visualizations.md)
       + [Visualisering av punktdiagram](analysis-workspace/visualizations/bullet-graph-visualization.md)
-      + [Använda Donut-visualisering](analysis-workspace/visualizations/using-the-donut-visualization.md)
+      + [Visualisering av ring](analysis-workspace/visualizations/using-the-donut-visualization.md)
       + [Histogramvisualisering](analysis-workspace/visualizations/histogram-visualization.md)
+      + [Linjevisualisering i Analysis Workspace](analysis-workspace/visualizations/line-visualization-in-analysis-workspace.md)
+      + [Lägga till trendlinjer i linjevisualiseringar](analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.md)
       + [Kartvisualisering](analysis-workspace/visualizations/map-visualization.md)
       + [Visualiseringar av sammanfattningsnummer och sammanfattningsändringar](analysis-workspace/visualizations/summary-number-and-summary-change-visualizations.md)
+      + [Textvisualisering](analysis-workspace/visualizations/rich-text-editor-in-analysis-workspace.md)
+      + [Treemap och Scatterplot Visualizations](analysis-workspace/visualizations/treemap-and-scatterplot-visualizations.md)
+      + [Visualisering av Venndiagram](analysis-workspace/visualizations/venn-diagram-visualization.md)
       + [Använda funktionen för ackumulerat genomsnitt för att använda måttutjämning](analysis-workspace/visualizations/using-the-cumulative-average-function-to-apply-metric-smoothing.md)
       + [Flexibla layouter](analysis-workspace/visualizations/flexible-layouts.md)
       + [Ändra skala/axel för visualiseringar](analysis-workspace/visualizations/changing-the-scale-axis-on-visualizations.md)
@@ -128,13 +131,10 @@ ht-degree: 8%
       + [Intralänkning i Analysis Workspace](analysis-workspace/visualizations/intra-linking-in-analysis-workspace.md)
       + [Tema för positiv-negativ karta](analysis-workspace/visualizations/positive-negative-map-theme.md)
       + [Ordna om och ändra storlek på visualiseringar](analysis-workspace/visualizations/rearranging-and-resizing-visualizations.md)
-      + [RTF-redigerare i Analysis Workspace](analysis-workspace/visualizations/rich-text-editor-in-analysis-workspace.md)
       + [Redigera serieetiketter](analysis-workspace/visualizations/series-label-editing.md)
       + [Staplade 100 %-visualiseringar](analysis-workspace/visualizations/hundred-percent-stacked-visualizations.md)
       + [Inställningar för tabelldatakälla](analysis-workspace/visualizations/table-data-source-settings.md)
       + [Bygg en tidsparande heatmap](analysis-workspace/visualizations/build-a-time-parting-heatmap.md)
-      + [Treemap och Scatterplot Visualizations](analysis-workspace/visualizations/treemap-and-scatterplot-visualizations.md)
-      + [Visualisering av Venndiagram](analysis-workspace/visualizations/venn-diagram-visualization.md)
       + [Inställningar för visualisering av datakälla](analysis-workspace/visualizations/visualization-data-source-settings.md)
    + Använder segment {#applying-segments}
       + [Använda segment i ditt Analysis Workspace-projekt](analysis-workspace/applying-segments/applying-segments-to-your-analysis-workspace-project.md)
