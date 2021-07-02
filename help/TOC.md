@@ -4,9 +4,9 @@ user-guide-description: En samling videor och självstudiekurser för Adobe Anal
 breadcrumb-title: Analytics Tutorials
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
-source-git-commit: 5689424f4597c509ca5040f8b8f2b06a1fd60bfb
+source-git-commit: e2f27788da1c1355f55984c1435dd00d29f2fbd5
 workflow-type: tm+mt
-source-wordcount: '2066'
+source-wordcount: '2065'
 ht-degree: 8%
 
 ---
@@ -111,17 +111,18 @@ ht-degree: 8%
       + [Markera data som ska visas](analysis-workspace/visualizations/selecting-data-to-visualize.md)
       + [Hämta data till visualiseringar](analysis-workspace/visualizations/getting-data-into-visualizations.md)
       + [Använda komponentlistrutor i arbetsytan](analysis-workspace/visualizations/using-component-dropdowns-in-workspace.md)
-      + [Område och område staplade](analysis-workspace/visualizations/area-and-area-stacked.md)
-      + [Stolpvisa visualiseringar i staplar](analysis-workspace/visualizations/bar-and-bar-stacked-visualizations.md)
+      + [Staplade visualiseringar i område och område](analysis-workspace/visualizations/area-and-area-stacked.md)
+      + [Stolpvisualiseringar](analysis-workspace/visualizations/bar-and-bar-stacked-visualizations.md)
       + [Visualisering av punktdiagram](analysis-workspace/visualizations/bullet-graph-visualization.md)
       + [Visualisering av ring](analysis-workspace/visualizations/using-the-donut-visualization.md)
       + [Histogramvisualisering](analysis-workspace/visualizations/histogram-visualization.md)
-      + [Linjevisualisering i Analysis Workspace](analysis-workspace/visualizations/line-visualization-in-analysis-workspace.md)
+      + [Radvisualisering](analysis-workspace/visualizations/line-visualization-in-analysis-workspace.md)
       + [Lägga till trendlinjer i linjevisualiseringar](analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.md)
       + [Kartvisualisering](analysis-workspace/visualizations/map-visualization.md)
       + [Visualiseringar av sammanfattningsnummer och sammanfattningsändringar](analysis-workspace/visualizations/summary-number-and-summary-change-visualizations.md)
       + [Textvisualisering](analysis-workspace/visualizations/rich-text-editor-in-analysis-workspace.md)
-      + [Treemap och Scatterplot Visualizations](analysis-workspace/visualizations/treemap-and-scatterplot-visualizations.md)
+      + [Scatterplot Visualization](analysis-workspace/visualizations/scatterplot-visualization.md)
+      + [Treemap-visualisering](analysis-workspace/visualizations/treemap-visualization.md)
       + [Visualisering av Venndiagram](analysis-workspace/visualizations/venn-diagram-visualization.md)
       + [Använda funktionen för ackumulerat genomsnitt för att använda måttutjämning](analysis-workspace/visualizations/using-the-cumulative-average-function-to-apply-metric-smoothing.md)
       + [Flexibla layouter](analysis-workspace/visualizations/flexible-layouts.md)
