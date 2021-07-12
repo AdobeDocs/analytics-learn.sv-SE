@@ -1,22 +1,21 @@
 ---
 title: Adobe Analytics-instrumentpaneler i Styrkort
 description: I den här videon får du lära dig hur du skapar och delar styrkort i Analysis Workspace som ska visas på Adobe Analytics dashboards (mobilapp).
-feature: Analytics Dashboards
+feature: Kontrollpaneler för analyser
 topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 kt: 5286
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 05bc39ad-b45c-4393-8cfb-47b215228377
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '74'
-ht-degree: 24%
+source-wordcount: '71'
+ht-degree: 25%
 
 ---
-
 
 # Adobe Analytics-instrumentpaneler i Styrkort
 
