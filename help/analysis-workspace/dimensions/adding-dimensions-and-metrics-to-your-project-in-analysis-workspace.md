@@ -1,22 +1,21 @@
 ---
 title: Lägga till Dimensioner och statistik i ditt projekt i Analysis Workspace
 description: I den här videon får du lära dig om mått och mätvärden, skillnaden mellan dem och hur du lägger till dem i tabeller och visualiseringar i Analysis Workspace. Lär dig även hur du lägger till färdiga beräknade värden.
-feature: Dimensions
+feature: Mått
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4104
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 748ba7ff-a75d-4ecb-a5d8-5451d1922725,01466500-25ef-40d5-9ae1-ce1e0e92b0b5,01466500-25ef-40d5-9ae1-ce1e0e92b0b5,748ba7ff-a75d-4ecb-a5d8-5451d1922725
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '100'
+source-wordcount: '97'
 ht-degree: 11%
 
 ---
-
 
 # Lägga till [!UICONTROL Dimensions] och [!UICONTROL Metrics] i ditt projekt i Analysis Workspace
 
