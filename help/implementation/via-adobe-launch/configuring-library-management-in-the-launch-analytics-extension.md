@@ -1,22 +1,21 @@
 ---
 title: Konfigurera bibliotekshantering för analys
 description: Om du just har börjat med tillägget Experience Platform Launch för Adobe Analytics kan den här videon hjälpa dig med bibliotekshanteringsdelen av konfigurationen, inklusive att välja rapportsviter som du vill skicka data till.
-feature: Launch Implementation
+feature: Starta implementering
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 2836
-role: "Developer, Data Engineer"
+role: Developer, Data Engineer
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: be28db8a-0de6-4f9f-ae2e-2337e86740a1
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '124'
 ht-degree: 9%
 
 ---
-
 
 # Konfigurerar [!UICONTROL Library Management] för [!DNL Analytics] {#configuring-library-management-in-the-launch-analytics-extension}
 
