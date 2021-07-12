@@ -3,25 +3,24 @@ title: Konfigurera postnummeranalys på marknaden - ett användningsfall
 seo-title: Konfigurera postnummeranalys på marknaden - ett användningsfall
 description: I det här fallet kommer vi att konfigurera systemet så att postnummer infogas, klassificeras som ej marknadsförda eller marknadsförda och sedan använda dessa data i Analysis Workspace så att vi kan se hur effektiva våra geo-riktade marknadsföringskampanjer är.
 seo-description: I det här fallet kommer vi att konfigurera systemet så att postnummer infogas, klassificeras som ej marknadsförda eller marknadsförda och sedan använda dessa data i Analysis Workspace så att vi kan se hur effektiva våra geo-riktade marknadsföringskampanjer är.
-feature: Use Cases
+feature: Användningsexempel
 topics: null
 activity: use
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 2846
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 0650a07f-5b93-40e0-a4f0-04fa83342a1c
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '200'
+source-wordcount: '197'
 ht-degree: 1%
 
 ---
 
-
-# Setting up In Market Zip Code Analysis - a Use Case {#setting-up-in-market-zip-code-analysis-a-use-case}
+# Konfigurera postnummeranalys på marknaden - ett användningsfall {#setting-up-in-market-zip-code-analysis-a-use-case}
 
 I det här fallet kommer vi att konfigurera systemet så att postnummer infogas, klassificeras som ej marknadsförda eller marknadsförda och sedan använda dessa data i Analysis Workspace så att vi kan se hur effektiva våra geo-riktade marknadsföringskampanjer är.
 
