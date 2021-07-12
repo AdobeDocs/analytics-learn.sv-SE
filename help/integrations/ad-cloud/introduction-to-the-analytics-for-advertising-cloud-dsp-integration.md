@@ -7,17 +7,16 @@ activity: understand
 doc-type: feature video
 team: Technical Marketing
 kt: 2913
-topic: Integrations
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+topic: Integreringar
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 66fb50e7-6500-4b16-beab-7ceac17f9245
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '194'
+source-wordcount: '183'
 ht-degree: 0%
 
 ---
-
 
 # Introduktion till [!DNL Analytics for Advertising Cloud]-DSP {#introduction-to-the-analytics-for-advertising-cloud-dsp-integration}
 
