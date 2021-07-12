@@ -8,17 +8,16 @@ doc-type: feature video
 team: Technical Marketing
 thumbnail: 35120.jpg
 kt: 5477
-topic: Integrations
-role: Business Practitioner
+topic: Integreringar
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 3762dde6-b090-42e3-b6c5-002a022d13ee
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '57'
+source-wordcount: '54'
 ht-degree: 1%
 
 ---
-
 
 # Skapa Advertising Cloud Site Entry-rapporter
 
