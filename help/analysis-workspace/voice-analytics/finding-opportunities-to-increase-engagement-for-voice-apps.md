@@ -1,22 +1,21 @@
 ---
 title: Hitta möjligheter att öka engagemanget för röstappar
 description: Lär dig hur du får en djupgående förståelse för hur hög engagemanget i din röstapp är genom att utnyttja funktioner som användarfrekvens, kohort, besök/användare och sessionslängder.
-feature: Visualizations
+feature: Visualiseringar
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2906
-role: Business Practitioner
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: bcd89ea1-fa1b-41d1-816e-cdd9d49ae172
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '79'
+source-wordcount: '76'
 ht-degree: 1%
 
 ---
-
 
 # Hitta möjligheter att öka engagemanget för röstappar {#finding-opportunities-to-increase-engagement-for-voice-apps}
 
