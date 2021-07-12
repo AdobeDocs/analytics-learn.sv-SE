@@ -8,17 +8,16 @@ doc-type: feature video
 team: Technical Marketing
 thumbnail: 35114.jpg
 kt: 5471
-topic: Integrations
-role: Administrator
+topic: Integreringar
+role: Admin
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: dc363748-713e-4a68-a686-99a65076f1dc
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '56'
-ht-degree: 91%
+source-wordcount: '54'
+ht-degree: 94%
 
 ---
-
 
 # Skapa en kampanjanalys före start med Adobe Analytics
 
