@@ -1,23 +1,22 @@
 ---
 title: Datumjämförelser i Analysis Workspace
 description: I den här videon ska vi visa hur du kan utnyttja två datumjämförelsefunktioner i frihandstabeller -"lägg till tidsperiodkolumn" och"jämföra tidsperioder".
-feature: Calendar
+feature: Kalender
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 23985.jpg
 kt: 2011
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 2f2ef013-1118-4c78-8877-c294654865e0
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '102'
 ht-degree: 0%
 
 ---
-
 
 # Datumjämförelser i Analysis Workspace {#date-comparisons-in-analysis-workspace}
 
