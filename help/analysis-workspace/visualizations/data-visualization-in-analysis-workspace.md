@@ -1,22 +1,21 @@
 ---
 title: Datavisualisering i Analysis Workspace
 description: Det här seminariet handlar om visualiseringar inom Analysis Workspace. Ni kommer att lära er färdigheter och åtgärder som hjälper er att leverera kraftfulla insikter till organisationen i det mest användbara formatet.
-feature: Visualizations
+feature: Visualiseringar
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2114
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: f6881db0-68c8-4b17-aaf3-232a6886c925
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '72'
+source-wordcount: '69'
 ht-degree: 1%
 
 ---
-
 
 # Data [!UICONTROL Visualization] i Analysis Workspace {#data-visualization-in-analysis-workspace}
 
