@@ -1,24 +1,23 @@
 ---
 title: Uppdatera AppMeasurement när Experience Platform Launch inte används
 description: I den här videon visas hur du uppdaterar din appMeasurement-kod när du inte använder Experience Platform Launch. Detta inkluderar var koden ska hämtas och var den ska uppdateras.
-feature: Appmeasurement Implementation
+feature: Implementering av mätning
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1848
-role: "Developer, Data Engineer"
+role: Developer, Data Engineer
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 27a8ce2f-afea-4505-9525-49720432f40f
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '140'
 ht-degree: 0%
 
 ---
 
-
-# Uppdaterar AppMeasurement när [!DNL Experience Platform Launch] {#updating-appmeasurement-when-not-using-adobe-launch} inte används
+# Uppdaterar AppMeasurement när inte [!DNL Experience Platform Launch] används {#updating-appmeasurement-when-not-using-adobe-launch}
 
 I den här videon visas hur du uppdaterar din appMeasurement-kod när du inte använder Adobe [!DNL Experience Platform Launch]. Detta inkluderar var koden ska hämtas och var den ska uppdateras.
 
