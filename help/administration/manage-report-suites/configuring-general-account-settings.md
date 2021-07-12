@@ -1,21 +1,20 @@
 ---
 title: Konfigurera allmänna kontoinställningar
 description: När du konfigurerar Adobe Analytics kan konfigureringen av inställningarna påverka hur data samlas in och lagras. Den här videon går igenom några av de allmänna inställningarna. Du kan även ändra dessa efter implementeringen, eftersom det aldrig är för sent att göra dina data mer korrekta.
-feature: Report Suite Settings
-topic: Administration
-role: Administrator
+feature: Inställningar för Report Suite
+topic: Administrering
+role: Admin
 level: Beginner
 doc-type: feature video
 thumbnail: 332330.jpg
 kt: 7399
-translation-type: tm+mt
-source-git-commit: 646380f871927120f3f59ba4ee0ac84d8c6782aa
+exl-id: 83797aa3-afda-40ae-b74a-2cd6d5c39597
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '125'
 ht-degree: 0%
 
 ---
-
 
 # Konfigurera allmänna kontoinställningar
 
