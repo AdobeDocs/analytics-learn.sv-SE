@@ -1,22 +1,21 @@
 ---
 title: Kundtips för att fortsätta din Adobe Analytics Learning Journey
 description: Möt tre Adobe-kunder som har tips och tricks om hur du får ut det mesta av Adobe Analytics.
-feature: Workspace Basics
+feature: Grundläggande om arbetsytan
 topics: null
 activity: use
 doc-type: article
 team: Technical Marketing
 kt: 4111
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: af24fd66-a4a9-439a-b722-226f4def861a
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '334'
+source-wordcount: '331'
 ht-degree: 0%
 
 ---
-
 
 # Kundtips för att fortsätta din Adobe Analytics Learning Journey
 
