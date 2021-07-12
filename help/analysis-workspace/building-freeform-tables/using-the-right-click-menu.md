@@ -1,22 +1,21 @@
 ---
 title: Använda högerklicksmenyn i Analysis Workspace
 description: Lär dig hur du använder högerklicksmenyn i Analysis Workspace för att göra snabbare uppdelningar och mycket mer.
-feature: Freeform Tables
+feature: Frihandstabeller
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2029
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 288b3c97-21be-431e-800e-5854b078e9e6
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '67'
+source-wordcount: '64'
 ht-degree: 0%
 
 ---
-
 
 # Använda högerklicksmenyn i Analysis Workspace {#using-the-right-click-menu-in-analysis-workspace}
 
