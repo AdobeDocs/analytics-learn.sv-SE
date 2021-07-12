@@ -8,17 +8,16 @@ doc-type: feature video
 team: Technical Marketing
 thumbnail: 35115.jpg
 kt: 5472
-topic: Integrations
-role: Business Practitioner
+topic: Integreringar
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: e879f628-99e9-41ab-a711-d9e6e1b22d16
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '47'
+source-wordcount: '44'
 ht-degree: 2%
 
 ---
-
 
 # Rapportering med Advertising Cloud marknadsföringskanaler
 
