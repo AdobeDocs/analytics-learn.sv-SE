@@ -1,22 +1,21 @@
 ---
 title: Schemalagda och hämtningsbara projekt i Analysis Workspace
 description: Med Analysis Workspace kan du schemalägga och hämta projekt till PDF-filer och CSV-filer. I den här videon visas hur du kan schemalägga projekt för framtida leverans till dig själv eller dina kollegor, liksom hur du kan hämta PDF-filer med projekt som du arbetar med.
-feature: Curate and Share
+feature: Kuratera och dela
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2298
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 742d81be-9fa1-47bc-8afe-a4ce0b4763e9
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '99'
 ht-degree: 0%
 
 ---
-
 
 # Schemalagda och hämtningsbara projekt i Analysis Workspace{#scheduled-and-downloadable-projects-in-analysis-workspace}
 
