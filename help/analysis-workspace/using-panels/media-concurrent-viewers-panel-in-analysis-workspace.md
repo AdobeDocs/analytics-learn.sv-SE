@@ -1,23 +1,22 @@
 ---
 title: Media Concurrent Viewer Panel i Analysis Workspace
 description: För kunder som använder Media Analytics kan du med panelen Media Concurrent Viewer förstå var maximal samtidighet har inträffat eller var bortfall har skett för att ge värdefull insikt i innehållets och visningsprogrammets kvalitet och för att hjälpa till med felsökning eller planering av volym/skala.
-feature: Panels
+feature: Paneler
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 330177.jpg
 kt: 6834
-role: Business Practitioner
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 3ba5f76d-cab4-4014-b377-9083dbfea1a0
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '118'
 ht-degree: 0%
 
 ---
-
 
 # Media Concurrent Viewer Panel i Analysis Workspace
 
