@@ -1,24 +1,23 @@
 ---
 title: Användargränssnitt för hantering av dataflöden
 description: Med Adobe Analytics Data Feed kan du exportera råa klickströmsdata för att importera och sammanfoga dem med andra datakällor i en EDW- eller datasjön. Du kan skapa och hantera dina egna dataflöden inom Adobe Analytics. Den här videon visar hur du gör.
-feature: Data Feeds
+feature: Datafeeds
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2353
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 79599c6d-eb3e-438a-8e24-45b286d54071
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '110'
 ht-degree: 1%
 
 ---
 
-
-# [!UICONTROL Data Feeds] Hanteringsgränssnitt  {#data-feeds-management-ui}
+# [!UICONTROL Data Feeds] Hanteringsgränssnitt {#data-feeds-management-ui}
 
 Med Adobe Analytics [!UICONTROL Data Feed] kan du exportera råa klickströmsdata för import och sammanfogning med andra datakällor i en EDW- eller datasjön. Du kan skapa och hantera egna [!UICONTROL Data Feeds] inom Adobe Analytics. Den här videon visar hur du gör.
 
