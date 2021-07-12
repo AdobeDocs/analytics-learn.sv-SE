@@ -1,25 +1,24 @@
 ---
 title: People Metric in Adobe Analytics
 description: Adobe Analytics erbjuder nu personmätare för att avduplicera besökare baserat på Adobe Experience Cloud Device Co-op! Den här videon innehåller mer information och visar hur du kommer igång.
-feature: Metrics
+feature: Mätvärden
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 24037.jpg
 kt: 1986
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 47110d1b-7ae7-483f-ba05-796d00741b20
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '114'
 ht-degree: 0%
 
 ---
 
-
-# [!UICONTROL People] [!UICONTROL Metric] i Adobe Analytics  {#people-metric-in-adobe-analytics}
+# [!UICONTROL People] [!UICONTROL Metric] i Adobe Analytics {#people-metric-in-adobe-analytics}
 
 Adobe Analytics erbjuder nu ett [!UICONTROL People]-mått för att avduplicera besökare baserat på Adobe Experience Cloud [!UICONTROL Device Co-op]! Den här videon innehåller mer information och visar hur du kommer igång.
 
