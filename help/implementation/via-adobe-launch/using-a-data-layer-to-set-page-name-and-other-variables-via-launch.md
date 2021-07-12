@@ -1,22 +1,21 @@
 ---
 title: Använda ett datalager för att ange sidnamn och andra variabler i Adobe Analytics via Launch
 description: Att använda ett datalager för Analytics och andra Experience Cloud-lösningar anses vara en bra metod. I den här videon får du se hur du tar bort dina värden från datalagret och använder dem i Launch för att fylla i variabler i Adobe Analytics.
-feature: Launch Implementation
+feature: Starta implementering
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1852
-role: "Developer, Data Engineer"
+role: Developer, Data Engineer
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 408ceb47-df05-4456-85bb-0ef2798a05a5
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '362'
+source-wordcount: '358'
 ht-degree: 0%
 
 ---
-
 
 # Använda ett datalager för att ange sidnamn och andra variabler via [!DNL Experience Platform Launch] {#using-a-data-layer-to-set-page-name-and-other-variables-in-adobe-analytics-via-launch}
 
