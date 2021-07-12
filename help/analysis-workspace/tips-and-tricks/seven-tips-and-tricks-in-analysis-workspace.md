@@ -1,22 +1,21 @@
 ---
 title: 7 Tips och tricks som gör det enklare och snabbare att skapa anpassade analysprojekt
 description: Analysis Workspace är ett kraftfullt verktyg i Adobe Analytics som kan hjälpa er att skapa slagkraftigare analysprojekt. Det har en omfattande funktionsuppsättning som gör att du kan göra vilken typ av frihandsanalys som helst, men en enkel användarupplevelse som gör den här kraften och skalan tillgänglig.
-feature: Workspace Basics
+feature: Grundläggande om arbetsytan
 topics: topics
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 3945
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: af0e66cb-4e74-4ce0-9429-4a461fd54263
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '1004'
+source-wordcount: '993'
 ht-degree: 0%
 
 ---
-
 
 # 7 Tips och tricks som gör det enklare och snabbare att skapa anpassade analysprojekt
 
@@ -95,7 +94,7 @@ Nu kan du enkelt omvandla vilket projekt som helst till en egen mall. Välj bara
 >
 >**Mycket efterfrågad kapacitet:** Flera kunder bad oss att göra det möjligt att spara projekt som anpassade mallar. Den här funktionen har blivit en av deras favoriter.
 
-[Klicka här för att hitta fler tips och tricks om Experience League](https://experienceleague.adobe.com/?search=tips&amp;tag=Analysis+Workspace#recommended/solutions/analytics)
+[Klicka här för att hitta fler tips och tricks på Experience League](https://experienceleague.adobe.com/?search=tips&amp;tag=Analysis+Workspace#recommended/solutions/analytics)
 
 | Om författaren |  |
 |------------|------------|
