@@ -1,24 +1,23 @@
 ---
 title: Förbättringar av nollstatus i Analysis Workspace
 description: Zero State är Analysis Workspace inledande layout. För att hjälpa både nybörjare och erfarna användare att få ut mer av Analysis Workspace har vi förbättrat vänstra räcke, tomma paneler, frihandsritar och släppzoner så att de blir mer intuitiva för användarna.
-feature: Projects
+feature: Projekt
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1773
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: dc37b2e5-bb00-40bc-a620-ef7d6a4e8fdf
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '87'
 ht-degree: 0%
 
 ---
 
-
-# [!DNL Zero State] Förbättringar i Analysis Workspace  {#zero-state-improvements-in-analysis-workspace}
+# [!DNL Zero State] Förbättringar i Analysis Workspace {#zero-state-improvements-in-analysis-workspace}
 
 &quot;[!DNL Zero State]&quot; är den inledande layouten för Analysis Workspace. För att hjälpa både nybörjare och erfarna användare att få ut mer av Analysis Workspace har vi förbättrat den vänstra listen, panelen med tomt utrymme, [!UICONTROL freeform table] och släppzoner så att de blir mer intuitiva för användarna.
 
