@@ -1,22 +1,21 @@
 ---
 title: Verifierar den globala sidinläsningsregeln i Launch
 description: När du implementerar Adobe Analytics på din webbplats vill du kunna validera vad du gör under tiden. Felsökaren Experience Cloud till räddningen! I den här videon visas hur du validerar den globala sidans inläsningsregel med felsökaren.
-feature: Validation
+feature: Validering
 topics: null
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 3589
-role: "Developer, Data Engineer"
+role: Developer, Data Engineer
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 57bc5a02-6b78-48e2-9b67-85b97fe52d6a
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '102'
-ht-degree: 0%
+source-wordcount: '98'
+ht-degree: 1%
 
 ---
-
 
 # Verifierar den globala sidinläsningen [!UICONTROL Rule] i [!DNL Launch]
 
