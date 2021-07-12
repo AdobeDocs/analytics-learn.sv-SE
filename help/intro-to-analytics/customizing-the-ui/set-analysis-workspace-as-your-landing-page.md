@@ -1,22 +1,21 @@
 ---
 title: Ange Analysis Workspace som landningssida i Adobe Analytics
 description: I den här videon visas hur du kan ange olika aspekter av Analysis Workspace som landningssida i Adobe Analytics för att effektivisera arbetsflödena.
-feature: Workspace Basics
+feature: Grundläggande om arbetsytan
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2363
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: dc3adde2-be62-4c78-a047-849dd50a118a
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '69'
+source-wordcount: '66'
 ht-degree: 0%
 
 ---
-
 
 # Ange Analysis Workspace som landningssida i Adobe Analytics {#set-analysis-workspace-as-your-landing-page-in-adobe-analytics}
 
