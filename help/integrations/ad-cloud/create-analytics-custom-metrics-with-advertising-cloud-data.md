@@ -8,17 +8,16 @@ doc-type: feature video
 team: Technical Marketing
 thumbnail: 35119.jpg
 kt: 5476
-topic: Integrations
-role: Business Practitioner
+topic: Integreringar
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 9c50787d-ee08-437a-81ab-4e0da7861269
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '49'
-ht-degree: 87%
+source-wordcount: '46'
+ht-degree: 93%
 
 ---
-
 
 # Skapa anpassade Analytics-värden med Advertising Cloud-data
 
