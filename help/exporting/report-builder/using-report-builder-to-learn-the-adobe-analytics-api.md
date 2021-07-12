@@ -7,18 +7,17 @@ activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2345
-role: Business Practitioner
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 8b8e0dac-2498-4fba-ba4b-585b309ae1fd
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '263'
+source-wordcount: '260'
 ht-degree: 0%
 
 ---
 
-
-# Lär dig Adobe Analytics API {#using-report-builder-to-learn-the-adobe-analytics-api} med [!UICONTROL Report Builder]
+# Lär dig Adobe Analytics API med [!UICONTROL Report Builder] {#using-report-builder-to-learn-the-adobe-analytics-api}
 
 [!UICONTROL Report Builder] är något vi alla känner till och älskar. Och om jag sa att du skulle kunna använda det du vet om [!UICONTROL Report Builder] för att förbättra din Adobe Analytics-kompetens ännu mer? I den här videon går vi igenom hur du tar felsökningsbegäranden från [!UICONTROL Report Builder] och använder dem för att lära oss hur du skapar egna [!DNL Analytics] API-frågor.
 
