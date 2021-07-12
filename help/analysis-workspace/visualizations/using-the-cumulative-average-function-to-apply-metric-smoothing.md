@@ -1,23 +1,22 @@
 ---
 title: Använda funktionen för ackumulerat genomsnitt för att använda måttutjämning
 description: Ju längre tid ett mätresultat trendas, desto svårare är det att skilja riktningstrender åt för mätvärdet. För att lösa detta kan funktionen Cumulative Average i Calculated Metrics användas för att utjämna mätvärden i Analysis Workspace.
-feature: Visualizations
+feature: Visualiseringar
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 27068.jpg
 kt: 2854
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: c5d6ec8d-3d45-45bc-b690-97185d74bd18
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: '93'
 ht-degree: 1%
 
 ---
-
 
 # Använda [!UICONTROL Cumulative Average] [!UICONTROL Function] för att använda [!UICONTROL Metric] utjämning {#using-the-cumulative-average-function-to-apply-metric-smoothing}
 
