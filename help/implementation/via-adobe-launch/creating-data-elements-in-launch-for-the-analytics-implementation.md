@@ -1,22 +1,21 @@
 ---
 title: Skapa dataelement i Launch för analysimplementeringen
 description: I den här videon visas hur du skapar dataelement för Analytics-implementeringen i Launch, baserat på de variabler och händelser som du har bestämt och dokumenterat i ett SDR-dokument (Solution Design Reference).
-feature: Launch Implementation
+feature: Starta implementering
 topics: null
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 3587
-role: "Developer, Data Engineer"
+role: Developer, Data Engineer
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: ee3a808a-f972-46e4-9213-2bc5bba6e0fd
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '75'
+source-wordcount: '71'
 ht-degree: 0%
 
 ---
-
 
 # Skapar [!UICONTROL Data Elements] i [!DNL Launch] för implementeringen av [!DNL Analytics]
 
