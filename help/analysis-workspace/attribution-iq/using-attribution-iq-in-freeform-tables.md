@@ -1,23 +1,22 @@
 ---
 title: Använda Attribution IQ i frihandstabeller
 description: Med Attribution IQ kan du ändra attribueringsmodellen till vilken som helst av tio regelbaserade modeller i en fri kolumn.
-feature: Attribution
+feature: Attribuering
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 23136.jpg
 kt: 1661
-role: Business Practitioner
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: adf48696-d495-43a3-9421-993434f35962,28b1dbc4-315b-47d5-82f7-4b394ed31ad8,28b1dbc4-315b-47d5-82f7-4b394ed31ad8,adf48696-d495-43a3-9421-993434f35962
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '92'
 ht-degree: 3%
 
 ---
-
 
 # Använda [!DNL Attribution IQ] i [!DNL Freeform Tables] {#using-attribution-iq-in-freeform-tables}
 
