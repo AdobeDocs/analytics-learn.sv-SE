@@ -1,22 +1,21 @@
 ---
 title: Mappa contextData-variabler till Props och Evar med bearbetningsregler
 description: När du använder contextData-variabler i din Adobe Analytics-implementering måste du mappa contextData-variablerna till props/eVars i gränssnittet för bearbetningsregler för att dina data ska visas i de faktiska rapporterna. Den här videon visar hur du gör det här.
-feature: Implementation Basics
+feature: Implementeringsgrunder
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1850
-role: Business Practitioner
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 37729e4a-f33f-4564-a49e-95ee371c1687
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '113'
 ht-degree: 0%
 
 ---
-
 
 # Mappa [!DNL contextData] variabler till [!DNL Props] och [!DNL Evars] med [!UICONTROL Processing Rules] {#map-contextdata-variables-into-props-and-evars-with-processing-rules}
 
