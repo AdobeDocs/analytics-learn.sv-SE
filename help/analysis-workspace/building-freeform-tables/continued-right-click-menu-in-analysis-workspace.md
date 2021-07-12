@@ -1,22 +1,21 @@
 ---
 title: Fortsatt högerklicksmeny i Analysis Workspace
 description: Analysis Workspace innehåller kraftfulla högerklicksmenyer med ett antal kraftfulla funktioner. I den här videon förklaras hur du arbetar med högerklicksmenyer i Analysis Workspace.
-feature: Freeform Tables
+feature: Frihandstabeller
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2030
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 00d7a403-e445-4d8c-a84b-fd0053a9d639
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '69'
+source-wordcount: '66'
 ht-degree: 0%
 
 ---
-
 
 # Fortsatt högerklicksmeny i Analysis Workspace {#continued-right-click-menu-in-analysis-workspace}
 
