@@ -1,24 +1,23 @@
 ---
 title: Mappa visualisering i Analysis Workspace
 description: I den här videon visas hur du använder den nya kartvisualiseringen i Analysis Workspace. Med kartviz kan du visa antingen mobildata (lat/long) eller webbdata (IP-adress) mot en dynamisk karta, så att du kan få en uppfattning om hur kunderna använder sig av deras plats.
-feature: Visualizations
+feature: Visualiseringar
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1771
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: ffae778a-63a1-4587-94fe-a2ad16931b3a
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---
 
-
-# [!UICONTROL Map] [!UICONTROL Visualization] i Analysis Workspace  {#map-visualization-in-analysis-workspace}
+# [!UICONTROL Map] [!UICONTROL Visualization] i Analysis Workspace {#map-visualization-in-analysis-workspace}
 
 I den här videon visas hur du använder [!UICONTROL Map] [!UICONTROL visualization] i Analysis Workspace. Med [!UICONTROL Map]-viz kan du visa antingen [!UICONTROL mobile lat/long]- eller webbdata (IP-adress) mot en dynamisk [!UICONTROL map], så att du kan få en uppfattning om hur kunderna använder sig av deras plats.
 
