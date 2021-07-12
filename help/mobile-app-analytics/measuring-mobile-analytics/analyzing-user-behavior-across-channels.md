@@ -1,24 +1,23 @@
 ---
 title: Analyserar användarbeteende över flera kanaler
 description: Lär dig hur du identifierar användarnas vägar för konvertering i mobilappar med Flow och jämför det med andra upplevelser som webben. Definiera och mät konverteringar i flerstegsprocesser för att skapa framgång för era mobilappar.
-feature: Workspace Basics
+feature: Grundläggande om arbetsytan
 topics: mobile
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 3053
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 92af75b4-c1c3-4679-aede-b9e154e9f836
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '86'
+source-wordcount: '83'
 ht-degree: 0%
 
 ---
 
-
-# Analyserar användarbeteende över kanaler {#analyzing-user-behavior-across-channels}
+# Analyserar användarbeteende över flera kanaler {#analyzing-user-behavior-across-channels}
 
 Lär dig hur du identifierar användarnas vägar för konvertering i mobilappar med [!DNL Flow] och jämför det med andra upplevelser som webben. Definiera och mät konverteringar i flerstegsprocesser för att skapa framgång för era mobilappar.
 
