@@ -1,23 +1,22 @@
 ---
 title: 'Beräkna kvarhållande av rullande text i kohorttabeller '
 description: Inställningen Rolling Calculation i Cohort Tables kan användas för att analysera kohortperiod över en period och för att förstå hur samma användare behålls (eller faller bort) över tiden.
-feature: Visualizations
+feature: Visualiseringar
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25962.jpg
 kt: 2481
-role: Business Practitioner
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 3439b31c-dd4a-4a21-857a-1884463003cf
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '75'
 ht-degree: 1%
 
 ---
-
 
 # Beräkna rullande [!UICONTROL Retention] i [!UICONTROL Cohort Tables] {#calculate-rolling-retention-in-cohort-tables}
 
