@@ -7,18 +7,17 @@ activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2325
-role: Business Practitioner
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: db1c229a-96a0-4ca0-8c4e-a04721564c7d
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '101'
 ht-degree: 0%
 
 ---
 
-
-# [!UICONTROL Virtual Report Suites] i Adobe Analytics  {#virtual-report-suites-in-adobe-analytics}
+# [!UICONTROL Virtual Report Suites] i Adobe Analytics {#virtual-report-suites-in-adobe-analytics}
 
 Med Adobe Analytics kan du skapa &quot;[!UICONTROL Virtual Report Suites]&quot; för dina användare, vilket segmenterar dina data och begränsar användare/grupper till endast tillåtna datasegment. I den här videon visas hur du skapar och arbetar med [!UICONTROL Virtual Report Suites].
 
