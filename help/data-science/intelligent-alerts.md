@@ -1,22 +1,21 @@
 ---
 title: Intelligenta aviseringar i Adobe Analytics
 description: Intelligenta varningar gör det möjligt att upptäcka avvikelsen direkt i inkorgen eller i telefonen. Att vara direkt medveten om viktiga förändringar i nyckeltal och segment innebär inga missade möjligheter.
-feature: Data Science
+feature: Datavetenskap
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2338
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 04af0dc3-3cf3-446d-924c-82f21ee6974c
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '91'
 ht-degree: 0%
 
 ---
-
 
 # Intelligenta aviseringar i Adobe Analytics {#intelligent-alerts-in-adobe-analytics}
 
