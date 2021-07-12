@@ -2,13 +2,13 @@
 title: Mappa Web SDK-variabler till Adobe Analytics
 description: Lär dig hur du mappar analysvariabler från Web SDK till Adobe Analytics med bearbetningsregler.
 feature: Användningsexempel
-role: Business Practitioner
+role: User
 level: Intermediate
 doc-type: feature video
 thumbnail: 333606.jpg
 kt: 7998
 exl-id: 7b6fcaa9-9283-4c84-a975-651a36b51d95
-source-git-commit: a1606697b78d1a48d4defffac3a8524cfb7fcf54
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 0%
