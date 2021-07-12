@@ -9,11 +9,10 @@ doc-type: feature video
 team: Technical Marketing
 kt: 4819
 topic: Integreringar
-role: Business Practitioner
+role: User
 level: Intermediate
 exl-id: c23ebad6-2967-4739-b381-1f3c6415f8c7
-translation-type: tm+mt
-source-git-commit: 5dead486510dd74b7f6a04848ecd7dc03267958f
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
 source-wordcount: '166'
 ht-degree: 28%
