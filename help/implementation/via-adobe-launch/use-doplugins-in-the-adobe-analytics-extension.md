@@ -1,22 +1,21 @@
 ---
 title: Använd doPlugins i Adobe Analytics Extension
 description: Lär dig att använda Experience Platform Launch för att få bättre kontroll över dina Adobe Analytics-träffar genom att utnyttja funktionen doPlugins.
-feature: Launch Implementation
+feature: Starta implementering
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1994
-role: "Developer, Data Engineer"
+role: Developer, Data Engineer
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 2c6b5d24-9a7f-47ea-a239-d0f8784029df
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '60'
+source-wordcount: '56'
 ht-degree: 0%
 
 ---
-
 
 # Använd doPlugins i Adobe Analytics [!UICONTROL Extension] {#use-doplugins-in-the-adobe-analytics-extension}
 
