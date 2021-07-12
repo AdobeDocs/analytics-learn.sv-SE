@@ -1,24 +1,23 @@
 ---
 title: Sammanfattningsnummer och sammanfattning av ändringsvisualiseringar i Analysis Workspace
 description: I den här videon visas hur du använder visualiseringar för sammanfattningsnummer och sammanfattningsändringar på arbetsytan för analytiker.
-feature: Visualizations
+feature: Visualiseringar
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2136
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 82ded2b3-b032-40fe-8288-a759fd533d68
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '65'
+source-wordcount: '62'
 ht-degree: 1%
 
 ---
 
-
-# [!UICONTROL Summary Number] och  [!UICONTROL Summary Change] [!UICONTROL Visualizations] i Analysis Workspace  {#summary-number-and-summary-change-visualizations-in-analysis-workspace}
+# [!UICONTROL Summary Number] och  [!UICONTROL Summary Change] [!UICONTROL Visualizations] i Analysis Workspace {#summary-number-and-summary-change-visualizations-in-analysis-workspace}
 
 I den här videon visas hur du använder [!UICONTROL Summary Number] och [!UICONTROL Summary Change] [!UICONTROL visualizations] på arbetsytan för analytiker.
 
