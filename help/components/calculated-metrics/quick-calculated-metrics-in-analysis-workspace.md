@@ -1,23 +1,22 @@
 ---
 title: Snabbberäknade värden i Analysis Workspace
 description: Nu kan du snabbt skapa beräknade mätvärden i Analysis Workspace.  Om du vill göra en snabb procentuell ändring eller division med några mätvärden i frihandstabellen väljer du bara mätvärdena i huvudet, högerklickar och väljer den operator du vill använda.  Det nya beräknade måttet visas till höger.
-feature: Calculated Metrics
+feature: Beräknade mätvärden
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 23126.jpg
 kt: 1666
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 461dc5f8-b52e-47ce-b2c4-afe4426dab16
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '117'
+source-wordcount: '114'
 ht-degree: 1%
 
 ---
-
 
 # Snabb [!UICONTROL Calculated Metrics] i Analysis Workspace {#quick-calculated-metrics-in-analysis-workspace}
 
