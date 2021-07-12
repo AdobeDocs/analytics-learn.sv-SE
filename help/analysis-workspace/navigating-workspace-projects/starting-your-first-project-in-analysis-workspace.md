@@ -1,22 +1,21 @@
 ---
 title: Starta ditt första projekt i Analysis Workspace
 description: I den här videon får du lära dig hur du skapar ett projekt i Analysis Workspace med standardmallar och anpassade mallar, och hur du kopierar element mellan projekt.
-feature: Projects
+feature: Projekt
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4102
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: f13b349a-3f36-4b48-ae5a-5c045c58b069
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '86'
+source-wordcount: '83'
 ht-degree: 0%
 
 ---
-
 
 # Starta ditt första projekt i Analysis Workspace
 
