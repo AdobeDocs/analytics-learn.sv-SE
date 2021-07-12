@@ -1,23 +1,22 @@
 ---
 title: Kohortabellinställningar
 description: 'Det finns flera kohorttabellinställningar som gör att du kan anpassa visningen av kvarhållande och urholkning. Se dem markerade i den här videon. '
-feature: Visualizations
+feature: Visualiseringar
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 29433.jpg
 kt: 3972
-role: Business Practitioner
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: b237a965-9fe6-4c9a-923e-31af1c019790
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '112'
-ht-degree: 10%
+source-wordcount: '109'
+ht-degree: 11%
 
 ---
-
 
 # [!UICONTROL Cohort Table] Inställningar
 
