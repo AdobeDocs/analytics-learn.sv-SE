@@ -1,23 +1,22 @@
 ---
 title: Linjevisualisering i Analysis Workspace
 description: Radvisualiseringen visar mätvärden över en trendtidsperiod. Visualiseringsinställningarna gör att du kan anpassa hur varje rad ser ut och innehåller inställningar för Visa X/Y-axel, Visa min/max-etiketter och Visa trendlinje.
-feature: Visualizations
+feature: Visualiseringar
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 40384.jpg
 kt: 6277
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 7d638458-0e52-4824-8667-873045cfc372
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 0%
+source-wordcount: '98'
+ht-degree: 1%
 
 ---
-
 
 # Linjevisualisering i Analysis Workspace
 
