@@ -1,22 +1,21 @@
 ---
 title: Använda segment i ditt Analysis Workspace-projekt
 description: I den här videon får du lära dig hur du begränsar data i tabeller och visualiseringar genom att tillämpa segment på data.
-feature: Segmentation
+feature: Segmentering
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4107
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: d8bd4226-a3f0-4faa-8b78-4b47b5a008ce
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '74'
+source-wordcount: '71'
 ht-degree: 1%
 
 ---
-
 
 # Använda segment i ditt Analysis Workspace-projekt
 
