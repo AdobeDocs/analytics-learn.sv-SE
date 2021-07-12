@@ -1,24 +1,23 @@
 ---
 title: Treemap och Scatterplot Visualizations i Analysis Workspace
 description: Analysis Workspace i Adobe Analytics innehåller två populära visualiseringstyper - treemap och scatterplot. I den här videon förklaras hur du använder båda visualiseringstyperna i din analys.
-feature: Visualizations
+feature: Visualiseringar
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2117
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 149bf674-2444-488a-aafe-2a1df0a0315c
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '94'
 ht-degree: 1%
 
 ---
 
-
-# [!UICONTROL Treemap] och  [!UICONTROL Scatterplot] [!UICONTROL Visualizations] i Analysis Workspace  {#treemap-and-scatterplot-visualizations-in-analysis-workspace}
+# [!UICONTROL Treemap] och  [!UICONTROL Scatterplot] [!UICONTROL Visualizations] i Analysis Workspace {#treemap-and-scatterplot-visualizations-in-analysis-workspace}
 
 Analysis Workspace i Adobe Analytics innehåller två populära [!UICONTROL visualization]-typer - [!UICONTROL treemap] och [!UICONTROL scatterplot]. I den här videon förklaras hur du använder båda [!UICONTROL visualization]-typerna i din analys.
 
