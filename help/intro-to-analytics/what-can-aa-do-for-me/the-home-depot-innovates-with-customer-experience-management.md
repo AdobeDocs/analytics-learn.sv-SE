@@ -1,22 +1,21 @@
 ---
 title: Kundexempel - Home Depot nyskapar med Customer Experience Management
 description: HomeDepot.com, en e-handelsplats på 7 miljarder dollar inom ett företag på 100 miljarder dollar, ligger steget före konkurrenterna genom att säkerställa att kundupplevelsen är rätt. Läs om hur Home Depot använder Adobe lösningar för att skapa varumärkeslojalitet och kundnöjdhet med en personaliserad, anpassad shoppingupplevelse.
-feature: Use Cases
+feature: Användningsexempel
 topics: null
 activity: understand
 doc-type: value video
 team: Technical Marketing
 kt: 4387
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 97221e6f-24c6-4d03-a0b9-69e1944bb775
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '100'
 ht-degree: 0%
 
 ---
-
 
 # Kundexempel: [!DNL The Home Depot] Nyskapande med Customer Experience Management
 
