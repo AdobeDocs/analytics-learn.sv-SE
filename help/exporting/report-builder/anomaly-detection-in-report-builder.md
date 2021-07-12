@@ -7,16 +7,15 @@ activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1768
-role: Business Practitioner
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 80d85955-022f-4d79-aee8-c440592645f3
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '94'
 ht-degree: 2%
 
 ---
-
 
 # [!UICONTROL Anomaly Detection] in  [!UICONTROL Report Builder] {#anomaly-detection-in-report-builder}
 
