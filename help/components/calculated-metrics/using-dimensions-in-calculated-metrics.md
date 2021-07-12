@@ -1,22 +1,21 @@
 ---
 title: Använda Dimensioner i beräknade värden
 description: Dimensioner är nu tillgängliga i verktyget Beräknade mätvärden. De kan läggas till i alla beräknade mätformler för att skapa ett internt segment direkt.
-feature: Calculated Metrics
+feature: Beräknade mätvärden
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1904
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: f2f1a820-63fe-4c80-8fba-0f9c9687f56d
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '86'
+source-wordcount: '83'
 ht-degree: 2%
 
 ---
-
 
 # Använda [!UICONTROL Dimensions] i [!UICONTROL Calculated Metrics] {#using-dimensions-in-calculated-metrics}
 
