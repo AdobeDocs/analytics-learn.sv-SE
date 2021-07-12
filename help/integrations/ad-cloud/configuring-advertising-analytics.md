@@ -7,17 +7,16 @@ activity: setup
 doc-type: feature video
 team: Technical Marketing
 kt: 1642
-topic: Integrations
-role: Administrator
+topic: Integreringar
+role: Admin
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 884e8232-edca-4224-a0b9-467a0136e12f
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '92'
 ht-degree: 3%
 
 ---
-
 
 # Konfigurera [!DNL Advertising Analytics] i Adobe Analytics {#configuring-advertising-analytics-in-adobe-analytics}
 
