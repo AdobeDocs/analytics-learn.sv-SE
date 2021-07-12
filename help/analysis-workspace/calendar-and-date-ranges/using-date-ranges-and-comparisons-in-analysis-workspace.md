@@ -1,22 +1,21 @@
 ---
 title: Använda datumintervall och jämförelser i Analysis Workspace
 description: I den här videon får du lära dig hur du använder datum, datumintervall och datumjämförelser för att anpassa tabeller och visualiseringar till rätt tidsram.
-feature: Calendar
+feature: Kalender
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4105
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 0962f332-acc7-4ebe-9841-4d3fdf1d77b3
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '85'
-ht-degree: 12%
+source-wordcount: '82'
+ht-degree: 13%
 
 ---
-
 
 # Använda [!UICONTROL Date Ranges] och jämförelser i Analysis Workspace
 
