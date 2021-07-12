@@ -1,22 +1,21 @@
 ---
 title: Förstå användarbeteende för röstassistenter
 description: Lär dig förstå användarbeteenden och få insikter genom att titta på viktiga mätvärden, som de viktigaste metoderna, parametrarna och användarautentiseringen.
-feature: Visualizations
+feature: Visualiseringar
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2904
-role: Business Practitioner
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 7a69541c-8cea-4454-847c-4f0b10aa2788
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '59'
+source-wordcount: '56'
 ht-degree: 1%
 
 ---
-
 
 # Förstå användarbeteende för röstassistenter {#understand-user-behavior-on-voice-assistants}
 
