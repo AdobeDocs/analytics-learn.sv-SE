@@ -1,24 +1,23 @@
 ---
 title: Panelen Analytics for Target (A4T) i Analysis Workspace
 description: Med panelen Analytics for Target (A4T) kan du analysera dina Adobe Target aktiviteter och upplevelser i Analysis Workspace.
-feature: Experience Cloud Integration
+feature: Integrering med Experience Cloud
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 37247.jpg
 kt: 5837
-topic: Integrations
-role: Business Practitioner
+topic: Integreringar
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 2dad80ba-4032-490f-b7b4-30f0c2f0d608
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '79'
-ht-degree: 78%
+source-wordcount: '76'
+ht-degree: 81%
 
 ---
-
 
 # [!DNL Analytics for Target] (A4T) Panel i Analysis Workspace
 
