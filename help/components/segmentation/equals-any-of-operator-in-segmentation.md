@@ -1,22 +1,21 @@
 ---
 title: Använda Lika med någon av operatorerna i segmentering
 description: Lika med någon av och Är inte lika med någon av segmentoperatorerna har lagts till i segmentbyggaren. Använd dessa operatorer för att filtrera till en lista med specifika objekt i stället för att använda flera OR-satser eller Innehåller någon av dem. Om du använder dessa operatorer i stället för att innehålla någon av operatorerna förbättras även frågefrekvensen.
-feature: Segmentation
+feature: Segmentering
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4844
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: ed4eccc6-a56e-4767-aeea-046bbbb7ee9c
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
-
 
 # Använda operatorn &#39;Lika med alla operatorer&#39; i segmentering
 
