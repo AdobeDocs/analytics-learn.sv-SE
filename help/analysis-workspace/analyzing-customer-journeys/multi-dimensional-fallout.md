@@ -1,25 +1,24 @@
 ---
 title: Flerdimensionell utrullning i Analysis Workspace
 description: Med Fallout i Analysis Workspace kan du blanda och matcha mått och mätvärden som kontaktytor i flöden och arbetsflöden.
-feature: Visualizations
+feature: Visualiseringar
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 24043.jpg
 kt: 2277
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 927b5fe0-1eb5-404c-8439-a5dbacd3c640
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '80'
 ht-degree: 1%
 
 ---
 
-
-# [!DNL Multidimensional Fallout] i Analysis Workspace  {#multidimensional-fallout-in-analysis-workspace}
+# [!DNL Multidimensional Fallout] i Analysis Workspace {#multidimensional-fallout-in-analysis-workspace}
 
 [!DNL Fallout] i Analysis Workspace gör det möjligt att blanda och matcha mått och mätvärden som kontaktytor i flöden och arbetsflöden.
 
