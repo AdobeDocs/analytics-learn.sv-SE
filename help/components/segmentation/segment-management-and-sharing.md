@@ -1,24 +1,23 @@
 ---
 title: Segmenthantering och -delning i Adobe Analytics
 description: I den här videon visas hur du delar och hanterar segment i Adobe Analytics.
-feature: Segmentation
+feature: Segmentering
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2305
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: d78f2b6f-d685-4a21-8f45-4f410c3a0e5c
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '61'
+source-wordcount: '58'
 ht-degree: 1%
 
 ---
 
-
-# [!UICONTROL Segment] Hantera och dela i Adobe Analytics  {#segment-management-and-sharing-in-adobe-analytics}
+# [!UICONTROL Segment] Hantera och dela i Adobe Analytics {#segment-management-and-sharing-in-adobe-analytics}
 
 I den här videon visas hur du delar och hanterar [!UICONTROL segments] i Adobe Analytics.
 
