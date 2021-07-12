@@ -1,7 +1,7 @@
 ---
 title: Figursättning och flerdimensionellt flöde i Analysis Workspace
 description: I den här videon visas hur du aktiverar och inaktiverar trunkering av etiketter i flödesvisualiseringen. Lär dig också dra och släppa dimensioner i flödet för flerdimensionell flödesanalys.
-feature: Visualizations
+feature: Visualiseringar
 topics: null
 activity: use
 doc-type: feature video
@@ -9,16 +9,15 @@ author: Doug Moore
 team: Technical Marketing
 thumbnail: 24041.jpg
 kt: 2281
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: da173124-ce09-4be3-9418-8791acd16240
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '87'
 ht-degree: 1%
 
 ---
-
 
 # Figursättning &amp; [!DNL Multi-Dimensional Flow] i Analysis Workspace {#text-wrapping-multi-dimensional-flow-in-analysis-workspace}
 
