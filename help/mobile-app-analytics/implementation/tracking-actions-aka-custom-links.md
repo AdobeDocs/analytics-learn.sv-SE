@@ -7,19 +7,18 @@ activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 2563
-topic: Mobile
-role: "Developer, Data Engineer"
+topic: Mobil
+role: Developer, Data Engineer
 level: Experienced
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 541c51b8-638e-43b4-90ac-0ce94290a141
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '179'
+source-wordcount: '175'
 ht-degree: 0%
 
 ---
 
-
-# Spårningsåtgärder (AKA Custom Links) i en mobilapp med Experience Platform SDK {#tracking-actions-aka-custom-links-in-a-mobile-app-with-the-experience-platform-sdk}
+# Spåra åtgärder (AKA Custom Links) i en mobilapp med Experience Platform SDK {#tracking-actions-aka-custom-links-in-a-mobile-app-with-the-experience-platform-sdk}
 
 Åtgärder är händelser som inträffar i din mobilapp. I den här videon får du lära dig hur du använder API:t trackAction för att spåra och mäta en åtgärd.
 
