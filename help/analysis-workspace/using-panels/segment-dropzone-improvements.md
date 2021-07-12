@@ -1,24 +1,23 @@
 ---
 title: Förbättringar av släppzoner för segment i Analysis Workspace
 description: Segmentsläppzoner har förbättrats så att du kan släppa vad som helst i ett projekt.
-feature: Panels
+feature: Paneler
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2008
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: d07ba0a5-735b-43f2-ad67-31520ac897bd
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '96'
 ht-degree: 1%
 
 ---
 
-
-# [!UICONTROL Segment] Förbättringar av släppzoner i Analysis Workspace  {#segment-drop-zone-improvements-in-analysis-workspace}
+# [!UICONTROL Segment] Förbättringar av släppzoner i Analysis Workspace {#segment-drop-zone-improvements-in-analysis-workspace}
 
 [!UICONTROL Segment] släppzoner har förbättrats så att du kan släppa vad som helst i ett projekt.
 
