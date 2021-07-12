@@ -1,22 +1,21 @@
 ---
 title: Konfigurera globala variabler i Launch Analytics-tillägget
 description: Om du just har börjat med Launch, från Adobe och Adobe Analytics kan den här videon hjälpa dig att förstå när och var globala variabler ska ställas in, dvs. värden som du vill ska ställas in på varje sida eller klicka.
-feature: Launch Implementation
+feature: Starta implementering
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 2855
-role: "Developer, Data Engineer"
+role: Developer, Data Engineer
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 73ea8c36-66e3-4800-b0b0-f27e94cb4aaa
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '93'
 ht-degree: 0%
 
 ---
-
 
 # Konfigurera [!UICONTROL Global Variables] i [!DNL Launch Analytics] [!UICONTROL Extension] {#configuring-global-variables-in-the-launch-analytics-extension}
 
