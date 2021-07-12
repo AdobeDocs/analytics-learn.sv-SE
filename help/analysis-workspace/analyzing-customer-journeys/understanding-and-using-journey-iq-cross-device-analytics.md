@@ -7,16 +7,15 @@ activity: use
 doc-type: article
 team: Technical Marketing
 kt: 4138
-role: Business Practitioner
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 3748d5d7-d250-4057-8131-afdc66c80200
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '1609'
+source-wordcount: '1606'
 ht-degree: 2%
 
 ---
-
 
 # Förstå och använda [!DNL Journey IQ] - Enhetsövergripande analys
 
