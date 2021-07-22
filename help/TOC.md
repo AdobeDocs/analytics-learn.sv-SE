@@ -4,7 +4,7 @@ user-guide-description: En samling videor och självstudiekurser för Adobe Anal
 breadcrumb-title: Analytics Tutorials
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
-source-git-commit: e2f27788da1c1355f55984c1435dd00d29f2fbd5
+source-git-commit: 6587d9ff43b7fcbf697bda4cdd9be2ae7a63ef86
 workflow-type: tm+mt
 source-wordcount: '2065'
 ht-degree: 8%
@@ -119,7 +119,7 @@ ht-degree: 8%
       + [Radvisualisering](analysis-workspace/visualizations/line-visualization-in-analysis-workspace.md)
       + [Lägga till trendlinjer i linjevisualiseringar](analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.md)
       + [Kartvisualisering](analysis-workspace/visualizations/map-visualization.md)
-      + [Visualiseringar av sammanfattningsnummer och sammanfattningsändringar](analysis-workspace/visualizations/summary-number-and-summary-change-visualizations.md)
+      + [Visualiseringar av sammanfattningsnummer och sammanfattningsändringar](analysis-workspace/visualizations/summary-number-and-summary-change-visualizations-2021.md)
       + [Textvisualisering](analysis-workspace/visualizations/rich-text-editor-in-analysis-workspace.md)
       + [Scatterplot Visualization](analysis-workspace/visualizations/scatterplot-visualization.md)
       + [Treemap-visualisering](analysis-workspace/visualizations/treemap-visualization.md)
