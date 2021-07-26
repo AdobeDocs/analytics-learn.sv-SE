@@ -4,7 +4,7 @@ user-guide-description: En samling videor och självstudiekurser för Adobe Anal
 breadcrumb-title: Analytics Tutorials
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
-source-git-commit: 6587d9ff43b7fcbf697bda4cdd9be2ae7a63ef86
+source-git-commit: dbab0f9190e660eadfacdb75ac00994afff375e7
 workflow-type: tm+mt
 source-wordcount: '2065'
 ht-degree: 8%
@@ -132,7 +132,7 @@ ht-degree: 8%
       + [Intralänkning i Analysis Workspace](analysis-workspace/visualizations/intra-linking-in-analysis-workspace.md)
       + [Tema för positiv-negativ karta](analysis-workspace/visualizations/positive-negative-map-theme.md)
       + [Ordna om och ändra storlek på visualiseringar](analysis-workspace/visualizations/rearranging-and-resizing-visualizations.md)
-      + [Redigera serieetiketter](analysis-workspace/visualizations/series-label-editing.md)
+      + [Anpassa visualiseringsförklaringar](analysis-workspace/visualizations/customize-visualization-legends.md)
       + [Staplade 100 %-visualiseringar](analysis-workspace/visualizations/hundred-percent-stacked-visualizations.md)
       + [Inställningar för tabelldatakälla](analysis-workspace/visualizations/table-data-source-settings.md)
       + [Bygg en tidsparande heatmap](analysis-workspace/visualizations/build-a-time-parting-heatmap.md)
