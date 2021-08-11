@@ -4,10 +4,10 @@ user-guide-description: En samling videor och självstudiekurser för Adobe Anal
 breadcrumb-title: Analytics Tutorials
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
-source-git-commit: aa1627c6f13274e35fcf10f25d709fec484007b2
+source-git-commit: 48da246e50ed658bdb496a8a8a551e8f0454021d
 workflow-type: tm+mt
-source-wordcount: '2068'
-ht-degree: 8%
+source-wordcount: '2141'
+ht-degree: 7%
 
 ---
 
@@ -62,6 +62,7 @@ ht-degree: 8%
       + [Komponenthantering i Analysis Workspace](analysis-workspace/analysis-workspace-basics/component-management-in-analysis-workspace.md)
       + [Använda komponenthanterare](analysis-workspace/analysis-workspace-basics/using-component-managers.md)
       + [Välja en rapportsvit i Analysis Workspace](analysis-workspace/analysis-workspace-basics/selecting-a-report-suite-in-analysis-workspace.md)
+      + [Visa Analysis Workspace prestandamått](analysis-workspace/analysis-workspace-basics/view-analysis-workspace-performance-metrics.md)
    + Tips och tricks {#tips-and-tricks}
       + [7 Tips och tricks för Analysis Workspace](analysis-workspace/tips-and-tricks/seven-tips-and-tricks-in-analysis-workspace.md)
       + [Tips för att öka produktiviteten i Analysis Workspace](analysis-workspace/tips-and-tricks/tips-to-increase-productivity-in-analysis-workspace.md)
@@ -211,9 +212,14 @@ ht-degree: 8%
 + Reports and Analytics {#reports-and-analytics}
    + [Realtidsrapportering i Reports and Analytics](reports-and-analytics/realtime-reporting-in-reports-and-analytics.md)
 + Administrering {#administration}
+   + Företagsinställningar {#company-settings}
+      + [Tvinga begränsningar för e-postdomän](administration/company-settings/enforce-email-domain-restrictions.md)
+      + [Visa tillgängliga funktioner för ditt konto](administration/company-settings/view-your-accounts-available-features.md)
    + Användarhantering {#user-management}
       + [Lägga till en administratör i Adobe Analytics](administration/user-management/adding-an-administrator-to-adobe-analytics.md)
       + [Begränsa åtkomst till rapportsviten i Admin Console](administration/user-management/limit-report-suite-access-in-the-admin-console.md)
+      + [Överför användarresurser till en annan användare](administration/user-management/transfer-user-assets-to-a-different-user.md)
+      + [Kontrollera länkat IMS-ID för att förhindra inloggningsproblem](administration/user-management/check-linked-ims-id-to-prevent-login-issues.md)
    + Hantera rapportsviter {#manage-report-suites}
       + [Konfigurera allmänna kontoinställningar](administration/manage-report-suites/configuring-general-account-settings.md)
       + [Anpassa kalenderinställningar](administration/manage-report-suites/customize-calendar-settings.md)
@@ -222,13 +228,17 @@ ht-degree: 8%
       + [Ange interna URL-filter](administration/manage-report-suites/set-internal-url-filters.md)
       + [Konfigurera inställningar för postnummer och postnummer](administration/manage-report-suites/configuring-zip-and-postal-code-settings.md)
       + [Konfigurera variabler i Admin Console](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
+      + [Aktivera inställningen Valfri tidsstämpel](administration/manage-report-suites/enable-the-timestamp-optional-setting.md)
+      + [Konfigurera robotregler i Analytics](administration/manage-report-suites/configure-bot-rules-in-analytics.md)
    + Datastyrning och GDPR {#data-governance-and-gdpr}
       + [Datastyrning och GDPR i Adobe Analytics](administration/data-governance-and-gdpr/data-governance-and-gdpr.md)
       + [Få rätt personer i ert analysteam](administration/data-governance-and-gdpr/getting-the-right-people-on-your-analytics-team.md)
    + Trafikhantering {#traffic-management}
       + [Användning av serversamtal](administration/traffic-management/server-call-usage.md)
+      + [Hantera en kommande trafiktoppning](administration/traffic-management/manage-an-upcoming-traffic-spike.md)
    + Loggar{#logs}
       + [Loggspårning för användning för Analysis Workspace](administration/logs/usage-log-tracking-for-analysis-workspace.md)
+      + [Översikt över administratörsloggar för Analytics](administration/logs/overview-of-analytics-admin-logs.md)
 + Implementering {#implementation}
    + Implementeringsgrunder {#implementation-basics}
       + [Första gången](implementation/implementation-basics/first-time-implementation.md)
@@ -311,8 +321,12 @@ ht-degree: 8%
       + [Exportera till CSV från Analysis Workspace](exporting/from-the-ui/export-to-csv-from-analysis-workspace.md)
    + Data Warehouse {#data-warehouse}
       + [Introduktion till Data warehouse](exporting/data-warehouse/introduction-to-data-warehouse.md)
+      + [Skicka Data warehouse-begäran via SFTP](exporting/data-warehouse/send-data-warehouse-request-via-sftp.md)
    + Datafeeds {#data-feeds}
       + [Användargränssnitt för hantering av dataflöden](exporting/data-feeds/data-feeds-management-ui.md)
+      + [Hämta autentiseringsnyckeln för datafeeds](exporting/data-feeds/download-the-data-feed-authentication-key.md)
+      + [Hitta ditt ID för datafeed](exporting/data-feeds/find-your-data-feed-id.md)
+      + [Kör om ett datafeedjobb](exporting/data-feeds/rerun-a-data-feed-job.md)
    + Report Builder {#report-builder}
       + [Lägg till segment i flera begäranden samtidigt i Report Builder](exporting/report-builder/add-segments-to-multiple-requests-at-once-in-report-builder.md)
       + [Anomalidentifiering i Report Builder](exporting/report-builder/anomaly-detection-in-report-builder.md)
