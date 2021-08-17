@@ -3,12 +3,12 @@ title: Aktivera inställningen Valfri tidsstämpel
 description: Tidsstämplar Valfritt gör att vi kan blanda tidsstämplade och tidsstämplade data i samma globala rapportserie, skicka tidsstämplade data från en mobilapp till en global rapportserie och uppgradera appar för att använda offline-spårning utan att behöva skapa en ny rapportserie.
 feature: Datakonfiguration och samling, rapportsvitsinställningar
 topic: 'Administrering '
-role: Admin, Business User
+role: Admin, User
 level: Intermediate, Experienced
 doc-type: feature video
 thumbnail: 335740.jpg
 kt: KT-8455
-source-git-commit: 824efaa2f806a578839caaaed0c5c5dda8173b9a
+source-git-commit: e5b9693a941d72ba7d610dcc8472dff40c05d407
 workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 0%
