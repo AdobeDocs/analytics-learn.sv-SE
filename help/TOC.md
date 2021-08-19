@@ -4,9 +4,9 @@ user-guide-description: En samling videor och självstudiekurser för Adobe Anal
 breadcrumb-title: Analytics Tutorials
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
-source-git-commit: 48da246e50ed658bdb496a8a8a551e8f0454021d
+source-git-commit: a0cf655c7eab8deaf2897746ece4883147888d7a
 workflow-type: tm+mt
-source-wordcount: '2141'
+source-wordcount: '2139'
 ht-degree: 7%
 
 ---
@@ -135,9 +135,8 @@ ht-degree: 7%
       + [Ordna om och ändra storlek på visualiseringar](analysis-workspace/visualizations/rearranging-and-resizing-visualizations.md)
       + [Anpassa visualiseringsförklaringar](analysis-workspace/visualizations/customize-visualization-legends.md)
       + [Staplade 100 %-visualiseringar](analysis-workspace/visualizations/hundred-percent-stacked-visualizations.md)
-      + [Inställningar för tabelldatakälla](analysis-workspace/visualizations/table-data-source-settings.md)
+      + [Inställningar för tabell och visualisering av datakälla](analysis-workspace/visualizations/table-and-visualization-data-source-settings.md)
       + [Bygg en tidsparande heatmap](analysis-workspace/visualizations/build-a-time-parting-heatmap.md)
-      + [Inställningar för visualisering av datakälla](analysis-workspace/visualizations/visualization-data-source-settings.md)
    + Använder segment {#applying-segments}
       + [Använda segment i ditt Analysis Workspace-projekt](analysis-workspace/applying-segments/applying-segments-to-your-analysis-workspace-project.md)
       + [Använda segment i Analysis Workspace](analysis-workspace/applying-segments/using-segments-in-analysis-workspace.md)
