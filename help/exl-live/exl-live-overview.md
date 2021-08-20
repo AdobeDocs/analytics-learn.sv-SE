@@ -6,80 +6,89 @@ role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 hide: true
 hidefromtoc: true
-source-git-commit: 9cfeda9bd17455ffe9315efe3ffde5482ae27991
+source-git-commit: dcfa04814012434a3f017cd0f06c8707b4d4cf2c
 workflow-type: tm+mt
-source-wordcount: '199'
-ht-degree: 0%
+source-wordcount: '201'
+ht-degree: 1%
 
 ---
 
 
 # Experience League LIVE
 
-Experience League LIVE är ett direktuppspelningsprogram som producerats av Experience League-teamet och som ger dig användbara tips, råd och strategier som du kan använda i Experience Cloud-program, programtjänster och Adobe Experience Platform.
+## Delta i nästa avsnitt!
 
-## Nästa avsnitt: Experience Platform och CDP i realtid!
+<a href="https://www.youtube.com/watch?v=rogVKsTFbWk"><img alt="om du klickar kommer du till YouTube lobby för Experience League Live" src="assets/1440x492.png" /></a>
 
-![nästa ](assets/exl-live-ep2-after-2.jpg)
-*avsnittGäster:* Aaron Shields, Yaya Wang, Andres Monroy 
-***MARK THE DATE!*** Kommer på torsdag den 26  **augusti** som  **9** amPacific Time
+Experience League LIVE är ett direktuppspelningsprogram som producerats av Experience League-teamet.  Det är en chans att få kontakt med produktexperter på Adobe och lära dig praktiska tips, tricks och strategier som du kan använda med Adobe Experience Cloud-programmen.
 
-## Kommande avsnitt
 
-Se upp för följande avsnitt av Experience League LIVE!
+## Kommande Experience League LIVE-event!
 
 <table>
 <tr>
   <td>
-    <img height="113" width="200" alt="Adobe Campaign logotyp" src="assets/AdobeCampaignLogo.jpg" />
+      <img alt="Innehållstjänster" src="./assets/journeys.png" />
+     <div>
+          <strong>Kundresor</strong>
+     </div>
+     <div>
+          <em>September 2021</em>
+     </div>
+    <p>
+    <em>Lär dig av produktexperter om att skapa upplevelser som anpassar sig till kunder i realtid</em>
+    <p>
   </td>
   <td>
-    <strong><img height="113" width="200" alt="Adobe AEM logotyp" src="assets/aem-logo.png" /></strong>
+      <img alt="Innehållstjänster" src="./assets/content.png" />
+     <div>
+          <strong>Innehåll och handel</strong>
+     <div>
+          <em>Oktober 2021</em>
+     </div>
+     </div>
+    <p>
+    <em>Lär dig skapa och hantera innehåll i stor skala och skapa personaliserade e-handelsupplevelser</em>
+    <p>
   </td>
   <td>
-    <strong><img height="113" width="200" alt="Adobe Campaign logotyp" src="assets/platform-logo.jpeg" /></strong>
-  </td>
-</tr>
-<tr>
-  <td>
-    <strong>program:</strong> Adobe <br/>
-    <strong>CampaignDate:</strong> Sept 2021<br/>
-    <strong>topics:</strong> <br/>
-    <strong>TBDGuests:</strong> TBD
-  </td>
-  <td>
-    <strong>program:</strong> Adobe Experience <br/>
-    <strong>ManagerDate:</strong> Oct 2021<br/>
-    <strong>topics:</strong> <br/>
-    <strong>TBDGuests:</strong> TBD
-  </td>
-  <td>
-    <strong>program:</strong> Adobe Experience <br/>
-    <strong>PlatformDate:</strong> Nov 2021<br/>
-    <strong>topics:</strong> <br/>
-    <strong>TBDGuests:</strong> TBD
+      <img alt="Innehållstjänster" src="./assets/platform.png" />
+     <div>
+          <strong>Experience Platform</strong>
+     </div>
+     <div>
+          <em>December 2021</em>
+     </div>    
+    <p>
+    <em>Lär dig av produktexperter om att skapa upplevelser som anpassar sig till kunder i realtid</em>
+    <p>
   </td>
 </tr>
 </table>
 
-## Återanvändning av tidigare avsnitt
 
-Missade du ett avsnitt av Experience League LIVE? Vi förlåter dig. Här är länkar så att du kan se tidigare avsnitt.
+## Tidigare avsnitt
+
+Missade du ett avsnitt av Experience League LIVE? Vi förlåter dig. Ta en titt på något av våra tidigare avsnitt!
 
 <table>
 <tr>
-  <td>
+
+<td>
     <a href="https://www.youtube.com/watch?v=lxOvLCzEGBI">
       <img height="225" width="400" alt="Experience League LIVE" src="assets/exl-live-after2.jpg" />
-    </a><br/>
-    <b>Värd:</b> <i></i><br/>
-    <b>DougGuests:</b> <i>Eric Matisoff och Dasha </i><br/>
-    <b>FitzpatrickAired:</b> <i>29 juli 2021</i>
-
-</td>
-
+    </a>
+     <div>
+          <strong>Gäster</strong> :  <i>Eric Matisoff och Dasha Fitzpatrick</i>
+     </div>
+     <div>
+          <em>29 juli 2021</em>
+     </div>    
+    <p>
+    <em></em>
+    <p>
+  </td>
 </tr>
-
 </table>
 
 >[!TIP]
