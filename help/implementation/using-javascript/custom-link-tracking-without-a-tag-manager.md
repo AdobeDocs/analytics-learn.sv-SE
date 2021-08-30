@@ -1,7 +1,7 @@
 ---
 title: Anpassad länkspårning utan tagghanterare
 description: För många åtgärder på sidan ska spårning inte behandlas som en sidvy. I den här videon får du lära dig att koda en länkspårningsfyr till Analytics, om du inte använder en tagghanterare (som Experience Platform Launch). Se koden och lär dig ett viktigt tips.
-feature: Implementering av mätning
+feature: Appmeasurement Implementation
 topics: null
 activity: implement
 doc-type: technical video
@@ -10,9 +10,9 @@ kt: 1845
 role: Developer, Data Engineer
 level: Intermediate
 exl-id: e4567b1c-414e-44ad-982f-52b0150e7eda
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '293'
+source-wordcount: '271'
 ht-degree: 0%
 
 ---
@@ -49,5 +49,3 @@ Här är exempelkoden som används för den anpassade länken i videon:
     Click here to share on FaceBook
 </a>
 ```
-
-Mer information om anpassade länkar finns i [dokumentationen](https://marketing.adobe.com/resources/help/en_US/sc/implement/function_tl.html).

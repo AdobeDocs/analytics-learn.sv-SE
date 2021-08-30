@@ -1,20 +1,20 @@
 ---
 title: Audience Analytics - Integrera AAM segment i Analytics
 description: Audience Analytics är en ny integrering som gör att ni kan dela segment från Audience Manager (AAM) till Analytics (AA) i realtid för att informera om målgruppsidentifiering, segmentering och optimering.
-feature: Integrering med Experience Cloud
+feature: Experience Cloud Integration
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25450.jpg
 kt: 2354
-topic: Integreringar
+topic: Integrations
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Intermediate
 exl-id: 5db98e46-c91e-4e24-9745-82e54d19152a
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '122'
 ht-degree: 0%
 
 ---
@@ -27,4 +27,4 @@ ht-degree: 0%
 
 Exempel på [!UICONTROL segment]-data som kan delas är: demografiska data från externa dataleverantörer, kampanjdata från annonsservrar (t.ex. externa visningar) och integrerade CRM-data. Detta är den första producerade integreringen mellan en datahanteringsplattform och en analysmotor på marknaden.
 
-Mer information om den här funktionen finns i [dokumentationen](https://marketing.adobe.com/resources/help/en_US/analytics/audiences/).
+Mer information om den här funktionen finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html?lang=en).

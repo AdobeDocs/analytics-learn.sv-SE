@@ -10,7 +10,7 @@ kt: 1774
 role: User
 level: Intermediate
 exl-id: 87568f06-1369-46d6-80bd-762a67e4bdcc
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 0%
@@ -31,4 +31,4 @@ Avsnitt i den här videon:
 
 4:05 - Använda VRS i Analysis Workspace
 
-Mer information om den här funktionen finns i [dokumentationen](https://marketing.adobe.com/resources/help/en_US/reference/vrs-components.html).
+Mer information om den här funktionen finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-components.html?lang=en).

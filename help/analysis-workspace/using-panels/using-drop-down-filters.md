@@ -1,7 +1,7 @@
 ---
 title: Använda nedrullningsbara filter i Analysis Workspace
 description: I den här videon får du lära dig hur du använder nedrullningsbara filter i Analysis Workspace för att dynamiskt ändra innehållet i en panel.
-feature: Paneler
+feature: Panels
 topics: null
 activity: use
 doc-type: feature video
@@ -10,7 +10,7 @@ kt: 1944
 role: User
 level: Beginner
 exl-id: 8abd1788-6c65-400a-94d9-42e71f0dfbbe
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 0%
@@ -27,4 +27,4 @@ Panelens listrutezon har nu funktioner för nedrullningsbar filtrering. Med nedr
 
 Listrutor är ett praktiskt sätt att konsolidera projekt och paneler. Om du till exempel har flera versioner av ett projekt som innehåller landsspecifik rapportering kan du nu komprimera dessa projekt till ett enda projekt och lägga till i en listruta där användarna kan växla mellan.
 
-Mer information finns i [dokumentationen](https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/panels.html).
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/panels.html?lang=en).

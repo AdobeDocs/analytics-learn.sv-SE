@@ -1,7 +1,7 @@
 ---
 title: Mappa visualisering i Analysis Workspace
 description: I den här videon visas hur du använder den nya kartvisualiseringen i Analysis Workspace. Med kartviz kan du visa antingen mobildata (lat/long) eller webbdata (IP-adress) mot en dynamisk karta, så att du kan få en uppfattning om hur kunderna använder sig av deras plats.
-feature: Visualiseringar
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
@@ -10,7 +10,7 @@ kt: 1771
 role: User
 level: Beginner
 exl-id: ffae778a-63a1-4587-94fe-a2ad16931b3a
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 0%
@@ -33,4 +33,4 @@ Avsnitt i den här videon:
 
 7:00 - Heatmap View
 
-Mer information om detta [!UICONTROL visualization] finns i [dokumentationen](https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/map-visualization.html).
+Mer information om detta [!UICONTROL visualization] finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/map-visualization.html?lang=en).

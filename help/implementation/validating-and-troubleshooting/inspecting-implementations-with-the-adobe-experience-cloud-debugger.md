@@ -1,7 +1,7 @@
 ---
 title: Inspektera implementeringar med Adobe Experience Cloud Debugger
 description: Felsökningsprogrammet Experience Cloud är ett verktyg som gör att användare kan inspektera och felsöka Experience Cloud-taggar. Den här videon handlar om hur du använder Experience Cloud Debugger för att inspektera Analytics-implementeringar.
-feature: Validering
+feature: Validation
 topics: null
 activity: implement
 doc-type: technical video
@@ -10,9 +10,9 @@ kt: 1942
 role: Developer, Data Engineer
 level: Beginner
 exl-id: c13a5973-3c7a-4980-95c5-447b50b962c7
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '106'
+source-wordcount: '91'
 ht-degree: 0%
 
 ---
@@ -25,4 +25,3 @@ ht-degree: 0%
 
 Du får lära dig att se vad som utlöses på olika sidor, läsa in egna namn på variabler och exportera resultat för avancerade användningsområden.
 
-Mer information finns i [dokumentationen](https://marketing.adobe.com/resources/help/en_US/experience-cloud-debugger/experience-cloud-debugger.html).

@@ -1,7 +1,7 @@
 ---
 title: Projektdelning i Analysis Workspace
 description: Projektdelning är ett sätt att demokratisera data och insikter från Analysis Workspace till användare i organisationen. Du kan placera mottagare i en av tre projektroller, beroende på vilken erfarenhet du vill att de ska ha Redigera, Duplicera och Visa.
-feature: Kuratera och dela
+feature: Curate and Share
 topics: null
 activity: use
 doc-type: feature video
@@ -11,10 +11,10 @@ kt: 5555
 role: User
 level: Beginner
 exl-id: edba5887-bb72-49d5-a5b2-0065591e7c1b
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '113'
-ht-degree: 92%
+source-wordcount: '108'
+ht-degree: 87%
 
 ---
 
@@ -24,4 +24,4 @@ Projektdelning är ett sätt att demokratisera data och insikter från Analysis 
 
 >[!VIDEO](https://video.tv.adobe.com/v/36207/?quality=12&learn=on)
 
-Mer information finns i [dokumentationen](https://docs.adobe.com/content/help/sv-SE/analytics/analyze/analysis-workspace/curate-share/share-projects.translate.html)
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/share-projects.html)

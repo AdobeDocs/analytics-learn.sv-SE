@@ -1,7 +1,7 @@
 ---
 title: Hämta 50 000 objekt som CSV
 description: Med alternativet Hämta objekt som CSV kan du hämta upp till 50 000 objekt för en dimension i en frihandstabell med segment och filter. Gränssnittet kommer att fortsätta att visa upp till 400 objekt före sidnumrering, men med det här alternativet kan du komma åt fler rader med data utanför Analysis Workspace.
-feature: Kuratera och dela
+feature: Curate and Share
 topics: null
 activity: use
 doc-type: feature video
@@ -11,10 +11,10 @@ kt: 6278
 role: User
 level: Beginner
 exl-id: fe7d41f1-a6ec-4601-9266-b4c3aa6a6963
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '126'
-ht-degree: 7%
+source-wordcount: '121'
+ht-degree: 0%
 
 ---
 
@@ -24,4 +24,4 @@ Med alternativet Hämta objekt som CSV kan du hämta upp till 50 000 objekt för
 
 >[!VIDEO](https://video.tv.adobe.com/v/40385/?quality=12&learn=on)
 
-Läs mer i [dokumentationen](https://docs.adobe.com/content/help/sv-SE/analytics/analyze/analysis-workspace/curate-share/download-send.html)
+Läs mer i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/download-send.html)

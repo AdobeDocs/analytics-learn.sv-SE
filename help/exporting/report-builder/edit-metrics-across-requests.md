@@ -10,10 +10,10 @@ kt: 1769
 role: User
 level: Intermediate
 exl-id: f0ce5bc2-ca6f-44d2-a42b-9351ff37a083
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '96'
-ht-degree: 2%
+source-wordcount: '94'
+ht-degree: 0%
 
 ---
 
@@ -25,4 +25,4 @@ Nu kan du redigera [!UICONTROL metrics] i flera [!UICONTROL Report Builder]-data
 
 Den här funktionen är utöver befintliga funktioner för redigering av [!UICONTROL report suites], [!UICONTROL date ranges], [!UICONTROL granularity] och [!UICONTROL segments] över begäranden. Du kan redigera flera begäranden samtidigt på högerklicksmenyn eller på [!UICONTROL Edit Multiple] i hanteringsfönstret.
 
-Mer information om den här funktionen finns i [dokumentationen](https://marketing.adobe.com/resources/help/en_US/arb/edit_multiple_metrics.html).
+Mer information om den här funktionen finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/manage-requests/edit-multiple-metrics.html?lang=en).

@@ -2,20 +2,20 @@
 title: Förbättringar i Experience Cloud Audience Publishing
 landing-page-description: Lär er publicera målgrupper (segment) och gör dem tillgängliga snabbare än någonsin.
 description: Förbättringar har gjorts i Experience Cloud Audience Publishing. Nu kan ni publicera målgrupper (segment) och göra dem tillgängliga sex gånger snabbare, vilket minskar den aktuella latenstiden från 48 timmar till ungefär 8 timmar, och eventuellt snabbare, beroende på trafik och segmentstorlek.
-feature: Integrering med Experience Cloud
+feature: Experience Cloud Integration
 topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 kt: 4819
-topic: Integreringar
+topic: Integrations
 role: User
 level: Intermediate
 exl-id: c23ebad6-2967-4739-b381-1f3c6415f8c7
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '166'
-ht-degree: 28%
+source-wordcount: '158'
+ht-degree: 17%
 
 ---
 
@@ -26,6 +26,6 @@ Förbättringar har gjorts i Experience Cloud Audience Publishing. Nu kan du pub
 >[!VIDEO](https://video.tv.adobe.com/v/32842/?quality=12)
 
 Dessutom har antalet [!UICONTROL segments] som kan publiceras samtidigt ökat från 20 till 75 per [!UICONTROL report suite].
-Mer information finns i [Publicera segment på Experience Cloud](https://docs.adobe.com/content/help/en/analytics/components/segmentation/segmentation-workflow/seg-publish.html) i Analytics-hjälpen.
+Mer information finns i [Publicera segment på Experience Cloud](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-publish.html) i Analytics-hjälpen.
 
-Läs även om [Publiker](https://docs.adobe.com/content/help/sv-SE/core-services/interface/audiences/audience-library.html) i hjälpen för Experience Cloud om du vill ha information om [!UICONTROL Audience Library].
+Läs även om [Publiker](https://experienceleague.adobe.com/docs/core-services/interface/audiences/audience-library.html) i hjälpen för Experience Cloud om du vill ha information om [!UICONTROL Audience Library].

@@ -1,7 +1,7 @@
 ---
 title: Flera rapportsviter i Analysis Workspace
 description: Flera rapportsviter kan analyseras i ett enda Workspace-projekt genom att du väljer sviter på panelnivå. Det gör att du kan utföra panelanalyser sida vid sida för olika datauppsättningar.
-feature: Paneler
+feature: Panels
 topics: null
 activity: use
 doc-type: feature video
@@ -10,10 +10,10 @@ kt: 4820
 role: User
 level: Beginner
 exl-id: ae9e55c0-a9ab-4b71-8a00-67a2c31a7676
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 33%
+source-wordcount: '126'
+ht-degree: 25%
 
 ---
 
@@ -29,4 +29,4 @@ Flera [!UICONTROL report suites] kan analyseras i ett enskilt [!DNL Workspace]-p
 
 Data från flera [!UICONTROL report suites] kan inte kombineras i tabeller, [!UICONTROL segments] eller [!UICONTROL calculated metrics] (summerade, delade osv.). Den bästa metoden för en helhetssyn på data fortsätter att vara att skicka alla träffar till en&quot;global svit&quot;.
 
-Mer information finns i [dokumentationen](https://docs.adobe.com/content/help/sv-SE/analytics/analyze/analysis-workspace/build-workspace-project/multiple-report-suites.html).
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/multiple-report-suites.html).

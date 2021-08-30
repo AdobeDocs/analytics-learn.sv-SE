@@ -1,7 +1,7 @@
 ---
 title: Analysvideor och Tutorials
 description: En samling videor och självstudiekurser för Adobe Analytics.
-feature: Grundläggande om analyser
+feature: Analytics Basics
 topics: null
 activity: use
 doc-type: overview
@@ -9,16 +9,16 @@ team: Technical Marketing
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 3aa2bc96-ed20-46f7-ba9a-a2b7e8b23313
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '294'
-ht-degree: 32%
+source-wordcount: '290'
+ht-degree: 30%
 
 ---
 
 # Översikt
 
-Välkommen till webbplatsen [!DNL Analytics] Tutorials.  Genom att använda dessa självstudiekurser tillsammans med [dokumentationen](https://docs.adobe.com/content/help/sv-SE/analytics/landing/home.html) får du en bättre förståelse för hur du använder Adobe Analytics för att få kundinsikter snabbare än någonsin.  För att komma igång,
+Välkommen till webbplatsen [!DNL Analytics] Tutorials.  Genom att använda dessa självstudiekurser tillsammans med [dokumentationen](https://experienceleague.adobe.com/docs/analytics/landing/home.html) får du en bättre förståelse för hur du använder Adobe Analytics för att få kundinsikter snabbare än någonsin.  För att komma igång,
 * Se avsnittet **&quot;Nyheter&quot;** nedan för de senaste funktionerna
 * **Personalväljaren** lyfter fram en del av vårt favoritinnehåll
 * Utforska innehållet efter ämne och underämne i **vänster navigering**

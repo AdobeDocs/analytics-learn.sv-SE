@@ -1,7 +1,7 @@
 ---
 title: Använda flikövergripande analys för att utforska grundläggande marknadsattribuering i Analysis Workspace
 description: Det finns många sätt att utveckla din attribueringsmetod med Adobe Analytics. I den här videon visar vi hur ni kan få djupare insikter från rapporten om marknadsföringskanaler med hjälp av flikanalys i Workspace.
-feature: Marknadsföringskanaler
+feature: Marketing Channels
 topics: null
 activity: use
 doc-type: feature video
@@ -11,10 +11,10 @@ kt: 6067
 role: User
 level: Intermediate
 exl-id: b5843678-6444-453b-a9c9-1e301ffca876
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '290'
-ht-degree: 4%
+source-wordcount: '286'
+ht-degree: 3%
 
 ---
 
@@ -39,4 +39,4 @@ Det finns många sätt att utveckla din attribueringsmetod med Adobe Analytics. 
 * 4:30 - Kolumninställningarna kan uppdateras gruppvis nu i stället för 1 x 1. Läs mer på 8:45 i videon: [Rad- och kolumninställningar i frihandstabeller](../building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
 
 
-Mer information finns i [dokumentationen](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/attribution/models.html).
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html).

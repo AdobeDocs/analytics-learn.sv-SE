@@ -1,7 +1,7 @@
 ---
 title: Använda deltagandemått i Analysis Workspace
 description: Använd det här enkla tricket för att få mätvärden för deltagande i Analysis Workspace när som helst.
-feature: Mätvärden
+feature: Metrics
 topics: null
 activity: use
 doc-type: feature video
@@ -11,10 +11,10 @@ kt: 6355
 role: User
 level: Beginner
 exl-id: 336853ad-c273-4627-919b-3c86f97b60e3
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '56'
-ht-degree: 1%
+source-wordcount: '53'
+ht-degree: 0%
 
 ---
 
@@ -24,4 +24,4 @@ Använd det här enkla tricket för att få mätvärden för deltagande i Analys
 
 >[!VIDEO](https://video.tv.adobe.com/v/41266/?quality=12&learn=on)
 
-Mer information finns i [dokumentationen](https://docs.adobe.com/content/help/en/analytics/components/calculated-metrics/calcmetric-workflow/participation-metric.html).
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetric-workflow/participation-metric.html).

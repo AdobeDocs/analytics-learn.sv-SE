@@ -1,7 +1,7 @@
 ---
 title: Använda panelen Attribution IQ i Analysis Workspace
 description: I den här videon ser du Attribution IQ Panel, en bra plats att börja på när du bygger upp ditt Analysis Workspace-projekt för attribuering.
-feature: Attribuering
+feature: Attribution
 topics: null
 activity: use
 doc-type: feature video
@@ -12,10 +12,10 @@ kt: 1667
 role: User
 level: Intermediate
 exl-id: 2c265c0b-5d5e-435f-9fdd-086f7faa0bd9,14492c26-4ce5-4f5a-b3e0-2605f59cfca9,14492c26-4ce5-4f5a-b3e0-2605f59cfca9,2c265c0b-5d5e-435f-9fdd-086f7faa0bd9
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '115'
-ht-degree: 2%
+source-wordcount: '99'
+ht-degree: 0%
 
 ---
 
@@ -26,7 +26,3 @@ I den här videon ser du [!DNL Attribution IQ] [!UICONTROL Panel], en bra startp
 >[!VIDEO](https://video.tv.adobe.com/v/23139/?quality=12)
 
 [!DNL Attribution IQ] [!UICONTROL Panel] i Analysis Workspace är ett sätt att snabbt jämföra alla tio regelbaserade [!DNL attribution models] på ett visuellt sätt. Se hur varje modell påverkar alla dimensioner med [!DNL Bar Charts], [!DNL Venn diagrams], [!DNL Histograms], [!DNL Scatter Plots] och till och med en [!DNL Flow Diagram]. [!DNL Attribution] [!UICONTROL Panel] är en bra utgångspunkt för en mer avancerad attribueringsanalys.
-
-## Ytterligare material {#additional-resources}
-
-* [Funktionsdokumentation](https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/use_attribution_iq.html)
