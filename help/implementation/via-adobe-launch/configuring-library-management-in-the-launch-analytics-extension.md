@@ -1,7 +1,7 @@
 ---
 title: Konfigurera bibliotekshantering för analys
 description: Om du just har börjat med tillägget Experience Platform Launch för Adobe Analytics kan den här videon hjälpa dig med bibliotekshanteringsdelen av konfigurationen, inklusive att välja rapportsviter som du vill skicka data till.
-feature: Starta implementering
+feature: Launch Implementation
 topics: null
 activity: implement
 doc-type: technical video
@@ -10,10 +10,10 @@ kt: 2836
 role: Developer, Data Engineer
 level: Beginner
 exl-id: be28db8a-0de6-4f9f-ae2e-2337e86740a1
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: ef9ffb37e417621462d1f63c5cd39377dd94c800
 workflow-type: tm+mt
-source-wordcount: '124'
-ht-degree: 9%
+source-wordcount: '118'
+ht-degree: 2%
 
 ---
 
@@ -25,8 +25,8 @@ Om du precis har börjat med Experience Platform Launch och Adobe Analytics [!UI
 
 Mer information om aspekter av det här användningsfallet finns i följande dokumentationsavsnitt:
 
-[Postnummer](https://docs.adobe.com/help/en/analytics/components/variables/dimensions-reports/reports-zip.html)
+[Postnummer](https://experienceleague.adobe.com/docs/analytics/components/dimensions/zip-code.html?lang=en)
 
-[Klassificeringar](https://docs.adobe.com/content/help/en/analytics/components/classifications/c-classifications.html)
+[Klassificeringar](https://experienceleague.adobe.com/docs/analytics/components/classifications/c-classifications.html)
 
-[Analysis Workspace](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/analysis-workspace-features.html)
+[Analysis Workspace](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/analysis-workspace-features.html)
