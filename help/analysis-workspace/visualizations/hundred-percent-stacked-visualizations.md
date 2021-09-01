@@ -1,18 +1,16 @@
 ---
 title: Staplade 100 %-visualiseringar i Analysis Workspace
 description: I den här videon får du lära dig hur du ställer in dina staplade visualiseringar som procenttal i stället för bara råvärden.
-feature: Visualiseringar
-topics: null
-activity: use
+feature: Visualizations
 doc-type: feature video
-team: Technical Marketing
+thumbnail: 23131.jpg
 kt: 1670
 role: User
 level: Beginner
 exl-id: 7b775e43-2495-4851-8e16-ab6d93c75dd1
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: ad0fa7f4e781d826a3a10a5ad7e7022334cb44e4
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '103'
 ht-degree: 0%
 
 ---
