@@ -4,10 +4,10 @@ user-guide-description: En samling videor och självstudiekurser för Adobe Anal
 breadcrumb-title: Analytics Tutorials
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
+source-git-commit: d8ac4494a517608fce4c78769136b684937c7639
 workflow-type: tm+mt
-source-wordcount: '2131'
-ht-degree: 8%
+source-wordcount: '2192'
+ht-degree: 7%
 
 ---
 
@@ -28,13 +28,15 @@ ht-degree: 8%
       + [Summit 2019 Super Session - High Tech](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.md)
    + Grundläggande om analys {#analytics-basics}
       + [Knappen Prova i arbetsytan i Reports and Analytics](intro-to-analytics/analytics-basics/try-in-workspace-button.md)
-      + [Personmått](intro-to-analytics/analytics-basics/people-metric.md)
       + [Analyscykeln](intro-to-analytics/analytics-basics/understanding-the-analytics-cycle.md)
       + [Hur analysdata samlas in](intro-to-analytics/analytics-basics/how-analytics-data-is-collected.md)
       + [Logga in på Adobe Analytics](intro-to-analytics/analytics-basics/logging-in-to-adobe-analytics.md)
       + [Introduktion till analysgränssnittet](intro-to-analytics/analytics-basics/intro-to-the-analytics-ui.md)
       + [Förstå och skapa rapportsviter](intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.md)
-      + [Adobe Labs (förhandsvisning av teknik)](intro-to-analytics/analytics-basics/adobe-labs-technology-previews.md)
+      + [Grundläggande besöksmått](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/understanding-basic-visitor-metrics.html)
+      + [Introduktion till trafikvariabler (Props)](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-traffic-variables-props.html)
+      + [Introduktion till konverteringsvariabler (eVars)](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-conversion-variables-evars.html)
+      + [Introduktion till konverteringshändelser](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/introduction-to-conversion-events.html)
    + Anpassa användargränssnittet {#customizing-the-ui}
       + [Användarinställningar i Adobe Analytics](intro-to-analytics/customizing-the-ui/user-preferences.md)
       + [Lägga till beskrivningar av Dimension och mått](intro-to-analytics/customizing-the-ui/adding-dimension-and-metric-descriptions.md)
@@ -241,6 +243,7 @@ ht-degree: 8%
 + Implementering {#implementation}
    + Implementeringsgrunder {#implementation-basics}
       + [Första gången](implementation/implementation-basics/first-time-implementation.md)
+      + [Förstå och skapa rapportsviter](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html)
       + [Mappa contextData-variabler till Props och Evar med bearbetningsregler](implementation/implementation-basics/map-contextdata-variables-into-props-and-evars-with-processing-rules.md)
       + [Identifiera er analysspårningsserver och rapportsviter](implementation/implementation-basics/how-to-identify-your-analytics-tracking-server-and-report-suites.md)
       + [Skapa ett dokument med affärskrav](implementation/implementation-basics/creating-a-business-requirements-document.md)
@@ -311,6 +314,7 @@ ht-degree: 8%
       + [Översikt över Activity Map](components/activity-map/activity-map-overview.md)
       + [Aktivera, felsöka och anpassa Adobe Analytics Activity Map](components/activity-map/enabling-debugging-and-customizing-the-activity-map.md)
 + Ytterligare verktyg {#additional-tools}
+   + [Adobe Labs (förhandsvisning av teknik)](additional-tools/adobe-labs-technology-previews.md)
    + Kontrollpaneler för analyser {#analytics-dashboards}
       + [Adobe Analytics-instrumentpaneler i Styrkort](additional-tools/analytics-dashboards/adobe-analytics-dashboards-scorecard-builder.md)
       + [Använd anpassade datumintervall](additional-tools/analytics-dashboards/apply-custom-date-ranges-to-mobile-scorecard-projects.md)
