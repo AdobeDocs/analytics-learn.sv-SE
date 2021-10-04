@@ -2,9 +2,8 @@
 user-guide-title: Adobe Analytics självstudiekurser
 user-guide-description: En samling videor och självstudiekurser för Adobe Analytics.
 breadcrumb-title: Analytics Tutorials
-breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
-source-git-commit: 54cc440067743e6e198f131a26566ffb32ac5d60
+source-git-commit: 3fa5d24147c0a2074921144d725d21ea57a92336
 workflow-type: tm+mt
 source-wordcount: '2197'
 ht-degree: 7%

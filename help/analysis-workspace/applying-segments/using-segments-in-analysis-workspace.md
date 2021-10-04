@@ -1,7 +1,7 @@
 ---
 title: Använda segment i Analysis Workspace
 description: Lär dig hur du använder segment i Analysis Workspace-projekt.
-feature: Segmentering
+feature: Segmentation
 topics: null
 activity: use
 doc-type: feature video
@@ -10,11 +10,11 @@ team: Technical Marketing
 kt: 2104
 role: User
 level: Beginner
-exl-id: 25251556-ef71-4e29-a026-4b8ba9269b3a,b9f4e941-dd03-458a-8338-a6a19244e588,b9f4e941-dd03-458a-8338-a6a19244e588,25251556-ef71-4e29-a026-4b8ba9269b3a
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+exl-id: 25251556-ef71-4e29-a026-4b8ba9269b3a,b9f4e941-dd03-458a-8338-a6a19244e588
+source-git-commit: 34f24fac13dfaef0c1c8f03bd365d432324ae4d1
 workflow-type: tm+mt
-source-wordcount: '29'
-ht-degree: 3%
+source-wordcount: '28'
+ht-degree: 0%
 
 ---
 
