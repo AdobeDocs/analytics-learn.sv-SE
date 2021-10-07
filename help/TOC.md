@@ -3,9 +3,9 @@ user-guide-title: Adobe Analytics självstudiekurser
 user-guide-description: En samling videor och självstudiekurser för Adobe Analytics.
 breadcrumb-title: Analytics Tutorials
 solution: Analytics
-source-git-commit: 3fa5d24147c0a2074921144d725d21ea57a92336
+source-git-commit: 808129e3d71b11446eadac44862e6a879c9e95b7
 workflow-type: tm+mt
-source-wordcount: '2197'
+source-wordcount: '2201'
 ht-degree: 7%
 
 ---
@@ -317,6 +317,7 @@ ht-degree: 7%
    + [Adobe Labs (förhandsvisning av teknik)](additional-tools/adobe-labs-technology-previews.md)
    + Kontrollpaneler för analyser {#analytics-dashboards}
       + [Adobe Analytics-instrumentpaneler i Styrkort](additional-tools/analytics-dashboards/adobe-analytics-dashboards-scorecard-builder.md)
+      + [Visualiseringar för mobila styrkort](additional-tools/analytics-dashboards/visualizations-for-mobile-scorecards.md)
       + [Använd anpassade datumintervall](additional-tools/analytics-dashboards/apply-custom-date-ranges-to-mobile-scorecard-projects.md)
       + [Kontrollpaneler för analys i appupplevelser](additional-tools/analytics-dashboards/adobe-analytics-dashboards-in-app-experience.md)
 + Exporterar {#exporting}
@@ -387,8 +388,8 @@ ht-degree: 7%
       + [Initiera och visa livscykelvärden med Experience Platform SDK](mobile-app-analytics/implementation/initializing-and-viewing-lifecycle-metrics-with-the-experience-platform-sdk.md)
       + [Spårningsåtgärder (AKA Custom Links)](mobile-app-analytics/implementation/tracking-actions-aka-custom-links.md)
       + [Spårningsläge (AKA-sidor eller skärmar)](mobile-app-analytics/implementation/tracking-state-aka-pages-or-screens.md)
-      + [Implementera i iOS Swift Apps](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html)
-      + [Implementera iOS-målappar](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html)
+      + [Implementera i iOS Swift-appar](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html)
+      + [Implementera i iOS Objective-C-appar](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html)
       + [Implementera i Android-appar](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html)
    + Mätning av mobilanalys {#measuring-mobile-analytics}
       + [Komma igång med Adobe Mobile Analytics](mobile-app-analytics/measuring-mobile-analytics/getting-started-with-mobile-analytics.md)
