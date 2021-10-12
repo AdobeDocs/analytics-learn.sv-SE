@@ -3,9 +3,9 @@ user-guide-title: Adobe Analytics självstudiekurser
 user-guide-description: En samling videor och självstudiekurser för Adobe Analytics.
 breadcrumb-title: Analytics Tutorials
 solution: Analytics
-source-git-commit: 808129e3d71b11446eadac44862e6a879c9e95b7
+source-git-commit: bf34fbd9aa8f707efd8cb96a3cebda03d6ebdeb1
 workflow-type: tm+mt
-source-wordcount: '2201'
+source-wordcount: '2209'
 ht-degree: 7%
 
 ---
@@ -410,3 +410,4 @@ ht-degree: 7%
    + [Konfigurera postnummeranalys på marknaden](analysis-use-cases/setting-up-in-market-zip-code-analysis-use-case.md)
 + [Analytics University - kursplan](analytics-university/curriculum.md)
 + [Experience League LIVE](exl-live/exl-live-overview.md)
++ [Grundläggande analyser för företagsanvändare har tagits bort](retired-courses/retire-fundamentals-for-business-users-course.md)
