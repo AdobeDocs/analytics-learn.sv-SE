@@ -1,25 +1,23 @@
 ---
 title: Segmentbehållare i Adobe Analytics
-description: I den här videon visas hur du arbetar med de tre olika segmentbehållartyperna i Segment Builder i Adobe Analytics.
+description: När du skapar segment styr träffar-, besök- och besöksbehållarna hur mycket data ditt segment kommer att innehålla. I den här videon får du lära dig hur du använder behållarna och höra några exempel på var och en.
 feature: Segmentation
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
 kt: 2301
+thumbnail: 2301.jpg
 role: User
 level: Beginner
 exl-id: 742e263e-2ac0-4d6e-b321-90691189d914
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
+source-git-commit: 4b195762364148ca1f4affe79f5c9a174761558f
 workflow-type: tm+mt
-source-wordcount: '44'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---
 
-# [!UICONTROL Segment] [!UICONTROL containers] i Adobe Analytics {#segment-containers-in-adobe-analytics}
+Segmentbehållare i Adobe Analytics {#segment-containers-in-adobe-analytics}
 
-I den här videon visas hur du arbetar med de tre olika [!UICONTROL segment] [!UICONTROL container]-typerna i [!UICONTROL Segment Builder] för Adobe Analytics.
+När du skapar segment styr träffar-, besök- och besöksbehållarna hur mycket data ditt segment kommer att innehålla. I den här videon får du lära dig hur du använder behållarna och höra några exempel på var och en.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25401/?quality=12)
 
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/components/segmentation/seg-overview.html?lang=en).
