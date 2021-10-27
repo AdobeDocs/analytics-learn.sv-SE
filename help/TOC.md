@@ -3,9 +3,9 @@ user-guide-title: Adobe Analytics självstudiekurser
 user-guide-description: En samling videor och självstudiekurser för Adobe Analytics.
 breadcrumb-title: Analytics Tutorials
 solution: Analytics
-source-git-commit: da55943c5e956f7b03952babf8cdaf50d6239133
+source-git-commit: 74f9fce66df5b5b9cf9f05feed1b992aa6b7a114
 workflow-type: tm+mt
-source-wordcount: '2209'
+source-wordcount: '2208'
 ht-degree: 7%
 
 ---
@@ -160,8 +160,8 @@ ht-degree: 7%
       + [Arbeta med Dimensioner i en frihandstabell](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.html)
    + Kalender- och datumintervall {#calendar-and-date-ranges}
       + [Använda datum i Analysis Workspace](analysis-workspace/calendar-and-date-ranges/using-dates-in-analysis-workspace.md)
+      + [Använda återanvändbara datumintervall i ditt projekt](analysis-workspace/calendar-and-date-ranges/applying-reusable-date-ranges-in-your-project.md)
       + [Använda datumintervall och jämförelser i Analysis Workspace](analysis-workspace/calendar-and-date-ranges/using-date-ranges-and-comparisons-in-analysis-workspace.md)
-      + [Använda datumintervall och kalender i Analysis Workspace](analysis-workspace/calendar-and-date-ranges/date-ranges-and-calendar-in-analysis-workspace.md)
       + [Skapa anpassade datumintervall](analysis-workspace/calendar-and-date-ranges/creating-custom-date-ranges-in-analysis-workspace.md)
       + [Datumjämförelser i Analysis Workspace](analysis-workspace/calendar-and-date-ranges/date-comparisons-in-analysis-workspace.md)
       + [Lägga till jämförelser med föregående månad och år i trender](analysis-workspace/calendar-and-date-ranges/adding-prior-month-and-year-comparisons-to-trends.md)
