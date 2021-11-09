@@ -9,27 +9,27 @@ team: Technical Marketing
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 3aa2bc96-ed20-46f7-ba9a-a2b7e8b23313
-source-git-commit: 47061b035847e42d72dec3b83d7a8322f0276e6b
+source-git-commit: c6cb1238e3e2da656976154445992e34bfa011ae
 workflow-type: tm+mt
-source-wordcount: '290'
+source-wordcount: '288'
 ht-degree: 30%
 
 ---
 
 # Översikt
 
-Välkommen till webbplatsen [!DNL Analytics] Tutorials.  Genom att använda dessa självstudiekurser tillsammans med [dokumentationen](https://experienceleague.adobe.com/docs/analytics/landing/home.html) får du en bättre förståelse för hur du använder Adobe Analytics för att få kundinsikter snabbare än någonsin.  För att komma igång,
-* Se avsnittet **&quot;Nyheter&quot;** nedan för de senaste funktionerna
-* **Personalväljaren** lyfter fram en del av vårt favoritinnehåll
-* Utforska innehållet efter ämne och underämne i **vänster navigering**
-* Använd fältet **sök** längst upp på sidan om du vet vad du söker efter
+Välkommen till [!DNL Analytics] Tutorials webbplats.  Använd dessa självstudiekurser tillsammans med [dokumentation](https://experienceleague.adobe.com/docs/analytics.html) ger er en bättre förståelse för hur ni kan använda Adobe Analytics för att få kundinsikter snabbare än någonsin.  För att komma igång,
+* Se **&quot;What&#39;s New&quot;** för de senaste funktionerna
+* **Personalval** markerar en del av vårt favoritinnehåll
+* Utforska innehållet efter ämne och ämne i **vänster navigering**
+* Använd **sök** fältet längst upp på sidan om du vet vad du letar efter
 
 ## Nyheter
 
 * **[Högerklicka för arbetsyteeffektivitet (video)](analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.md)**
 
    <br>
-   *Läs om alla våra högerklick på Analysis Workspace och hur du använder dem. Från [!UICONTROL Freeform Tables] till [!UICONTROL Fallout Visualizations] gör högerklickning att du blir effektivare och mer effektiv i [!DNL Workspace].*
+   *Läs om alla våra högerklick på Analysis Workspace och hur du använder dem. Från [!UICONTROL Freeform Tables] till [!UICONTROL Fallout Visualizations]genom att högerklicka blir du effektivare och mer skicklig på [!DNL Workspace].*
 
 * **[Panelen Snabbinsikter i Analysis Workspace (video)](analysis-workspace/using-panels/quick-insights-panel-in-analysis-workspace.md)**
 
