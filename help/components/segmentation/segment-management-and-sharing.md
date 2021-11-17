@@ -1,26 +1,22 @@
 ---
 title: Segmenthantering och -delning i Adobe Analytics
-description: I den här videon visas hur du delar och hanterar segment i Adobe Analytics.
+description: Du kan skapa bra segment, men varför behålla dem för dig själv? I den här videon får du tips på hur du delar och hanterar dina segment, så att du och andra kan njuta av det goda.
 feature: Segmentation
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
 kt: 2305
 role: User
 level: Beginner
 exl-id: d78f2b6f-d685-4a21-8f45-4f410c3a0e5c
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
+source-git-commit: 0a89dbee943292e969e1a971411e4af0468f58cb
 workflow-type: tm+mt
-source-wordcount: '57'
+source-wordcount: '98'
 ht-degree: 0%
 
 ---
 
 # [!UICONTROL Segment] Hantera och dela i Adobe Analytics {#segment-management-and-sharing-in-adobe-analytics}
 
-I den här videon visas hur du delar och hanterar [!UICONTROL segments] i Adobe Analytics.
+Du kan skapa bra segment, men varför behålla dem för dig själv? I den här videon får du tips på hur du delar och hanterar dina segment, så att du och andra kan njuta av det goda.
 
->[!VIDEO](https://video.tv.adobe.com/v/25402/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25402/?quality=12&learn=on)
 
-Mer information om den här funktionen finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-manage.html?lang=en).
+Mer information om den här funktionen finns på [dokumentation](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-manage.html?lang=en).
