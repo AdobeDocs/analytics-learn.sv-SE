@@ -3,9 +3,9 @@ user-guide-title: Adobe Analytics självstudiekurser
 user-guide-description: En samling videor och självstudiekurser för Adobe Analytics.
 breadcrumb-title: Analytics Tutorials
 solution: Analytics
-source-git-commit: 4092033ff06e0b4805a94bb77e7d9c964adcf82a
+source-git-commit: acc9965df12599640462302becd18d82e7dcbc33
 workflow-type: tm+mt
-source-wordcount: '2225'
+source-wordcount: '2231'
 ht-degree: 7%
 
 ---
@@ -293,6 +293,7 @@ ht-degree: 7%
       + [Segmentering på antal distinkta Dimensioner](components/segmentation/segmentation-on-distinct-dimension-counts.md)
       + [Dimension Models in Segmentation](components/segmentation/dimension-models-in-segmentation.md)
       + [Lika med någon av operatorerna i segmentering](components/segmentation/equals-any-of-operator-in-segmentation.md)
+      + [Analytics Insider Webinar - strategier för kundsegmentering](components/segmentation/customer-segmentation-strategies.md)
    + Beräknade mätvärden {#calculated-metrics}
       + [Distinkt funktion för ungefärligt antal i beräknade värden](components/calculated-metrics/approximate-count-distinct-function-in-calculated-metrics.md)
       + [Attribution IQ i beräknade värden](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/attribution-iq-in-calculated-metrics.html)
