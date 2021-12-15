@@ -3,9 +3,9 @@ user-guide-title: Adobe Analytics självstudiekurser
 user-guide-description: En samling videor och självstudiekurser för Adobe Analytics.
 breadcrumb-title: Analytics Tutorials
 solution: Analytics
-source-git-commit: acc9965df12599640462302becd18d82e7dcbc33
+source-git-commit: decddf7d0623120b9d2ee9620c922cf280476086
 workflow-type: tm+mt
-source-wordcount: '2231'
+source-wordcount: '2235'
 ht-degree: 7%
 
 ---
@@ -225,6 +225,7 @@ ht-degree: 7%
    + Hantera rapportsviter {#manage-report-suites}
       + [Konfigurera allmänna kontoinställningar](administration/manage-report-suites/configuring-general-account-settings.md)
       + [Anpassa kalenderinställningar](administration/manage-report-suites/customize-calendar-settings.md)
+      + [Konfigurera identifiering av betald sökning](administration/manage-report-suites/configure-paid-search-detection.md)
       + [Anpassa menyer i rapporter och analyser](administration/manage-report-suites/customize-menus.md)
       + [Konfigurera sökmetoder](administration/manage-report-suites/configure-finding-methods.md)
       + [Ange interna URL-filter](administration/manage-report-suites/set-internal-url-filters.md)
