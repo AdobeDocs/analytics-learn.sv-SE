@@ -2,15 +2,13 @@
 title: Använda datumintervall och jämförelser i Analysis Workspace
 description: I den här videon får du lära dig hur du använder datum, datumintervall och datumjämförelser för att anpassa tabeller och visualiseringar till rätt tidsram.
 feature: Calendar
-topics: null
-activity: use
-doc-type: feature video
+thumbnail: 30753.jpg
 team: Technical Marketing
 kt: 4105
 role: User
 level: Beginner
 exl-id: 0962f332-acc7-4ebe-9841-4d3fdf1d77b3
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
+source-git-commit: be1ffd44024ea883427c3099434f4ed4e719a128
 workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 0%
@@ -19,8 +17,8 @@ ht-degree: 0%
 
 # Använda [!UICONTROL Date Ranges] och jämförelser i Analysis Workspace
 
-I den här videon får du lära dig hur du använder datumjämförelser, [!UICONTROL date ranges] och datumjämförelser för att anpassa tabeller och visualiseringar till rätt tidsram.
+I den här videon får du lära dig hur du använder datum, [!UICONTROL date ranges]och datumjämförelser för att anpassa tabeller och visualiseringar till rätt tidsram.
 
 >[!VIDEO](https://video.tv.adobe.com/v/30753/?quality=12)
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/calendar.html).
+Mer information finns på [dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/calendar.html).

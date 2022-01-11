@@ -6,11 +6,12 @@ topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
+thumbnail: 24036.jpg
 kt: 2008
 role: User
 level: Beginner
 exl-id: d07ba0a5-735b-43f2-ad67-31520ac897bd
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
+source-git-commit: be1ffd44024ea883427c3099434f4ed4e719a128
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 0%
@@ -23,6 +24,6 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/24036/?quality=12)
 
-Du kan nu släppa fullständiga [!UICONTROL dimensions] och [!UICONTROL metrics], förutom det befintliga stödet för [!UICONTROL dimension]-objekt, [!UICONTROL date ranges] och [!UICONTROL segments]. Dessutom har vi förbättrat hur [!UICONTROL dimension] objekt av &quot;unspecified&quot; och &quot;none&quot; hanteras när de släpps i släppzonen [!UICONTROL segment].
+Nu kan du släppa hela [!UICONTROL dimensions] och [!UICONTROL metrics], förutom det befintliga stödet för [!UICONTROL dimension] objekt, [!UICONTROL date ranges] och [!UICONTROL segments]. Dessutom har vi förbättrat hur [!UICONTROL dimension] objekt av &quot;unspecified&quot; och &quot;none&quot; hanteras när de släpps i [!UICONTROL segment] släppzon.
 
-Mer information om den här funktionen finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/t-freeform-project-segment.html?lang=en).
+Mer information om den här funktionen finns på [dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/t-freeform-project-segment.html?lang=en).
