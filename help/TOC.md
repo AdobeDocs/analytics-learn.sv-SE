@@ -3,9 +3,9 @@ user-guide-title: Adobe Analytics självstudiekurser
 user-guide-description: En samling videor och självstudiekurser för Adobe Analytics.
 breadcrumb-title: Analytics Tutorials
 solution: Analytics
-source-git-commit: 376accf865e72799c0238250ac1e17f000c8d5b5
+source-git-commit: d97a15fbefd174cbd5345b1ff7fe28502de676d8
 workflow-type: tm+mt
-source-wordcount: '2251'
+source-wordcount: '2254'
 ht-degree: 7%
 
 ---
@@ -230,11 +230,12 @@ ht-degree: 7%
       + [Ändra inkommande data med bearbetningsregler](administration/manage-report-suites/manipulating-incoming-data-with-processing-rules.md)
       + [Konfigurera trafikvariabler (props)](administration/manage-report-suites/configuring-traffic-variables-props.md)
       + [Konfigurera trafikklassificeringar](administration/manage-report-suites/configure-traffic-classifications.md)
+      + [Konfigurera variabler i Admin Console](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
+      + [Konfigurera konverteringsklassificeringar](administration/manage-report-suites/configure-conversion-classifications.md)
       + [Konfigurera listvariabler](administration/manage-report-suites/configuring-list-variables.md)
       + [Konfigurera sökmetoder](administration/manage-report-suites/configure-finding-methods.md)
       + [Ange interna URL-filter](administration/manage-report-suites/set-internal-url-filters.md)
       + [Konfigurera inställningar för postnummer och postnummer](administration/manage-report-suites/configuring-zip-and-postal-code-settings.md)
-      + [Konfigurera variabler i Admin Console](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
       + [Aktivera inställningen Valfri tidsstämpel](administration/manage-report-suites/enable-the-timestamp-optional-setting.md)
       + [Konfigurera robotregler i Analytics](administration/manage-report-suites/configure-bot-rules-in-analytics.md)
    + Datastyrning och GDPR {#data-governance-and-gdpr}
