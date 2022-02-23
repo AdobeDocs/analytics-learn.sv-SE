@@ -3,9 +3,9 @@ user-guide-title: Adobe Analytics självstudiekurser
 user-guide-description: En samling videor och självstudiekurser för Adobe Analytics.
 breadcrumb-title: Analytics Tutorials
 solution: Analytics
-source-git-commit: d97a15fbefd174cbd5345b1ff7fe28502de676d8
+source-git-commit: c08c284f9e69cb2e16266e54c42ea15307e946b5
 workflow-type: tm+mt
-source-wordcount: '2254'
+source-wordcount: '2268'
 ht-degree: 7%
 
 ---
@@ -214,6 +214,9 @@ ht-degree: 7%
 + Reports and Analytics {#reports-and-analytics}
    + [Realtidsrapportering i Reports and Analytics](reports-and-analytics/realtime-reporting-in-reports-and-analytics.md)
 + Administrering {#administration}
+   + Viktiga administratörskunskaper {#key-admin-skills}
+      + [Skapa en kraftfull community](administration/key-admin-skills/empowered-community.md)
+      + [Förenkla och lägg mindre tid på utbildning](administration/key-admin-skills/simplify-training-users.md)
    + Företagsinställningar {#company-settings}
       + [Tvinga begränsningar för e-postdomän](administration/company-settings/enforce-email-domain-restrictions.md)
       + [Visa tillgängliga funktioner för ditt konto](administration/company-settings/view-your-accounts-available-features.md)
