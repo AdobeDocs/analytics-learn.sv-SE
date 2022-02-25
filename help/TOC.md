@@ -3,7 +3,7 @@ user-guide-title: Adobe Analytics självstudiekurser
 user-guide-description: En samling videor och självstudiekurser för Adobe Analytics.
 breadcrumb-title: Analytics Tutorials
 solution: Analytics
-source-git-commit: c08c284f9e69cb2e16266e54c42ea15307e946b5
+source-git-commit: c9984b0e1081f3ac19d8c49bc01626a69cd77b55
 workflow-type: tm+mt
 source-wordcount: '2268'
 ht-degree: 7%
@@ -217,6 +217,7 @@ ht-degree: 7%
    + Viktiga administratörskunskaper {#key-admin-skills}
       + [Skapa en kraftfull community](administration/key-admin-skills/empowered-community.md)
       + [Förenkla och lägg mindre tid på utbildning](administration/key-admin-skills/simplify-training-users.md)
+      + [Få rätt personer i ert analysteam](administration/key-admin-skills/getting-the-right-people-on-your-analytics-team.md)
    + Företagsinställningar {#company-settings}
       + [Tvinga begränsningar för e-postdomän](administration/company-settings/enforce-email-domain-restrictions.md)
       + [Visa tillgängliga funktioner för ditt konto](administration/company-settings/view-your-accounts-available-features.md)
@@ -243,7 +244,6 @@ ht-degree: 7%
       + [Konfigurera robotregler i Analytics](administration/manage-report-suites/configure-bot-rules-in-analytics.md)
    + Datastyrning och GDPR {#data-governance-and-gdpr}
       + [Datastyrning och GDPR i Adobe Analytics](administration/data-governance-and-gdpr/data-governance-and-gdpr.md)
-      + [Få rätt personer i ert analysteam](administration/data-governance-and-gdpr/getting-the-right-people-on-your-analytics-team.md)
    + Trafikhantering {#traffic-management}
       + [Användning av serversamtal](administration/traffic-management/server-call-usage.md)
       + [Hantera en kommande trafiktoppning](administration/traffic-management/manage-an-upcoming-traffic-spike.md)
