@@ -3,9 +3,9 @@ user-guide-title: Adobe Analytics självstudiekurser
 user-guide-description: En samling videor och självstudiekurser för Adobe Analytics.
 breadcrumb-title: Analytics Tutorials
 solution: Analytics
-source-git-commit: c9984b0e1081f3ac19d8c49bc01626a69cd77b55
+source-git-commit: 55ab1f97bcc06c497c7f367a3d56bdd21763be45
 workflow-type: tm+mt
-source-wordcount: '2268'
+source-wordcount: '2271'
 ht-degree: 7%
 
 ---
@@ -234,6 +234,7 @@ ht-degree: 7%
       + [Ändra inkommande data med bearbetningsregler](administration/manage-report-suites/manipulating-incoming-data-with-processing-rules.md)
       + [Konfigurera trafikvariabler (props)](administration/manage-report-suites/configuring-traffic-variables-props.md)
       + [Konfigurera trafikklassificeringar](administration/manage-report-suites/configure-traffic-classifications.md)
+      + [Konfigurera hierarkivariabler](administration/manage-report-suites/configure-hierarchy-variables.md)
       + [Konfigurera variabler i Admin Console](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
       + [Konfigurera konverteringsklassificeringar](administration/manage-report-suites/configure-conversion-classifications.md)
       + [Konfigurera listvariabler](administration/manage-report-suites/configuring-list-variables.md)
