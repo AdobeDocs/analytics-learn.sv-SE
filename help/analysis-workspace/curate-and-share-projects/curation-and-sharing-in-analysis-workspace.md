@@ -8,14 +8,14 @@ level: Beginner
 doc-type: feature video
 thumbnail: 341021.jpg
 kt: 2294
-source-git-commit: 5791ddd8ef948d74148bc4c2d4834a69ce879858
+source-git-commit: 8cba2c4f9d7daa5befe4f6bd90afed066dbbfea9
 workflow-type: tm+mt
-source-wordcount: '123'
+source-wordcount: '122'
 ht-degree: 0%
 
 ---
 
-# title Curate och dela i Analysis Workspace
+# Kuratera och dela i Analysis Workspace
 
 När du har byggt ett projekt i Analysis Workspace kan du [!UICONTROL curate] (förenkla) det och dela det med andra team och personer i organisationen så att de kan utforska det och själva få tillgång till data. I den här videon visas hur du arbetar med [!UICONTROL curation] och dela.
 
