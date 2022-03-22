@@ -7,13 +7,13 @@ level: Beginner
 doc-type: feature video
 thumbnail: 34749.jpg
 kt: 9830
-source-git-commit: 404ec61f8e1ad389f9d0f51d60ce5d9634b0a38c
+exl-id: b2be6081-a1c0-4435-affb-454ed5a74662
+source-git-commit: de78868e07b0fa59a7babc092c463bbe4d8e2da7
 workflow-type: tm+mt
-source-wordcount: '3644'
+source-wordcount: '3690'
 ht-degree: 0%
 
 ---
-
 
 # A Comprehensive Guide for Transitioning to Adobe Analytics from Google Analytics
 
@@ -116,7 +116,7 @@ I Adobe tillämpas segment (egentligen datafilter) retroaktivt och dessa kan dra
 
 Frihandstabeller möjliggör flera kolumner och segmentering efter behov för att visualisera data som du vill.
 
-Vill du inte se någon uppdelning efter datum? Bara dra och släpp en annan dimension eller ett segment där för att se data på ett annat sätt.. som att t.ex. använda segment för enhetstyp, och lägg sedan till en uppdelning efter operativsystem för dina mobil-/surfanvändare:
+Vill du inte se någon uppdelning efter datum? Bara dra och släpp ytterligare en dimension eller ett segment där för att se data på ett annat sätt.. som att t.ex. använda segment för enhetstyp, och lägg sedan till en uppdelning efter operativsystem för dina Mobile-/surfanvändare:
 
 ![image3](assets/ga-to-aa_4.png)
 
@@ -170,7 +170,7 @@ Här hittar du även &quot;Bot&quot;-rapporter, trafik från bots tas inte med i
 
 Webbplatsinnehåll är en gruppering av Adobe standarddimensioner: Sidnamn, Webbplatsavsnitt (kanaler), Hierarkier (ett sätt att skapa anpassade fördjupningsrapporter för organisationen inom din webbplats), Servrar (detta är särskilt användbart om du har flera underdomäner på din webbplats, eller om du taggar flera webbplatser tillsammans i en spårningssvit) osv. Alla dessa finns i Workspace.
 
-Mobilen är en gruppering av data som är specifika för mobila enheter, som enheter, enhetstyper osv. Alla dessa finns i Workspace.
+Mobile är en gruppering av Mobile enhetsspecifika data, som enheter, enhetstyper etc. Alla dessa finns i Workspace.
 
 Banor är en annan av dessa &quot;inte helt tillgängliga i arbetsytan&quot;-objekt... medan arbetsytan har ett flödesdiagram kan du bara se in- och utflödena för en sida/ett värde.. medan du kan använda banor för att se de vanligaste sökvägarna som används på webbplatsen. Som standard är Sidor den första sökvägsrapporten som är konfigurerad för dig, men du kan aktivera den för anpassade utkast (till exempel om du håller reda på ett värde för sidtyp, kan du titta på en målning inom sidtyper. Det andra jag personligen gillar med banor är det enkla sätt som informationen presenteras på... Flödesdiagrammet på arbetsytan (beroende på hur mycket du försöker titta på) kan bli överväldigande. Jag rekommenderar att du testar båda ... de båda har ett användande och värde beroende på vad du försöker uppnå. Det bör noteras att alla dimensioner kan användas i flöden, medan Pathing måste ställas in på en Prop på Admin-panelen.
 
@@ -268,20 +268,19 @@ Jag vill emellertid betona att jag skulle rekommendera att använda både Adobe 
 
 Du har tillgång till många resurser utöver den här guiden som kan förbättra din strategi:
 
-* [Adobe Experience League](https://experienceleague.adobe.com/#home) (som innehåller självstudiekurser, videor, dokumentation och communityforum)
-* [Adobe användargrupper](https://analytics-augs.adobe.com/) (det här är ett nav av communitykörningshändelser som hjälper användare att ansluta till varandra och förbättra sina implementeringar - bara för att dessa är baserade i en viss tidszon är det bäst att kontrollera vilka andra regioner som fungerar också)
-* YouTube Channel
-   * [Adobe Analytics användargrupper](https://www.youtube.com/channel/UCQOHnCs7KZgsuFHVzwboQuA)
-* Slack kanaler
-   * [Mät chatt](https://www.measure.chat/)
-* med mera
+* [Adobe Experience League](https://experienceleague.adobe.com/#home) - Innehåller självstudiekurser, videor, dokumentation och communityforum
+* [Adobe användargrupper](https://analytics-augs.adobe.com/) - Ett nav av communityaktiviteter som hjälper användare att ansluta till varandra och förbättra sina implementeringar - eftersom dessa är baserade i en viss tidszon är det bäst att även kontrollera vilka andra regioner som körs.
+* [Adobe Analytics User Groups YouTube Channel](https://www.youtube.com/channel/UCQOHnCs7KZgsuFHVzwboQuA) - Kunde du inte skapa en användargruppsession i Adobe Analytics? Titta på sessioner med tidigare användargrupper över hela världen för att lära dig mer om hur andra använder verktyget.
+* [Mät Chatt Slack-kanalen](https://www.measure.chat/) - Håll kontakt med Adobe Analytics-användare över hela världen och dela med dig av branschinformation, ställa frågor till andra och delta i mät intressegrupper.
+* med mera!
 
 ## Upphovsman
 
 Det här dokumentet har skrivits av:
 
-![Jennifer Dugan](assets/Jennifer_Dungan_Headshot150.png)
+![Jennifer Dungan](assets/Jennifer_Dungan_Headshot150.png)
+
+Jennifer Dungan, Optimization Manager Analytics på Torstar
 
 Adobe Analytics Champion
 
-Jennifer Dugan, Optimization Manager Analytics på Torstar
