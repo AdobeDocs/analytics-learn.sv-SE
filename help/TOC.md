@@ -3,9 +3,9 @@ user-guide-title: Adobe Analytics självstudiekurser
 user-guide-description: En samling videor och självstudiekurser för Adobe Analytics.
 breadcrumb-title: Analytics Tutorials
 solution: Analytics
-source-git-commit: cbdee5b0a5968edfdc19cbcfaaebe63af270bd34
+source-git-commit: d0ea66f585fbe2d4e54495ada024f8f39cdc8472
 workflow-type: tm+mt
-source-wordcount: '2288'
+source-wordcount: '2292'
 ht-degree: 7%
 
 ---
@@ -78,6 +78,7 @@ ht-degree: 7%
       + [Skapa en innehållsförteckning](analysis-workspace/navigating-workspace-projects/create-a-toc-in-analysis-workspace.md)
       + [Högerklicka om du vill se arbetsytans effektivitet](analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.md)
       + [Kortkommandon](analysis-workspace/navigating-workspace-projects/keyboard-shortcuts.md)
+      + [Anteckningar i Analysis Workspace](analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace.md)
       + [Menyrad](analysis-workspace/navigating-workspace-projects/menu-bar.md)
       + [Projektledning](analysis-workspace/navigating-workspace-projects/project-management-in-analysis-workspace.md)
       + [Ångra åtgärder i Analysis Workspace](analysis-workspace/navigating-workspace-projects/undoing-actions-in-analysis-workspace.md)
@@ -399,7 +400,7 @@ ht-degree: 7%
    + Mätning av medieanalys {#measuring-media-analytics}
       + [Medieuppspelningstid spenderad panel](media-analytics/measuring-media-analytics/media-playback-time-spent-panel.md)
       + [Använda mallen Ljudförbrukning i Analysis Workspace](media-analytics/measuring-media-analytics/using-the-audio-consumption-template-in-analysis-workspace.md)
-+ Mobilappsanalys {#mobile-app-analytics}
++ Mobile App Analytics {#mobile-app-analytics}
    + Implementering {#implementation}
       + [Administratörsinställningar för mobilappar](mobile-app-analytics/implementation/admin-settings-for-mobile-apps.md)
       + [Initiera och visa livscykelvärden med Experience Platform SDK](mobile-app-analytics/implementation/initializing-and-viewing-lifecycle-metrics-with-the-experience-platform-sdk.md)
