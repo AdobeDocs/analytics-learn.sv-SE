@@ -3,9 +3,9 @@ user-guide-title: Adobe Analytics självstudiekurser
 user-guide-description: En samling videor och självstudiekurser för Adobe Analytics.
 breadcrumb-title: Analytics Tutorials
 solution: Analytics
-source-git-commit: d0ea66f585fbe2d4e54495ada024f8f39cdc8472
+source-git-commit: e434c7f884bbc98ce1c296848abe0f7d2179bb1b
 workflow-type: tm+mt
-source-wordcount: '2292'
+source-wordcount: '2286'
 ht-degree: 7%
 
 ---
@@ -184,7 +184,7 @@ ht-degree: 7%
       + [Curation and Sharing in Analysis Workspace](analysis-workspace/curate-and-share-projects/curation-and-sharing-in-analysis-workspace.md)
       + [Direktlänk till ett projekt](analysis-workspace/curate-and-share-projects/direct-link-to-a-project.md)
       + [Hämta 50 000 objekt som CSV](analysis-workspace/curate-and-share-projects/download-50000-items-as-csv.md)
-      + [Exportera till CSV från Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/exporting/from-the-ui/export-to-csv-from-analysis-workspace.html)
+      + [Exportera till CSV och PDF från Analysis Workspace](analysis-workspace/curate-and-share-projects/export-to-csv-and-pdf-from-analysis-workspace.md)
       + [Dela inbäddade komponenter](analysis-workspace/curate-and-share-projects/share-embedded-components.md)
       + [Schemalägg och hämtningsbara projekt](analysis-workspace/curate-and-share-projects/scheduled-downloadable-projects-analysis-workspace.md)
       + [Projektdelning i Analysis Workspace](analysis-workspace/curate-and-share-projects/project-sharing-in-analysis-workspace.md)
@@ -411,7 +411,7 @@ ht-degree: 7%
       + [Implementera i Android-appar](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html)
    + Mäta mobilanalys {#measuring-mobile-analytics}
       + [Komma igång med Adobe Mobile Analytics](mobile-app-analytics/measuring-mobile-analytics/getting-started-with-mobile-analytics.md)
-      + [Inverkan av kontaktytor över hela den mobila resan](mobile-app-analytics/measuring-mobile-analytics/impact-of-touchpoints-across-mobile-journey.md)
+      + [Touchpoints-effekter på Mobile Journey](mobile-app-analytics/measuring-mobile-analytics/impact-of-touchpoints-across-mobile-journey.md)
       + [Analyserar användarbeteende över flera kanaler](mobile-app-analytics/measuring-mobile-analytics/analyzing-user-behavior-across-channels.md)
       + [Så här ökar du engagemangs- och kvarhållningsgraden](mobile-app-analytics/measuring-mobile-analytics/how-to-increase-engagement-and-retention-rates.md)
 + API:er {#apis}
