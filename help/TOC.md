@@ -3,9 +3,9 @@ user-guide-title: Adobe Analytics självstudiekurser
 user-guide-description: En samling videor och självstudiekurser för Adobe Analytics.
 breadcrumb-title: Analytics Tutorials
 solution: Analytics
-source-git-commit: e434c7f884bbc98ce1c296848abe0f7d2179bb1b
+source-git-commit: 61bbee615d9b65029a7f33fe50908276132f9820
 workflow-type: tm+mt
-source-wordcount: '2286'
+source-wordcount: '2294'
 ht-degree: 7%
 
 ---
@@ -343,6 +343,7 @@ ht-degree: 7%
    + Data Warehouse {#data-warehouse}
       + [Introduktion till Data warehouse](exporting/data-warehouse/introduction-to-data-warehouse.md)
       + [Skicka Data warehouse-begäran via SFTP](exporting/data-warehouse/send-data-warehouse-request-via-sftp.md)
+      + [Skicka Data warehouse-rapporter i Tableu Data Extract](exporting/data-warehouse/send-data-warehouse-reports-in-tableau-data-extract.md)
    + Datafeeds {#data-feeds}
       + [Användargränssnitt för hantering av dataflöden](exporting/data-feeds/data-feeds-management-ui.md)
       + [Hämta autentiseringsnyckeln för datafeeds](exporting/data-feeds/download-the-data-feed-authentication-key.md)
@@ -400,7 +401,7 @@ ht-degree: 7%
    + Mätning av medieanalys {#measuring-media-analytics}
       + [Medieuppspelningstid spenderad panel](media-analytics/measuring-media-analytics/media-playback-time-spent-panel.md)
       + [Använda mallen Ljudförbrukning i Analysis Workspace](media-analytics/measuring-media-analytics/using-the-audio-consumption-template-in-analysis-workspace.md)
-+ Mobile App Analytics {#mobile-app-analytics}
++ Mobilappsanalys {#mobile-app-analytics}
    + Implementering {#implementation}
       + [Administratörsinställningar för mobilappar](mobile-app-analytics/implementation/admin-settings-for-mobile-apps.md)
       + [Initiera och visa livscykelvärden med Experience Platform SDK](mobile-app-analytics/implementation/initializing-and-viewing-lifecycle-metrics-with-the-experience-platform-sdk.md)
@@ -411,7 +412,7 @@ ht-degree: 7%
       + [Implementera i Android-appar](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html)
    + Mäta mobilanalys {#measuring-mobile-analytics}
       + [Komma igång med Adobe Mobile Analytics](mobile-app-analytics/measuring-mobile-analytics/getting-started-with-mobile-analytics.md)
-      + [Touchpoints-effekter på Mobile Journey](mobile-app-analytics/measuring-mobile-analytics/impact-of-touchpoints-across-mobile-journey.md)
+      + [Inverkan av kontaktytor över hela den mobila resan](mobile-app-analytics/measuring-mobile-analytics/impact-of-touchpoints-across-mobile-journey.md)
       + [Analyserar användarbeteende över flera kanaler](mobile-app-analytics/measuring-mobile-analytics/analyzing-user-behavior-across-channels.md)
       + [Så här ökar du engagemangs- och kvarhållningsgraden](mobile-app-analytics/measuring-mobile-analytics/how-to-increase-engagement-and-retention-rates.md)
 + API:er {#apis}
