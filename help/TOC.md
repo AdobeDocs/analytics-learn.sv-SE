@@ -3,9 +3,9 @@ user-guide-title: Adobe Analytics självstudiekurser
 user-guide-description: En samling videor och självstudiekurser för Adobe Analytics.
 breadcrumb-title: Analytics Tutorials
 solution: Analytics
-source-git-commit: 61bbee615d9b65029a7f33fe50908276132f9820
+source-git-commit: f9e9a8e194305d382c8090c212656d3019fb0a2b
 workflow-type: tm+mt
-source-wordcount: '2294'
+source-wordcount: '2299'
 ht-degree: 7%
 
 ---
@@ -151,6 +151,7 @@ ht-degree: 7%
       + [Panelnivåsegment](analysis-workspace/using-panels/panel-level-segments.md)
       + [Använda segment som Dimensioner i Analysis Workspace](analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.md)
       + [Använda segment för att begränsa data i Analysis Workspace](analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.md)
+      + [Snabbsegment i Analysis Workspace](analysis-workspace/applying-segments/quick-segments-in-analysis-workspace.md)
    + Mätvärden {#metrics}
       + [Grundläggande besöksmått](analysis-workspace/metrics/understanding-basic-visitor-metrics.md)
       + [Lägga till Dimensioner och statistik i ditt projekt i Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.html)
@@ -412,7 +413,7 @@ ht-degree: 7%
       + [Implementera i Android-appar](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html)
    + Mäta mobilanalys {#measuring-mobile-analytics}
       + [Komma igång med Adobe Mobile Analytics](mobile-app-analytics/measuring-mobile-analytics/getting-started-with-mobile-analytics.md)
-      + [Inverkan av kontaktytor över hela den mobila resan](mobile-app-analytics/measuring-mobile-analytics/impact-of-touchpoints-across-mobile-journey.md)
+      + [Touchpoints-effekter på Mobile Journey](mobile-app-analytics/measuring-mobile-analytics/impact-of-touchpoints-across-mobile-journey.md)
       + [Analyserar användarbeteende över flera kanaler](mobile-app-analytics/measuring-mobile-analytics/analyzing-user-behavior-across-channels.md)
       + [Så här ökar du engagemangs- och kvarhållningsgraden](mobile-app-analytics/measuring-mobile-analytics/how-to-increase-engagement-and-retention-rates.md)
 + API:er {#apis}
