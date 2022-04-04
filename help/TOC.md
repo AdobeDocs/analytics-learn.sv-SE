@@ -3,9 +3,9 @@ user-guide-title: Adobe Analytics självstudiekurser
 user-guide-description: En samling videor och självstudiekurser för Adobe Analytics.
 breadcrumb-title: Analytics Tutorials
 solution: Analytics
-source-git-commit: f9e9a8e194305d382c8090c212656d3019fb0a2b
+source-git-commit: 7caea7a0194180dd1d4489703adc0356d9564609
 workflow-type: tm+mt
-source-wordcount: '2299'
+source-wordcount: '2321'
 ht-degree: 7%
 
 ---
@@ -222,6 +222,10 @@ ht-degree: 7%
       + [Skapa en kraftfull community](administration/key-admin-skills/empowered-community.md)
       + [Förenkla och lägg mindre tid på utbildning](administration/key-admin-skills/simplify-training-users.md)
       + [Få rätt personer i ert analysteam](administration/key-admin-skills/getting-the-right-people-on-your-analytics-team.md)
+      + [Sätta vid bordet](administration/key-admin-skills/gaining-a-seat-at-the-table.md)
+      + [Berätta viktiga historier med data](administration/key-admin-skills/telling-impactful-stories-with-data.md)
+      + [Översätta Adobe Analytics tekniska språk på ett icke-tekniskt sätt](administration/key-admin-skills/translating-adobe-analytics-technical-language.md)
+      + [Arbeta tvärfunktionellt](administration/key-admin-skills/working-cross-functionally.md)
    + Företagsinställningar {#company-settings}
       + [Tvinga begränsningar för e-postdomän](administration/company-settings/enforce-email-domain-restrictions.md)
       + [Visa tillgängliga funktioner för ditt konto](administration/company-settings/view-your-accounts-available-features.md)
@@ -402,7 +406,7 @@ ht-degree: 7%
    + Mätning av medieanalys {#measuring-media-analytics}
       + [Medieuppspelningstid spenderad panel](media-analytics/measuring-media-analytics/media-playback-time-spent-panel.md)
       + [Använda mallen Ljudförbrukning i Analysis Workspace](media-analytics/measuring-media-analytics/using-the-audio-consumption-template-in-analysis-workspace.md)
-+ Mobilappsanalys {#mobile-app-analytics}
++ Mobile App Analytics {#mobile-app-analytics}
    + Implementering {#implementation}
       + [Administratörsinställningar för mobilappar](mobile-app-analytics/implementation/admin-settings-for-mobile-apps.md)
       + [Initiera och visa livscykelvärden med Experience Platform SDK](mobile-app-analytics/implementation/initializing-and-viewing-lifecycle-metrics-with-the-experience-platform-sdk.md)
