@@ -1,8 +1,8 @@
 ---
 title: Hur Adobe Analysis Workspace kan förändra ert företag
-landing-page-description: Med Analysis Workspace kan du göra ad hoc-analyser, flexibel analys, kohortanalys och utfallsanalys.
-description: Analysis Workspace är ett nytt och lättanvänt gränssnitt i Adobe Analytics. I Analysis Workspace kan du göra ad hoc-analyser, flexibel analys, kohortanalys och utfallsanalys. Du kan också dela analysarbetsmiljön med alla på företaget, och med dra-och-släpp-funktionen kan alla enkelt analysera data och få insikter snabbt.
-feature: Grundläggande om arbetsytan
+landing-page-description: Lär dig hur du utför ad hoc-analyser, flexibel analys, kohortanalyser och utfallsanalyser med Analysis Workspace.
+description: Analysis Workspace är ett nytt och lättanvänt gränssnitt i Adobe Analytics. I Analysis Workspace kan du göra ad hoc-analyser, flexibel analys, kohortanalys och utfallsanalys. Du kan också dela analysarbetsmiljön med alla på företaget, och dra och släpp-funktionen gör att alla enkelt kan analysera data och få insikter snabbt.
+feature: Workspace Basics
 topics: null
 activity: understand
 doc-type: value video
@@ -11,16 +11,16 @@ kt: 4382
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 6e23fcf4-b4e2-4370-8904-801a13acf651
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: f08de1c175fc5d77d574b8abd9ad3e826661237d
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '150'
 ht-degree: 0%
 
 ---
 
 # Hur Adobe Analysis Workspace kan förändra ert företag
 
-[!UICONTROL Analysis Workspace] är ett nytt och lättanvänt gränssnitt i Adobe Analytics. I [!UICONTROL Analysis Workspace] kan du göra [!UICONTROL Ad hoc Analysis], [!UICONTROL Flexible Analysis], [!UICONTROL Cohort Analysis] och [!UICONTROL Fallout Analysis]. Du kan också dela analysarbetsmiljön med alla på företaget, och med dra-och-släpp-funktionen kan alla enkelt analysera data och få insikter snabbt.
+[!UICONTROL Analysis Workspace] är ett nytt och lättanvänt gränssnitt i Adobe Analytics. Inom [!UICONTROL Analysis Workspace]kan du [!UICONTROL Ad hoc Analysis], [!UICONTROL Flexible Analysis], [!UICONTROL Cohort Analysis]och [!UICONTROL Fallout Analysis]. Du kan också dela analysarbetsmiljön med alla på företaget, och dra och släpp-funktionen gör att alla enkelt kan analysera data och få insikter snabbt.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31501/?quality=12)
 
