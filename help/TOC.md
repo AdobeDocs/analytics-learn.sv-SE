@@ -3,9 +3,9 @@ user-guide-title: Adobe Analytics självstudiekurser
 user-guide-description: En samling videor och självstudiekurser för Adobe Analytics.
 breadcrumb-title: Analytics Tutorials
 solution: Analytics
-source-git-commit: 55c2a148ef766bc2b4d38c0d22490e9ae8c58d5c
+source-git-commit: c127c940ee352cc4815c34551e74564b725c776d
 workflow-type: tm+mt
-source-wordcount: '2327'
+source-wordcount: '2346'
 ht-degree: 7%
 
 ---
@@ -360,6 +360,9 @@ ht-degree: 7%
       + [Anomalidentifiering i Report Builder](exporting/report-builder/anomaly-detection-in-report-builder.md)
       + [Redigera mått mellan begäranden](exporting/report-builder/edit-metrics-across-requests.md)
       + [Använda Report Builder för att lära sig mer om Adobe Analytics API](exporting/report-builder/using-report-builder-to-learn-the-adobe-analytics-api.md)
+      + [Kom igång med Report Builder](exporting/report-builder/get-started-with-report-builder.md)
+      + [Schemalägg en begäran från Report Builder](exporting/report-builder/schedule-a-report-builder-request.md)
+      + [Använd Report Builder avancerade leveransalternativ för Power BI](exporting/report-builder/use-report-builder-advanced-delivery-options-for-power-bi.md)
 + Integreringar {#integrations}
    + Experience Cloud {#experience-cloud}
       + [Förbättringar i Experience Cloud Audience Publishing](integrations/experience-cloud/improved-experience-cloud-audience-publishing.md)
@@ -407,7 +410,7 @@ ht-degree: 7%
    + Mätning av medieanalys {#measuring-media-analytics}
       + [Medieuppspelningstid spenderad panel](media-analytics/measuring-media-analytics/media-playback-time-spent-panel.md)
       + [Använda mallen Ljudförbrukning i Analysis Workspace](media-analytics/measuring-media-analytics/using-the-audio-consumption-template-in-analysis-workspace.md)
-+ Mobilappsanalys {#mobile-app-analytics}
++ Mobile App Analytics {#mobile-app-analytics}
    + Implementering {#implementation}
       + [Administratörsinställningar för mobilappar](mobile-app-analytics/implementation/admin-settings-for-mobile-apps.md)
       + [Initiera och visa livscykelvärden med Experience Platform SDK](mobile-app-analytics/implementation/initializing-and-viewing-lifecycle-metrics-with-the-experience-platform-sdk.md)
