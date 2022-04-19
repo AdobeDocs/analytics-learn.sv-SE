@@ -7,9 +7,9 @@ role: Admin
 level: Experienced
 thumbnail: 342361.jpg
 kt: 10272
-source-git-commit: 55c2a148ef766bc2b4d38c0d22490e9ae8c58d5c
+source-git-commit: b5cda911edf548886cc0aeb404a8289bcea4f454
 workflow-type: tm+mt
-source-wordcount: '1080'
+source-wordcount: '1082'
 ht-degree: 0%
 
 ---
@@ -50,7 +50,7 @@ Skicka en lista med frågor till intressenter som ska granskas före identifieri
 
 Frågorna varierar beroende på teknisk eller analytisk process, företagsstruktur eller komplexitet i datainsamlingsämnet. Det är ofta till stor hjälp att börja på en hög nivå, med frågor om hela organisationen, sedan diskutera din intressents roll som stöd för dessa organisationsmål och så vidare i ökad detaljnivå. Sedan kan ni se till att de detaljerade datapunkter som diskuteras effektivt stöder organisationens övergripande mål. Det ger er också möjlighet att tänka kreativt och föreslå nya idéer för data som stöder deras mål.
 
-[Utforska den här mallen](assets/stakeholder-questionnaire.pdf) innehåller flera urvalsfrågor för intervjuer med intressenter. Återanvänd dem eller justera dem för att förbereda relevanta frågor för era diskussioner.
+[Utforska den här mallen](assets/stakeholder-questionnaire.pdf){target=&quot;_blank&quot;} innehåller flera exempelfrågor för intervjuer med intressenter. Återanvänd dem eller justera dem för att förbereda relevanta frågor för era diskussioner.
 
 ### 2. Begär exempelrapporter
 
