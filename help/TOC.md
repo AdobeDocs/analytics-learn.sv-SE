@@ -3,9 +3,9 @@ user-guide-title: Adobe Analytics självstudiekurser
 user-guide-description: En samling videor och självstudiekurser för Adobe Analytics.
 breadcrumb-title: Analytics Tutorials
 solution: Analytics
-source-git-commit: 0c61d08819b6a6d2fa15f287b9f6d88b6f5ef246
+source-git-commit: 58969c2aaf8b8614a77f4f310444393958f24e04
 workflow-type: tm+mt
-source-wordcount: '2346'
+source-wordcount: '2364'
 ht-degree: 7%
 
 ---
@@ -56,6 +56,8 @@ ht-degree: 7%
    + Analysis Workspace Basics {#analysis-workspace-basics}
       + [Analysis Workspace Introduction](analysis-workspace/analysis-workspace-basics/analysis-workspace-introduction.md)
       + [Analysis Workspace - översikt](analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md)
+      + [Navigera på den nya landningssidan](analysis-workspace/analysis-workspace-basics/navigating-the-new-landing-page.md)
+      + [Analysis Workspace landningssiduppdateringar](analysis-workspace/analysis-workspace-basics/analysis-workspace-landing-page-updates.md)
       + [Skapa nya Analysis Workspace-projekt](analysis-workspace/analysis-workspace-basics/creating-new-analysis-workspace-projects.md)
       + [Bygga ett arbetsyteprojekt från grunden](analysis-workspace/analysis-workspace-basics/building-a-workspace-project-from-scratch.md)
       + [Skapa och hantera anpassade mallar i Analysis Workspace](analysis-workspace/analysis-workspace-basics/create-manage-custom-templates-in-analysis-workspace.md)
@@ -95,6 +97,7 @@ ht-degree: 7%
       + [Organisera dina Analysis Workspace-projekt med paneler](analysis-workspace/using-panels/using-panels-to-organize-your-analysis-workspace-projects.md)
       + [Förbättringar av släppzon för segment](analysis-workspace/using-panels/segment-dropzone-improvements.md)
       + [Flera rapportsviter i Analysis Workspace](analysis-workspace/using-panels/multiple-report-suites-in-analysis-workspace.md)
+      + [Paneler och rapporter för arbetsytan Nästa/Föregående och Sidsammanfattning](analysis-workspace/using-panels/next-previous-and-page-summary-workspace-panels-reports.md)
    + Bygger frihandstabeller {#building-freeform-tables}
       + [Förstå era data - frihandstabeller](analysis-workspace/building-freeform-tables/understand-your-data-freeform-tables.md)
       + [Använda vänster järnväg för att skapa frihandstabeller i Analysis Workspace](analysis-workspace/building-freeform-tables/using-the-left-rail-to-build-freeform-tables-in-analysis-workspace.md)
@@ -410,7 +413,7 @@ ht-degree: 7%
    + Mätning av medieanalys {#measuring-media-analytics}
       + [Medieuppspelningstid spenderad panel](media-analytics/measuring-media-analytics/media-playback-time-spent-panel.md)
       + [Använda mallen Ljudförbrukning i Analysis Workspace](media-analytics/measuring-media-analytics/using-the-audio-consumption-template-in-analysis-workspace.md)
-+ Mobile App Analytics {#mobile-app-analytics}
++ Mobilappsanalys {#mobile-app-analytics}
    + Implementering {#implementation}
       + [Administratörsinställningar för mobilappar](mobile-app-analytics/implementation/admin-settings-for-mobile-apps.md)
       + [Initiera och visa livscykelvärden med Experience Platform SDK](mobile-app-analytics/implementation/initializing-and-viewing-lifecycle-metrics-with-the-experience-platform-sdk.md)
@@ -421,7 +424,7 @@ ht-degree: 7%
       + [Implementera i Android-appar](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html)
    + Mäta mobilanalys {#measuring-mobile-analytics}
       + [Komma igång med Adobe Mobile Analytics](mobile-app-analytics/measuring-mobile-analytics/getting-started-with-mobile-analytics.md)
-      + [Touchpoints-effekter på Mobile Journey](mobile-app-analytics/measuring-mobile-analytics/impact-of-touchpoints-across-mobile-journey.md)
+      + [Inverkan av kontaktytor över hela den mobila resan](mobile-app-analytics/measuring-mobile-analytics/impact-of-touchpoints-across-mobile-journey.md)
       + [Analyserar användarbeteende över flera kanaler](mobile-app-analytics/measuring-mobile-analytics/analyzing-user-behavior-across-channels.md)
       + [Så här ökar du engagemangs- och kvarhållningsgraden](mobile-app-analytics/measuring-mobile-analytics/how-to-increase-engagement-and-retention-rates.md)
 + API:er {#apis}
