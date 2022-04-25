@@ -1,24 +1,22 @@
 ---
-title: Introduktion till Data warehouse
-description: Med Data warehouse-begärandeverktyget i Adobe Analytics får du tillgång till frågor om rådata. data warehouse kan bearbeta ett obegränsat antal rader i en och samma begäran för enskilda schemalagda och nedladdade rapporter. Den här videon är en introduktion till verktyget, inklusive en genomgång av hur du skapar en Data warehouse-rapport.
+title: Introduktion till data warehouse
+description: Med data warehouse-begärandeverktyget i Adobe Analytics får du tillgång till frågor om rådata. Data warehouse kan bearbeta ett obegränsat antal rader i en och samma begäran för enskilda schemalagda och nedladdade rapporter. Den här videon är en introduktion till verktyget, inklusive en genomgång av hur du skapar en Data warehouse-rapport.
 feature: Data Warehouse
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
-kt: 2916
 role: User
 level: Beginner
+doc-type: feature video
+thumbnail: null
+kt: 2916
 exl-id: 917fa84a-256f-4feb-9ab4-10a5905e2456
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: da748775fa43f27b1d31026bd80eb970cdb1da63
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 1%
+source-wordcount: '104'
+ht-degree: 0%
 
 ---
 
-# Introduktion till [!UICONTROL Data Warehouse] {#introduction-to-data-warehouse}
+# Introduktion till [!UICONTROL data warehouse] {#introduction-to-data-warehouse}
 
-Med [!UICONTROL Data Warehouse]-begärandeverktyget i Adobe Analytics kan du fråga rådata. [!UICONTROL Data Warehouse] kan bearbeta ett obegränsat antal rader i en och samma begäran för enskilda schemalagda och nedladdade rapporter. Den här videon är en introduktion till verktyget, inklusive en genomgång av hur du skapar en [!UICONTROL Data Warehouse]-rapport.
+The [!UICONTROL data warehouse] kan du använda Adobe Analytics för att hämta rådata. [!UICONTROL Data warehouse] kan bearbeta ett obegränsat antal rader i en och samma begäran för enskilda schemalagda och nedladdade rapporter. Den här videon är en introduktion till verktyget, inklusive en genomgång av hur du skapar en [!UICONTROL data warehouse] rapport.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27306/?quality=12)
