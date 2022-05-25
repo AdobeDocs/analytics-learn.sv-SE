@@ -8,9 +8,9 @@ level: Experienced
 thumbnail: 342070.jpg
 kt: 10132
 exl-id: d583579b-226d-43ff-8a6a-36aa2bfcf7a6
-source-git-commit: e00df8fba0101dff2a8a0a1640b107f0497fabb1
+source-git-commit: 17a07f0734b9bb36ce1b2f95e1678abac5c823bf
 workflow-type: tm+mt
-source-wordcount: '1263'
+source-wordcount: '1283'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,11 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/342070/?quality=12&learn=on)
 
-&quot;En plats vid bordet.&quot; Den här populära frasen har varit ett varmt ämne i affärsvärlden i åratal nu. Men vad betyder det? Att få plats på bordet innebär att du ingår i de stora beslutsprocesserna. Du är inte bara inbjuden, utan dina synpunkter är värdefulla och uppskattade. Jag ska visa dig hur du kan hjälpa ditt företag och din karriär som Adobe Analytics-administratör genom att skaffa en plats vid bordet.
+&quot;En plats vid bordet.&quot; Den här populära frasen har varit ett varmt ämne i affärsvärlden i åratal nu. Men vad betyder det? Att få plats på bordet innebär att du ingår i de stora beslutsprocesserna. Du är inte bara inbjuden, utan dina synpunkter är värdefulla och uppskattade. Jag ska visa dig hur ni genom att skaffa en plats vid bordet kan hjälpa ert företag och er karriär som effektanvändare i Adobe Analytics, oavsett om ni är en administratör, dataanalytiker eller något annat som ni säger på ert visitkort.
 
 ## Varför du måste vara vid bordet
 
-För det första får vi inte göra något åt det. Dataanalytikernas roll har utvecklats. Analytikerna kan inte längre sitta bakom sina datorskärmar och bara fokusera på eVars, events och sProps. Som administratör ansvarar du för att se till att ditt företag fattar rätt datadrivna beslut. Men för att göra detta måste ni vara där de besluten fattas, och inte ta fram siffror vid ert skrivbord.
+För det första får vi inte göra något åt det. Datateknikernas roll har utvecklats. De kan inte längre sitta bakom sina datorskärmar och bara fokusera på eVars, events och sProps. Som administratör ansvarar du för att se till att ditt företag fattar rätt datadrivna beslut. Men för att göra detta måste ni vara där de besluten fattas, och inte ta fram siffror vid ert skrivbord.
 
 Här är tre skäl till att du måste vara där.
 
