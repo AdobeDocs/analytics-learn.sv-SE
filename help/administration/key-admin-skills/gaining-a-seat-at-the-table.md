@@ -7,13 +7,13 @@ role: Admin
 level: Experienced
 thumbnail: 342070.jpg
 kt: 10132
-source-git-commit: 5c1a78ea47373af78e3ad33e48f1401405e8bd88
+exl-id: d583579b-226d-43ff-8a6a-36aa2bfcf7a6
+source-git-commit: e00df8fba0101dff2a8a0a1640b107f0497fabb1
 workflow-type: tm+mt
 source-wordcount: '1263'
 ht-degree: 0%
 
 ---
-
 
 # Sätta vid bordet
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 ## Varför du måste vara vid bordet
 
-För det första får vi inte göra något åt det. Analysadministratörens roll har utvecklats. Administratörer kan inte längre sitta bakom sina datorskärmar och bara fokusera på eVars, events och sProps. Som administratör ansvarar du för att se till att ditt företag fattar rätt datadrivna beslut. Men för att göra detta måste ni vara där de besluten fattas, och inte ta fram siffror vid ert skrivbord.
+För det första får vi inte göra något åt det. Dataanalytikernas roll har utvecklats. Analytikerna kan inte längre sitta bakom sina datorskärmar och bara fokusera på eVars, events och sProps. Som administratör ansvarar du för att se till att ditt företag fattar rätt datadrivna beslut. Men för att göra detta måste ni vara där de besluten fattas, och inte ta fram siffror vid ert skrivbord.
 
 Här är tre skäl till att du måste vara där.
 
