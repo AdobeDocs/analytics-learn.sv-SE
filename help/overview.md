@@ -1,45 +1,44 @@
 ---
 title: Analysvideor och självstudiekurser
-description: En samling videor och självstudiekurser för Adobe Analytics.
+description: 'Få ut mesta möjliga av Adobe Analytics.  Använd dessa självstudiekurser för att överordnad funktionerna i Analytics och dra nytta av fördelarna för ert företag. Det här innehållet passar för administratörer, dataanalytiker, marknadsförare, utvecklare och arkitekter. '
 feature: Analytics Basics
-topics: null
-activity: use
-doc-type: overview
-team: Technical Marketing
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
+doc-type: overview
+thumbnail: null
+kt: 10453
 exl-id: 3aa2bc96-ed20-46f7-ba9a-a2b7e8b23313
-source-git-commit: c6cb1238e3e2da656976154445992e34bfa011ae
+source-git-commit: e66ac6397db58e403cb2bc10cb6a2af2eb7b1081
 workflow-type: tm+mt
-source-wordcount: '288'
-ht-degree: 30%
+source-wordcount: '345'
+ht-degree: 7%
 
 ---
 
-# Översikt
 
-Välkommen till [!DNL Analytics] Tutorials webbplats.  Använd dessa självstudiekurser tillsammans med [dokumentation](https://experienceleague.adobe.com/docs/analytics.html) ger er en bättre förståelse för hur ni kan använda Adobe Analytics för att få kundinsikter snabbare än någonsin.  För att komma igång,
-* Se **&quot;What&#39;s New&quot;** för de senaste funktionerna
+
+# Självstudiekurser om analys
+
+Få ut det mesta av [!DNL Adobe Analytics].  Använd dessa självstudiekurser för att överordnad funktionerna i Analytics och dra nytta av fördelarna för ert företag. Det här innehållet passar för administratörer, dataanalytiker, marknadsförare, utvecklare och arkitekter.
+
+För att komma igång,
+* Se **&quot;What&#39;s New&quot;** för de senaste uppdateringarna och funktionerna
 * **Personalval** markerar en del av vårt favoritinnehåll
 * Utforska innehållet efter ämne och ämne i **vänster navigering**
-* Använd **sök** fältet längst upp på sidan om du vet vad du letar efter
+* Använd **sök** fält högst upp på sidan om du vet vad du vill lära dig
+
+Kurser som kursupplevelser per roll och kunskapsnivå finns också i kursavsnittet. Logga bara in med din Adobe ID och navigera till **Lär dig > Rekommenderade kurser** i den övre navigeringen.
 
 ## Nyheter
 
-* **[Högerklicka för arbetsyteeffektivitet (video)](analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.md)**
+* **[Adobe Analytics Mobile Scorecard builder (video)](additional-tools/analytics-dashboards/adobe-analytics-dashboards-scorecard-builder.md)**
+   *Läs om hur du skapar och delar mobila styrkort som skapats i [!DNL Analysis Workspace] för dina verkställande användare.*
 
-   <br>
-   *Läs om alla våra högerklick på Analysis Workspace och hur du använder dem. Från [!UICONTROL Freeform Tables] till [!UICONTROL Fallout Visualizations]genom att högerklicka blir du effektivare och mer skicklig på [!DNL Workspace].*
+* **[Adobe Analytics mobilstyrkortsapp](additional-tools/analytics-dashboards/adobe-analytics-dashboards-in-app-experience.md)**
+   *Lär dig hur du laddar ned styrkortsprogrammet för mobila enheter och visar styrkort för mobila enheter som skapats i [!DNL Analysis Workspace].*
 
-* **[Panelen Snabbinsikter i Analysis Workspace (video)](analysis-workspace/using-panels/quick-insights-panel-in-analysis-workspace.md)**
-
-   <br>
-   *Quick Insights ger vägledning till icke-analytiker och nya användare av Analysis Workspace så att de snabbt och enkelt kan lära sig att svara på affärsfrågor.*
-
-* **[Projektdelning i Analysis Workspace (video)](analysis-workspace/curate-and-share-projects/project-sharing-in-analysis-workspace.md)**
-
-   <br>
-   *Projektdelning är ett sätt att demokratisera data och insikter från Analysis Workspace till användare i organisationen. Du kan placera mottagare i en av tre projektroller, beroende på vilken erfarenhet du vill att de ska ha Redigera, Duplicera och Visa.*
+* **[Anteckningar på arbetsytan (video)](analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace.md)**
+   *Anteckningar i [!DNL Analysis Workspace] kan ni effektivt kommunicera kontextuella datanunkter och insikter till era användare i hela organisationen. Anteckna ett datum- eller datumintervall med kända dataproblem, allmänna helgdagar, lanseringar av kampanjer och så vidare för att bättre informera användarna om varför de ser vad de ser i linjediagram, tabeller och mycket annat.*
 
 ## Personalval
 
@@ -86,3 +85,7 @@ Välkommen till [!DNL Analytics] Tutorials webbplats.  Använd dessa självstudi
   </td>
 </tr>
 </table>
+
+## Ytterligare resurser
+
+[Adobe Analytics-dokumentation](https://experienceleague.adobe.com/docs/analytics.html)
