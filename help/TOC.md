@@ -3,9 +3,9 @@ user-guide-title: Adobe Analytics självstudiekurser
 user-guide-description: En samling videor och självstudiekurser för Adobe Analytics.
 breadcrumb-title: Analytics Tutorials
 solution: Analytics
-source-git-commit: 3b5c8dae86d714a2735a9e9516ae02f9843abd58
+source-git-commit: f96f1412447c175b6e963176af11af2a82a706e6
 workflow-type: tm+mt
-source-wordcount: '2365'
+source-wordcount: '2392'
 ht-degree: 7%
 
 ---
@@ -25,6 +25,10 @@ ht-degree: 7%
       + [Summit 2019 Super Session - Resor och turism](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-travel.md)
       + [Summit 2019 Super Session - Retail](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-retail.md)
       + [Summit 2019 Super Session - High Tech](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.md)
+   + Strategi och tankeledarskap{#strategy}
+      + [Del 1 - Enkla högar för ökad effektivitet](strategy/analytics-simple-hacks-for-efficiency-part-one.md)
+      + [Del 2 - Enkla högar för ökad effektivitet](strategy/analytics-simple-hacks-for-efficiency-part-two.md)
+      + [Stärk kundanalysen med Virtual Analyst och Segment IQ i Adobe Analytics](strategy/customer-intelligence-with-virtual-analyst.md)
    + Övergång från andra plattformar {#transitioning-from-other-platforms}
       + [Övergång från Google Analytics](intro-to-analytics/transitioning-from-other-platforms/transition-from-google-analytics.md)
    + Grundläggande om analyser {#analytics-basics}
@@ -442,3 +446,4 @@ ht-degree: 7%
 + [Analytics University - kursplan](analytics-university/curriculum.md)
 + [Experience League LIVE](exl-live/exl-live-overview.md)
 + [Grundläggande analyser för företagsanvändare har tagits bort](retired-courses/retire-fundamentals-for-business-users-course.md)
+
