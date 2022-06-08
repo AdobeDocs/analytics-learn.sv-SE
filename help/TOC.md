@@ -3,10 +3,10 @@ user-guide-title: Adobe Analytics självstudiekurser
 user-guide-description: En samling videor och självstudiekurser för Adobe Analytics.
 breadcrumb-title: Analytics Tutorials
 solution: Analytics
-source-git-commit: f96f1412447c175b6e963176af11af2a82a706e6
+source-git-commit: eb3c42b38a22bceb8e65690956066584205fe0c2
 workflow-type: tm+mt
-source-wordcount: '2392'
-ht-degree: 7%
+source-wordcount: '2430'
+ht-degree: 6%
 
 ---
 
@@ -234,6 +234,14 @@ ht-degree: 7%
       + [Översätta Adobe Analytics tekniska språk på ett icke-tekniskt sätt](administration/key-admin-skills/translating-adobe-analytics-technical-language.md)
       + [Arbeta tvärfunktionellt](administration/key-admin-skills/working-cross-functionally.md)
       + [Frågar du rätt frågor?](administration/key-admin-skills/are-you-asking-the-right-questions.md)
+   + Administratörstips och bästa praxis {#admin-tips}
+      + [Hämta implementeringens spelningsbok](administration/admin-tips/download-the-adobe-analytics-implementation-playbook.md)
+      + [Skapa standardiserade namnkonventioner](administration/admin-tips/create-standardized-naming-conventions.md)
+      + [Skapa standardiserade kodmallar](administration/admin-tips/create-standardized-code-templates.md)
+      + [Skapa grundläggande videor och kurser](administration/admin-tips/create-basic-videos-and-training.md)
+      + [Skapa en intern Adobe Analytics-webbplats](administration/admin-tips/create-an-internal-adobe-analytics-site.md)
+      + [Använd en global rapportsvit](administration/admin-tips/use-a-global-report-suite.md)
+      + [Skapa ett nytt projekt](administration/admin-tips/create-a-news-and-announcements-project.md)
    + Företagsinställningar {#company-settings}
       + [Tvinga begränsningar för e-postdomän](administration/company-settings/enforce-email-domain-restrictions.md)
       + [Visa tillgängliga funktioner för ditt konto](administration/company-settings/view-your-accounts-available-features.md)
