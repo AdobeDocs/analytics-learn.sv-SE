@@ -1,28 +1,26 @@
 ---
 title: Skapa ett dokument med affärskrav
-description: 'I den här videon beskrivs det viktiga steget i att definiera vad du vill spåra med Adobe Analytics. Vad vill du veta om din webbplats? Låt oss skriva ner dem och börja bestämma hur vi ska spåra dem. '
-feature: Implementeringsgrunder
-topics: null
-activity: implement
-doc-type: feature video
+description: 'Lär dig mer om det viktiga steget att definiera de beteendedata som du vill hämta in och analysera i Adobe Analytics. Vad behöver ert företag förstå om besökarna använder era digitala resurser? Skriv ned dessa krav först och bestäm sedan hur de ska hämtas med Analytics-händelser, dimensioner och mätvärden. '
+feature: Implementation Basics
 team: Technical Marketing
 kt: 3580
+thumbnail: 28758.jpg
 role: Developer, Data Engineer
 level: Beginner
 exl-id: b86869d2-7c43-485d-98b3-4f7bebc4f420
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: 6ef8fd0853c8926a6237081383772046675aad02
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 # Skapa ett dokument med affärskrav
 
-I den här videon beskrivs det viktiga steget i att definiera vad du vill spåra med Adobe Analytics. Vad vill du veta om din webbplats? Låt oss skriva ner dem och börja bestämma hur vi ska spåra dem.
+Lär dig mer om det viktiga steget att definiera de beteendedata som du vill hämta in och analysera i Adobe Analytics. Vad behöver ert företag förstå om besökarna använder era digitala resurser? Skriv ned dessa krav först och bestäm sedan hur de ska hämtas med Analytics-händelser, dimensioner och mätvärden.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28758/?quality=12)
 
-[Hämta ](https://analytics.enablementadobe.com/files/brd-sdr-sample-template.xlsx) exempel på BRD/SDR som du kan använda för att definiera din plats.
+[Hämta](assets/aa-implementation-playbook.xlsx) en Excel-exempelmall som dokumenterar krav och datainsamlingsdesign för dina digitala egenskaper.
 
-[Hämta ](https://analytics.enablementadobe.com/files/geometrixx-clothiers-brd-sdr.xlsx) BRD/SDR från den här videon (och  [SDR-videon](creating-and-maintaining-an-sdr.md)).
+[Hämta](assets/geometrixx-clothiers-brd-sdr.xlsx) det Excel-dokument som visas i den här videon och/eller tittar på det relaterade [referensvideo för lösningsdesign](creating-and-maintaining-an-sdr.md).
