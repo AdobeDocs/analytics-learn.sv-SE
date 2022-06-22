@@ -1,10 +1,11 @@
 ---
 title: Stärk kundanalysen med Virtual Analyst och Segment IQ
-description: 'Lär dig hur viktigt det är att använda artificiell intelligens och maskininlärning (AI/ML). Se fördelarna med och lär dig av framgångsrika kunder från hela världen som använder Virtual Analyst och Segment IQ för att upptäcka avvikelser, undvika avvikelser och maximera avkastningen. '
+description: Lär dig hur viktigt det är att använda artificiell intelligens och maskininlärning (AI/ML). Se fördelarna med och lär dig av framgångsrika kunder från hela världen som använder Virtual Analyst och Segment IQ för att upptäcka avvikelser, undvika avvikelser och maximera avkastningen.
 solution: Analytics
-source-git-commit: 3915782f800ad5e7c1ab8c1157919dec40cc3183
+exl-id: 6793fbe2-cdab-435a-b213-17cff814fc9b
+source-git-commit: 8a02dcd42fef857e53b3f3403f3a52cc90f7ec72
 workflow-type: tm+mt
-source-wordcount: '1082'
+source-wordcount: '1100'
 ht-degree: 0%
 
 ---
@@ -121,3 +122,5 @@ Håll dig informerad om dataavvikelser hela tiden - oavsett om du är på kontor
 **Produkt-stock-out:** &quot;Folk som köpte Fitbit hade sex gånger större chans att få &quot;slut på lager&quot; än alla andra, så vi beställde snabbt fler Fitbit.&quot; → Produkterna kan inte köpas och fler ledighetsbeställningar kan göras
 
 Mer information finns på [webbinarium](https://adobecustomersuccess.adobeconnect.com/pmetho6ivh68/).
+
+Läs mer om strategi och tankeledarskap på [Nöjda kunder](https://experienceleague.corp.adobe.com/docs/customer-success/customer-success/overview.html) nav.

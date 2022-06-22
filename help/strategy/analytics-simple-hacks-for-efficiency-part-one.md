@@ -1,10 +1,11 @@
 ---
 title: Enkla hacks för ökad effektivitet och självbetjäning - del 1
-description: 'Lär dig de viktigaste utmaningarna som analysteamen står inför idag och våra rekommendationer för att lösa dem med hjälp av strategier utanför Adobe Analytics användargränssnitt. '
+description: Lär dig de viktigaste utmaningarna som analysteamen står inför idag och våra rekommendationer för att lösa dem med hjälp av strategier utanför Adobe Analytics användargränssnitt.
 solution: Analytics
-source-git-commit: 70097d69b165d63fe5a99d5083208b19725ad263
+exl-id: 5d1077fd-d006-4a85-bf1c-54f6b2d31934
+source-git-commit: dad200fdb5c5d15c00254d693fb47bbcec80afaf
 workflow-type: tm+mt
-source-wordcount: '694'
+source-wordcount: '712'
 ht-degree: 0%
 
 ---
@@ -84,3 +85,5 @@ Andra viktiga utmaningar som analytiker står inför:
    * Etablera små och medelstora företag inom de olika grupperna i organisationen
    * Bygg upp sin närvaro genom att hjälpa till att skapa sociala releaser och vinster
    * Använd vanliga kontorstider för att utbilda utbildarna och minska antalet tillfälliga ärenden
+
+Läs mer om strategi och tankeledarskap på [Nöjda kunder](https://experienceleague.corp.adobe.com/docs/customer-success/customer-success/overview.html) nav.

@@ -1,10 +1,11 @@
 ---
 title: Enkla hacks för ökad effektivitet och självbetjäning - del två
-description: 'Läs om de stora utmaningarna som Analytics-team står inför idag och våra rekommendationer för att lösa dem med hjälp av strategier som bygger på verktyg. '
+description: Läs om de stora utmaningarna som Analytics-team står inför idag och våra rekommendationer för att lösa dem med hjälp av strategier som bygger på verktyg.
 solution: Analytics
-source-git-commit: f96f1412447c175b6e963176af11af2a82a706e6
+exl-id: e3ad6c3c-7a95-424b-8757-42fef48bc22c
+source-git-commit: 8a02dcd42fef857e53b3f3403f3a52cc90f7ec72
 workflow-type: tm+mt
-source-wordcount: '759'
+source-wordcount: '777'
 ht-degree: 2%
 
 ---
@@ -94,3 +95,5 @@ Använd anteckningar för att skapa dokumentationsreferenser för lösningar i p
 Använd rapporterings-API:t för att flytta standardrapporter från [!UICONTROL Workspace] till schemalagda rapporter och kontrollpaneler. Dessutom kan du dra nytta av [!UICONTROL Analysis Workspace] för att skapa API-begäranden.
 
 Vi hoppas att du har tyckte att den här artikeln om strategier i verktyget är värdefull. Mer information om effektiva lösningar utanför Adobe Analytics finns här: [här](https://docs.google.com/document/d/1fSrC/_yHW04K61K0Phe4dtg1nCU4jDsqrHWc8KVvsJWk/edit?usp=sharing).
+
+Läs mer om strategi och tankeledarskap på [Nöjda kunder](https://experienceleague.corp.adobe.com/docs/customer-success/customer-success/overview.html) nav.
