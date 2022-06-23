@@ -3,9 +3,9 @@ user-guide-title: Adobe Analytics självstudiekurser
 user-guide-description: En samling videor och självstudiekurser för Adobe Analytics.
 breadcrumb-title: Analytics Tutorials
 solution: Analytics
-source-git-commit: eb3c42b38a22bceb8e65690956066584205fe0c2
+source-git-commit: 0500ffe75644f03a016ef673276b9f417a93284f
 workflow-type: tm+mt
-source-wordcount: '2430'
+source-wordcount: '2432'
 ht-degree: 6%
 
 ---
@@ -150,6 +150,17 @@ ht-degree: 6%
       + [Staplade 100 %-visualiseringar](analysis-workspace/visualizations/hundred-percent-stacked-visualizations.md)
       + [Inställningar för tabell och visualisering av datakälla](analysis-workspace/visualizations/table-and-visualization-data-source-settings.md)
       + [Bygg en tidsparande heatmap](analysis-workspace/visualizations/build-a-time-parting-heatmap.md)
+   + Analysera kundresor {#analyzing-customer-journeys}
+      + [Förstå era data - Utfall och flöde](analysis-workspace/analyzing-customer-journeys/understand-your-data-fallout-flow.md)
+      + [Resa-IQ - Enhetsövergripande analys](analysis-workspace/analyzing-customer-journeys/understanding-and-using-journey-iq-cross-device-analytics.md)
+      + [Bortfallsvisualisering](analysis-workspace/analyzing-customer-journeys/fallout-visualization.md)
+      + [Förbättringar av utfallsvisualisering](analysis-workspace/analyzing-customer-journeys/enhancements-to-fallout-visualization.md)
+      + [Flerdimensionell utfall](analysis-workspace/analyzing-customer-journeys/multi-dimensional-fallout.md)
+      + [Jämföra segment i utfall](analysis-workspace/analyzing-customer-journeys/comparing-segments-in-fallout.md)
+      + [Flödesvisualisering](analysis-workspace/analyzing-customer-journeys/flow-visualization.md)
+      + [Expandera vid Flödesvisualisering](analysis-workspace/analyzing-customer-journeys/expanding-on-flow-visualization.md)
+      + [2022 Flödesförbättringar](analysis-workspace/analyzing-customer-journeys/flow-improvements.md)
+      + [Figursättning och flerdimensionellt flöde](analysis-workspace/analyzing-customer-journeys/text-wrapping-and-multi-dimensional-flow.md)
    + Tillämpar segment {#applying-segments}
       + [Använda segment i ditt Analysis Workspace-projekt](analysis-workspace/applying-segments/applying-segments-to-your-analysis-workspace-project.md)
       + [Använda segment i Analysis Workspace](analysis-workspace/applying-segments/using-segments-in-analysis-workspace.md)
@@ -177,16 +188,6 @@ ht-degree: 6%
       + [Skapa anpassade datumintervall](analysis-workspace/calendar-and-date-ranges/creating-custom-date-ranges-in-analysis-workspace.md)
       + [Datumjämförelser i Analysis Workspace](analysis-workspace/calendar-and-date-ranges/date-comparisons-in-analysis-workspace.md)
       + [Lägga till jämförelser med föregående månad och år i trender](analysis-workspace/calendar-and-date-ranges/adding-prior-month-and-year-comparisons-to-trends.md)
-   + Analysera kundresor {#analyzing-customer-journeys}
-      + [Förstå era data - Utfall och flöde](analysis-workspace/analyzing-customer-journeys/understand-your-data-fallout-flow.md)
-      + [Resa-IQ - Enhetsövergripande analys](analysis-workspace/analyzing-customer-journeys/understanding-and-using-journey-iq-cross-device-analytics.md)
-      + [Bortfallsvisualisering](analysis-workspace/analyzing-customer-journeys/fallout-visualization.md)
-      + [Förbättringar av utfallsvisualisering](analysis-workspace/analyzing-customer-journeys/enhancements-to-fallout-visualization.md)
-      + [Flerdimensionell utfall](analysis-workspace/analyzing-customer-journeys/multi-dimensional-fallout.md)
-      + [Jämföra segment i utfall](analysis-workspace/analyzing-customer-journeys/comparing-segments-in-fallout.md)
-      + [Flödesvisualisering](analysis-workspace/analyzing-customer-journeys/flow-visualization.md)
-      + [Expandera vid Flödesvisualisering](analysis-workspace/analyzing-customer-journeys/expanding-on-flow-visualization.md)
-      + [Figursättning och flerdimensionellt flöde](analysis-workspace/analyzing-customer-journeys/text-wrapping-and-multi-dimensional-flow.md)
    + Kuratera och dela projekt {#curate-and-share-projects}
       + [Spara, dela och samarbeta i projekt i Analysis Workspace](analysis-workspace/curate-and-share-projects/saving-sharing-and-collaborating-on-projects-in-analysis-workspace.md)
       + [Curation and Sharing in Analysis Workspace](analysis-workspace/curate-and-share-projects/curation-and-sharing-in-analysis-workspace.md)
