@@ -21,11 +21,11 @@ ht-degree: 17%
 
 # Förbättringar i Experience Cloud Audience Publishing
 
-Förbättringar har gjorts i Experience Cloud Audience Publishing. Nu kan du publicera målgrupper ([!UICONTROL segments]) och göra dem tillgängliga sex gånger snabbare, vilket minskar den aktuella latenstiden från 48 timmar till ungefär 8 timmar, och eventuellt snabbare, beroende på trafik och [!UICONTROL segment] storlek.
+Förbättringar har gjorts i Experience Cloud Audience Publishing. Nu kan du publicera målgrupper ([!UICONTROL segments]) och göra dem tillgängliga sex gånger snabbare, vilket minskar latenstiden från 48 timmar till cirka 8 timmar, och eventuellt snabbare, beroende på trafik och [!UICONTROL segment] storlek.
 
 >[!VIDEO](https://video.tv.adobe.com/v/32842/?quality=12)
 
-Dessutom har antalet [!UICONTROL segments] som kan publiceras samtidigt ökat från 20 till 75 per [!UICONTROL report suite].
+Dessutom är antalet [!UICONTROL segments] som kan publiceras samtidigt har ökat från 20 till 75 per [!UICONTROL report suite].
 Mer information finns i [Publicera segment på Experience Cloud](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-publish.html) i Analytics-hjälpen.
 
-Läs även om [Publiker](https://experienceleague.adobe.com/docs/core-services/interface/audiences/audience-library.html) i hjälpen för Experience Cloud om du vill ha information om [!UICONTROL Audience Library].
+Läs även om [Målgrupper](https://experienceleague.adobe.com/docs/core-services/interface/audiences/audience-library.html) i Experience Cloud hjälp för information om [!UICONTROL Audience Library].
