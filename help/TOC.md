@@ -3,9 +3,9 @@ user-guide-title: Adobe Analytics självstudiekurser
 user-guide-description: En samling videor och självstudiekurser för Adobe Analytics.
 breadcrumb-title: Analytics Tutorials
 solution: Analytics
-source-git-commit: 0500ffe75644f03a016ef673276b9f417a93284f
+source-git-commit: eac3aedaf58c56a1607ef6ba8b6ca361e26ccd56
 workflow-type: tm+mt
-source-wordcount: '2432'
+source-wordcount: '2422'
 ht-degree: 6%
 
 ---
@@ -151,15 +151,12 @@ ht-degree: 6%
       + [Inställningar för tabell och visualisering av datakälla](analysis-workspace/visualizations/table-and-visualization-data-source-settings.md)
       + [Bygg en tidsparande heatmap](analysis-workspace/visualizations/build-a-time-parting-heatmap.md)
    + Analysera kundresor {#analyzing-customer-journeys}
-      + [Förstå era data - Utfall och flöde](analysis-workspace/analyzing-customer-journeys/understand-your-data-fallout-flow.md)
+      + [Förstå era data - bortfall och flöde](analysis-workspace/analyzing-customer-journeys/understand-your-data-fallout-flow.md)
       + [Resa-IQ - Enhetsövergripande analys](analysis-workspace/analyzing-customer-journeys/understanding-and-using-journey-iq-cross-device-analytics.md)
-      + [Bortfallsvisualisering](analysis-workspace/analyzing-customer-journeys/fallout-visualization.md)
-      + [Förbättringar av utfallsvisualisering](analysis-workspace/analyzing-customer-journeys/enhancements-to-fallout-visualization.md)
-      + [Flerdimensionell utfall](analysis-workspace/analyzing-customer-journeys/multi-dimensional-fallout.md)
-      + [Jämföra segment i utfall](analysis-workspace/analyzing-customer-journeys/comparing-segments-in-fallout.md)
+      + [Utfallsvisualisering](analysis-workspace/analyzing-customer-journeys/fallout-visualization.md)
       + [Flödesvisualisering](analysis-workspace/analyzing-customer-journeys/flow-visualization.md)
-      + [Expandera vid Flödesvisualisering](analysis-workspace/analyzing-customer-journeys/expanding-on-flow-visualization.md)
-      + [2022 Flödesförbättringar](analysis-workspace/analyzing-customer-journeys/flow-improvements.md)
+      + [Expandera vid flödesvisualisering](analysis-workspace/analyzing-customer-journeys/expanding-on-flow-visualization.md)
+      + [Förbättrat flöde 2022](analysis-workspace/analyzing-customer-journeys/flow-improvements.md)
       + [Figursättning och flerdimensionellt flöde](analysis-workspace/analyzing-customer-journeys/text-wrapping-and-multi-dimensional-flow.md)
    + Tillämpar segment {#applying-segments}
       + [Använda segment i ditt Analysis Workspace-projekt](analysis-workspace/applying-segments/applying-segments-to-your-analysis-workspace-project.md)
