@@ -3,9 +3,9 @@ user-guide-title: Adobe Analytics självstudiekurser
 user-guide-description: En samling videor och självstudiekurser för Adobe Analytics.
 breadcrumb-title: Analytics Tutorials
 solution: Analytics
-source-git-commit: eac3aedaf58c56a1607ef6ba8b6ca361e26ccd56
+source-git-commit: 2d0da239646660a7fb0895fa55a468131193bf0b
 workflow-type: tm+mt
-source-wordcount: '2422'
+source-wordcount: '2416'
 ht-degree: 6%
 
 ---
@@ -151,13 +151,10 @@ ht-degree: 6%
       + [Inställningar för tabell och visualisering av datakälla](analysis-workspace/visualizations/table-and-visualization-data-source-settings.md)
       + [Bygg en tidsparande heatmap](analysis-workspace/visualizations/build-a-time-parting-heatmap.md)
    + Analysera kundresor {#analyzing-customer-journeys}
-      + [Förstå era data - bortfall och flöde](analysis-workspace/analyzing-customer-journeys/understand-your-data-fallout-flow.md)
+      + [Skapa en utfallsvisualisering](analysis-workspace/analyzing-customer-journeys/fallout-visualization.md)
+      + [Skapa en flödesvisualisering](analysis-workspace/analyzing-customer-journeys/flow-visualization.md)
+      + [Använd bortfall och flöde tillsammans](analysis-workspace/analyzing-customer-journeys/understand-your-data-fallout-flow.md)
       + [Resa-IQ - Enhetsövergripande analys](analysis-workspace/analyzing-customer-journeys/understanding-and-using-journey-iq-cross-device-analytics.md)
-      + [Utfallsvisualisering](analysis-workspace/analyzing-customer-journeys/fallout-visualization.md)
-      + [Flödesvisualisering](analysis-workspace/analyzing-customer-journeys/flow-visualization.md)
-      + [Expandera vid flödesvisualisering](analysis-workspace/analyzing-customer-journeys/expanding-on-flow-visualization.md)
-      + [Förbättrat flöde 2022](analysis-workspace/analyzing-customer-journeys/flow-improvements.md)
-      + [Figursättning och flerdimensionellt flöde](analysis-workspace/analyzing-customer-journeys/text-wrapping-and-multi-dimensional-flow.md)
    + Tillämpar segment {#applying-segments}
       + [Använda segment i ditt Analysis Workspace-projekt](analysis-workspace/applying-segments/applying-segments-to-your-analysis-workspace-project.md)
       + [Använda segment i Analysis Workspace](analysis-workspace/applying-segments/using-segments-in-analysis-workspace.md)
