@@ -3,9 +3,9 @@ user-guide-title: Adobe Analytics självstudiekurser
 user-guide-description: En samling videor och självstudiekurser för Adobe Analytics.
 breadcrumb-title: Analytics Tutorials
 solution: Analytics
-source-git-commit: 2d0da239646660a7fb0895fa55a468131193bf0b
+source-git-commit: ac000e8726196b07934f05fcbcdc8f0eb0530f55
 workflow-type: tm+mt
-source-wordcount: '2416'
+source-wordcount: '2418'
 ht-degree: 6%
 
 ---
@@ -131,6 +131,7 @@ ht-degree: 6%
       + [Visualisering av ring](analysis-workspace/visualizations/using-the-donut-visualization.md)
       + [Histogramvisualisering](analysis-workspace/visualizations/histogram-visualization.md)
       + [Radvisualisering](analysis-workspace/visualizations/line-visualization-in-analysis-workspace.md)
+      + [Kombinationsdiagram](analysis-workspace/visualizations/combo-charts.md)
       + [Lägga till trendlinjer i linjevisualiseringar](analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.md)
       + [Kartvisualisering](analysis-workspace/visualizations/map-visualization.md)
       + [Visualiseringar av sammanfattningsnummer och sammanfattningsändringar](analysis-workspace/visualizations/summary-number-and-summary-change-visualizations-2021.md)
