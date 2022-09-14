@@ -1,14 +1,14 @@
 ---
 title: Kombinationsdiagram i Analysis Workspace
-description: Lär dig mer om visualisering av kombinationsdiagram i Analysis Workspace. Visualisering av kombinationsdiagram gör det enkelt att snabbt skapa en jämförelsevisualisering utan att först behöva skapa en tabell. Du kan enkelt visa trender i dina data i en kombination av rad och rad. (Ska vara mellan 60 och 160 tecken, men 258 tecken)
+description: Lär dig mer om visualisering av kombinationsdiagram i Analysis Workspace. Visualisering av kombinationsdiagram gör det enkelt att snabbt skapa en jämförelsevisualisering utan att först behöva skapa en tabell. Du kan enkelt visa trender i dina data i en kombination av rad och rad.
 feature: Visualizations
 role: User
 level: Beginner
 kt: 11111
-thumbnail: 3409159.jpeg
-source-git-commit: ac000e8726196b07934f05fcbcdc8f0eb0530f55
+thumbnail: 3409159.jpg
+source-git-commit: 7bfb42fa1896b31ec291fd1cddc02da73da3af8c
 workflow-type: tm+mt
-source-wordcount: '117'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
