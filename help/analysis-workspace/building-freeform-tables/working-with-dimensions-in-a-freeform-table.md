@@ -2,18 +2,14 @@
 title: Arbeta med Dimensioner i en frihandstabell
 description: Lär dig allt om att arbeta med dimensioner i frihandstabeller, inklusive att lägga till dem, sortera, filtrera, dela upp dem efter andra dimensioner osv.
 feature: Dimensions
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
 thumbnail: 40179.jpg
 kt: 6176
 role: User
 level: Beginner
 exl-id: 73791a22-a4f1-4fc9-a192-b7aa1d8b9142,ac127eac-2752-424b-aa1b-18a9688d42db
-source-git-commit: 34f24fac13dfaef0c1c8f03bd365d432324ae4d1
+source-git-commit: 561a36a8e3dc62b99c0efef2d62480b5a2e2f206
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '112'
 ht-degree: 0%
 
 ---
@@ -36,3 +32,7 @@ Lär dig allt om att arbeta med dimensioner i frihandstabeller, inklusive att l�
 * Dimensioner som filter (8:30)
 * Uppdelningar (9:48)
 * Rankade, över tid och trendrapporter (13:11)
+
+>[!INFO]
+>
+> Den här videon ingår i en kurs: [Frihandsritningar, grunden för analys](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3), kan köpas kostnadsfritt på Experience League!

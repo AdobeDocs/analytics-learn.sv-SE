@@ -1,19 +1,15 @@
 ---
 title: Använda Frihand tabellbyggare i Analysis Workspace
 description: Med Frihand Table Builder kan du dra och släppa i många dimensioner, uppdelningar, mätvärden och segment för att skapa tabeller som besvarar mer komplexa affärsfrågor. Data uppdateras inte direkt. i stället uppdateras den när du klickar på"Skapa", vilket sparar tid eftersom tabellen bara uppdateras en gång.
-feature: Frihandstabeller
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
+feature: Freeform Tables
 thumbnail: 31318.jpg
 kt: 4217
 role: User
 level: Beginner
 exl-id: 4cf94512-e4e4-418f-b759-db5feff272e6
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: 561a36a8e3dc62b99c0efef2d62480b5a2e2f206
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '125'
 ht-degree: 0%
 
 ---
@@ -23,3 +19,7 @@ ht-degree: 0%
 [!DNL Freeform Table Builder] kan du dra och släppa i många dimensioner, uppdelningar, mätvärden och segment för att skapa tabeller som besvarar mer komplexa affärsfrågor. Data uppdateras inte direkt. i stället uppdateras den när du klickar på&quot;Skapa&quot;, vilket sparar tid eftersom tabellen bara uppdateras en gång.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31318/?quality=12)
+
+>[!INFO]
+>
+> Den här videon ingår i en kurs: [Frihandsritningar, grunden för analys](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3), kan köpas kostnadsfritt på Experience League!
