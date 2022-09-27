@@ -8,10 +8,10 @@ kt: 4105
 role: User
 level: Beginner
 exl-id: 0962f332-acc7-4ebe-9841-4d3fdf1d77b3
-source-git-commit: be1ffd44024ea883427c3099434f4ed4e719a128
+source-git-commit: 1741a12e3c4b51c355f8ab3b8973be2a78c08301
 workflow-type: tm+mt
-source-wordcount: '79'
-ht-degree: 0%
+source-wordcount: '102'
+ht-degree: 4%
 
 ---
 
@@ -22,3 +22,7 @@ I den här videon får du lära dig hur du använder datum, [!UICONTROL date ran
 >[!VIDEO](https://video.tv.adobe.com/v/30753/?quality=12)
 
 Mer information finns på [dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/calendar.html).
+
+>[!INFO]
+>
+> Den här videon ingår i en kurs: [Komma igång med Analysis Workspace](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace), kan köpas kostnadsfritt på Experience League!
