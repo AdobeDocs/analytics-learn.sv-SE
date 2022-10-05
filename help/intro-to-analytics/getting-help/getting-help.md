@@ -1,7 +1,7 @@
 ---
 title: Få hjälp i Adobe Analytics
 description: Vi kommer alla att behöva hjälp med Adobe Analytics. I den här videon visas några av de fantastiska resurser som finns nära till hands när du trycker på ett ögonblick och behöver hjälp.
-feature: Grundläggande om analyser
+feature: Analytics Basics
 topics: null
 activity: use
 doc-type: feature video
@@ -10,10 +10,10 @@ kt: 3568
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 8ea4295b-c374-4f89-b0aa-2fd09376c689
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 0%
+source-wordcount: '102'
+ht-degree: 3%
 
 ---
 
@@ -22,3 +22,7 @@ ht-degree: 0%
 Vi kommer alla att behöva hjälp med Adobe Analytics. I den här videon visas några av de fantastiska resurser som finns nära till hands när du trycker på ett ögonblick och behöver hjälp.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28753/?quality=12)
+
+>[!INFO]
+>
+> Den här videon är en del av en kurs [Implementering av guidad analys](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1), kan köpas kostnadsfritt på Experience League!

@@ -1,7 +1,7 @@
 ---
 title: Skapa dataelement i Launch för analysimplementeringen
-description: I den här videon visas hur du skapar dataelement för Analytics-implementeringen i Launch, baserat på de variabler och händelser som du har bestämt och dokumenterat i ett SDR-dokument (Solution Design Reference).
-feature: Starta implementering
+description: I den här videon visas hur du skapar dataelement för Analytics-implementeringen i Launch, baserat på de variabler och händelser som valts och dokumenterats i ett SDR-dokument (Solution Design Reference).
+feature: Launch Implementation
 topics: null
 activity: implement
 doc-type: feature video
@@ -10,15 +10,19 @@ kt: 3587
 role: Developer, Data Engineer
 level: Beginner
 exl-id: ee3a808a-f972-46e4-9213-2bc5bba6e0fd
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
 workflow-type: tm+mt
-source-wordcount: '71'
-ht-degree: 0%
+source-wordcount: '89'
+ht-degree: 4%
 
 ---
 
-# Skapar [!UICONTROL Data Elements] i [!DNL Launch] för implementeringen av [!DNL Analytics]
+# Skapar [!UICONTROL Data Elements] in [!DNL Launch] för [!DNL Analytics] Implementering
 
-I den här videon visas hur du skapar [!UICONTROL data elements] för din [!DNL Analytics]-implementering i [!DNL Experience Platform Launch], baserat på de variabler och händelser som du har bestämt och dokumenterat i ett [!DNL Solution Design Reference]-dokument (SDR).
+I den här videon visas hur du skapar [!UICONTROL data elements] för [!DNL Analytics] implementering i [!DNL Experience Platform Launch], baserat på variabler och händelser som beslutats och dokumenterats i en [!DNL Solution Design Reference] (SDR)-dokument.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28760/?quality=12)
+
+>[!INFO]
+>
+> Den här videon är en del av en kurs [Implementering av guidad analys](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1), kan köpas kostnadsfritt på Experience League!

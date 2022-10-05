@@ -8,9 +8,9 @@ doc-type: feature video
 thumbnail: 34545.jpg
 kt: 5287
 exl-id: ba29664f-da1a-49c7-8c73-ae5b65f11b4a
-source-git-commit: da748775fa43f27b1d31026bd80eb970cdb1da63
+source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
 workflow-type: tm+mt
-source-wordcount: '72'
+source-wordcount: '96'
 ht-degree: 0%
 
 ---
@@ -22,3 +22,7 @@ I den här videon får du lära dig hur du använder Adobe Analytics-instrumentp
 >[!VIDEO](https://video.tv.adobe.com/v/34545/?quality=12)
 
 Mer information finns i [dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/home.html?lang=en).
+
+>[!INFO]
+>
+> Den här videon är en del av en kurs [Exportera och demokratisera Adobe Analytics-data](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing), kan köpas kostnadsfritt på Experience League!

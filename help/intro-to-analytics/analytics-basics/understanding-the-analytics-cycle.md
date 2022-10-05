@@ -1,7 +1,7 @@
 ---
 title: Analyscykeln
 description: I den här enkla, men ändå viktiga videon får du lära dig mer om de steg som krävs för att analysera webbplatsens data. Om du tar lite tid på dig att förstå den här processen kan det göra stor skillnad i hur bra Analytics-programmet är.
-feature: Grundläggande om analyser
+feature: Analytics Basics
 topics: null
 activity: understand
 doc-type: feature video
@@ -10,15 +10,19 @@ kt: 3564
 role: User
 level: Beginner
 exl-id: e106c36b-f636-4194-af4f-8c260f91fc93
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
 workflow-type: tm+mt
-source-wordcount: '86'
-ht-degree: 0%
+source-wordcount: '104'
+ht-degree: 3%
 
 ---
 
-# Förstå [!DNL Analytics]-cykeln
+# Förstå [!DNL Analytics] Cykel
 
-I den här enkla, men ändå viktiga videon får du lära dig mer om de steg som krävs för att analysera webbplatsens data. Om du tar lite tid på dig att förstå den här processen kan det göra stor skillnad för ditt [!DNL Analytics]-program.
+I den här enkla, men ändå viktiga videon får du lära dig mer om de steg som krävs för att analysera webbplatsens data. Om du tar lite tid att förstå den här processen kan det göra stor skillnad för dina framgångar [!DNL Analytics] program.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28950/?quality=12)
+
+>[!INFO]
+>
+> Den här videon är en del av en kurs [Implementering av guidad analys](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1), kan köpas kostnadsfritt på Experience League!

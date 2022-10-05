@@ -1,7 +1,7 @@
 ---
 title: Lägga till jämförelser sida vid sida av Attribution IQ i Analysis Workspace
 description: I den här videon får du lära dig hur du snabbt jämför modellerna, inklusive en automatiskt skapad kolumn som visar procentskillnaden mellan de två modellernas tal.
-feature: Attribuering
+feature: Attribution
 topics: null
 activity: use
 doc-type: feature video
@@ -11,10 +11,10 @@ kt: 1705
 role: User
 level: Intermediate
 exl-id: 3c259132-250a-4579-a4d8-344e0b0055f1
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
 workflow-type: tm+mt
-source-wordcount: '65'
-ht-degree: 1%
+source-wordcount: '90'
+ht-degree: 0%
 
 ---
 
@@ -23,3 +23,7 @@ ht-degree: 1%
 I den här videon får du lära dig att snabbt jämföra [!DNL Attribution IQ models], inklusive en automatiskt skapad kolumn som visar procentskillnaden mellan de två modellernas tal.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23651/?quality=12)
+
+>[!INFO]
+>
+> Den här videon är en del av en kurs [Attribuera värde till digitala kontaktytor på kundresan](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2), kan köpas kostnadsfritt på Experience League!

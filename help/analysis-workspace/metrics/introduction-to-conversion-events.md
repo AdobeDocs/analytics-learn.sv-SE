@@ -1,7 +1,7 @@
 ---
 title: Introduktion till konverteringshändelser
 description: I den här videon får du en introduktion till konverteringshändelser eller variabeln som hjälper dig att spåra konverteringar på din webbplats (t.ex. order, registreringar, ifyllningar av formulär)
-feature: Mätvärden
+feature: Metrics
 topics: null
 activity: use
 doc-type: feature video
@@ -10,10 +10,10 @@ kt: 3578
 role: User
 level: Beginner
 exl-id: 3f2876fe-d7da-47d3-a23d-0d8f790f7f5b
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
 workflow-type: tm+mt
-source-wordcount: '63'
-ht-degree: 1%
+source-wordcount: '82'
+ht-degree: 4%
 
 ---
 
@@ -22,3 +22,7 @@ ht-degree: 1%
 I den här videon får du en introduktion till konverteringshändelser eller variabeln som hjälper dig att spåra konverteringar på din webbplats (t.ex. order, registreringar, ifyllningar av formulär)
 
 >[!VIDEO](https://video.tv.adobe.com/v/28764/?quality=12)
+
+>[!INFO]
+>
+> Den här videon är en del av en kurs [Implementering av guidad analys](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1), kan köpas kostnadsfritt på Experience League!

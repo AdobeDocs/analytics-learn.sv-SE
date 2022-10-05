@@ -11,10 +11,10 @@ kt: 5556
 role: User
 level: Beginner
 exl-id: c6884dcd-4e0c-4a7a-aa6e-670db4111145
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
+source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 84%
+source-wordcount: '114'
+ht-degree: 66%
 
 ---
 
@@ -24,4 +24,8 @@ Skrivskyddade Workspace-projekt kan delas med användare som Can view. När mot
 
 >[!VIDEO](https://video.tv.adobe.com/v/36206/?quality=12&learn=on)
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/view-only-projects.html)
+Mer information finns i [dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/view-only-projects.html)
+
+>[!INFO]
+>
+> Den här videon är en del av en kurs [Exportera och demokratisera Adobe Analytics-data](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing), kan köpas kostnadsfritt på Experience League!

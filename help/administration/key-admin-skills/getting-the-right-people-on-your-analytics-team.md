@@ -10,10 +10,10 @@ kt: 3563
 role: Admin
 level: Beginner
 exl-id: ea671adf-c290-4cbe-b65d-2ebdf980b76b
-source-git-commit: c9984b0e1081f3ac19d8c49bc01626a69cd77b55
+source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 0%
+source-wordcount: '117'
+ht-degree: 3%
 
 ---
 
@@ -22,3 +22,7 @@ ht-degree: 0%
 Det är mycket viktigt att ni får rätt personer i teamet när ni implementerar Adobe Analytics och när ni analyserar aktiviteten på er webbplats. I den här videon får du en snabb sammanfattning av de olika roller du vill fylla.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28756/?quality=12)
+
+>[!INFO]
+>
+> Den här videon är en del av en kurs [Implementering av guidad analys](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1), kan köpas kostnadsfritt på Experience League!

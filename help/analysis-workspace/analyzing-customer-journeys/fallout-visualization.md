@@ -8,9 +8,9 @@ doc-type: feature video
 thumbnail: 345883.jpg
 kt: 2275
 exl-id: 25e6b3bf-c809-4c71-8c5f-e0e5ef6c0054
-source-git-commit: 2d0da239646660a7fb0895fa55a468131193bf0b
+source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '136'
 ht-degree: 0%
 
 ---
@@ -22,3 +22,7 @@ Utnyttja visualiseringar i [!DNL Analysis Workspace] används för att utforska 
 >[!VIDEO](https://video.tv.adobe.com/v/345883/?quality=12)
 
 Mer information om den här funktionen finns på [dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow.html?lang=en).
+
+>[!INFO]
+>
+> Den här videon är en del av en kurs [Attribuera värde till digitala kontaktytor på kundresan](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2), kan köpas kostnadsfritt på Experience League!

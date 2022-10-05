@@ -2,7 +2,6 @@
 title: Använda flikövergripande analys för att utforska grundläggande marknadsattribuering i Analysis Workspace
 description: Det finns många sätt att utveckla din attribueringsmetod med Adobe Analytics. I den här videon visar vi hur ni kan få djupare insikter från rapporten om marknadsföringskanaler med hjälp av flikanalys i Workspace.
 feature: Marketing Channels
-topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
@@ -11,9 +10,9 @@ kt: 6067
 role: User
 level: Intermediate
 exl-id: b5843678-6444-453b-a9c9-1e301ffca876
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
+source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
 workflow-type: tm+mt
-source-wordcount: '286'
+source-wordcount: '312'
 ht-degree: 3%
 
 ---
@@ -24,19 +23,22 @@ Det finns många sätt att utveckla din attribueringsmetod med Adobe Analytics. 
 
 >[!VIDEO](https://video.tv.adobe.com/v/39237/?quality=12&learn=on)
 
-**UPPDATERA**: Flera förbättringar har gjorts  [!DNL Workspace] sedan videon publicerades. Vi lämnar videon live eftersom den har några bra tips som du ändå bör känna till.
+**UPPDATERA**: Flera förbättringar har gjorts i [!DNL Workspace] sedan videon publicerades. Vi lämnar videon live eftersom den har några bra tips som du ändå bör känna till.
 
-**Först** och främst bör du ta en titt på de  [!UICONTROL Attribution IQ] funktioner som kan hjälpa er att ta marknadsföringsattribueringsanalysen ännu längre. Detta inkluderar följande videoklipp och videoklipp runt dem:
+**Första** ska du kontrollera [!UICONTROL Attribution IQ] funktioner som hjälper er att ta er marknadsattribueringsanalys ännu längre. Detta inkluderar följande videoklipp och videoklipp runt dem:
 
 * [Använda panelen Attribution IQ](using-the-attribution-iq-panel.md)
 * [Lägga till jämförelser sida vid sida av Attribution IQ](adding-side-by-side-comparisons-of-attribution-iq-models.md)
 * [Algoritmisk modell i Attribution IQ](algorithmic-model-in-attribution-iq.md)
 * [Anpassade summeringsfönster i Attribution IQ](custom-lookback-windows-in-attribution-iq.md)
 
-**För det andra**, om du följer stegen i den här videon, bör du vara medveten om att du kan  [använda ](../building-freeform-tables/using-the-freeform-table-builder-in-analysis-workspace.md) verktyget Frihand tabellverktyg för att konfigurera tabellen.
+**Andra** om du följer stegen i den här videon ska du tänka på att du kan [använda Frihand tabellverktyg](../building-freeform-tables/using-the-freeform-table-builder-in-analysis-workspace.md) för att konfigurera tabellen.
 
 * 3:20 - Korsfliksdimensionerna blir automatiskt dynamiska när de släpps, vilket innebär att deras värden kan ändras över tid. För den här analysen är det bäst att ta med statiska kolumner istället. Läs mer om dynamiska kolumner i videon 6:33: [Rad- och kolumninställningar i frihandstabeller](../building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
 * 4:30 - Kolumninställningarna kan uppdateras gruppvis nu i stället för 1 x 1. Läs mer på 8:45 i videon: [Rad- och kolumninställningar i frihandstabeller](../building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
 
+Mer information finns på [dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html).
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html).
+>[!INFO]
+>
+> Den här videon är en del av en kurs [Attribuera värde till digitala kontaktytor på kundresan](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2), kan köpas kostnadsfritt på Experience League!

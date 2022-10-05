@@ -11,9 +11,9 @@ kt: 6278
 role: User
 level: Beginner
 exl-id: fe7d41f1-a6ec-4601-9266-b4c3aa6a6963
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
+source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '145'
 ht-degree: 0%
 
 ---
@@ -24,4 +24,8 @@ Med alternativet Hämta objekt som CSV kan du hämta upp till 50 000 objekt för
 
 >[!VIDEO](https://video.tv.adobe.com/v/40385/?quality=12&learn=on)
 
-Läs mer i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/download-send.html)
+Läs mer i [dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/download-send.html)
+
+>[!INFO]
+>
+> Den här videon är en del av en kurs [Exportera och demokratisera Adobe Analytics-data](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing), kan köpas kostnadsfritt på Experience League!

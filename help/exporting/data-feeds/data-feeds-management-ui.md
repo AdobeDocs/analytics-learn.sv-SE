@@ -8,9 +8,9 @@ doc-type: feature video
 thumbnail: 25452.jpg
 kt: 2353
 exl-id: 79599c6d-eb3e-438a-8e24-45b286d54071
-source-git-commit: da748775fa43f27b1d31026bd80eb970cdb1da63
+source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '133'
 ht-degree: 0%
 
 ---
@@ -22,3 +22,7 @@ Adobe Analytics [!UICONTROL Data feed] gör att du kan exportera rådata i klick
 >[!VIDEO](https://video.tv.adobe.com/v/25452/?quality=12)
 
 Mer information om den här funktionen finns i [dokumentation](https://experienceleague.adobe.com/docs/analytics/export/analytics-data-feed/df-manage-feeds.html?lang=en#).
+
+>[!INFO]
+>
+> Den här videon är en del av en kurs [Exportera och demokratisera Adobe Analytics-data](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing), kan köpas kostnadsfritt på Experience League!

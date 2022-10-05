@@ -8,9 +8,9 @@ doc-type: feature video
 thumbnail: 25444.jpg
 kt: 1768
 exl-id: 80d85955-022f-4d79-aee8-c440592645f3
-source-git-commit: da748775fa43f27b1d31026bd80eb970cdb1da63
+source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '118'
 ht-degree: 0%
 
 ---
@@ -26,3 +26,7 @@ Lär dig hur du lägger till [!UICONTROL anomaly detection] [!UICONTROL metrics]
 I [!UICONTROL Report Builder]kan du returnera [!UICONTROL metric] verkliga värden, tillsammans med förväntade värden och övre och nedre gränser, för att ge mer djup åt de data du analyserar och delar.
 
 Mer information om den här funktionen finns på [dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/anomaly-detection/statistics-anomaly-detection.html?lang=en).
+
+>[!INFO]
+>
+> Den här videon är en del av en kurs [Exportera och demokratisera Adobe Analytics-data](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing), kan köpas kostnadsfritt på Experience League!

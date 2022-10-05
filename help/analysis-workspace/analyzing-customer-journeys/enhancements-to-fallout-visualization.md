@@ -11,17 +11,21 @@ kt: 2276
 role: User
 level: Beginner
 exl-id: d5c95e0c-48c7-48e6-a4e9-d8cda06b4ca1
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
+source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '122'
 ht-degree: 0%
 
 ---
 
 # Förbättringar av [!DNL Fallout Visualization] i Analysis Workspace {#enhancements-to-fallout-visualization-in-analysis-workspace}
 
-I den här videon visas uppdateringar av [!DNL Fallout Visualization] som kunderna har efterfrågat i hög grad, inklusive direkta eller slutliga steg, namnbyte av kontaktytor, jämförelse av obegränsade segment och trendkonverteringsprocentsatser för kontaktytor över tiden.
+I den här videon visas uppdateringar av [!DNL Fallout Visualization] som har efterfrågats mycket av kunderna, inklusive direkta eller slutliga steg, byta namn på kontaktpunkter, jämföra obegränsade segment och trenda konverteringsprocentsatser för kontaktytor över tid.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24047/?quality=12)
 
-Mer information om den här funktionen finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow.html?lang=en).
+>[!INFO]
+>
+> Den här videon är en del av en kurs [Attribuera värde till digitala kontaktytor på kundresan](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2), kan köpas kostnadsfritt på Experience League!
+
+Mer information om den här funktionen finns på [dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow.html?lang=en).

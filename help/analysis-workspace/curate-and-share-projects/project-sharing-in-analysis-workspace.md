@@ -11,10 +11,10 @@ kt: 5555
 role: User
 level: Beginner
 exl-id: edba5887-bb72-49d5-a5b2-0065591e7c1b
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
+source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
 workflow-type: tm+mt
-source-wordcount: '108'
-ht-degree: 87%
+source-wordcount: '132'
+ht-degree: 71%
 
 ---
 
@@ -24,4 +24,8 @@ Projektdelning är ett sätt att demokratisera data och insikter från Analysis 
 
 >[!VIDEO](https://video.tv.adobe.com/v/36207/?quality=12&learn=on)
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/share-projects.html)
+Mer information finns i [dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/share-projects.html)
+
+>[!INFO]
+>
+> Den här videon är en del av en kurs [Exportera och demokratisera Adobe Analytics-data](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing), kan köpas kostnadsfritt på Experience League!

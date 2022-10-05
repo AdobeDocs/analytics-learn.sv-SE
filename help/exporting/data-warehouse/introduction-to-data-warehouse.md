@@ -8,10 +8,10 @@ doc-type: feature video
 thumbnail: 27306.jpg
 kt: 2916
 exl-id: 917fa84a-256f-4feb-9ab4-10a5905e2456
-source-git-commit: 036646c3343a7025f394d74f344b0f8780ebc7df
+source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 0%
+source-wordcount: '128'
+ht-degree: 1%
 
 ---
 
@@ -20,3 +20,7 @@ ht-degree: 0%
 The [!UICONTROL data warehouse] kan du använda Adobe Analytics för att hämta rådata. [!UICONTROL Data warehouse] kan bearbeta ett obegränsat antal rader i en och samma begäran för enskilda schemalagda och nedladdade rapporter. Den här videon är en introduktion till verktyget, inklusive en genomgång av hur du skapar en [!UICONTROL data warehouse] rapport.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27306/?quality=12)
+
+>[!INFO]
+>
+> Den här videon är en del av en kurs [Exportera och demokratisera Adobe Analytics-data](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing), kan köpas kostnadsfritt på Experience League!

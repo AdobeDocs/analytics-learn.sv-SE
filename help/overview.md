@@ -1,6 +1,6 @@
 ---
 title: Analysvideor och självstudiekurser
-description: 'Få ut mesta möjliga av Adobe Analytics.  Använd dessa självstudiekurser för att överordnad funktionerna i Analytics och dra nytta av fördelarna för ert företag. Det här innehållet passar för administratörer, dataanalytiker, marknadsförare, utvecklare och arkitekter. '
+description: Få ut mesta möjliga av Adobe Analytics. Använd dessa självstudiekurser för att lära dig funktionerna i Analytics och dra nytta av fördelarna för ert företag. Det här innehållet passar för administratörer, dataanalytiker, marknadsförare, utvecklare och arkitekter.
 feature: Analytics Basics
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
@@ -8,10 +8,10 @@ doc-type: overview
 thumbnail: null
 kt: 10453
 exl-id: 3aa2bc96-ed20-46f7-ba9a-a2b7e8b23313
-source-git-commit: e66ac6397db58e403cb2bc10cb6a2af2eb7b1081
+source-git-commit: 2e20de678e255981b8fc8f230ddf420793e3b4a5
 workflow-type: tm+mt
-source-wordcount: '345'
-ht-degree: 7%
+source-wordcount: '320'
+ht-degree: 8%
 
 ---
 
@@ -19,9 +19,10 @@ ht-degree: 7%
 
 # Självstudiekurser om analys
 
-Få ut det mesta av [!DNL Adobe Analytics].  Använd dessa självstudiekurser för att överordnad funktionerna i Analytics och dra nytta av fördelarna för ert företag. Det här innehållet passar för administratörer, dataanalytiker, marknadsförare, utvecklare och arkitekter.
+Få ut det mesta av [!DNL Adobe Analytics]. Använd dessa självstudiekurser för att lära dig funktionerna i Analytics och dra nytta av fördelarna för ert företag. Det här innehållet passar för administratörer, dataanalytiker, marknadsförare, utvecklare och arkitekter.
 
 För att komma igång,
+
 * Se **&quot;What&#39;s New&quot;** för de senaste uppdateringarna och funktionerna
 * **Personalval** markerar en del av vårt favoritinnehåll
 * Utforska innehållet efter ämne och ämne i **vänster navigering**
@@ -31,14 +32,11 @@ Kurser som kursupplevelser per roll och kunskapsnivå finns också i kursavsnitt
 
 ## Nyheter
 
-* **[Adobe Analytics Mobile Scorecard builder (video)](additional-tools/analytics-dashboards/adobe-analytics-dashboards-scorecard-builder.md)**
-   *Läs om hur du skapar och delar mobila styrkort som skapats i [!DNL Analysis Workspace] för dina verkställande användare.*
-
 * **[Adobe Analytics mobilstyrkortsapp](additional-tools/analytics-dashboards/adobe-analytics-dashboards-in-app-experience.md)**
    *Lär dig hur du laddar ned styrkortsprogrammet för mobila enheter och visar styrkort för mobila enheter som skapats i [!DNL Analysis Workspace].*
 
 * **[Anteckningar på arbetsytan (video)](analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace.md)**
-   *Anteckningar i [!DNL Analysis Workspace] kan ni effektivt kommunicera kontextuella datanunkter och insikter till era användare i hela organisationen. Anteckna ett datum- eller datumintervall med kända dataproblem, allmänna helgdagar, lanseringar av kampanjer och så vidare för att bättre informera användarna om varför de ser vad de ser i linjediagram, tabeller och mycket annat.*
+   *Anteckningar i [!DNL Analysis Workspace] kan ni effektivt kommunicera kontextuella datanunkter och insikter till era användare i hela organisationen. Anteckna ett datum eller datumintervall med kända dataproblem, allmänna helgdagar, kampanjlanseringar och så vidare. Detta informerar användarna varför de ser oregelbundenheter i linjediagram, tabeller med mera.*
 
 ## Personalval
 

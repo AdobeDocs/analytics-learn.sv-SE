@@ -1,25 +1,21 @@
 ---
 title: Första gången Adobe Analytics implementeras
-landing-page-description: Den här videon visar hur du kommer igång med Adobe Analytics-data på några minuter.
-description: Det är enklare än någonsin att implementera Adobe Analytics. Om du inte har använt vår lösning tidigare kommer den här videon att hjälpa dig att komma igång med data på bara några minuter.
+description: Lär dig hur du kommer igång med Adobe Analytics-data på bara några minuter.
 feature: Implementation Basics
-topics: null
-activity: implement
-doc-type: feature video
-team: Technical Marketing
-kt: 2362
 role: User
 level: Beginner
+kt: 2362
+thumbnail: 25456.jpg
 exl-id: 110d2962-cbcf-4574-bd39-308f2ad33c5e
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: d78c3351d2a98704396ceb8f84d123dd463befe5
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '54'
 ht-degree: 0%
 
 ---
 
 # Första gången Adobe Analytics implementeras {#first-time-adobe-analytics-implementation}
 
-Det är enklare än någonsin att implementera Adobe Analytics. Om du inte har använt vår lösning tidigare kommer den här videon att hjälpa dig att komma igång med data på bara några minuter.
+Det är enklare än någonsin att implementera Adobe Analytics. Om du inte har använt vår lösning tidigare bör du lära dig att komma igång med Adobe Analytics-data på några minuter.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25456/?quality=12)

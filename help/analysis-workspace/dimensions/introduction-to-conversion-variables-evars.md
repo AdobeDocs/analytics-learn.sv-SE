@@ -1,7 +1,7 @@
 ---
 title: Introduktion till konverteringsvariabler (eVars)
 description: I den här videon får du en introduktion till konverteringsvariabler, som också kallas"eVars". Lär dig även skillnaden mellan trafik- och konverteringsvariabler och hur de relaterar till konverteringshändelser.
-feature: Mått
+feature: Dimensions
 topics: null
 activity: use
 doc-type: feature video
@@ -10,15 +10,19 @@ kt: 3577
 role: User
 level: Beginner
 exl-id: 4f7bedec-efca-46e8-981a-18118982012f
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
 workflow-type: tm+mt
-source-wordcount: '66'
-ht-degree: 1%
+source-wordcount: '85'
+ht-degree: 4%
 
 ---
 
 # Introduktion till konverteringsvariabler ([!DNL eVars])
 
-I den här videon får du en introduktion till konverteringsvariabler, som också kallas [!DNL eVars]. Lär dig även skillnaden mellan trafik- och konverteringsvariabler och hur de relaterar till konvertering [!DNL events].
+I den här videon får du en introduktion till konverteringsvariabler, som också kallas &quot;[!DNL eVars]&quot;. Lär dig även skillnaden mellan trafik- och konverteringsvariabler och hur de relaterar till konvertering [!DNL events].
 
 >[!VIDEO](https://video.tv.adobe.com/v/28759/?quality=12)
+
+>[!INFO]
+>
+> Den här videon är en del av en kurs [Implementering av guidad analys](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1), kan köpas kostnadsfritt på Experience League!

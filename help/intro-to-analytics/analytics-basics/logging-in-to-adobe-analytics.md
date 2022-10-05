@@ -1,7 +1,7 @@
 ---
 title: Logga in på Adobe Analytics
 description: I den här videon får du lära dig hur du loggar in och administrerar Analytics och påbörjar analysen.
-feature: Grundläggande om analyser
+feature: Analytics Basics
 topics: null
 activity: use
 doc-type: feature video
@@ -10,15 +10,19 @@ kt: 3566
 role: User
 level: Beginner
 exl-id: a7c5c6ba-7517-4407-a914-e125ef9db862
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
 workflow-type: tm+mt
-source-wordcount: '51'
-ht-degree: 0%
+source-wordcount: '69'
+ht-degree: 5%
 
 ---
 
 # Logga in på Adobe Analytics
 
-I den här videon får du hjälp med en inloggning så att du kan komma in och administrera [!DNL Analytics], liksom att göra din analys.
+I den här videon visar vi dig en inloggning så att du kan komma in och administrera [!DNL Analytics], liksom att göra analysen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28771/?quality=12)
+
+>[!INFO]
+>
+> Den här videon är en del av en kurs [Implementering av guidad analys](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1), kan köpas kostnadsfritt på Experience League!

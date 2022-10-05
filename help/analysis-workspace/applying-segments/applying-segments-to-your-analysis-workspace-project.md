@@ -7,10 +7,10 @@ kt: 4107
 role: User
 level: Beginner
 exl-id: d8bd4226-a3f0-4faa-8b78-4b47b5a008ce
-source-git-commit: 1741a12e3c4b51c355f8ab3b8973be2a78c08301
+source-git-commit: e021df988079334ecd81b8c320f9e3d9a43da2e4
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 5%
+source-wordcount: '106'
+ht-degree: 9%
 
 ---
 
@@ -24,4 +24,9 @@ Mer information finns på [dokumentation](https://experienceleague.adobe.com/doc
 
 >[!INFO]
 >
-> Den här videon ingår i en kurs: [Komma igång med Analysis Workspace](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace), kan köpas kostnadsfritt på Experience League!
+> Den här videon ingår i två kurser:
+> * [Komma igång med Analysis Workspace](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace)
+> * [Filtrera data med anpassad segmentering och datum](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata)
+>
+> Båda finns gratis på Experience League!
+

@@ -8,9 +8,9 @@ doc-type: feature video
 thumbnail: 23547.jpg
 kt: 1769
 exl-id: f0ce5bc2-ca6f-44d2-a42b-9351ff37a083
-source-git-commit: 4c6120752763383727ddec5e9bbc8e391bfec4d9
+source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '118'
 ht-degree: 0%
 
 ---
@@ -24,3 +24,7 @@ Nu kan du redigera [!UICONTROL metrics] över flera [!UICONTROL Report Builder] 
 Den här funktionaliteten är utöver de befintliga redigeringsfunktionerna [!UICONTROL report suites], [!UICONTROL date ranges], [!UICONTROL granularity]och [!UICONTROL segments] över alla förfrågningar. Flera begäranden kan redigeras via högerklicksmenyn eller &quot;[!UICONTROL Edit Multiple]&quot; i hanteringsfönstret.
 
 Mer information om den här funktionen finns på [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/manage-requests/edit-multiple-metrics.html?lang=en).
+
+>[!INFO]
+>
+> Den här videon är en del av en kurs [Exportera och demokratisera Adobe Analytics-data](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing), kan köpas kostnadsfritt på Experience League!

@@ -2,7 +2,6 @@
 title: Kohortanalys med valfri Dimension
 description: Med alternativet Dimension för anpassad kohort kan du analysera kohorter med andra dimensioner än tid. Jämför kohorter efter marknadsföringskanal, kampanjregion, produktsida osv. för att bättre förstå hur kvarhållande (eller bortfall) ändras efter dimensionsobjekt.
 feature: Visualizations
-topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
@@ -11,17 +10,21 @@ kt: 2478
 role: User
 level: Intermediate
 exl-id: 0bb472c0-83e6-44cb-8fca-658355ae3e50
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
+source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '116'
 ht-degree: 0%
 
 ---
 
-# [!UICONTROL Cohort] Analys med  [!UICONTROL Dimension] {#cohort-analysis-using-any-dimension}
+# [!UICONTROL Cohort] Analys med [!UICONTROL Dimension] {#cohort-analysis-using-any-dimension}
 
-Med alternativet Anpassad [!UICONTROL Cohort] [!UICONTROL Dimension] kan du analysera [!UICONTROL cohorts] med [!UICONTROL dimensions] annat än tid. Jämför [!UICONTROL cohorts] med marknadsföringskanal, kampanjregion, produktsida osv. om du vill förstå hur [!UICONTROL retention] (eller [!UICONTROL churn]) ändras av [!UICONTROL dimension]-objektet.
+Den anpassade [!UICONTROL Cohort] [!UICONTROL Dimension] kan du analysera [!UICONTROL cohorts] använda [!UICONTROL dimensions] annat än tid. Jämför [!UICONTROL cohorts] efter marknadsföringskanal, kampanjregion, produktsida osv. för att bättre förstå hur [!UICONTROL retention] (eller [!UICONTROL churn]) ändras med [!UICONTROL dimension] objekt.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25967/?quality=12)
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=en).
+Mer information finns i [dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=en).
+
+>[!INFO]
+>
+> Den här videon är en del av en kurs [Attribuera värde till digitala kontaktytor på kundresan](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2), kan köpas kostnadsfritt på Experience League!
