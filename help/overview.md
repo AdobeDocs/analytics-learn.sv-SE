@@ -8,10 +8,10 @@ doc-type: overview
 thumbnail: null
 kt: 10453
 exl-id: 3aa2bc96-ed20-46f7-ba9a-a2b7e8b23313
-source-git-commit: 2e20de678e255981b8fc8f230ddf420793e3b4a5
+source-git-commit: 983b5b828a1c189dff0da90f3e0f1b3747576766
 workflow-type: tm+mt
-source-wordcount: '320'
-ht-degree: 8%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -30,6 +30,8 @@ För att komma igång,
 
 Kurser som kursupplevelser per roll och kunskapsnivå finns också i kursavsnittet. Logga bara in med din Adobe ID och navigera till **Lär dig > Rekommenderade kurser** i den övre navigeringen.
 
+<div id="whats-new-section">
+
 ## Nyheter
 
 * **[Adobe Analytics mobilstyrkortsapp](additional-tools/analytics-dashboards/adobe-analytics-dashboards-in-app-experience.md)**
@@ -37,6 +39,10 @@ Kurser som kursupplevelser per roll och kunskapsnivå finns också i kursavsnitt
 
 * **[Anteckningar på arbetsytan (video)](analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace.md)**
    *Anteckningar i [!DNL Analysis Workspace] kan ni effektivt kommunicera kontextuella datanunkter och insikter till era användare i hela organisationen. Anteckna ett datum eller datumintervall med kända dataproblem, allmänna helgdagar, kampanjlanseringar och så vidare. Detta informerar användarna varför de ser oregelbundenheter i linjediagram, tabeller med mera.*
+
+</div>
+
+<div id="staff-picks-section">
 
 ## Personalval
 
@@ -83,6 +89,8 @@ Kurser som kursupplevelser per roll och kunskapsnivå finns också i kursavsnitt
   </td>
 </tr>
 </table>
+
+</div>
 
 ## Ytterligare resurser
 
