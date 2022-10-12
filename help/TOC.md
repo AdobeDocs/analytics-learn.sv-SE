@@ -3,9 +3,9 @@ user-guide-title: Adobe Analytics självstudiekurser
 user-guide-description: En samling videor och självstudiekurser för Adobe Analytics.
 breadcrumb-title: Analytics Tutorials
 solution: Analytics
-source-git-commit: ac000e8726196b07934f05fcbcdc8f0eb0530f55
+source-git-commit: 7785ccc22eb4f22f14928f62ac8cae4cb27a4d71
 workflow-type: tm+mt
-source-wordcount: '2418'
+source-wordcount: '2426'
 ht-degree: 6%
 
 ---
@@ -135,6 +135,7 @@ ht-degree: 6%
       + [Lägga till trendlinjer i linjevisualiseringar](analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.md)
       + [Kartvisualisering](analysis-workspace/visualizations/map-visualization.md)
       + [Visualiseringar av sammanfattningsnummer och sammanfattningsändringar](analysis-workspace/visualizations/summary-number-and-summary-change-visualizations-2021.md)
+      + [Sammanfattning av nyckelmått Visualisering](analysis-workspace/visualizations/key-metric-summary.md)
       + [Textvisualisering](analysis-workspace/visualizations/rich-text-editor-in-analysis-workspace.md)
       + [Scatterplot Visualization](analysis-workspace/visualizations/scatterplot-visualization.md)
       + [Treemap-visualisering](analysis-workspace/visualizations/treemap-visualization.md)
@@ -354,6 +355,7 @@ ht-degree: 6%
       + [Visualiseringar för mobila styrkort](additional-tools/analytics-dashboards/visualizations-for-mobile-scorecards.md)
       + [Använd anpassade datumintervall](additional-tools/analytics-dashboards/apply-custom-date-ranges-to-mobile-scorecard-projects.md)
       + [Kontrollpaneler för analys i appupplevelser](additional-tools/analytics-dashboards/adobe-analytics-dashboards-in-app-experience.md)
+      + [Skapa anpassade detaljvyer](additional-tools/analytics-dashboards/create-custom-detail-views.md)
 + Exporterar {#exporting}
    + Från gränssnittet {#from-the-ui}
       + [Exportera till CSV från Analysis Workspace](exporting/from-the-ui/export-to-csv-from-analysis-workspace.md)
