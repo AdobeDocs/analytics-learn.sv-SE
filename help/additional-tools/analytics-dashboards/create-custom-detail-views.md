@@ -1,15 +1,16 @@
 ---
 title: Skapa anpassade detaljvyer för instrumentpaneler
-description: I den här videon får du lära dig hur du anpassar detaljvyer, inklusive text för Adobe Analytics-kontrollpaneler. På så sätt kan ni ytterligare förfina de data ni visar och den berättelse ni vill berätta för era intressenter genom mobila styrkortsprojekt. (Ska vara mellan 60 och 160 tecken, men är 242 tecken)
+description: Lär dig anpassa detaljvyer, inklusive text för Adobe Analytics-kontrollpaneler, för att förfina den berättelse du vill berätta för dina intressenter via mobila styrkortsprojekt.
 feature: Analytics Dashboards
 topic: Mobile
 role: User
 level: Beginner
 kt: 11271
 thumbnail: 3410002.jpg
-source-git-commit: ef4186a07d4e835a97300e62890ccc1106a82d93
+last-substantial-update: 2022-10-11T00:00:00Z
+source-git-commit: d142d2dc12a29cd6dfcb59675ce160bac30d5004
 workflow-type: tm+mt
-source-wordcount: '100'
+source-wordcount: '62'
 ht-degree: 0%
 
 ---
@@ -17,6 +18,6 @@ ht-degree: 0%
 
 # Skapa anpassade detaljvyer för instrumentpaneler
 
-I den här videon får du lära dig hur du anpassar detaljvyer, inklusive text för Adobe Analytics-kontrollpaneler. På så sätt kan ni ytterligare förfina de data ni visar och den berättelse ni vill berätta för era intressenter genom mobila styrkortsprojekt.
+Lär dig anpassa detaljvyer, inklusive text för Adobe Analytics-kontrollpaneler, för att förfina den berättelse du vill berätta för dina intressenter via mobila styrkortsprojekt.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410002/?quality=12&learn=on)

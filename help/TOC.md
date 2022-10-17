@@ -3,9 +3,9 @@ user-guide-title: Adobe Analytics självstudiekurser
 user-guide-description: En samling videor och självstudiekurser för Adobe Analytics.
 breadcrumb-title: Analytics Tutorials
 solution: Analytics
-source-git-commit: 7785ccc22eb4f22f14928f62ac8cae4cb27a4d71
+source-git-commit: f2f6d27d2bc79ae6a859cd84d6e1b28cf8b31ee5
 workflow-type: tm+mt
-source-wordcount: '2426'
+source-wordcount: '2429'
 ht-degree: 6%
 
 ---
@@ -16,15 +16,16 @@ ht-degree: 6%
 + [Självstudiekurser om analys](overview.md)
 + Introduktion till Analytics {#intro-to-analytics}
    + Vad kan Adobe Analytics göra för mig? {#what-can-aa-do-for-me}
-      + [Hur Adobe Analysis Workspace kan förändra ert företag](intro-to-analytics/what-can-aa-do-for-me/how-adobe-analysis-workspace-can-change-your-business.md)
-      + [Det är mer än data. Det är kundanalys](intro-to-analytics/what-can-aa-do-for-me/adobe-analytics-customer-intelligence.md)
-      + [Adobe Sensei och Adobe Analytics](intro-to-analytics/what-can-aa-do-for-me/adobe-sensei-and-adobe-analytics.md)
-      + [Användningsexempel - ServiceNow](intro-to-analytics/what-can-aa-do-for-me/servicenow-gets-the-right-insights-to-connect-with-prospects.md)
-      + [Användningsfall - dekorgrupp](intro-to-analytics/what-can-aa-do-for-me/accent-group-invests-in-customer-experience-to-drive-sales.md)
-      + [Användningsexempel - Home Depot](intro-to-analytics/what-can-aa-do-for-me/the-home-depot-innovates-with-customer-experience-management.md)
-      + [Summit 2019 Super Session - Resor och turism](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-travel.md)
-      + [Summit 2019 Super Session - Retail](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-retail.md)
-      + [Summit 2019 Super Session - High Tech](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.md)
+   + [Vad är analys?](intro-to-analytics/what-can-aa-do-for-me/what-is-analytics.md)
+   + [Hur Adobe Analysis Workspace kan förändra ert företag](intro-to-analytics/what-can-aa-do-for-me/how-adobe-analysis-workspace-can-change-your-business.md)
+   + [Det är mer än data. Det är kundanalys](intro-to-analytics/what-can-aa-do-for-me/adobe-analytics-customer-intelligence.md)
+   + [Adobe Sensei och Adobe Analytics](intro-to-analytics/what-can-aa-do-for-me/adobe-sensei-and-adobe-analytics.md)
+   + [Användningsexempel - ServiceNow](intro-to-analytics/what-can-aa-do-for-me/servicenow-gets-the-right-insights-to-connect-with-prospects.md)
+   + [Användningsfall - dekorgrupp](intro-to-analytics/what-can-aa-do-for-me/accent-group-invests-in-customer-experience-to-drive-sales.md)
+   + [Användningsexempel - Home Depot](intro-to-analytics/what-can-aa-do-for-me/the-home-depot-innovates-with-customer-experience-management.md)
+   + [Summit 2019 Super Session - Resor och turism](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-travel.md)
+   + [Summit 2019 Super Session - Retail](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-retail.md)
+   + [Summit 2019 Super Session - High Tech](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.md)
    + Strategi och tankeledarskap{#strategy}
       + [Del 1 - Enkla högar för ökad effektivitet](strategy/analytics-simple-hacks-for-efficiency-part-one.md)
       + [Del 2 - Enkla högar för ökad effektivitet](strategy/analytics-simple-hacks-for-efficiency-part-two.md)
