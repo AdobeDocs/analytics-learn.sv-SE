@@ -3,9 +3,9 @@ user-guide-title: Adobe Analytics självstudiekurser
 user-guide-description: Se självstudiekurser på video för Adobe Analytics och lär dig hur du får ut det mesta av dina data.
 breadcrumb-title: Analytics Tutorials
 solution: Analytics
-source-git-commit: f3959874cdba14adbae2b3916417863a017b5ff0
+source-git-commit: d817981dd65fc53bbf04b96087d264bf2116eaca
 workflow-type: tm+mt
-source-wordcount: '2410'
+source-wordcount: '2388'
 ht-degree: 6%
 
 ---
@@ -59,15 +59,11 @@ ht-degree: 6%
       + [Analysis Workspace - översikt](analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md)
       + [Navigera på den nya landningssidan](analysis-workspace/analysis-workspace-basics/navigating-the-new-landing-page.md)
       + [Analysis Workspace landningssiduppdateringar](analysis-workspace/analysis-workspace-basics/analysis-workspace-landing-page-updates.md)
-      + [Skapa nya Analysis Workspace-projekt](analysis-workspace/analysis-workspace-basics/creating-new-analysis-workspace-projects.md)
       + [Bygga ett arbetsyteprojekt från grunden](analysis-workspace/analysis-workspace-basics/building-a-workspace-project-from-scratch.md)
       + [Skapa och hantera anpassade mallar i Analysis Workspace](analysis-workspace/analysis-workspace-basics/create-manage-custom-templates-in-analysis-workspace.md)
-      + [Standardmallar i Analysis Workspace](analysis-workspace/analysis-workspace-basics/standard-templates-in-analysis-workspace.md)
-      + [Använda anpassade mallar för att aktivera nybörjare i Analysis Workspace](analysis-workspace/analysis-workspace-basics/using-custom-templates-to-enable-novice-users.md)
       + [Förstå hur data kommer in i ditt Analysis Workspace-projekt](analysis-workspace/analysis-workspace-basics/understanding-how-data-gets-into-your-analysis-workspace-project.md)
       + [Foundational Metrics in Adobe Analytics](analysis-workspace/analysis-workspace-basics/foundational-metrics-in-adobe-analytics.md)
       + [Komponenthantering i Analysis Workspace](analysis-workspace/analysis-workspace-basics/component-management-in-analysis-workspace.md)
-      + [Använda komponenthanterare](analysis-workspace/analysis-workspace-basics/using-component-managers.md)
       + [Välja en rapportsvit i Analysis Workspace](analysis-workspace/analysis-workspace-basics/selecting-a-report-suite-in-analysis-workspace.md)
       + [Visa Analysis Workspace prestandamått](analysis-workspace/analysis-workspace-basics/view-analysis-workspace-performance-metrics.md)
    + Tips och tricks {#tips-and-tricks}
