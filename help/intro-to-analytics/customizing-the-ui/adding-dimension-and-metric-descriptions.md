@@ -1,24 +1,22 @@
 ---
-title: Lägga till beskrivningar av Dimension och mått i Adobe Analytics
-description: I den här videon får du lära dig hur du lägger till innehåll i rapporter, mätvärden och dimensioner i Adobe Analytics.
-feature: Grundläggande om arbetsytan
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
-kt: 2352
+title: Lägg till mått och måttbeskrivningar i Adobe Analytics
+description: Lär dig hur du lägger till kontext till dimensioner och mätvärden i Adobe Analytics.
+feature: Workspace Basics
 role: User
 level: Beginner
+doc-type: feature video
+thumbnail: 25453.jpg
+kt: 2352
 exl-id: ffc9c54c-1afc-47f0-b057-e57f05139d88
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: 01812bf314ee0ba4fda322d08c27b282dfca7db2
 workflow-type: tm+mt
-source-wordcount: '50'
+source-wordcount: '59'
 ht-degree: 0%
 
 ---
 
-# Lägga till [!UICONTROL Dimension] och [!UICONTROL Metric] beskrivningar i Adobe Analytics {#adding-dimension-and-metric-descriptions-in-adobe-analytics}
+# Lägg till mått och måttbeskrivningar i [!DNL Adobe Analytics] {#add-dimension-and-metric-descriptions-in-adobe-analytics}
 
-I den här videon får du lära dig hur du lägger till kontext i rapporter, [!UICONTROL metrics] och [!UICONTROL dimensions] i Adobe Analytics.
+Lär dig hur du lägger till kontext till dimensioner och mätvärden i [!DNL Adobe Analytics]. Använd beskrivningsfältet om namnet som tilldelats dina rapporter och mätvärden inte ger tillräcklig tydlighet för användarna i organisationen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25453/?quality=12)

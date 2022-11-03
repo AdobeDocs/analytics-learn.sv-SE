@@ -1,11 +1,11 @@
 ---
 user-guide-title: Adobe Analytics självstudiekurser
-user-guide-description: En samling videor och självstudiekurser för Adobe Analytics.
+user-guide-description: Se självstudiekurser på video för Adobe Analytics och lär dig hur du får ut det mesta av dina data.
 breadcrumb-title: Analytics Tutorials
 solution: Analytics
-source-git-commit: 7453357526b3b144cdc93215be51cc758678c4f3
+source-git-commit: f3959874cdba14adbae2b3916417863a017b5ff0
 workflow-type: tm+mt
-source-wordcount: '2429'
+source-wordcount: '2410'
 ht-degree: 6%
 
 ---
@@ -44,15 +44,11 @@ ht-degree: 6%
       + [Introduktion till konverteringsvariabler (eVars)](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-conversion-variables-evars.html)
       + [Introduktion till konverteringshändelser](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/introduction-to-conversion-events.html)
    + Anpassa användargränssnittet {#customizing-the-ui}
-      + [Användarinställningar i Adobe Analytics](intro-to-analytics/customizing-the-ui/user-preferences.md)
-      + [Lägga till beskrivningar av Dimension och mått](intro-to-analytics/customizing-the-ui/adding-dimension-and-metric-descriptions.md)
-      + [Använda anpassade färgpaletter i Analysis Workspace](intro-to-analytics/customizing-the-ui/using-custom-color-palettes-in-analysis-workspace.md)
-      + [Tillägg för färgpipett för definition av anpassade paletter](intro-to-analytics/customizing-the-ui/color-eyedropper-extension-for-defining-custom-palettes.md)
+      + [Anpassa användarinställningar för Analysis Workspace](intro-to-analytics/customizing-the-ui/user-preferences.md)
+      + [Lägg till mått och måttbeskrivningar](intro-to-analytics/customizing-the-ui/adding-dimension-and-metric-descriptions.md)
       + [Anpassa menyn i Reports and Analytics](intro-to-analytics/customizing-the-ui/customizing-the-menu-in-reports-and-analytics.md)
       + [Förbättra säkerheten i Adobe Analytics](intro-to-analytics/customizing-the-ui/enhancing-security.md)
-      + [Ange Analysis Workspace som landningssida](intro-to-analytics/customizing-the-ui/set-analysis-workspace-as-your-landing-page.md)
       + [Ange ett Analysis Workspace-projekt som landningssida](intro-to-analytics/customizing-the-ui/setting-an-analysis-workspace-project-as-your-landing-page.md)
-      + [Tillägg för mörkt läge i Analysis Workspace](intro-to-analytics/customizing-the-ui/dark-mode-extension-for-analysis-workspace.md)
    + Få hjälp {#getting-help}
       + [Analysis Workspace In-Product Tips](intro-to-analytics/getting-help/in-product-tips.md)
       + [Inlämning av supportanmälan inifrån produkten](intro-to-analytics/getting-help/in-product-support-ticket-submission.md)
