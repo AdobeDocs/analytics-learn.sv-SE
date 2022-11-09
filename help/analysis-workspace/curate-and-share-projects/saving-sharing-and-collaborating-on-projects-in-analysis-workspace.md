@@ -2,12 +2,12 @@
 title: Spara, dela och samarbeta i projekt i Analysis Workspace
 description: I den här videon får du lära dig hur du sparar och exporterar projekt åt dig själv, skickar projekt till andra mottagare och bjuder in andra att samarbeta i projektet.
 feature: Curate and Share
-thumbnail: 33634.jpg
-kt: 4108
 role: User
 level: Beginner
+thumbnail: 33634.jpg
+kt: 4108
 exl-id: 6086f4b7-e8a7-4b04-90c7-1721ee31646e
-source-git-commit: a890d4d9883ee17dfe4a89ab64d9dad8340eacb0
+source-git-commit: 953ba61db6f3fb50ab4caa57c402ec6f75b7831f
 workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 4%
