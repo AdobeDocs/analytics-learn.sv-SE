@@ -1,24 +1,23 @@
 ---
 title: Ange ett Analysis Workspace-projekt som landningssida
-description: I den här videon får du lära dig hur du ställer in ett projekt som landningssida.
-feature: Grundläggande om arbetsytan
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
-kt: 2364
+description: Lär dig mer om ett effektivt sätt att enkelt få nybörjare till projektdata för arbetsyteanalys
+feature: Workspace Basics
 role: User
 level: Beginner
+activity: use
+doc-type: feature video
+thumbnail: 25459.jpg
+kt: 2364
 exl-id: 1222621b-52db-41b6-8a74-8ab8a8ddd51a
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: 9253a35bcb67c9e69b042e47475d915d7e45ef3e
 workflow-type: tm+mt
 source-wordcount: '48'
 ht-degree: 0%
 
 ---
 
-# Ange ett Analysis Workspace-projekt som landningssida {#setting-an-analysis-workspace-project-as-your-landing-page}
+# Ange ett Analysis Workspace-projekt som landningssida {#set-an-analysis-workspace-project-as-your-landing-page}
 
-I den här videon får du lära dig hur du ställer in ett projekt som landningssida.
+Lär dig mer om ett effektivt sätt att enkelt få nybörjare till projektdata för arbetsyteanalys.
 
->[!VIDEO](https://video.tv.adobe.com/v/25460/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25459/?quality=12)
