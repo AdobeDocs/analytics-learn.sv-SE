@@ -3,9 +3,9 @@ user-guide-title: Adobe Analytics självstudiekurser
 user-guide-description: Se självstudiekurser på video för Adobe Analytics och lär dig hur du får ut det mesta av dina data.
 breadcrumb-title: Analytics Tutorials
 solution: Analytics
-source-git-commit: d817981dd65fc53bbf04b96087d264bf2116eaca
+source-git-commit: f3a000ac21b937f3d8f95997a588dc38af529c79
 workflow-type: tm+mt
-source-wordcount: '2388'
+source-wordcount: '2382'
 ht-degree: 6%
 
 ---
@@ -47,7 +47,7 @@ ht-degree: 6%
       + [Anpassa användarinställningar för Analysis Workspace](intro-to-analytics/customizing-the-ui/user-preferences.md)
       + [Lägg till mått och måttbeskrivningar](intro-to-analytics/customizing-the-ui/adding-dimension-and-metric-descriptions.md)
       + [Anpassa menyn i Reports and Analytics](intro-to-analytics/customizing-the-ui/customizing-the-menu-in-reports-and-analytics.md)
-      + [Förbättra säkerheten i Adobe Analytics](intro-to-analytics/customizing-the-ui/enhancing-security.md)
+      + [Förbättra säkerheten](intro-to-analytics/customizing-the-ui/enhancing-security.md)
       + [Ange ett Analysis Workspace-projekt som landningssida](intro-to-analytics/customizing-the-ui/setting-an-analysis-workspace-project-as-your-landing-page.md)
    + Få hjälp {#getting-help}
       + [Analysis Workspace In-Product Tips](intro-to-analytics/getting-help/in-product-tips.md)
@@ -71,7 +71,7 @@ ht-degree: 6%
       + [Tips för att öka produktiviteten i Analysis Workspace](analysis-workspace/tips-and-tricks/tips-to-increase-productivity-in-analysis-workspace.md)
       + [Kundtips för att fortsätta din Adobe Analytics Learning Journey](analysis-workspace/tips-and-tricks/customer-tips-for-continuing-your-adobe-analytics-learning-journey.md)
    + Navigera i arbetsyteprojekt {#navigating-workspace-projects}
-      + [Starta ditt första projekt i Analysis Workspace](analysis-workspace/navigating-workspace-projects/starting-your-first-project-in-analysis-workspace.md)
+      + [Skapa projekt med mallar](analysis-workspace/navigating-workspace-projects/starting-your-first-project-in-analysis-workspace.md)
       + [Självstudiemall i Analysis Workspace](analysis-workspace/navigating-workspace-projects/training-tutorial-template-in-analysis-workspace.md)
       + [Kopiera och infoga i Analysis Workspace](analysis-workspace/navigating-workspace-projects/copy-insert-analysis-workspace.md)
       + [Skapa en innehållsförteckning](analysis-workspace/navigating-workspace-projects/create-a-toc-in-analysis-workspace.md)

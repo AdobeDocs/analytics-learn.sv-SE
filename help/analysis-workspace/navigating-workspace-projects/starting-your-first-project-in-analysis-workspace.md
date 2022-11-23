@@ -1,29 +1,26 @@
 ---
-title: Starta ditt första projekt i Analysis Workspace
-description: I den här videon får du lära dig hur du skapar ett projekt i Analysis Workspace med standardmallar och anpassade mallar, och hur du kopierar element mellan projekt.
+title: Skapa projekt med mallar
+description: Lär dig hur du skapar Analysis Workspace-projekt med hjälp av mallar
 feature: Projects
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
-kt: 4102
 role: User
 level: Beginner
+doc-type: feature video
+thumbnail: 30368.jpg
+team: Technical Marketing
+kt: 4102
 exl-id: f13b349a-3f36-4b48-ae5a-5c045c58b069
-source-git-commit: 1741a12e3c4b51c355f8ab3b8973be2a78c08301
+source-git-commit: f3a000ac21b937f3d8f95997a588dc38af529c79
 workflow-type: tm+mt
-source-wordcount: '103'
-ht-degree: 4%
+source-wordcount: '71'
+ht-degree: 7%
 
 ---
 
-# Starta ditt första projekt i Analysis Workspace
+# Skapa projekt med mallar
 
-I den här videon får du lära dig hur du skapar ett projekt i Analysis Workspace med standardmallar och anpassade mallar, och hur du kopierar element mellan projekt.
+Lär dig hur du skapar Analysis Workspace-projekt med hjälp av mallar. Detta är en tidsbesparande teknik jämfört med att skapa projekt manuellt och kan hjälpa nya användare att komma igång snabbt.
 
 >[!VIDEO](https://video.tv.adobe.com/v/30368/?quality=12)
-
-Mer information finns på [dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/freeform-overview.html).
 
 >[!INFO]
 >
