@@ -3,9 +3,9 @@ user-guide-title: Adobe Analytics självstudiekurser
 user-guide-description: Se självstudiekurser på video för Adobe Analytics och lär dig hur du får ut det mesta av dina data.
 breadcrumb-title: Analytics Tutorials
 solution: Analytics
-source-git-commit: f3a000ac21b937f3d8f95997a588dc38af529c79
+source-git-commit: efa60f017c4dcea7949e00a5a11ce2630ca66dad
 workflow-type: tm+mt
-source-wordcount: '2382'
+source-wordcount: '2383'
 ht-degree: 6%
 
 ---
@@ -55,14 +55,14 @@ ht-degree: 6%
       + [Få hjälp i Adobe Analytics](intro-to-analytics/getting-help/getting-help.md)
 + Analysis Workspace {#analysis-workspace}
    + Analysis Workspace Basics {#analysis-workspace-basics}
-      + [Analysis Workspace Introduction](analysis-workspace/analysis-workspace-basics/analysis-workspace-introduction.md)
-      + [Analysis Workspace - översikt](analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md)
+      + [Analysis Workspace quick intro](analysis-workspace/analysis-workspace-basics/analysis-workspace-introduction.md)
+      + [Översikt över Analysis Workspace](analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md)
       + [Navigera på den nya landningssidan](analysis-workspace/analysis-workspace-basics/navigating-the-new-landing-page.md)
-      + [Analysis Workspace landningssiduppdateringar](analysis-workspace/analysis-workspace-basics/analysis-workspace-landing-page-updates.md)
+      + [Uppdateringar av Analysis Workspace landningssida](analysis-workspace/analysis-workspace-basics/analysis-workspace-landing-page-updates.md)
       + [Bygga ett arbetsyteprojekt från grunden](analysis-workspace/analysis-workspace-basics/building-a-workspace-project-from-scratch.md)
-      + [Skapa och hantera anpassade mallar i Analysis Workspace](analysis-workspace/analysis-workspace-basics/create-manage-custom-templates-in-analysis-workspace.md)
+      + [Skapa och hantera egna mallar i Analysis Workspace](analysis-workspace/analysis-workspace-basics/create-manage-custom-templates-in-analysis-workspace.md)
       + [Förstå hur data kommer in i ditt Analysis Workspace-projekt](analysis-workspace/analysis-workspace-basics/understanding-how-data-gets-into-your-analysis-workspace-project.md)
-      + [Foundational Metrics in Adobe Analytics](analysis-workspace/analysis-workspace-basics/foundational-metrics-in-adobe-analytics.md)
+      + [Foundational metrics in Adobe Analytics](analysis-workspace/analysis-workspace-basics/foundational-metrics-in-adobe-analytics.md)
       + [Komponenthantering i Analysis Workspace](analysis-workspace/analysis-workspace-basics/component-management-in-analysis-workspace.md)
       + [Välja en rapportsvit i Analysis Workspace](analysis-workspace/analysis-workspace-basics/selecting-a-report-suite-in-analysis-workspace.md)
       + [Visa Analysis Workspace prestandamått](analysis-workspace/analysis-workspace-basics/view-analysis-workspace-performance-metrics.md)
