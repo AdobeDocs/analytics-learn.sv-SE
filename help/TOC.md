@@ -3,9 +3,9 @@ user-guide-title: Adobe Analytics självstudiekurser
 user-guide-description: Se självstudiekurser på video för Adobe Analytics och lär dig hur du får ut det mesta av dina data.
 breadcrumb-title: Analytics Tutorials
 solution: Analytics
-source-git-commit: efa60f017c4dcea7949e00a5a11ce2630ca66dad
+source-git-commit: f0569db5990d9766f57fcedb6a84ce3f7c03487d
 workflow-type: tm+mt
-source-wordcount: '2383'
+source-wordcount: '2394'
 ht-degree: 6%
 
 ---
@@ -92,7 +92,7 @@ ht-degree: 6%
       + [Medieuppspelningstid spenderad panel](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/media-analytics/measuring-media-analytics/media-playback-time-spent-panel.html)
       + [Använda nedrullningsbara filter](analysis-workspace/using-panels/using-drop-down-filters.md)
       + [Organisera dina Analysis Workspace-projekt med paneler](analysis-workspace/using-panels/using-panels-to-organize-your-analysis-workspace-projects.md)
-      + [Förbättringar av släppzon för segment](analysis-workspace/using-panels/segment-dropzone-improvements.md)
+      + [Välja segment för en panel](analysis-workspace/using-panels/choose-segments-for-a-panel.md)
       + [Flera rapportsviter i Analysis Workspace](analysis-workspace/using-panels/multiple-report-suites-in-analysis-workspace.md)
       + [Paneler och rapporter för arbetsytan Nästa/Föregående och Sidsammanfattning](analysis-workspace/using-panels/next-previous-and-page-summary-workspace-panels-reports.md)
    + Bygger frihandstabeller {#building-freeform-tables}
@@ -155,7 +155,7 @@ ht-degree: 6%
       + [Använda segment i Analysis Workspace](analysis-workspace/applying-segments/using-segments-in-analysis-workspace.md)
       + [Ad hoc-segment (temporära)](analysis-workspace/applying-segments/ad-hoc-temporary-segments.md)
       + [Använda olika Attribution IQ med segment](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-different-attribution-iq-models-with-segments.html)
-      + [Panelnivåsegment](analysis-workspace/using-panels/panel-level-segments.md)
+      + [Välja segment för en panel](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/choose-segments-for-a-panel.html)
       + [Använda segment som Dimensioner i Analysis Workspace](analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.md)
       + [Använda segment för att begränsa data i Analysis Workspace](analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.md)
       + [Snabbsegment i Analysis Workspace](analysis-workspace/applying-segments/quick-segments-in-analysis-workspace.md)
