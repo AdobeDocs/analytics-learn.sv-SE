@@ -6,9 +6,9 @@ kt: 11550
 role: User
 level: Beginner
 thumbnail: 3412023.jpg
-source-git-commit: b5a7cc88fff9e6502a7158fe51d1f68bc4612c01
+source-git-commit: c2f8a60d6508557dd04ac835f096209a0b945cf4
 workflow-type: tm+mt
-source-wordcount: '38'
+source-wordcount: '64'
 ht-degree: 0%
 
 ---
@@ -17,4 +17,8 @@ ht-degree: 0%
 
 Lär dig några tips och strategier för hur du använder segment på en panel i Analysis Workspace.
 
->[!VIDEO](https://video.tv.adobe.com/v/24032/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412023/?quality=12&learn=on)
+
+>[!INFO]
+>
+> Den här videon är en del av en kurs [Filtrera data med anpassad segmentering och datum](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata), kan köpas kostnadsfritt på Experience League!
