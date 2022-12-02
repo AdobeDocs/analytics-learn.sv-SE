@@ -3,9 +3,9 @@ user-guide-title: Adobe Analytics självstudiekurser
 user-guide-description: Se självstudiekurser på video för Adobe Analytics och lär dig hur du får ut det mesta av dina data.
 breadcrumb-title: Analytics Tutorials
 solution: Analytics
-source-git-commit: f0569db5990d9766f57fcedb6a84ce3f7c03487d
+source-git-commit: 9dfd262512ea4c36e5fad6c335b176b269c20652
 workflow-type: tm+mt
-source-wordcount: '2394'
+source-wordcount: '2377'
 ht-degree: 6%
 
 ---
@@ -72,18 +72,18 @@ ht-degree: 6%
       + [Kundtips för att fortsätta din Adobe Analytics Learning Journey](analysis-workspace/tips-and-tricks/customer-tips-for-continuing-your-adobe-analytics-learning-journey.md)
    + Navigera i arbetsyteprojekt {#navigating-workspace-projects}
       + [Skapa projekt med mallar](analysis-workspace/navigating-workspace-projects/starting-your-first-project-in-analysis-workspace.md)
-      + [Självstudiemall i Analysis Workspace](analysis-workspace/navigating-workspace-projects/training-tutorial-template-in-analysis-workspace.md)
-      + [Kopiera och infoga i Analysis Workspace](analysis-workspace/navigating-workspace-projects/copy-insert-analysis-workspace.md)
+      + [Utbildningsmall](analysis-workspace/navigating-workspace-projects/training-tutorial-template-in-analysis-workspace.md)
+      + [Kopiera och infoga paneler och visualiseringar](analysis-workspace/navigating-workspace-projects/copy-insert-analysis-workspace.md)
       + [Skapa en innehållsförteckning](analysis-workspace/navigating-workspace-projects/create-a-toc-in-analysis-workspace.md)
       + [Högerklicka om du vill se arbetsytans effektivitet](analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.md)
       + [Kortkommandon](analysis-workspace/navigating-workspace-projects/keyboard-shortcuts.md)
-      + [Anteckningar i Analysis Workspace](analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace.md)
+      + [Anteckningar](analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace.md)
       + [Menyrad](analysis-workspace/navigating-workspace-projects/menu-bar.md)
       + [Projektledning](analysis-workspace/navigating-workspace-projects/project-management-in-analysis-workspace.md)
-      + [Ångra åtgärder i Analysis Workspace](analysis-workspace/navigating-workspace-projects/undoing-actions-in-analysis-workspace.md)
-      + [Visa densitet i Analysis Workspace](analysis-workspace/navigating-workspace-projects/view-density-in-analysis-workspace.md)
-      + [Förbättringar av nollstatus](analysis-workspace/navigating-workspace-projects/zero-state-improvements.md)
-      + [Använda filter (taggar) i det vänstra fältet](analysis-workspace/navigating-workspace-projects/using-filters-tags-in-the-left-rail.md)
+      + [Ångra åtgärder](analysis-workspace/navigating-workspace-projects/undoing-actions-in-analysis-workspace.md)
+      + [Visa densitet](analysis-workspace/navigating-workspace-projects/view-density-in-analysis-workspace.md)
+      + [Förbättringar av nollläge](analysis-workspace/navigating-workspace-projects/zero-state-improvements.md)
+      + [Använda filter](analysis-workspace/navigating-workspace-projects/using-filters-tags-in-the-left-rail.md)
    + Använda paneler {#using-panels}
       + [Använda tabeller, visualiseringar och paneler i Analysis Workspace](analysis-workspace/using-panels/using-tables-visualizations-and-panels.md)
       + [Panelen Quick Insights i Analysis Workspace](analysis-workspace/using-panels/quick-insights-panel-in-analysis-workspace.md)

@@ -1,26 +1,21 @@
 ---
-title: Kopiera och infoga i Analysis Workspace
-description: Med Kopiera + Infoga kan du kopiera visualiseringar från en panel eller ett projekt till ett annat och kopiera hela paneler mellan projekt.
-feature: Paneler
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
-kt: 1698
+title: Kopiera och infoga paneler och visualiseringar
+description: Lär dig hur du kopierar och infogar paneler och visualiseringar i Analysis Workspace
+feature: Panels
 role: User
 level: Beginner
+kt: 1698
+thumbnail: 23230.jpg
 exl-id: 972d49a3-af5e-4f57-bb50-90b6b16bc7d8
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: 980e3069b31ee572366e269143d2f45387f2b682
 workflow-type: tm+mt
-source-wordcount: '76'
-ht-degree: 1%
+source-wordcount: '54'
+ht-degree: 0%
 
 ---
 
-# Kopiera och infoga i Analysis Workspace {#copy-and-insert-in-analysis-workspace}
+# Kopiera och infoga paneler och visualiseringar {#copy-and-insert-panels-and-visualizations}
 
-Med Kopiera + Infoga kan du kopiera visualiseringar från en panel eller ett projekt till ett annat och kopiera hela paneler mellan projekt.
+Lär dig hur du kopierar och infogar paneler och visualiseringar i Analysis Workspace. Det här är tidsbesparande tekniker för att förfina ett aktuellt projekt eller för att få ett försprång på ett nytt.
 
->[!VIDEO](https://video.tv.adobe.com/v/23230/?quality=12)
-
-Använd den här funktionen för att ordna dina analyser i logiska databerättelser och projekt, eller få ett försprång genom att kopiera från mallar!
+>[!VIDEO](https://video.tv.adobe.com/v/23230/?quality=12&learn=on)
