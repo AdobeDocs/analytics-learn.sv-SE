@@ -1,26 +1,24 @@
 ---
-title: Använda filter (taggar) i det vänstra fältet
-description: Filter (eller taggar) är ett snabbt och enkelt sätt att filtrera den vänstra listen i Analysis Workspace för att hitta de komponenter du behöver. Utnyttja färdiga taggar från Adobe eller lägg till egna taggar för att ordna relaterade komponenter.
+title: Använda filter (taggar)
+description: Lär dig hur du använder filter (taggar) i Analysis Workspace
 feature: Workspace Basics
-thumbnail: 32959.jpg
-kt: 4845
 role: User
 level: Beginner
+kt: 4845
+thumbnail: 32959.jpg
 exl-id: ae892414-fcd0-4900-8302-542d4f9bfca8
-source-git-commit: 561a36a8e3dc62b99c0efef2d62480b5a2e2f206
+source-git-commit: 618deaa6e64f66b48d8acebe1610a19603504923
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '59'
 ht-degree: 0%
 
 ---
 
-# Använda filter (taggar) i det vänstra fältet
+# Använda filter (taggar)
 
-Filter (eller taggar) är ett snabbt och enkelt sätt att filtrera den vänstra listen i Analysis Workspace för att hitta [!UICONTROL components] du behöver. Använd färdiga taggar från Adobe eller lägg till egna taggar för att ordna relaterade [!UICONTROL components].
+Lär dig hur du använder filter, taggar, i Analysis Workspace. Det här är tidsbesparande tekniker som hjälper dig att bygga projekt effektivt.
 
->[!VIDEO](https://video.tv.adobe.com/v/32959/?quality=12)
-
-Mer information finns på [dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/analysis-workspace-features.html)
+>[!VIDEO](https://video.tv.adobe.com/v/32959/?quality=12&learn=on)
 
 >[!INFO]
 >
