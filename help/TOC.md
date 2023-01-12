@@ -3,7 +3,7 @@ user-guide-title: Adobe Analytics självstudiekurser
 user-guide-description: Se självstudiekurser på video för Adobe Analytics och lär dig hur du får ut det mesta av dina data.
 breadcrumb-title: Analytics Tutorials
 solution: Analytics
-source-git-commit: 143e78ce630df75af574e5547c7941c31a2e75b5
+source-git-commit: e2933c4aa1a56609719f38f131888c95dfe2f741
 workflow-type: tm+mt
 source-wordcount: '2363'
 ht-degree: 6%
@@ -58,7 +58,6 @@ ht-degree: 6%
       + [Analysis Workspace quick intro](analysis-workspace/analysis-workspace-basics/analysis-workspace-introduction.md)
       + [Översikt över Analysis Workspace](analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md)
       + [Navigera på den nya landningssidan](analysis-workspace/analysis-workspace-basics/navigating-the-new-landing-page.md)
-      + [Uppdateringar av Analysis Workspace landningssida](analysis-workspace/analysis-workspace-basics/analysis-workspace-landing-page-updates.md)
       + [Bygga ett arbetsyteprojekt från grunden](analysis-workspace/analysis-workspace-basics/building-a-workspace-project-from-scratch.md)
       + [Skapa och hantera egna mallar i Analysis Workspace](analysis-workspace/analysis-workspace-basics/create-manage-custom-templates-in-analysis-workspace.md)
       + [Förstå hur data kommer in i ditt Analysis Workspace-projekt](analysis-workspace/analysis-workspace-basics/understanding-how-data-gets-into-your-analysis-workspace-project.md)
@@ -73,6 +72,7 @@ ht-degree: 6%
    + Navigera i arbetsyteprojekt {#navigating-workspace-projects}
       + [Skapa projekt med mallar](analysis-workspace/navigating-workspace-projects/starting-your-first-project-in-analysis-workspace.md)
       + [Utbildningsmall](analysis-workspace/navigating-workspace-projects/training-tutorial-template-in-analysis-workspace.md)
+      + [Använda mappar i Analysis Workspace](analysis-workspace/navigating-workspace-projects/use-folders-in-analysis-workspace.md)
       + [Kopiera och infoga paneler och visualiseringar](analysis-workspace/navigating-workspace-projects/copy-insert-analysis-workspace.md)
       + [Skapa en innehållsförteckning](analysis-workspace/navigating-workspace-projects/create-a-toc-in-analysis-workspace.md)
       + [Högerklicka om du vill se arbetsytans effektivitet](analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.md)
