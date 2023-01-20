@@ -1,21 +1,21 @@
 ---
 title: Skapa Advertising Cloud Alerts med Adobe Analytics
-description: Så här utnyttjar du kraften i Adobe Analytics Alerts för att övervaka era Advertising Cloud-betalda mediekampanjer.
-feature: Advertising Cloud Integration
+description: Så här utnyttjar du kraften i Adobe Analytics Alerts för att övervaka era reklambetalda mediekampanjer.
+feature: Advertising Integration
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 35118.jpg
 kt: 5475
-topic: Integreringar
+topic: Integrations
 role: User
 level: Intermediate
 exl-id: c021f6b9-f242-4576-8f3a-cb2ef31f32fc
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: ff6d8f1d0605b88e1e8d441f28e815c499ddd0d9
 workflow-type: tm+mt
-source-wordcount: '54'
-ht-degree: 1%
+source-wordcount: '49'
+ht-degree: 0%
 
 ---
 

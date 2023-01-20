@@ -1,21 +1,21 @@
 ---
 title: Skapa en kampanjanalys före start med Adobe Analytics
-description: Så här använder du Adobe Analytics för att lägga grunden till en mediekampanj som betalas av Advertising Cloud.
-feature: Advertising Cloud Integration
+description: Så här använder du Adobe Analytics för att lägga grunden till en mediekampanj som betalas av Advertising
+feature: Advertising Integration
 topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 35114.jpg
 kt: 5471
-topic: Integreringar
+topic: Integrations
 role: Admin
 level: Intermediate
 exl-id: dc363748-713e-4a68-a686-99a65076f1dc
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: ff6d8f1d0605b88e1e8d441f28e815c499ddd0d9
 workflow-type: tm+mt
-source-wordcount: '54'
-ht-degree: 94%
+source-wordcount: '49'
+ht-degree: 100%
 
 ---
 
