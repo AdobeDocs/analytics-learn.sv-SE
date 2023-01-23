@@ -3,7 +3,7 @@ user-guide-title: Adobe Analytics självstudiekurser
 user-guide-description: Se självstudiekurser på video för Adobe Analytics och lär dig hur du får ut det mesta av dina data.
 breadcrumb-title: Analytics Tutorials
 solution: Analytics
-source-git-commit: e2933c4aa1a56609719f38f131888c95dfe2f741
+source-git-commit: d9e56f9659192cced888a18f76a9214824bfa370
 workflow-type: tm+mt
 source-wordcount: '2363'
 ht-degree: 6%
@@ -94,15 +94,14 @@ ht-degree: 6%
    + Bygger frihandstabeller {#building-freeform-tables}
       + [Förstå era data - frihandstabeller](analysis-workspace/building-freeform-tables/understand-your-data-freeform-tables.md)
       + [Använda vänster järnväg för att skapa frihandstabeller i Analysis Workspace](analysis-workspace/building-freeform-tables/using-the-left-rail-to-build-freeform-tables-in-analysis-workspace.md)
-      + [Skapa frihandstabeller i Analysis Workspace automatiskt](analysis-workspace/building-freeform-tables/auto-build-freeform-tables-in-analysis-workspace.md)
+      + [Dra och släpp till tomma projekt](analysis-workspace/building-freeform-tables/auto-build-freeform-tables-in-analysis-workspace.md)
       + [Arbeta med Dimensioner i en frihandstabell](analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.md)
       + [Arbeta med mått i en frihandstabell](analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.md)
       + [Rad- och kolumninställningar i frihandstabeller](analysis-workspace/building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
       + [Använda Frihand tabellverktyg](analysis-workspace/building-freeform-tables/using-the-freeform-table-builder-in-analysis-workspace.md)
+      + [Högerklicka om du vill se arbetsytans effektivitet](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.html)
       + [Ändra ordning på statiska rader i Analysis Workspace](analysis-workspace/building-freeform-tables/reordering-static-rows-in-analysis-workspace.md)
       + [Använda Attribution IQ i frihandstabeller](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-attribution-iq-in-freeform-tables.html)
-      + [Använda högerklicksmenyn i Analysis Workspace](analysis-workspace/building-freeform-tables/using-the-right-click-menu.md)
-      + [Fortsatt högerklicksmeny i Analysis Workspace](analysis-workspace/building-freeform-tables/continued-right-click-menu-in-analysis-workspace.md)
       + [Korsförsäljningsanalys i Analysis Workspace](analysis-workspace/building-freeform-tables/cross-sell-analysis-workspace.md)
       + [Frihandstabellfilter](analysis-workspace/building-freeform-tables/freeform-table-filters.md)
       + [Tidsseparerande Dimensioner i Analysis Workspace](analysis-workspace/building-freeform-tables/time-parting-dimensions-in-analysis-workspace.md)
