@@ -1,22 +1,22 @@
 ---
-title: Använda Frihand tabellbyggare i Analysis Workspace
-description: Med Frihand Table Builder kan du dra och släppa i många dimensioner, uppdelningar, mätvärden och segment för att skapa tabeller som besvarar mer komplexa affärsfrågor. Data uppdateras inte direkt. i stället uppdateras den när du klickar på"Skapa", vilket sparar tid eftersom tabellen bara uppdateras en gång.
+title: Använda frihandsritbordsverktyget i Analysis Workspace
+description: Med Frihand tabellverktyg kan du dra och släppa i många dimensioner, uppdelningar, mätvärden och segment för att skapa tabeller som besvarar mer komplexa affärsfrågor. Data uppdateras inte direkt. i stället uppdateras den när du klickar på"Skapa", vilket sparar tid eftersom tabellen bara uppdateras en gång.
 feature: Freeform Tables
 thumbnail: 31318.jpg
 kt: 4217
 role: User
 level: Beginner
 exl-id: 4cf94512-e4e4-418f-b759-db5feff272e6
-source-git-commit: 561a36a8e3dc62b99c0efef2d62480b5a2e2f206
+source-git-commit: 3cddbed3646c8e6c003088d58d84be6db9257574
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '128'
 ht-degree: 0%
 
 ---
 
-# Använda [!DNL Freeform Table Builder] i Analysis Workspace
+# Använda frihandsritbordsverktyget i Analysis Workspace
 
-[!DNL Freeform Table Builder] kan du dra och släppa i många dimensioner, uppdelningar, mätvärden och segment för att skapa tabeller som besvarar mer komplexa affärsfrågor. Data uppdateras inte direkt. i stället uppdateras den när du klickar på&quot;Skapa&quot;, vilket sparar tid eftersom tabellen bara uppdateras en gång.
+[!DNL Freeform table builder] kan du dra och släppa i många dimensioner, uppdelningar, mätvärden och segment för att skapa tabeller som besvarar mer komplexa affärsfrågor. Data uppdateras inte direkt. i stället uppdateras den när du klickar på&quot;Skapa&quot;, vilket sparar tid eftersom tabellen bara uppdateras en gång.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31318/?quality=12)
 

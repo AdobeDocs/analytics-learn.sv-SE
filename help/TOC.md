@@ -3,9 +3,9 @@ user-guide-title: Adobe Analytics självstudiekurser
 user-guide-description: Se självstudiekurser på video för Adobe Analytics och lär dig hur du får ut det mesta av dina data.
 breadcrumb-title: Analytics Tutorials
 solution: Analytics
-source-git-commit: d9e56f9659192cced888a18f76a9214824bfa370
+source-git-commit: 3cddbed3646c8e6c003088d58d84be6db9257574
 workflow-type: tm+mt
-source-wordcount: '2363'
+source-wordcount: '2347'
 ht-degree: 6%
 
 ---
@@ -93,19 +93,19 @@ ht-degree: 6%
       + [Paneler och rapporter för arbetsytan Nästa/Föregående och Sidsammanfattning](analysis-workspace/using-panels/next-previous-and-page-summary-workspace-panels-reports.md)
    + Bygger frihandstabeller {#building-freeform-tables}
       + [Förstå era data - frihandstabeller](analysis-workspace/building-freeform-tables/understand-your-data-freeform-tables.md)
-      + [Använda vänster järnväg för att skapa frihandstabeller i Analysis Workspace](analysis-workspace/building-freeform-tables/using-the-left-rail-to-build-freeform-tables-in-analysis-workspace.md)
+      + [Använd den vänstra listen för att skapa frihandstabeller](analysis-workspace/building-freeform-tables/using-the-left-rail-to-build-freeform-tables-in-analysis-workspace.md)
       + [Dra och släpp till tomma projekt](analysis-workspace/building-freeform-tables/auto-build-freeform-tables-in-analysis-workspace.md)
-      + [Arbeta med Dimensioner i en frihandstabell](analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.md)
-      + [Arbeta med mått i en frihandstabell](analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.md)
+      + [Arbeta med mått i ett frihandsritbord](analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.md)
+      + [Arbeta med mätvärden i ett frihandsritbord](analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.md)
       + [Rad- och kolumninställningar i frihandstabeller](analysis-workspace/building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
-      + [Använda Frihand tabellverktyg](analysis-workspace/building-freeform-tables/using-the-freeform-table-builder-in-analysis-workspace.md)
+      + [Använda frihandsritbordsverktyget](analysis-workspace/building-freeform-tables/using-the-freeform-table-builder-in-analysis-workspace.md)
       + [Högerklicka om du vill se arbetsytans effektivitet](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.html)
-      + [Ändra ordning på statiska rader i Analysis Workspace](analysis-workspace/building-freeform-tables/reordering-static-rows-in-analysis-workspace.md)
+      + [Ordna om statiska rader](analysis-workspace/building-freeform-tables/reordering-static-rows-in-analysis-workspace.md)
       + [Använda Attribution IQ i frihandstabeller](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-attribution-iq-in-freeform-tables.html)
-      + [Korsförsäljningsanalys i Analysis Workspace](analysis-workspace/building-freeform-tables/cross-sell-analysis-workspace.md)
+      + [Korsförsäljningsanalys](analysis-workspace/building-freeform-tables/cross-sell-analysis-workspace.md)
       + [Frihandstabellfilter](analysis-workspace/building-freeform-tables/freeform-table-filters.md)
-      + [Tidsseparerande Dimensioner i Analysis Workspace](analysis-workspace/building-freeform-tables/time-parting-dimensions-in-analysis-workspace.md)
-      + [Tabellsummor i frihandsfigur i Analysis Workspace](analysis-workspace/building-freeform-tables/freeform-table-totals-in-analysis-workspace.md)
+      + [Tidsdelning av dimensioner](analysis-workspace/building-freeform-tables/time-parting-dimensions-in-analysis-workspace.md)
+      + [Frihandstabellsummor](analysis-workspace/building-freeform-tables/freeform-table-totals-in-analysis-workspace.md)
    + Visualiseringar {#visualizations}
       + [Datavisualisering i Analysis Workspace](analysis-workspace/visualizations/data-visualization-in-analysis-workspace.md)
       + [Visualiseringstyper](analysis-workspace/visualizations/visualization-types.md)
