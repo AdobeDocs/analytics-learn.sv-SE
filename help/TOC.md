@@ -3,7 +3,7 @@ user-guide-title: Adobe Analytics självstudiekurser
 user-guide-description: Se självstudiekurser på video för Adobe Analytics och lär dig hur du får ut det mesta av dina data.
 breadcrumb-title: Analytics Tutorials
 solution: Analytics
-source-git-commit: 3cddbed3646c8e6c003088d58d84be6db9257574
+source-git-commit: 6581a3a6bdcc471f786adca7f4a5334fa90a2a57
 workflow-type: tm+mt
 source-wordcount: '2347'
 ht-degree: 6%
@@ -98,6 +98,7 @@ ht-degree: 6%
       + [Arbeta med mått i ett frihandsritbord](analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.md)
       + [Arbeta med mätvärden i ett frihandsritbord](analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.md)
       + [Rad- och kolumninställningar i frihandstabeller](analysis-workspace/building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
+      + [Frihandstabellsummor](analysis-workspace/building-freeform-tables/freeform-table-totals-in-analysis-workspace.md)
       + [Använda frihandsritbordsverktyget](analysis-workspace/building-freeform-tables/using-the-freeform-table-builder-in-analysis-workspace.md)
       + [Högerklicka om du vill se arbetsytans effektivitet](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.html)
       + [Ordna om statiska rader](analysis-workspace/building-freeform-tables/reordering-static-rows-in-analysis-workspace.md)
@@ -105,7 +106,6 @@ ht-degree: 6%
       + [Korsförsäljningsanalys](analysis-workspace/building-freeform-tables/cross-sell-analysis-workspace.md)
       + [Frihandstabellfilter](analysis-workspace/building-freeform-tables/freeform-table-filters.md)
       + [Tidsdelning av dimensioner](analysis-workspace/building-freeform-tables/time-parting-dimensions-in-analysis-workspace.md)
-      + [Frihandstabellsummor](analysis-workspace/building-freeform-tables/freeform-table-totals-in-analysis-workspace.md)
    + Visualiseringar {#visualizations}
       + [Datavisualisering i Analysis Workspace](analysis-workspace/visualizations/data-visualization-in-analysis-workspace.md)
       + [Visualiseringstyper](analysis-workspace/visualizations/visualization-types.md)
