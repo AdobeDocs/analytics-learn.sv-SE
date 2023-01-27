@@ -1,26 +1,22 @@
 ---
-title: Skapa Advertising Dashboards med Adobe Analytics
-description: Tekniker för att skapa en Advertising-kontrollpanel för övervakning av livekampanjer.
+title: Skapa Advertising Cloud-paneler med Adobe Analytics
+description: Lär dig dessa tekniker för att skapa en Advertising Cloud-kontrollpanel för övervakning av livekampanjer.
 feature: Advertising Integration
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
-thumbnail: 35121.jpg
-kt: 5478
 topic: Integrations
 role: User
 level: Intermediate
+thumbnail: 35121.jpg
+kt: 5478
 exl-id: 9e53a8b4-a02f-41c4-97cc-ea50751d75c8
-source-git-commit: ff6d8f1d0605b88e1e8d441f28e815c499ddd0d9
+source-git-commit: ecfce7b894986903f28ecaaa3252c903420f5aa8
 workflow-type: tm+mt
-source-wordcount: '32'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# Skapa Advertising Dashboards med Adobe Analytics
+# Skapa Advertising Cloud-paneler med Adobe Analytics
 
-Tekniker för att skapa en Advertising-kontrollpanel för övervakning av livekampanjer.
+Lär dig dessa tekniker för att skapa en Advertising Cloud-kontrollpanel för övervakning av livekampanjer.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35121/?quality=12&learn=on)

@@ -1,29 +1,22 @@
 ---
 title: Implementera spårningsmallar från Advertising Analytics i sökmotorer
-description: I den här videon får du hjälp med att implementera dina spårningsmallar från Advertising Analytics i de sökmotorer som stöds. Att implementera spårningsmallen är ett viktigt steg när det gäller att samla in och skicka data till Adobe Analytics.
+description: Lär dig hur du implementerar dina spårningsmallar från Advertising Analytics i sökmotorer som stöds.
 feature: Advertising Integration
-topics: null
-activity: implement
-doc-type: feature video
-team: Technical Marketing
-kt: 1651
 topic: Integrations
 role: Admin
 level: Intermediate
+thumbnail: 23120.jpg
+kt: 1651
 exl-id: a6b3371f-eaf0-483b-8580-f3bb8d287573
-source-git-commit: ff6d8f1d0605b88e1e8d441f28e815c499ddd0d9
+source-git-commit: ecfce7b894986903f28ecaaa3252c903420f5aa8
 workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 1%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
-# Implementera spårningsmallar från [!DNL Advertising Analytics] till sökmotorer {#implementing-tracking-templates-from-advertising-analytics-into-search-engines}
+# Implementera spårningsmallar från [!DNL Advertising Analytics] till sökmotorer {#implement-tracking-templates-from-advertising-analytics-into-search-engines}
 
-I den här videon får du hjälp med att implementera dina spårningsmallar från [!DNL Advertising Analytics] till sökmotorer som stöds. Att implementera spårningsmallen är ett viktigt steg när det gäller att samla in och skicka data till Adobe Analytics.
+Lär dig hur du implementerar dina spårningsmallar från [!DNL Advertising Analytics] i sökmotorer som stöds. Detta är ett viktigt steg som krävs för att samla in och skicka data till Adobe Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/23120/?quality=12)
-
-## Ytterligare material {#additional-resources}
-
-* [Konfigurerar [!DNL Advertising Analytics] i Adobe Analytics](https://helpx.adobe.com/analytics/kt/using/advertising-analytics-feature-video-configure.html)
+>[!VIDEO](https://video.tv.adobe.com/v/23120/?quality=12&learn=on)
