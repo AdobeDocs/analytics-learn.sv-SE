@@ -1,17 +1,17 @@
 ---
-user-guide-title: Adobe Analytics självstudiekurser
-user-guide-description: Se självstudiekurser på video för Adobe Analytics och lär dig hur du får ut det mesta av dina data.
-breadcrumb-title: Analytics Tutorials
+user-guide-title: Självstudiekurser om Adobe Analytics
+user-guide-description: Se videosjälvstudiekurser om Adobe Analytics och lär dig hur du får ut det mesta av dina data.
+breadcrumb-title: Självstudiekurser om Analytics
 solution: Analytics
-source-git-commit: 6581a3a6bdcc471f786adca7f4a5334fa90a2a57
+source-git-commit: 8976c66d3e26dcb0988891e5f4d15a1a8e037e47
 workflow-type: tm+mt
-source-wordcount: '2347'
-ht-degree: 6%
+source-wordcount: '2344'
+ht-degree: 7%
 
 ---
 
 
-# Analytics Tutorials {#tutorials}
+# Självstudiekurser om Analytics {#tutorials}
 
 + [Självstudiekurser om analys](overview.md)
 + Introduktion till Analytics {#intro-to-analytics}
@@ -109,37 +109,36 @@ ht-degree: 6%
    + Visualiseringar {#visualizations}
       + [Datavisualisering i Analysis Workspace](analysis-workspace/visualizations/data-visualization-in-analysis-workspace.md)
       + [Visualiseringstyper](analysis-workspace/visualizations/visualization-types.md)
-      + [Visualisering - användningsfall](analysis-workspace/visualizations/visualization-use-cases.md)
-      + [Markera data som ska visas](analysis-workspace/visualizations/selecting-data-to-visualize.md)
+      + [Användningsexempel för visualisering](analysis-workspace/visualizations/visualization-use-cases.md)
+      + [Markera data som ska visualiseras](analysis-workspace/visualizations/selecting-data-to-visualize.md)
       + [Hämta data till visualiseringar](analysis-workspace/visualizations/getting-data-into-visualizations.md)
       + [Använda komponentlistrutor i arbetsytan](analysis-workspace/visualizations/using-component-dropdowns-in-workspace.md)
       + [Staplade visualiseringar i område och område](analysis-workspace/visualizations/area-and-area-stacked.md)
-      + [Stolpvisualiseringar](analysis-workspace/visualizations/bar-and-bar-stacked-visualizations.md)
+      + [Stolpvisa och staplade visualiseringar](analysis-workspace/visualizations/bar-and-bar-stacked-visualizations.md)
       + [Visualisering av punktdiagram](analysis-workspace/visualizations/bullet-graph-visualization.md)
       + [Visualisering av ring](analysis-workspace/visualizations/using-the-donut-visualization.md)
       + [Histogramvisualisering](analysis-workspace/visualizations/histogram-visualization.md)
       + [Radvisualisering](analysis-workspace/visualizations/line-visualization-in-analysis-workspace.md)
       + [Kombinationsdiagram](analysis-workspace/visualizations/combo-charts.md)
       + [Lägga till trendlinjer i linjevisualiseringar](analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.md)
-      + [Kartvisualisering](analysis-workspace/visualizations/map-visualization.md)
-      + [Visualiseringar av sammanfattningsnummer och sammanfattningsändringar](analysis-workspace/visualizations/summary-number-and-summary-change-visualizations-2021.md)
-      + [Sammanfattning av nyckelmått Visualisering](analysis-workspace/visualizations/key-metric-summary.md)
+      + [Visualisering av kartor](analysis-workspace/visualizations/map-visualization.md)
+      + [Sammanfattningsnummer och visualiseringar av sammanfattningsändringar](analysis-workspace/visualizations/summary-number-and-summary-change-visualizations-2021.md)
+      + [Visualisering av nyckelmätvärden](analysis-workspace/visualizations/key-metric-summary.md)
       + [Textvisualisering](analysis-workspace/visualizations/rich-text-editor-in-analysis-workspace.md)
-      + [Scatterplot Visualization](analysis-workspace/visualizations/scatterplot-visualization.md)
+      + [Scatterplot visualization](analysis-workspace/visualizations/scatterplot-visualization.md)
       + [Treemap-visualisering](analysis-workspace/visualizations/treemap-visualization.md)
       + [Visualisering av Venndiagram](analysis-workspace/visualizations/venn-diagram-visualization.md)
-      + [Använda funktionen för ackumulerat genomsnitt för att använda måttutjämning](analysis-workspace/visualizations/using-the-cumulative-average-function-to-apply-metric-smoothing.md)
+      + [Använda den kumulativa genomsnittsfunktionen för att använda utjämning av mätvärden](analysis-workspace/visualizations/using-the-cumulative-average-function-to-apply-metric-smoothing.md)
       + [Flexibla layouter](analysis-workspace/visualizations/flexible-layouts.md)
       + [Ändra skala/axel för visualiseringar](analysis-workspace/visualizations/changing-the-scale-axis-on-visualizations.md)
-      + [Dimension-Graph Live Linking](analysis-workspace/visualizations/dimension-graph-live-linking.md)
+      + [Dimension-graph live linking](analysis-workspace/visualizations/dimension-graph-live-linking.md)
       + [Korrigering av granularitet](analysis-workspace/visualizations/granularity-toggle.md)
       + [Intralänkning i Analysis Workspace](analysis-workspace/visualizations/intra-linking-in-analysis-workspace.md)
-      + [Tema för positiv-negativ karta](analysis-workspace/visualizations/positive-negative-map-theme.md)
       + [Ordna om och ändra storlek på visualiseringar](analysis-workspace/visualizations/rearranging-and-resizing-visualizations.md)
       + [Anpassa visualiseringsförklaringar](analysis-workspace/visualizations/customize-visualization-legends.md)
-      + [Staplade 100 %-visualiseringar](analysis-workspace/visualizations/hundred-percent-stacked-visualizations.md)
-      + [Inställningar för tabell och visualisering av datakälla](analysis-workspace/visualizations/table-and-visualization-data-source-settings.md)
-      + [Bygg en tidsparande heatmap](analysis-workspace/visualizations/build-a-time-parting-heatmap.md)
+      + [100 % staplade visualiseringar](analysis-workspace/visualizations/hundred-percent-stacked-visualizations.md)
+      + [Inställningar för datakälla för tabeller och visualisering](analysis-workspace/visualizations/table-and-visualization-data-source-settings.md)
+      + [Skapa en heatmap med tidsdelning](analysis-workspace/visualizations/build-a-time-parting-heatmap.md)
    + Analysera kundresor {#analyzing-customer-journeys}
       + [Skapa en utfallsvisualisering](analysis-workspace/analyzing-customer-journeys/fallout-visualization.md)
       + [Skapa en flödesvisualisering](analysis-workspace/analyzing-customer-journeys/flow-visualization.md)
@@ -406,7 +405,7 @@ ht-degree: 6%
       + [Lägga till grundläggande butiksvariabler och händelser i startregler](vertical-specific/retail/adding-basic-retail-variables-and-events-to-launch-rules.md)
       + [Lägga till en startregel för inköpshändelsen](vertical-specific/retail/adding-a-launch-rule-for-the-purchase-event.md)
       + [Summit 2019 Super Session - Retail](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-retail.html)
-+ Medieanalys {#media-analytics}
++ Media Analytics {#media-analytics}
    + Mätning av medieanalys {#measuring-media-analytics}
       + [Medieuppspelningstid spenderad panel](media-analytics/measuring-media-analytics/media-playback-time-spent-panel.md)
       + [Använda mallen Ljudförbrukning i Analysis Workspace](media-analytics/measuring-media-analytics/using-the-audio-consumption-template-in-analysis-workspace.md)

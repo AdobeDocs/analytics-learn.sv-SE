@@ -1,22 +1,22 @@
 ---
 title: Korsförsäljningsanalys i Analysis Workspace
-description: Korsförsäljningsrapporten i Rapporter och analyser visar relationen mellan produkter i samma produktsträng, så att du kan analysera vilka produkter som köpts tillsammans. I den här videon visar vi hur du skapar korsförsäljningsrapporten i Analysis Workspace och hur du kan utöka den ytterligare till alla flervärdesmått och klassificeringar.
+description: I den här videon får du lära dig att skapa en korsförsäljningsrapport i Analysis Workspace och utöka den ytterligare till alla flervärdesmått och klassificeringar.
 feature: Freeform Tables
 thumbnail: 25864.jpg
 kt: 2367
 role: User
 level: Beginner
 exl-id: b9c01772-8c48-4baf-a85d-faabf5bdb846
-source-git-commit: 561a36a8e3dc62b99c0efef2d62480b5a2e2f206
+source-git-commit: a3aef96c996343d0d90de8e1462f6dcbf362c403
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '85'
 ht-degree: 0%
 
 ---
 
-# [!UICONTROL Cross Sell] Analys i Analysis Workspace {#cross-sell-analysis-in-analysis-workspace}
+# Korsförsäljningsanalys i Analysis Workspace {#cross-sell-analysis-in-analysis-workspace}
 
-The [!UICONTROL Cross Sell] rapportera i [!DNL Reports & Analytics] visar förhållandet mellan produkter i samma produktsträng, så att du kan analysera vilka produkter som köpts tillsammans. I den här videon visar vi hur du skapar [!UICONTROL Cross Sell] rapportera i Analysis Workspace och utöka detta ännu mer till alla flervärdesdimensioner eller klassificeringar.
+I den här videon får du lära dig att skapa en korsförsäljningsrapport i Analysis Workspace och utöka den ytterligare till alla flervärdesmått och klassificeringar.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25864/?quality=12)
 
