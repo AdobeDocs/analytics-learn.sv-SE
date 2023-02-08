@@ -7,10 +7,10 @@ level: Beginner
 kt: 3581
 thumbnail: 28754.jpg
 exl-id: c942e819-0763-4907-adcc-747ec753c407
-source-git-commit: bd4ac9bba3d240f571991d32dbe3b225a4452c1a
+source-git-commit: ecc86de650d87aa7f3d8d1cb6275f38b7cdca7e0
 workflow-type: tm+mt
-source-wordcount: '149'
-ht-degree: 2%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 2%
 
 SDR-dokumentet (Solution Design Reference) är en plan för verksamhetskrav och datainsamlingsdesign för Analytics om era digitala resurser. Lär dig hur du skapar och underhåller det här dokumentet som en källa till sanning för din analyslösning.
 
->[!VIDEO](https://video.tv.adobe.com/v/28754/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/28754/?quality=12&learn=on)
 
 [Hämta](assets/aa-implementation-playbook.xlsx) en Excel-exempelmall som dokumenterar krav och datainsamlingsdesign för dina digitala egenskaper.
 

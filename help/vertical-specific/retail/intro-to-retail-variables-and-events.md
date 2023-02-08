@@ -2,18 +2,14 @@
 title: Introduktion till variabler och händelser för detaljhandeln
 description: Om du har en återförsäljarwebbplats finns det variabler och händelser som skapades just för dig (är du inte speciell)! I den här videon får du ett snabbt tips om hur du kan förstå dessa butiksspecifika variabler och händelser.
 feature: Use Cases
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
 kt: 3579
 role: User
 level: Beginner
 exl-id: 3cf9d641-bb99-40b3-a76b-d9ea62ee7548
-source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
+source-git-commit: ecc86de650d87aa7f3d8d1cb6275f38b7cdca7e0
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 3%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -21,7 +17,7 @@ ht-degree: 3%
 
 Om du har en återförsäljarwebbplats finns det variabler och händelser som skapades just för dig (är du inte speciell)! I den här videon får du ett snabbt tips om hur du kan förstå dessa butiksspecifika variabler och händelser.
 
->[!VIDEO](https://video.tv.adobe.com/v/28750/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/28750/?quality=12&learn=on)
 
 >[!INFO]
 >
