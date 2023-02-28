@@ -1,7 +1,7 @@
 ---
 title: Förbättringar i Experience Cloud Audience Publishing
-landing-page-description: Lär er publicera målgrupper (segment) och gör dem tillgängliga snabbare än någonsin.
-description: Förbättringar har gjorts i Experience Cloud Audience Publishing. Nu kan ni publicera målgrupper (segment) och göra dem tillgängliga sex gånger snabbare, vilket minskar den aktuella latenstiden från 48 timmar till ungefär 8 timmar, och eventuellt snabbare, beroende på trafik och segmentstorlek.
+landing-page-description: Lär dig publicera målgrupper (segment) och gör dem tillgängliga snabbare än någonsin.
+description: Experience Cloud Audience Publishing har förbättrats. Nu kan du publicera målgrupper (segment) och göra dem tillgängliga sex gånger snabbare, vilket minskar den aktuella latenstiden från 48 timmar till ungefär 8 timmar, och eventuellt snabbare, beroende på trafik och segmentstorlek.
 feature: Experience Cloud Integration
 topics: null
 activity: setup
@@ -15,13 +15,13 @@ exl-id: c23ebad6-2967-4739-b381-1f3c6415f8c7
 source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
 source-wordcount: '158'
-ht-degree: 17%
+ht-degree: 44%
 
 ---
 
 # Förbättringar i Experience Cloud Audience Publishing
 
-Förbättringar har gjorts i Experience Cloud Audience Publishing. Nu kan du publicera målgrupper ([!UICONTROL segments]) och göra dem tillgängliga sex gånger snabbare, vilket minskar latenstiden från 48 timmar till cirka 8 timmar, och eventuellt snabbare, beroende på trafik och [!UICONTROL segment] storlek.
+Experience Cloud Audience Publishing har förbättrats. Nu kan du publicera målgrupper ([!UICONTROL segments]) och göra dem tillgängliga sex gånger snabbare, vilket minskar latenstiden från 48 timmar till cirka 8 timmar, och eventuellt snabbare, beroende på trafik och [!UICONTROL segment] storlek.
 
 >[!VIDEO](https://video.tv.adobe.com/v/32842/?quality=12)
 
