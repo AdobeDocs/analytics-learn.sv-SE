@@ -3,9 +3,9 @@ user-guide-title: Självstudiekurser om Adobe Analytics
 user-guide-description: Se videosjälvstudiekurser om Adobe Analytics och lär dig hur du får ut det mesta av dina data.
 breadcrumb-title: Självstudiekurser om Analytics
 solution: Analytics
-source-git-commit: 8976c66d3e26dcb0988891e5f4d15a1a8e037e47
+source-git-commit: 525d6e2c4828f9fda07cf389b5e8e58331e494de
 workflow-type: tm+mt
-source-wordcount: '2344'
+source-wordcount: '2349'
 ht-degree: 7%
 
 ---
@@ -342,6 +342,7 @@ ht-degree: 7%
       + [Använd anpassade datumintervall](additional-tools/analytics-dashboards/apply-custom-date-ranges-to-mobile-scorecard-projects.md)
       + [Kontrollpaneler för analys i appupplevelser](additional-tools/analytics-dashboards/adobe-analytics-dashboards-in-app-experience.md)
       + [Skapa anpassade detaljvyer](additional-tools/analytics-dashboards/create-custom-detail-views.md)
+      + [Databerättelser för kontrollpaneler för analyser](additional-tools/analytics-dashboards/data-stories-for-analytics-dashboards.md)
 + Exporterar {#exporting}
    + Från gränssnittet {#from-the-ui}
       + [Exportera till CSV från Analysis Workspace](exporting/from-the-ui/export-to-csv-from-analysis-workspace.md)
