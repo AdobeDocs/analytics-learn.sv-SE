@@ -17,9 +17,9 @@ ht-degree: 2%
 
 ---
 
-# Konfigurerar [!UICONTROL Library Management] för [!DNL Analytics] {#configuring-library-management-in-the-launch-analytics-extension}
+# Konfigurerar [!UICONTROL Library Management] for [!DNL Analytics] {#configuring-library-management-in-the-launch-analytics-extension}
 
-Om du precis har börjat med Experience Platform Launch och Adobe Analytics [!UICONTROL Extension] kan den här videon hjälpa dig med [!UICONTROL Library Management], inklusive att välja [!UICONTROL report suites] där data ska skickas.
+Om du just har börjat med Experience Platform Launch, och Adobe Analytics [!UICONTROL Extension]kan den här videon hjälpa dig med [!UICONTROL Library Management], inklusive markera [!UICONTROL report suites] där data ska skickas.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27092/?quality=12)
 

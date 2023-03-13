@@ -1,7 +1,7 @@
 ---
 title: Beräknade mått - segmenterade mått
 description: Lär dig hur du skapar segmenterade mätvärden i Adobe Analytics
-feature: Beräknade mätvärden
+feature: Calculated Metrics
 topics: null
 activity: use
 doc-type: feature video
@@ -12,8 +12,8 @@ level: Beginner
 exl-id: c02b968d-aa0e-4a93-acd4-d8797533b182
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '26'
-ht-degree: 7%
+source-wordcount: '24'
+ht-degree: 0%
 
 ---
 

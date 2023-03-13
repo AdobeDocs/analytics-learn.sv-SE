@@ -8,13 +8,13 @@ level: Beginner
 doc-type: article
 thumbnail: 10531.jpg
 kt: 10531
-source-git-commit: 160df6c23acb67f1b07f2fcd25f1eca96eb6dee7
+exl-id: 0fe3b981-0d9b-4f12-a6ca-63a4140f4baf
+source-git-commit: df00d4fb8cc5093903ed4628dfe12f152294123a
 workflow-type: tm+mt
 source-wordcount: '339'
 ht-degree: 0%
 
 ---
-
 
 # Skapa standardiserade namnkonventioner
 

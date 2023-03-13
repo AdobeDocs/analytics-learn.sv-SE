@@ -41,4 +41,4 @@ Kursplanen med specialbyggda aktiviteter i slutet av varje avsnitt kan kombinera
 
 Anmäl dig här för att få åtkomst: [Registrering av kursplaner för analyser](https://experienceleague.adobe.com/landing/analytics-university/)
 
-[Ladda ned PDF-kursplanen](assets/Adobe-Analytics-Curriculum_2021.pdf)
+[Ladda ned kursplanen för PDF](assets/Adobe-Analytics-Curriculum_2021.pdf)

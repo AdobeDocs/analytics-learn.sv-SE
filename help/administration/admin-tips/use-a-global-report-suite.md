@@ -8,13 +8,13 @@ level: Beginner
 doc-type: article
 thumbnail: 10536.jpg
 kt: 10536
-source-git-commit: 160df6c23acb67f1b07f2fcd25f1eca96eb6dee7
+exl-id: 490addfd-b810-4f15-b065-e0e58048c882
+source-git-commit: df00d4fb8cc5093903ed4628dfe12f152294123a
 workflow-type: tm+mt
 source-wordcount: '763'
 ht-degree: 0%
 
 ---
-
 
 # Använd en global rapportsvit
 

@@ -8,13 +8,13 @@ level: Beginner
 doc-type: article
 thumbnail: 10533.jpg
 kt: 10533
-source-git-commit: 160df6c23acb67f1b07f2fcd25f1eca96eb6dee7
+exl-id: 60307702-9348-48b5-8364-49e90946d793
+source-git-commit: df00d4fb8cc5093903ed4628dfe12f152294123a
 workflow-type: tm+mt
-source-wordcount: '345'
+source-wordcount: '330'
 ht-degree: 0%
 
 ---
-
 
 # Skapa grundläggande inspelade kurser och korta videoklipp
 
@@ -31,9 +31,9 @@ ht-degree: 0%
 * De fem vanligaste tipsen i Adobe Analytics (t.ex.: skapa nedrullningsbara listor)
 * Så här använder du Attribution IQ
 
-Sedan kan ni enkelt hänvisa användarna till dessa istället för att skriva långa e-postmeddelanden eller ha ytterligare ett möte. Fler tips och råd om utbildning av användare finns på [Adobe Champion Thomas Edward Buckley&#39;s article](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/key-admin-skills/simplify-training-users.html?lang=en){target=&quot;_blank&quot;} handlar om att förenkla och lägga mindre tid på att utbilda användare.
+Sedan kan ni enkelt hänvisa användarna till dessa istället för att skriva långa e-postmeddelanden eller ha ytterligare ett möte. Fler tips och råd om utbildning av användare finns på [Adobe Champion Thomas Edward Buckley&#39;s article](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/key-admin-skills/simplify-training-users.html?lang=en){target="_blank"} allt om att förenkla och lägga mindre tid på att utbilda användare.
 
-Dessutom finns det en uppsjö (ja, en uppsjö) av [videosjälvstudiekurser](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html){target=&quot;_blank&quot;} på Adobe Experience League, samt [kostnadsfria kurser](https://experienceleague.adobe.com/?lang=en#dashboard/learning){target=&quot;_blank&quot;}. Om ni behöver en video som är specifik för företagets data och nyckeltal för verksamheten, spelar ni in era egna videor på alla sätt. Men om det räcker med en allmän instruktionsvideo finns det ingen anledning att uppfinna hjulet på nytt.
+Dessutom finns det en uppsjö (ja, en uppsjö) av [videosjälvstudiekurser](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html){target="_blank"} on Adobe Experience League, as well as [free courses](https://experienceleague.adobe.com/?lang=en#dashboard/learning){target="_blank"}. Om ni behöver en video som är specifik för företagets data och nyckeltal för verksamheten, spelar ni in era egna videor på alla sätt. Men om det räcker med en allmän instruktionsvideo finns det ingen anledning att uppfinna hjulet på nytt.
 
 ## Författare
 

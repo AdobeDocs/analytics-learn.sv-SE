@@ -7,13 +7,13 @@ role: Admin
 level: Experienced
 thumbnail: 342361.jpg
 kt: 10272
-source-git-commit: b5cda911edf548886cc0aeb404a8289bcea4f454
+exl-id: dadfd482-8fc6-40a7-85e3-d22a185096d4
+source-git-commit: 4dfe75cb35b8beb92f947884a92aa4bfd579e4b8
 workflow-type: tm+mt
-source-wordcount: '1082'
+source-wordcount: '1080'
 ht-degree: 0%
 
 ---
-
 
 # Frågar du rätt frågor?
 
@@ -50,7 +50,7 @@ Skicka en lista med frågor till intressenter som ska granskas före identifieri
 
 Frågorna varierar beroende på teknisk eller analytisk process, företagsstruktur eller komplexitet i datainsamlingsämnet. Det är ofta till stor hjälp att börja på en hög nivå, med frågor om hela organisationen, sedan diskutera din intressents roll som stöd för dessa organisationsmål och så vidare i ökad detaljnivå. Sedan kan ni se till att de detaljerade datapunkter som diskuteras effektivt stöder organisationens övergripande mål. Det ger er också möjlighet att tänka kreativt och föreslå nya idéer för data som stöder deras mål.
 
-[Utforska den här mallen](assets/stakeholder-questionnaire.pdf){target=&quot;_blank&quot;} innehåller flera exempelfrågor för intervjuer med intressenter. Återanvänd dem eller justera dem för att förbereda relevanta frågor för era diskussioner.
+[Utforska den här mallen](assets/stakeholder-questionnaire.pdf){target="_blank"} innehåller flera urvalsfrågor för intervjuer med intressenter. Återanvänd dem eller justera dem för att förbereda relevanta frågor för era diskussioner.
 
 ### 2. Begär exempelrapporter
 
@@ -76,4 +76,3 @@ Adobe har verktyg och mallar som kan hjälpa dig med det här steget. Använd de
 ## Ställ rätt frågor!
 
 Analysadministratörer har ofta en bra uppfattning om vilka data som är användbara och vad som inte är det. Om ni utformar era diskussioner med intressenter enligt vad som rekommenderas här, kan ni bidra till att överbrygga klyftan mellan en kollegas mål och de data som behövs för att mäta och bevisa relaterade framgångar. En administratör som även är en kvalificerad detektiv bekräftar de begärda datapunkterna som är viktiga och avslöjar dolda möjligheter eller krav, vilket gör dem till en kraftfull tillgång för hela organisationen.
-

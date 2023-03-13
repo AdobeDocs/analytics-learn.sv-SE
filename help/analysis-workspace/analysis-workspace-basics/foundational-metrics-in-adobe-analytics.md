@@ -7,13 +7,13 @@ level: Beginner
 doc-type: feature video
 thumbnail: 336483.jpg
 kt: KT-8646
-source-git-commit: 70e465b504060b2898b502d2da7f0a5cd2f4beb0
+exl-id: c91e8ee4-16b9-4f93-b2a5-5e10b415143d
+source-git-commit: dd65de735e01c6c5654f98dbc44b13b64ae1de0c
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '129'
 ht-degree: 0%
 
 ---
-
 
 # Foundational Metrics in Adobe Analytics
 
@@ -21,4 +21,4 @@ Den här videon ger en konceptuell beskrivning av grundläggande besökarstatist
 
 >[!VIDEO](https://video.tv.adobe.com/v/336483/?quality=12&learn=on)
 
-Mer information finns i [Sidvyer](https://experienceleague.adobe.com/docs/analytics/components/metrics/page-views.html), [Besök](https://experienceleague.adobe.com/docs/analytics/components/metrics/visits.html) och [Unika besökare](https://experienceleague.adobe.com/docs/analytics/components/metrics/unique-visitors.html).
+Mer information finns i dokumentationen [Sidvyer](https://experienceleague.adobe.com/docs/analytics/components/metrics/page-views.html), [Besök](https://experienceleague.adobe.com/docs/analytics/components/metrics/visits.html)och [Unika besökare](https://experienceleague.adobe.com/docs/analytics/components/metrics/unique-visitors.html).

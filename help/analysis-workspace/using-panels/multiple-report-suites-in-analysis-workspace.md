@@ -19,14 +19,14 @@ ht-degree: 25%
 
 # Flera [!UICONTROL Report Suites] i Analysis Workspace
 
-Flera [!UICONTROL report suites] kan analyseras i ett enskilt [!DNL Workspace]-projekt genom att välja [!UICONTROL report suites] på panelnivå. Det gör att du kan utföra panelanalyser sida vid sida för olika datauppsättningar.
+Flera [!UICONTROL report suites] kan analyseras i en enda [!DNL Workspace] projekt genom att välja [!UICONTROL report suites] på panelnivå. Det gör att du kan utföra panelanalyser sida vid sida för olika datauppsättningar.
 
 >[!VIDEO](https://video.tv.adobe.com/v/32843/?quality=12)
 
 >[!TIP]
 >
-> Om du vill använda en [!UICONTROL report suite] på alla paneler samtidigt högerklickar du på en panel och väljer [!UICONTROL Apply report suite to all panels].
+> Använda en [!UICONTROL report suite] till alla paneler samtidigt högerklickar du på en panel och väljer &quot;[!UICONTROL Apply report suite to all panels]&quot;.
 
-Data från flera [!UICONTROL report suites] kan inte kombineras i tabeller, [!UICONTROL segments] eller [!UICONTROL calculated metrics] (summerade, delade osv.). Den bästa metoden för en helhetssyn på data fortsätter att vara att skicka alla träffar till en&quot;global svit&quot;.
+Data från flera [!UICONTROL report suites] kan inte kombineras i tabeller, [!UICONTROL segments] eller [!UICONTROL calculated metrics] (summerat, delat osv.) Den bästa metoden för en helhetssyn på data fortsätter att vara att skicka alla träffar till en&quot;global svit&quot;.
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/multiple-report-suites.html).
+Mer information finns på [dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/multiple-report-suites.html).

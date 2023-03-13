@@ -1,7 +1,7 @@
 ---
 title: Hantera och spåra appdata för röstassistenten
-description: 'Lär dig hur du bygger en anpassad kontrollpanel för att hantera och spåra prestanda i din röstassistentapp på ett enkelt, flexibelt, intuitivt och visuellt sätt. '
-feature: Visualiseringar
+description: Lär dig hur du bygger en anpassad kontrollpanel för att hantera och spåra prestanda i din röstassistentapp på ett enkelt, flexibelt, intuitivt och visuellt sätt.
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
@@ -12,8 +12,8 @@ level: Intermediate
 exl-id: 3fd55eac-e485-41b9-9178-c7add90fa292
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '71'
-ht-degree: 1%
+source-wordcount: '70'
+ht-degree: 0%
 
 ---
 

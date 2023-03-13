@@ -19,6 +19,6 @@ ht-degree: 0%
 
 # [!DNL Adobe Summit] 2019 Super Session - Retail
 
-Se kuraterade klipp från butikens supersession på [!DNL Summit] 2019
+Se kuraterade klipp från butikens &quot;supersession&quot; på [!DNL Summit] 2019
 
 >[!VIDEO](https://video.tv.adobe.com/v/30549/?quality=12)

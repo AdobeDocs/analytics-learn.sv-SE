@@ -12,14 +12,14 @@ level: Intermediate
 exl-id: ca1d8ca8-a854-4d02-8017-4e3e3587ab9e
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '123'
 ht-degree: 0%
 
 ---
 
 # Starta ett nytt besök på en händelse i [!UICONTROL Virtual Report Suites] {#start-a-new-visit-on-any-event-in-virtual-report-suites}
 
-I den här videon visas hur du använder händelser för att utlösa början av ett nytt besök i Adobe Analytics med en [!UICONTROL Virtual Report Suite]-besöksinställning.
+I den här videon visas hur du använder händelser för att starta ett nytt besök i Adobe Analytics med hjälp av en [!UICONTROL Virtual Report Suite]Besöksinställningar.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23129/?quality=12)
 

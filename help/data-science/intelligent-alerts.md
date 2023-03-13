@@ -19,8 +19,8 @@ ht-degree: 0%
 
 # Intelligenta aviseringar i Adobe Analytics {#intelligent-alerts-in-adobe-analytics}
 
-[!DNL Intelligent Alerts] direkt i  [!UICONTROL Anomaly Detection] inkorgen eller i telefonen. Att vara direkt medveten om viktiga förändringar i nyckeltal och segment innebär inga missade möjligheter.
+[!DNL Intelligent Alerts] ger dig kraften i [!UICONTROL Anomaly Detection] direkt i inkorgen eller på telefonen. Att vara direkt medveten om viktiga förändringar i nyckeltal och segment innebär inga missade möjligheter.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25446/?quality=12)
 
-Mer information om den här funktionen finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/intelligent-alerts/intellligent-alerts.html?lang=en).
+Mer information om den här funktionen finns på [dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/intelligent-alerts/intellligent-alerts.html?lang=en).

@@ -7,9 +7,9 @@ thumbnail: 25400.jpg
 role: User
 level: Beginner
 exl-id: 2f305779-9a19-4603-8be7-3a5e3bf634ab
-source-git-commit: da55943c5e956f7b03952babf8cdaf50d6239133
+source-git-commit: f59fdf873fc6aaee8aaa5bd244a31de931034c44
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '106'
 ht-degree: 0%
 
 ---
@@ -20,10 +20,8 @@ I den här videon förklaras hur du [!UICONTROL segment] i Adobe Analytics så a
 
 >[!VIDEO](https://video.tv.adobe.com/v/25400/?quality=12)
 
-## Relaterade videoklipp
-
-[Sekventiell segmentering i Adobe Analytics](sequential-segmentation.md)
-
-## Ytterligare information
-
 Mer information finns på [dokumentation](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-sequential-build.html?lang=en).
+
+>[!INFO]
+>
+> Den här videon är en del av en kurs [Filtrera data med anpassad segmentering och datum](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata), kan köpas kostnadsfritt på Experience League!

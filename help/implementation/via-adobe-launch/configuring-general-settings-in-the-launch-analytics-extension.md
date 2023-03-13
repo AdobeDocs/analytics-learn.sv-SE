@@ -1,6 +1,6 @@
 ---
 title: Konfigurera allmänna inställningar i Launch Analytics-tillägget
-description: Om du precis har börjat med Launch, från Adobe och Adobe Analytics-tillägget, kan den här videon hjälpa dig med den allmänna inställningsdelen av konfigurationen, inklusive att ställa in spårningsservern.
+description: Om du precis har börjat med Launch, från Adobe och Adobe Analytics kan den här videon hjälpa dig med den allmänna inställningsdelen av konfigurationen, inklusive att ställa in spårningsservern.
 feature: Launch Implementation
 topics: null
 activity: implement
@@ -17,9 +17,9 @@ ht-degree: 2%
 
 ---
 
-# Konfigurera [!UICONTROL General]-inställningar i [!DNL Launch Analytics] [!UICONTROL Extension] {#configuring-general-settings-in-the-launch-analytics-extension}
+# Konfigurerar [!UICONTROL General] Inställningar i [!DNL Launch Analytics] [!UICONTROL Extension] {#configuring-general-settings-in-the-launch-analytics-extension}
 
-Om du precis har börjat med Experience Platform Launch och Adobe Analytics [!UICONTROL Extension] kan den här videon hjälpa dig med inställningsdelen för [!UICONTROL General] i konfigurationen, inklusive att ställa in spårningsservern.
+Om du just har börjat med Experience Platform Launch, och Adobe Analytics [!UICONTROL Extension]kan den här videon hjälpa dig med [!UICONTROL General] inställningsdelen av konfigurationen, inklusive inställning av spårningsservern.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27093/?quality=9)
 

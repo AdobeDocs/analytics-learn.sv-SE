@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # Anpassad länkspårning utan tagghanterare {#custom-link-tracking-without-a-tag-manager}
 
-För många åtgärder på sidan ska spårning inte behandlas som en sidvy. I den här videon får du lära dig att koda en länkspårningsfyr till Analytics, om du inte använder en tagghanterare (som Adobe [!DNL Experience Platform Launch]). Se koden och lär dig ett viktigt tips.
+För många åtgärder på sidan ska spårning inte behandlas som en sidvy. I den här videon får du lära dig att koda en länkspårningsfyr till Analytics, om du inte använder en tagghanterare (som Adobe) [!DNL Experience Platform Launch]). Se koden och lär dig ett viktigt tips.
 
 ## Skicka en s.tl()-fyr {#sending-an-s-tl-beacon}
 
@@ -30,7 +30,7 @@ Det finns två funktioner som skickar data till Adobe Analytics:
 
 >[!NOTE]
 >
->I den här videon visar vi hur du kodar en anpassad länkträff när du INTE använder en tagghanterare som Adobe [!DNL Experience Platform Launch]. Vi rekommenderar att du använder [!DNL Experience Platform Launch], vår metodrekommendation för implementering. Om du behöver koda i en `s.tl()` gör du så här.
+>I den här videon visar vi hur du kodar en anpassad länkträff när du INTE använder en tagghanterare som Adobe [!DNL Experience Platform Launch]. Vi rekommenderar att du använder [!DNL Experience Platform Launch], vår bästa praxis-rekommendation för implementering. Om du behöver koda i en `s.tl()`så här gör du.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25832/?quality=12)
 

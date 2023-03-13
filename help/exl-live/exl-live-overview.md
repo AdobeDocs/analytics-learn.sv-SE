@@ -6,13 +6,13 @@ role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 hide: true
 hidefromtoc: true
-source-git-commit: dcfa04814012434a3f017cd0f06c8707b4d4cf2c
+exl-id: 3c8c6737-3c42-4c87-8850-996798ccfda6
+source-git-commit: dd65de735e01c6c5654f98dbc44b13b64ae1de0c
 workflow-type: tm+mt
 source-wordcount: '201'
-ht-degree: 1%
+ht-degree: 4%
 
 ---
-
 
 # Experience League LIVE
 
@@ -30,7 +30,7 @@ Experience League LIVE är ett direktuppspelningsprogram som producerats av Expe
   <td>
       <img alt="Innehållstjänster" src="./assets/journeys.png" />
      <div>
-          <strong>Kundresor</strong>
+          <strong>Customer Journeys</strong>
      </div>
      <div>
           <em>September 2021</em>
@@ -42,7 +42,7 @@ Experience League LIVE är ett direktuppspelningsprogram som producerats av Expe
   <td>
       <img alt="Innehållstjänster" src="./assets/content.png" />
      <div>
-          <strong>Innehåll och handel</strong>
+          <strong>Content and Commerce</strong>
      <div>
           <em>Oktober 2021</em>
      </div>
@@ -79,7 +79,7 @@ Missade du ett avsnitt av Experience League LIVE? Vi förlåter dig. Ta en titt 
       <img height="225" width="400" alt="Experience League LIVE" src="assets/exl-live-after2.jpg" />
     </a>
      <div>
-          <strong>Gäster</strong> :  <i>Eric Matisoff och Dasha Fitzpatrick</i>
+          <strong>Gäster</strong> : <i>Eric Matisoff och Dasha Fitzpatrick</i>
      </div>
      <div>
           <em>29 juli 2021</em>
@@ -93,4 +93,4 @@ Missade du ett avsnitt av Experience League LIVE? Vi förlåter dig. Ta en titt 
 
 >[!TIP]
 >
->Fler inlärningsmetoder finns i våra kostnadsfria [kurser](https://experienceleague.adobe.com/#dashboard/learning) och i de enskilda [självstudiekurserna](https://experienceleague.adobe.com/docs/home-tutorials.html).
+>Om du vill ha fler inlärningsmetoder kan du titta på vår kostnadsfria [kurser](https://experienceleague.adobe.com/#dashboard/learning) såväl som individ [självstudiekurser](https://experienceleague.adobe.com/docs/home-tutorials.html).

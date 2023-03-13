@@ -16,10 +16,10 @@ ht-degree: 7%
 
 # [!DNL Adobe Labs] (Förhandstitt på teknik) med Adobe Analytics
 
-[!DNL Adobe Labs] (Förhandstitt på teknik) gör det möjligt för er att interagera med ny teknik, upptäcka värdefulla insikter och påverka framtida  [!DNL Analytics] funktionsutveckling och prioriteringar.
+[!DNL Adobe Labs] (Förhandstitt på teknik) gör det möjligt för er att engagera er med ny teknik, att upptäcka värdefulla insikter och att påverka framtiden [!DNL Analytics] funktionsutveckling och -prioriteringar.
 
 >[!VIDEO](https://video.tv.adobe.com/v/32841/?quality=12)
 
-När du använder en [!DNL Labs]-prototyp kan du utvärdera funktionen i kontexten för dina egna användningsfall och data.
+När en [!DNL Labs] kan du utvärdera funktionen i samband med dina egna affärsanvändningsfall och data.
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/tech-previews/overview.html).
+Mer information finns på [dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/tech-previews/overview.html).

@@ -7,13 +7,13 @@ level: Beginner
 doc-type: feature video
 thumbnail: 338293.jpg
 kt: 9293
-source-git-commit: 74f9fce66df5b5b9cf9f05feed1b992aa6b7a114
+exl-id: a49b4bf3-a28e-4125-a8f9-d46f5531affa
+source-git-commit: f59fdf873fc6aaee8aaa5bd244a31de931034c44
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '140'
 ht-degree: 0%
 
 ---
-
 
 # Använda återanvändbara datumintervall i ditt projekt
 
@@ -22,3 +22,7 @@ Om du använder anpassade datum- och datumintervall i din produkt kan du få hj�
 >[!VIDEO](https://video.tv.adobe.com/v/338293/?quality=12&learn=on)
 
 Mer information finns på [dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/calendar.html?lang=en).
+
+>[!INFO]
+>
+> Den här videon är en del av en kurs [Filtrera data med anpassad segmentering och datum](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata), kan köpas kostnadsfritt på Experience League!

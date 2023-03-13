@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ---
 
-# Kontextmedvetna sessioner i [!UICONTROL Virtual Report Suites] {#context-aware-sessions-in-virtual-report-suites}
+# Sammanhangsberoende sessioner i [!UICONTROL Virtual Report Suites] {#context-aware-sessions-in-virtual-report-suites}
 
 >[!VIDEO](https://video.tv.adobe.com/v/23545/?quality=12)
 
@@ -27,4 +27,4 @@ Avsnitt i den här videon:
 
 2:45 - Använda VRS i Analysis Workspace
 
-Mer information om den här funktionen finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-mobile-visit-processing.html?lang=en).
+Mer information om den här funktionen finns på [dokumentationen](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-mobile-visit-processing.html?lang=en).

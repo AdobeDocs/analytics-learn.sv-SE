@@ -19,8 +19,8 @@ ht-degree: 0%
 
 # [!UICONTROL Virtual Report Suites] i Adobe Analytics {#virtual-report-suites-in-adobe-analytics}
 
-Med Adobe Analytics kan du skapa &quot;[!UICONTROL Virtual Report Suites]&quot; för dina användare, vilket segmenterar dina data och begränsar användare/grupper till endast tillåtna datasegment. I den här videon visas hur du skapar och arbetar med [!UICONTROL Virtual Report Suites].
+Med Adobe Analytics kan du skapa[!UICONTROL Virtual Report Suites]&quot; för era användare, som segmenterar era data och begränsar användare/grupper till endast de tillåtna datasegmenten. I den här videon visas hur du skapar och arbetar med [!UICONTROL Virtual Report Suites].
 
 >[!VIDEO](https://video.tv.adobe.com/v/25412/?quality=12)
 
-Mer information om den här funktionen finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-about.html?lang=en).
+Mer information om den här funktionen finns på [dokumentation](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-about.html?lang=en).

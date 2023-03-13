@@ -1,7 +1,7 @@
 ---
 title: Uppdatera AppMeasurement när Experience Platform Launch inte används
 description: I den här videon visas hur du uppdaterar din appMeasurement-kod när du inte använder Experience Platform Launch. Detta inkluderar var koden ska hämtas och var den ska uppdateras.
-feature: Implementering av mätning
+feature: Appmeasurement Implementation
 topics: null
 activity: implement
 doc-type: technical video
@@ -12,12 +12,12 @@ level: Intermediate
 exl-id: 27a8ce2f-afea-4505-9525-49720432f40f
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '140'
+source-wordcount: '138'
 ht-degree: 0%
 
 ---
 
-# Uppdaterar AppMeasurement när inte [!DNL Experience Platform Launch] används {#updating-appmeasurement-when-not-using-adobe-launch}
+# Uppdaterar AppMeasurement när inte använder [!DNL Experience Platform Launch] {#updating-appmeasurement-when-not-using-adobe-launch}
 
 I den här videon visas hur du uppdaterar din appMeasurement-kod när du inte använder Adobe [!DNL Experience Platform Launch]. Detta inkluderar var koden ska hämtas och var den ska uppdateras.
 
@@ -25,4 +25,4 @@ I den här videon visas hur du uppdaterar din appMeasurement-kod när du inte an
 
 >[!NOTE]
 >
->Om du använder en tagghanteringslösning som inte är Adobe måste du behandla [!DNL AppMeasurement]-uppdateringar som om du inte använde någon tagghanteringslösning. Det innebär, var än du har din AppMeasurement-kod, att det är där du utför uppdateringen (hämta den nya koden och ersätt den gamla koden i filen eller i TMS). Om du använder [!DNL Experience Platform Launch] går det snabbt och enkelt att uppdatera och ingen kod behöver kopieras eller klistras in.
+>Om du använder en tagghanteringslösning som inte är Adobe måste du behandla den [!DNL AppMeasurement] uppdateras som om du inte använde någon tagghanteringslösning. Det innebär, var än du har din AppMeasurement-kod, att det är där du utför uppdateringen (hämta den nya koden och ersätt den gamla koden i filen eller i TMS). Om du använder [!DNL Experience Platform Launch], uppdateringarna är snabba och enkla och ingen kod behöver kopieras eller klistras in.

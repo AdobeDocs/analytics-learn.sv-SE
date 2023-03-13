@@ -19,6 +19,6 @@ ht-degree: 0%
 
 # [!DNL Adobe Summit] 2019 Super Session - High Tech
 
-Se kuraterade klipp från den högteknologiska supersessionen [!DNL Summit] 2019
+Se kuraterade klipp från den högteknologiska supersessionen på [!DNL Summit] 2019
 
 >[!VIDEO](https://video.tv.adobe.com/v/30548/?quality=12)

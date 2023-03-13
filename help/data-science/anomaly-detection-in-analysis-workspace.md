@@ -19,8 +19,8 @@ ht-degree: 0%
 
 # [!UICONTROL Anomaly Detection] i Analysis Workspace {#anomaly-detection-in-analysis-workspace}
 
-Analysis Workspace identifierar automatiskt avvikelser i dina data för alla tidsserier [!UICONTROL visualization] eller datatabeller. Fånga upp de &quot;okända&quot; okända&quot; utan att du behöver göra något mer!
+Analysis Workspace identifierar automatiskt avvikelser i era data för alla tidsserier [!UICONTROL visualization] eller datatabell. Fånga upp de &quot;okända&quot; okända&quot; utan att du behöver göra något mer!
 
 >[!VIDEO](https://video.tv.adobe.com/v/25444/?quality=12)
 
-Mer information om den här funktionen finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/anomaly-detection/anomaly-detection.html?lang=en).
+Mer information om den här funktionen finns på [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/anomaly-detection/anomaly-detection.html?lang=en).

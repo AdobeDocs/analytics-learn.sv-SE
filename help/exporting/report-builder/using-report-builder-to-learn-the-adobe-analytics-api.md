@@ -12,27 +12,27 @@ level: Intermediate
 exl-id: 8b8e0dac-2498-4fba-ba4b-585b309ae1fd
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '260'
+source-wordcount: '258'
 ht-degree: 0%
 
 ---
 
-# Lär dig Adobe Analytics API med [!UICONTROL Report Builder] {#using-report-builder-to-learn-the-adobe-analytics-api}
+# Använda [!UICONTROL Report Builder] för att lära dig Adobe Analytics API {#using-report-builder-to-learn-the-adobe-analytics-api}
 
-[!UICONTROL Report Builder] är något vi alla känner till och älskar. Och om jag sa att du skulle kunna använda det du vet om [!UICONTROL Report Builder] för att förbättra din Adobe Analytics-kompetens ännu mer? I den här videon går vi igenom hur du tar felsökningsbegäranden från [!UICONTROL Report Builder] och använder dem för att lära oss hur du skapar egna [!DNL Analytics] API-frågor.
+[!UICONTROL Report Builder] är något vi alla känner till och älskar. Om jag sa att du kan använda det du vet om [!UICONTROL Report Builder] för att höja din Adobe Analytics-kompetens ytterligare? I den här videon går vi igenom hur man felsöker [!UICONTROL Report Builder] begär och använder dem för att lära sig skapa egna [!DNL Analytics] API-frågor.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25442/?quality=12)
 
-**UPPDATERA**:  [!UICONTROL Report Builder] har uppdaterat hur data efterfrågas något. Du kan fortfarande använda metoden från den här videon, men informationen kommer att vara något annorlunda i en felsökare.
+**UPPDATERA**: [!UICONTROL Report Builder] har uppdaterat hur data efterfrågas något. Du kan fortfarande använda metoden från den här videon, men informationen kommer att vara något annorlunda i en felsökare.
 
 I en felsökare:
 
 1 - Sök efter api5.omniture.com. Antalet kan variera mellan 1 och 5 beroende på ditt datacenter.
 
-2 - Gå till fliken [!UICONTROL Request]
+2 - Gå till [!UICONTROL Request] tab
 
-3 - Sök efter [!DNL Report.Queue] i begäran.
+3 - Sök efter &#39;[!DNL Report.Queue]i begäran.
 
-Det finns också en alternativ metod för att felsöka förfrågningar som den här, och den fungerar lika bra. Du kan aktivera [!UICONTROL Report Builder]-loggning från [!UICONTROL Options]-menyn och då registreras samma information som en felsökare gör. Loggar finns under [!UICONTROL Documents] > [!UICONTROL ReportBuilderLogs] och kommer att ordnas per dag. Du kan söka efter &#39;Report.Queue&#39; i filen för att hitta dina förfrågningar. Loggarna kan även hjälpa till med felsökning av eventuella problem.
+Det finns också en alternativ metod för att felsöka förfrågningar som den här, och den fungerar lika bra. Du kan aktivera [!UICONTROL Report Builder] logga från [!UICONTROL Options] -menyn och som spelar in samma information som en felsökare gör. Loggar finns under [!UICONTROL Documents] > [!UICONTROL ReportBuilderLogs]och kommer att ordnas per dag. Du kan söka efter &#39;Report.Queue&#39; i filen för att hitta dina förfrågningar. Loggarna kan även hjälpa till med felsökning av eventuella problem.
 
-Mer information om den här funktionen finns i [dokumentationen](https://www.adobe.io/).
+Mer information om den här funktionen finns på [dokumentation](https://www.adobe.io/).

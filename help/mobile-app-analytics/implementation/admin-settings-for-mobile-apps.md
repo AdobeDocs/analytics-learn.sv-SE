@@ -20,8 +20,8 @@ ht-degree: 0%
 
 # Administratörsinställningar för mobilappar {#admin-settings-for-mobile-apps}
 
-Lär dig hur du konfigurerar rapporter för mobilappar i Adobe Analytics, inklusive [!UICONTROL Lifecycle]-komponenter, [!UICONTROL Location Tracking]- och [!UICONTROL Background Hit]-rapporter.
+Lär dig hur du konfigurerar rapporter för mobilappar i Adobe Analytics, inklusive [!UICONTROL Lifecycle] komponenter, [!UICONTROL Location Tracking]och [!UICONTROL Background Hit] rapportering.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25961/?quality=12)
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/mobile-services/using/get-started-ug/gs.html?lang=en).
+Mer information finns i [dokumentation](https://experienceleague.adobe.com/docs/mobile-services/using/get-started-ug/gs.html?lang=en).

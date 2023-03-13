@@ -1,7 +1,7 @@
 ---
 title: Adobe Analytics - Det är mer än data. Det är kundanalys
 description: Datadriven marknadsföring är avgörande för att bli ett upplevelseföretag. Lyft era analysmöjligheter till en ny nivå - från data till insikter till handling.
-feature: Grundläggande om analyser
+feature: Analytics Basics
 topics: null
 activity: understand
 doc-type: value video
@@ -12,7 +12,7 @@ level: Beginner
 exl-id: 9aeb8371-3fac-41db-bea3-35c7ca3deeef
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '84'
+source-wordcount: '82'
 ht-degree: 0%
 
 ---

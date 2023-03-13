@@ -1,7 +1,7 @@
 ---
 title: Förstå skillnader mellan röstaktiverade enheter
 description: Lär dig förstå olika prestanda och funktioner för olika röststyrda enheter för att hjälpa dig att prioritera produktutvecklingsplaner.
-feature: Visualiseringar
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
@@ -12,8 +12,8 @@ level: Intermediate
 exl-id: 73cb28d8-1078-4d70-a4ce-76427c550fc3
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '47'
-ht-degree: 2%
+source-wordcount: '46'
+ht-degree: 0%
 
 ---
 

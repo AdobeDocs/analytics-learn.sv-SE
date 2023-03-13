@@ -17,9 +17,9 @@ ht-degree: 0%
 
 ---
 
-# Rullande [!UICONTROL Date Ranges] i [!UICONTROL Segments] {#rolling-date-ranges-in-segments}
+# Rullande [!UICONTROL Date Ranges] in [!UICONTROL Segments] {#rolling-date-ranges-in-segments}
 
-Med Adobe Analytics kan ni svara på frågor som&quot;Vad var mitt 60-dagars rullande genomsnitt för Intäkter?&quot; eller&quot;Hur många besökare visade innehåll i min app mer än fem gånger under den senaste veckan?&quot; genom att inkludera rullande [!UICONTROL date ranges] i [!UICONTROL segments]. Den här videon visar hur du gör det.
+Med Adobe Analytics kan ni svara på frågor som&quot;Vad var mitt 60-dagars rullande genomsnitt för Intäkter?&quot; eller&quot;Hur många besökare visade innehåll i min app mer än fem gånger under den senaste veckan?&quot; genom att inkludera rullande [!UICONTROL date ranges] in [!UICONTROL segments]. Den här videon visar hur du gör det.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25403/?quality=12)
 

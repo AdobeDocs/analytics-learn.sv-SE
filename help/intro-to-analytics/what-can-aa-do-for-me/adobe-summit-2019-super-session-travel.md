@@ -19,6 +19,6 @@ ht-degree: 0%
 
 # [!DNL Adobe Summit] Supersession 2019 - Resor och turism
 
-Se kuraterade klipp från en supersession för resa och turism på [!DNL Summit] 2019
+Se kursiverade klipp från en supersession för rese- och turismbranschen på [!DNL Summit] 2019
 
 >[!VIDEO](https://video.tv.adobe.com/v/31442/?quality=12)

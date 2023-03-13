@@ -1,7 +1,7 @@
 ---
 title: Kundexempel - Accent Group Invests in Customer Experience to Drive Sales
 description: Accent Group, Australiens största skovaruåterförsäljare, ökar sin försäljning och sina konverteringar genom att leverera enastående kundupplevelser över fysiska och digitala kontaktytor. Se hur Accent Group använder Adobe Experience Cloud för att skapa sömlösa digitala upplevelser.
-feature: Användningsexempel
+feature: Use Cases
 topics: null
 activity: understand
 doc-type: value video
@@ -12,7 +12,7 @@ level: Beginner
 exl-id: 86298461-5ced-4ef3-a820-4be0275fd7fe
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: '94'
 ht-degree: 0%
 
 ---

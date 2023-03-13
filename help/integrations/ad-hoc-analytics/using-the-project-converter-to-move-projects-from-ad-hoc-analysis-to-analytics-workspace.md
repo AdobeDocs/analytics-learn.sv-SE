@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Använda projektkonverteraren för att flytta projekt från [!DNL Ad Hoc Analysis] till [!UICONTROL Analysis Workspace] {#using-the-project-converter-to-move-projects-from-ad-hoc-analysis-to-analytics-workspace}
 
-Med [!UICONTROL Ad Hoc Analysis] Project Converter kan du sömlöst konvertera [!UICONTROL Ad Hoc Analysis]-projekt till [!UICONTROL Analysis Workspace]-projekt med en enkel musklickning.
+The [!UICONTROL Ad Hoc Analysis] Project Converter konverterar smidigt [!UICONTROL Ad Hoc Analysis] (AHA) projekt till [!UICONTROL Analysis Workspace] projekt med en enkel musklickning.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23118/?quality=12)
 

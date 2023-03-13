@@ -25,4 +25,4 @@ Med panelen [!DNL Analytics for Target] (A4T) kan du analysera dina Adobe Target
 
 >[!VIDEO](https://video.tv.adobe.com/v/37247/?quality=12&learn=on)
 
-Läs mer i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/a4t-panel.html).
+Läs mer i [dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/a4t-panel.html).

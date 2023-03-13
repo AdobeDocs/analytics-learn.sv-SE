@@ -20,8 +20,8 @@ ht-degree: 0%
 
 # Loggspårning för användning för Analysis Workspace
 
-Under [!UICONTROL Admin] - [!UICONTROL Logs] - [!UICONTROL Usage & Access] kan du bättre förstå hur dina användare använder Adobe Analytics. Den här videon fokuserar specifikt på att mäta [!DNL Workspace] projektanvändning. Obs! Sedan den här videon släpptes publicerades ett produkttips om hur man gör en stabil användningsanalys i Analysis Workspace på adobe.ly/aausage.
+Under [!UICONTROL Admin] - [!UICONTROL Logs] - [!UICONTROL Usage & Access]kan du bättre förstå hur dina användare använder Adobe Analytics. Den här videon fokuserar specifikt på mätning [!DNL Workspace] projektanvändning. Obs! Sedan den här videon släpptes publicerades ett produkttips om hur man gör en stabil användningsanalys i Analysis Workspace på adobe.ly/aausage.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29768/?quality=12)
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/logs.html?lang=en).
+Mer information finns på [dokumentation](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/logs.html?lang=en).

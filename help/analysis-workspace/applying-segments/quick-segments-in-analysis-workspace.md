@@ -7,13 +7,13 @@ level: Beginner
 doc-type: feature video
 thumbnail: 341466.jpg
 kt: 10029
-source-git-commit: 5c211a205283d7238e2083a1d07e2b8bd424ddfc
+exl-id: 9ee37819-f3b2-4436-ac41-b68b23a807f2
+source-git-commit: b1a5cd54acde9d75e591675a1fbd33cd123a3a29
 workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 0%
 
 ---
-
 
 # Snabbsegment i Analysis Workspace
 

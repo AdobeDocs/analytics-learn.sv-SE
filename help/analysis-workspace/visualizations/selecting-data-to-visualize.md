@@ -1,7 +1,7 @@
 ---
 title: Välja data som ska visualiseras i Analysis Workspace
 description: Lär dig hur du exakt styr vad som ska visas när du använder Freeform Analysis
-feature: Visualiseringar
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
@@ -12,8 +12,8 @@ level: Beginner
 exl-id: b5721a9b-ecdc-4498-8bb9-222ace0dc6dc
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '39'
-ht-degree: 2%
+source-wordcount: '38'
+ht-degree: 0%
 
 ---
 

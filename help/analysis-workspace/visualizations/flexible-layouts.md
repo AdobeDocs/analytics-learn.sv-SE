@@ -1,7 +1,7 @@
 ---
 title: Flexibla layouter i Analysis Workspace
 description: Frihandsanalys innefattar möjlighet att ändra plats, bredd och höjd för diagram och tabeller så att du kan skapa ett mer omfattande projekt. I den här videon visas hur du kan ändra din layout.
-feature: Visualiseringar
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
@@ -12,8 +12,8 @@ level: Beginner
 exl-id: 44e8cded-3ef8-4c55-811d-28f4e9415032
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '74'
-ht-degree: 1%
+source-wordcount: '73'
+ht-degree: 0%
 
 ---
 

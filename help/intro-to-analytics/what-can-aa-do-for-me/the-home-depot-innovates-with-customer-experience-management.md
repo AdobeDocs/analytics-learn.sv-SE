@@ -1,7 +1,7 @@
 ---
 title: Kundexempel - Home Depot nyskapar med Customer Experience Management
 description: HomeDepot.com, en e-handelsplats på 7 miljarder dollar inom ett företag på 100 miljarder dollar, ligger steget före konkurrenterna genom att säkerställa att kundupplevelsen är rätt. Läs om hur Home Depot använder Adobe lösningar för att skapa varumärkeslojalitet och kundnöjdhet med en personaliserad, anpassad shoppingupplevelse.
-feature: Användningsexempel
+feature: Use Cases
 topics: null
 activity: understand
 doc-type: value video
@@ -12,13 +12,13 @@ level: Beginner
 exl-id: 97221e6f-24c6-4d03-a0b9-69e1944bb775
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '100'
+source-wordcount: '98'
 ht-degree: 0%
 
 ---
 
 # Kundexempel: [!DNL The Home Depot] Nyskapande med Customer Experience Management
 
-[!DNL HomeDepot.com], en e-handelsplats på 7 miljarder dollar inom ett företag på 100 miljarder dollar, ligger steget före konkurrenterna genom att säkerställa att kundupplevelsen är rätt. Läs om hur [!DNL Home Depot] använder Adobe-lösningar för att skapa varumärkeslojalitet och kundnöjdhet med en personaliserad, anpassad shoppingupplevelse.
+[!DNL HomeDepot.com], en e-handelsplats på 7 miljarder dollar inom ett företag på 100 miljarder dollar, ligger steget före konkurrenterna genom att säkerställa att kundupplevelsen är rätt. Lär dig mer [!DNL Home Depot] använder Adobe lösningar för att skapa varumärkeslojalitet och kundnöjdhet med en personaliserad, anpassad shoppingupplevelse.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31506/?quality=12)
