@@ -1,6 +1,7 @@
 ---
 title: Förbättringar i Experience Cloud Audience Publishing
 landing-page-description: Lär dig publicera målgrupper (segment) och gör dem tillgängliga snabbare än någonsin.
+short-description: Learn publish audiences (segments) and make them available faster than ever.
 description: Experience Cloud Audience Publishing har förbättrats. Nu kan du publicera målgrupper (segment) och göra dem tillgängliga sex gånger snabbare, vilket minskar den aktuella latenstiden från 48 timmar till ungefär 8 timmar, och eventuellt snabbare, beroende på trafik och segmentstorlek.
 feature: Experience Cloud Integration
 topics: null
@@ -12,10 +13,10 @@ topic: Integrations
 role: User
 level: Intermediate
 exl-id: c23ebad6-2967-4739-b381-1f3c6415f8c7
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
+source-git-commit: 3b037de31160f7741cc10429ea4e97864f2863a8
 workflow-type: tm+mt
-source-wordcount: '158'
-ht-degree: 44%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
