@@ -7,7 +7,7 @@ kt: 1707
 role: User
 level: Intermediate
 exl-id: 948fcfc7-7a43-43a0-987c-587b0fd56599
-source-git-commit: e021df988079334ecd81b8c320f9e3d9a43da2e4
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 I den här videon får du lära dig hur du använder [!DNL Attribution IQ] [!UICONTROL models] tillsammans med Adobe Analytics-segment på er webbplats.
 
->[!VIDEO](https://video.tv.adobe.com/v/23743/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23743/?quality=12&learn=on)
 
 När du gör analyser på din webbplats kommer du ofta att använda segment för att fokusera på en viss grupp besökare, besök eller träffar. När du gör detta bör du nu lägga till ett steg för att överväga vilken attribueringsmodell som fungerar bäst tillsammans med segmentet, mätvärden och den övergripande rapporten.
 

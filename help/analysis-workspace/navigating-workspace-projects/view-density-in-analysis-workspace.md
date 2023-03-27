@@ -10,7 +10,7 @@ kt: 2492
 role: User
 level: Beginner
 exl-id: 378426ce-fc29-4912-9289-e763b941877a
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
 source-wordcount: '67'
 ht-degree: 0%
@@ -21,4 +21,4 @@ ht-degree: 0%
 
 The [!UICONTROL View Density] ställa in under [!UICONTROL Project] > [!UICONTROL Project Info & Settings] kan du styra den lodräta utfyllnaden som används på den vänstra listen och tabellerna ([!UICONTROL Freeform] &amp; [!UICONTROL Cohort]). Du kan välja mellan Utökat (standard), Komplext eller Kompakt.
 
->[!VIDEO](https://video.tv.adobe.com/v/25963/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25963/?quality=12&learn=on)

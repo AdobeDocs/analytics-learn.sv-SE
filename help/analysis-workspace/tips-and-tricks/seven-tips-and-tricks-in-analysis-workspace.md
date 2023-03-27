@@ -10,7 +10,7 @@ kt: 3945
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: af0e66cb-4e74-4ce0-9429-4a461fd54263
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
 source-wordcount: '991'
 ht-degree: 0%
@@ -28,7 +28,7 @@ Analysis Workspace är ett kraftfullt verktyg i Adobe Analytics som kan hjälpa 
 
 Bara dra och släpp [!UICONTROL segment] eller någon annan komponent till [!UICONTROL segment] och du kan snabbt segmentera den panelen till vissa datapunkter. Du kan t.ex. segmentera panelen och bara visa träffar där det finns order genom att släppa [!UICONTROL metric] &quot;beställningar&quot; i [!UICONTROL segment] släppzon. Du kan till och med segmentera efter data som inte finns i en komponent (för att se träffar utan ordning, till exempel) genom att släppa dimensionsobjektet &quot;unspecified&quot; eller &quot;none&quot; i zonen.
 
->[!VIDEO](https://video.tv.adobe.com/v/24036/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/24036/?quality=12&learn=on)
 
 >[!TIP]
 >
@@ -38,7 +38,7 @@ Bara dra och släpp [!UICONTROL segment] eller någon annan komponent till [!UIC
 
 Med snabb [!UICONTROL Calculated Metrics]kan du skapa nya [!UICONTROL metrics] i Analysis Workspace istället för att navigera till [!UICONTROL Calculated Metric] Builder. Välj bara [!UICONTROL metric] kolumner som du vill beräkna och sedan väljer du &quot;[!UICONTROL Create Metric From Selection].&quot; Nu kan du lägga till, subtrahera, dela upp, multiplicera och mycket mer utan att lämna projektet och bryta tankebanan.
 
->[!VIDEO](https://video.tv.adobe.com/v/23126/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23126/?quality=12&learn=on)
 
 >[!TIP]
 >
@@ -50,7 +50,7 @@ Med snabb [!UICONTROL Calculated Metrics]kan du skapa nya [!UICONTROL metrics] i
 
 Kopiera enkelt visualiseringar och paneler från ett ställe och lägg till dem i ett annat, till och med i ett annat projekt. Det innebär att ni enkelt kan flytta data i takt med att projektet växer och dela med er av resultaten till nya användare så att de inte behöver börja en analys från grunden. Högerklicka bara på den panel eller visualisering som du vill kopiera och välj &quot;[!UICONTROL Copy Visualization]och högerklicka på en tom panel för att infoga den.
 
->[!VIDEO](https://video.tv.adobe.com/v/23230/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23230/?quality=12&learn=on)
 
 >[!TIP]
 >
@@ -60,7 +60,7 @@ Kopiera enkelt visualiseringar och paneler från ett ställe och lägg till dem 
 
 Ändra enkelt tidsvyn när du arbetar med trendade visualiseringar. I tidigare versioner av Analysis Workspace innebar en ändring av tiden att en källtabell togs bort och att en ny [!UICONTROL dimension]och sedan dölja tabellen igen. Nu är det lika enkelt som att välja den tidshöjande detaljrikedom du vill visa direkt i[!UICONTROL Visualizations Settings]&quot; (övre högra kugghjulet).
 
->[!VIDEO](https://video.tv.adobe.com/v/23548/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23548/?quality=12&learn=on)
 
 ## Dela: Göra det enkelt för andra att använda och förstå sina resultat
 
@@ -68,7 +68,7 @@ Kopiera enkelt visualiseringar och paneler från ett ställe och lägg till dem 
 
 Adobe Analytics samlar in enorma mängder data. Komponenturval i [!DNL Virtual Report Suites] ger administratörer möjlighet att skapa en datauppsättning för varje affärsenhet i en organisation. Det innebär att analytiker som arbetar i Analysis Workspace inte behöver gå igenom data för att hitta det som betyder mest för dem. Markera rutan &quot;[!UICONTROL Enable Customization of Virtual Report Suite Components]&quot; i [!UICONTROL Virtual Report Suites] builder under [!UICONTROL “Components],&quot; och sedan väljer du [!UICONTROL components] som matchar vad ett specifikt team gör.
 
->[!VIDEO](https://video.tv.adobe.com/v/23544/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23544/?quality=12&learn=on)
 
 >[!TIP]
 >
@@ -78,7 +78,7 @@ Adobe Analytics samlar in enorma mängder data. Komponenturval i [!DNL Virtual R
 
 Skapa länkar som tar målgrupper överallt inom Analysis Workspace. Högerklicka bara på panelen som du vill länka till och välj &quot;[!UICONTROL Get Panel Link]och kopiera. Markera sedan den text du vill länka från, markera länkikonen i textredigeraren för en textruta eller beskrivning och klistra in. Om du vill länka till ett helt projekt klickar du bara på[!UICONTROL Share]&quot; väljer du &quot;[!UICONTROL Get Project Link]&quot; och följer samma steg som ovan.
 
->[!VIDEO](https://video.tv.adobe.com/v/23724/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23724/?quality=12&learn=on)
 
 >[!TIP]
 >
@@ -88,7 +88,7 @@ Skapa länkar som tar målgrupper överallt inom Analysis Workspace. Högerklick
 
 Nu kan du enkelt omvandla vilket projekt som helst till en egen mall. Välj bara &quot;[!UICONTROL Save As Template]&quot; från &quot;[!UICONTROL Project]&quot;, lägg till taggar som gör mallen enkel att hitta och klicka på &quot;[!UICONTROL Save Project As Template].&quot; Mallen kommer nu att vara tillgänglig för alla Analysis Workspace-användare under &quot;[!UICONTROL Custom Templates]&quot;. På så sätt kan analytiker påbörja sina projekt med meningsfulla datapunkter i stället för att börja från ruta ett.
 
->[!VIDEO](https://video.tv.adobe.com/v/23231/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23231/?quality=12&learn=on)
 
 >[!TIP]
 >

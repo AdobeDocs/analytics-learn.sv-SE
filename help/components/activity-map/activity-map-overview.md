@@ -7,7 +7,7 @@ kt: 2349
 role: User
 level: Beginner
 exl-id: c1751182-bf6d-441b-9ffa-d9d40de20bb9
-source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 [!UICONTROL Activity Map] är ett verktyg som Adobe Analytics-användare kan använda för att visualisera användaraktivitetsdata direkt på din webbplats. Se antalet klick (eller annat [!UICONTROL metrics]) direkt på sidans länkar.
 
->[!VIDEO](https://video.tv.adobe.com/v/25451/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25451/?quality=12&learn=on)
 
 Mer information om den här funktionen finns på [dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/activity-map/activity-map.html?lang=en).
 

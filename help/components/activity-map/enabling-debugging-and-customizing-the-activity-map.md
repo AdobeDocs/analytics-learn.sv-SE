@@ -8,7 +8,7 @@ kt: 1995
 role: User
 level: Beginner
 exl-id: 4160b974-fbdb-42e7-b77d-e1322db433b3
-source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 Lär dig hur du aktiverar, felsöker och anpassar [!UICONTROL Activity Map] distribueras i Adobe Analytics-tillägget.
 
->[!VIDEO](https://video.tv.adobe.com/v/25878?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25878?quality=12&learn=on)
 
 >[!INFO]
 >

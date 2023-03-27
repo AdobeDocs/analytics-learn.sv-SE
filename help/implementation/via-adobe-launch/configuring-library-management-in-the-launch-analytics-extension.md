@@ -10,7 +10,7 @@ kt: 2836
 role: Developer, Data Engineer
 level: Beginner
 exl-id: be28db8a-0de6-4f9f-ae2e-2337e86740a1
-source-git-commit: ef9ffb37e417621462d1f63c5cd39377dd94c800
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
 source-wordcount: '118'
 ht-degree: 2%
@@ -21,7 +21,7 @@ ht-degree: 2%
 
 Om du just har börjat med Experience Platform Launch, och Adobe Analytics [!UICONTROL Extension]kan den här videon hjälpa dig med [!UICONTROL Library Management], inklusive markera [!UICONTROL report suites] där data ska skickas.
 
->[!VIDEO](https://video.tv.adobe.com/v/27092/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27092/?quality=12&learn=on)
 
 Mer information om aspekter av det här användningsfallet finns i följande dokumentationsavsnitt:
 

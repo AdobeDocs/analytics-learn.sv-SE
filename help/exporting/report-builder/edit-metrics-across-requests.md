@@ -8,7 +8,7 @@ doc-type: feature video
 thumbnail: 23547.jpg
 kt: 1769
 exl-id: f0ce5bc2-ca6f-44d2-a42b-9351ff37a083
-source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
 source-wordcount: '118'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 Nu kan du redigera [!UICONTROL metrics] över flera [!UICONTROL Report Builder] dataförfrågningar samtidigt med alternativ för att lägga till, ersätta och ta bort.
 
->[!VIDEO](https://video.tv.adobe.com/v/23547/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23547/?quality=12&learn=on)
 
 Den här funktionaliteten är utöver de befintliga redigeringsfunktionerna [!UICONTROL report suites], [!UICONTROL date ranges], [!UICONTROL granularity]och [!UICONTROL segments] över alla förfrågningar. Flera begäranden kan redigeras via högerklicksmenyn eller &quot;[!UICONTROL Edit Multiple]&quot; i hanteringsfönstret.
 

@@ -10,7 +10,7 @@ kt: 1904
 role: User
 level: Beginner
 exl-id: f2f1a820-63fe-4c80-8fba-0f9c9687f56d
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 [!UICONTROL Dimensions] finns nu i [!UICONTROL Calculated Metric Builder]. De kan läggas till i alla [!UICONTROL calculated metric] [!UICONTROL formula] för att skapa ett internt segment i farten.
 
->[!VIDEO](https://video.tv.adobe.com/v/23723/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23723/?quality=12&learn=on)
 
 Den här funktionen effektiviserar arbetsflödet för att skapa och använda [!UICONTROL segments] inom [!UICONTROL calculated metrics].
 

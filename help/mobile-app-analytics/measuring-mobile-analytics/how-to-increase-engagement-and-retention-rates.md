@@ -10,7 +10,7 @@ kt: 3054
 role: User
 level: Beginner
 exl-id: 4caefb24-c8a9-468e-9ab4-9422e7dcca69
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 0%
@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Identifiera engagerade målgrupper genom deras beteende med [!UICONTROL Cohorts] och veta vilka bakomliggande orsaker som driver detaljrikedomen i era mobilappar. Använd datavetenskapsalgoritmer i [!UICONTROL Segment IQ] för att ta reda på skillnaderna och likheterna mellan segment.
 
->[!VIDEO](https://video.tv.adobe.com/v/27825/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27825/?quality=12&learn=on)

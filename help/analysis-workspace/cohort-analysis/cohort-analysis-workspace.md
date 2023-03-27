@@ -10,7 +10,7 @@ kt: 2135
 role: User
 level: Intermediate
 exl-id: eec26e68-eed9-47b5-8ebf-26a1f6c28d40
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
 source-wordcount: '49'
 ht-degree: 0%
@@ -21,6 +21,6 @@ ht-degree: 0%
 
 Så här skapar du en [!UICONTROL cohort] analystabell i Analysis Workspace.
 
->[!VIDEO](https://video.tv.adobe.com/v/23990/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23990/?quality=12&learn=on)
 
 Mer information om den här funktionen finns i [dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=en).

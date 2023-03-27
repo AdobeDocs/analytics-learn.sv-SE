@@ -7,7 +7,7 @@ kt: 4846
 role: User
 level: Beginner
 exl-id: d42f74a9-aa77-4f47-a1a2-f14bd6061996
-source-git-commit: f59fdf873fc6aaee8aaa5bd244a31de931034c44
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 [!UICONTROL Dimension] modeller finns tillgängliga via redskapet för [!UICONTROL dimension] i segmentering. Dessa modeller är främst användbara för sekventiell segmentering och gör att du kan segmentera för bestående värden i en [!UICONTROL dimension] (standard), instanser eller icke-upprepade instanser av en [!UICONTROL dimension].
 
->[!VIDEO](https://video.tv.adobe.com/v/32958/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/32958/?quality=12&learn=on)
 
 >[!INFO]
 >

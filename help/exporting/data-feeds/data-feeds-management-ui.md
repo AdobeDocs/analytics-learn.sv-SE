@@ -8,7 +8,7 @@ doc-type: feature video
 thumbnail: 25452.jpg
 kt: 2353
 exl-id: 79599c6d-eb3e-438a-8e24-45b286d54071
-source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 Adobe Analytics [!UICONTROL Data feed] gör att du kan exportera rådata i klickströmsformat för att importera och sammanfoga med andra datakällor i en EDW- eller datasjön. Du kan skapa och hantera egna [!UICONTROL Data Feeds] inom Adobe Analytics. Den här videon visar hur du gör.
 
->[!VIDEO](https://video.tv.adobe.com/v/25452/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25452/?quality=12&learn=on)
 
 Mer information om den här funktionen finns i [dokumentation](https://experienceleague.adobe.com/docs/analytics/export/analytics-data-feed/df-manage-feeds.html?lang=en#).
 

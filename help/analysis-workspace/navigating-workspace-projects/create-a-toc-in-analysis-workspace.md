@@ -10,7 +10,7 @@ kt: 2812
 role: User
 level: Beginner
 exl-id: b2315794-8910-4b7f-920f-7f1c3da29ace
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 0%
@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Lär dig hur du skapar ett projekt för en innehållsförteckning och anger det som användarens landningssida så att de snabbt kan hitta de data och insikter de behöver i Adobe Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/26990/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/26990/?quality=12&learn=on)

@@ -7,7 +7,7 @@ kt: 1771
 role: User
 level: Beginner
 exl-id: ffae778a-63a1-4587-94fe-a2ad16931b3a
-source-git-commit: 8976c66d3e26dcb0988891e5f4d15a1a8e037e47
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
 source-wordcount: '150'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 I den här videon visas hur du använder kartvisualiseringen i Analysis Workspace. Kartvyn gör att du kan visa båda [!UICONTROL mobile lat/long] eller webbdata (IP-adress) mot en dynamisk karta, så att ni kan få en uppfattning om hur kunderna använder dem i sitt sammanhang.
 
->[!VIDEO](https://video.tv.adobe.com/v/23559/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23559/?quality=12&learn=on)
 
 Mer information om denna visualisering finns på [dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/map-visualization.html?lang=en).
 

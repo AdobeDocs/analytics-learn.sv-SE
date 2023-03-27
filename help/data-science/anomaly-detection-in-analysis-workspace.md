@@ -10,7 +10,7 @@ kt: 2336
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 175c91e5-6ae5-4e52-acb5-6c8fc2731bea
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 0%
@@ -21,6 +21,6 @@ ht-degree: 0%
 
 Analysis Workspace identifierar automatiskt avvikelser i era data för alla tidsserier [!UICONTROL visualization] eller datatabell. Fånga upp de &quot;okända&quot; okända&quot; utan att du behöver göra något mer!
 
->[!VIDEO](https://video.tv.adobe.com/v/25444/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25444/?quality=12&learn=on)
 
 Mer information om den här funktionen finns på [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/anomaly-detection/anomaly-detection.html?lang=en).

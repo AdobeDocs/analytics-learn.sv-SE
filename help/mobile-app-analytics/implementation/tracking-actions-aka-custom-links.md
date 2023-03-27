@@ -11,7 +11,7 @@ topic: Mobile
 role: Developer, Data Engineer
 level: Experienced
 exl-id: 541c51b8-638e-43b4-90ac-0ce94290a141
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Åtgärder är händelser som inträffar i din mobilapp. I den här videon får du lära dig hur du använder API:t trackAction för att spåra och mäta en åtgärd.
 
->[!VIDEO](https://video.tv.adobe.com/v/26268/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/26268/?quality=12&learn=on)
 
 Det här är det API som du bör använda för att spåra alla åtgärder som inte är skärmladdade på webbplatsen. Om skärmen kommer upp använder du trackState, som aktiverar en sidvisningseffekt. I annat fall använder du trackAction för att skicka in variabler som är associerade med den åtgärd som utförs.
 

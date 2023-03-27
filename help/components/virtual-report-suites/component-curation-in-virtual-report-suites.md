@@ -10,7 +10,7 @@ kt: 1774
 role: User
 level: Intermediate
 exl-id: 87568f06-1369-46d6-80bd-762a67e4bdcc
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 [!UICONTROL Virtual Report Suites] kan struktureras för att inkludera och exkludera [!UICONTROL dimensions], [!UICONTROL metrics]och [!UICONTROL segments] i Analysis Workspace, vilket underlättar om ni delar det med andra team som bara behöver en viss del av uppgifterna eller använder en annan datainsamling.
 
->[!VIDEO](https://video.tv.adobe.com/v/23544/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23544/?quality=12&learn=on)
 
 Om komponentanpassning är aktiverad visas [!UICONTROL Virtual Report Suite] finns endast i Analysis Workspace.
 

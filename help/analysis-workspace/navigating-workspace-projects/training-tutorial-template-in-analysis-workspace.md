@@ -10,7 +10,7 @@ kt: 5032
 role: User
 level: Beginner
 exl-id: 52f800b6-f184-4a82-8729-e6edd478331c
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
 source-wordcount: '86'
 ht-degree: 13%
@@ -21,6 +21,6 @@ ht-degree: 13%
 
 Självstudiekursen (Analysis Workspace Training Tutorial) leder användarna genom vanliga termer och steg för hur de bygger sin första analys i Workspace.
 
->[!VIDEO](https://video.tv.adobe.com/v/33773/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/33773/?quality=12&learn=on)
 
 Den här mallen är tillgänglig som standardmall i det nya projektmodala läget. Från den här mallen kan du skapa egna självstudiekurser som anpassar dem efter organisationens unika användningsfall och datastruktur (eVars, anpassade händelser).

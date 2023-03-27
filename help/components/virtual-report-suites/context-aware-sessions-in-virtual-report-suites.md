@@ -10,7 +10,7 @@ kt: 1775
 role: User
 level: Intermediate
 exl-id: eccd24d8-ed55-49db-894c-ef31de891728
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
 source-wordcount: '76'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # Sammanhangsberoende sessioner i [!UICONTROL Virtual Report Suites] {#context-aware-sessions-in-virtual-report-suites}
 
->[!VIDEO](https://video.tv.adobe.com/v/23545/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23545/?quality=12&learn=on)
 
 Avsnitt i den här videon:
 

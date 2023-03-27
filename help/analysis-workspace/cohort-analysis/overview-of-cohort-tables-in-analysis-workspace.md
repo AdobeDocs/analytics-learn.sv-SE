@@ -11,7 +11,7 @@ kt: 2477
 role: User
 level: Intermediate
 exl-id: 3c0b0814-61b0-43ad-b69c-9e55555d4edd
-source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 0%
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 The [!UICONTROL Rolling Calculation] inom [!UICONTROL Cohort Tables] kan användas för att analysera [!UICONTROL cohorts] perioden-för-period, för att förstå hur samma användare behålls (eller [!UICONTROL churn]) över tid.
 
->[!VIDEO](https://video.tv.adobe.com/v/25965/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25965/?quality=12&learn=on)
 
 Mer information finns i [dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=en).
 

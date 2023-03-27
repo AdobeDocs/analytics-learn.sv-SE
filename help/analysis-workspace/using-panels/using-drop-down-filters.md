@@ -7,7 +7,7 @@ kt: 1944
 role: User
 level: Beginner
 exl-id: 8abd1788-6c65-400a-94d9-42e71f0dfbbe
-source-git-commit: f59fdf873fc6aaee8aaa5bd244a31de931034c44
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
 source-wordcount: '203'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 I den här videon får du lära dig hur du använder nedrullningsbara filter i Analysis Workspace för att dynamiskt ändra innehållet i en panel.
 
->[!VIDEO](https://video.tv.adobe.com/v/23877/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23877/?quality=12&learn=on)
 
 Panelens listrutezon har nu funktioner för nedrullningsbar filtrering. Med nedrullningsbara filter kan analytiker och slutanvändare interagera med data via kontrollerade filter. Du kan skapa ett nedrullningsbart filter från valfri komponenttyp och sedan växla mellan objekten i listrutan för att filtrera panelinnehållet. Du kan också lägga till flera listrutor i en enda panel för ytterligare kontroll.
 

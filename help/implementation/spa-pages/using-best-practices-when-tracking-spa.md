@@ -11,7 +11,7 @@ topic: SPA
 role: Developer, Data Engineer
 level: Intermediate
 exl-id: 8fe63dd1-9629-437f-ae07-fe1c5a05fa42
-source-git-commit: d78c3351d2a98704396ceb8f84d123dd463befe5
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
 source-wordcount: '1288'
 ht-degree: 0%
@@ -88,7 +88,7 @@ När nytt innehåll läses in eller när en åtgärd inträffar på SPA sida må
 
 Mer information om hur och när de här händelserna utlöses finns i de sidor och dokument som det hänvisas till ovan. Du behöver inte använda samma händelsenamn i implementeringen. Argumentet för den använda metodens funktionalitet är viktigt för att förstå att det är den rekommenderade bästa metoden för varje metod. I följande video visas ett exempel SPA sidan och exempelkoden i [!DNL Experience Platform Tags] som lyssnar efter anpassade händelser.
 
->[!VIDEO](https://video.tv.adobe.com/v/23024/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23024/?quality=12&learn=on)
 
 ## Kör s.t() eller s.tl() i [!DNL Experience Platform Tags] {#running-s-t-or-s-tl-in-the-launch-rule}
 
@@ -102,7 +102,7 @@ Ett viktigt koncept att förstå för [!DNL Analytics] när du arbetar med ett S
 
 I följande video visas var och hur utlösaren ska göras `s.t()` eller `s.tl()` i taggar.
 
->[!VIDEO](https://video.tv.adobe.com/v/23048/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23048/?quality=12&learn=on)
 
 ## Rensa variabler {#clear-variables}
 
@@ -114,7 +114,7 @@ Diagrammet ovan visar variabler som rensats *efter* du skickar in data. I själv
 
 I följande video visas var och hur variabler rensas i [!DNL Tags].
 
->[!VIDEO](https://video.tv.adobe.com/v/23049/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23049/?quality=12&learn=on)
 
 ## Ytterligare överväganden {#additional-considerations}
 

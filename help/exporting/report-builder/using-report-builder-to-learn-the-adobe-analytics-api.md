@@ -10,7 +10,7 @@ kt: 2345
 role: User
 level: Intermediate
 exl-id: 8b8e0dac-2498-4fba-ba4b-585b309ae1fd
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
 source-wordcount: '258'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 [!UICONTROL Report Builder] är något vi alla känner till och älskar. Om jag sa att du kan använda det du vet om [!UICONTROL Report Builder] för att höja din Adobe Analytics-kompetens ytterligare? I den här videon går vi igenom hur man felsöker [!UICONTROL Report Builder] begär och använder dem för att lära sig skapa egna [!DNL Analytics] API-frågor.
 
->[!VIDEO](https://video.tv.adobe.com/v/25442/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25442/?quality=12&learn=on)
 
 **UPPDATERA**: [!UICONTROL Report Builder] har uppdaterat hur data efterfrågas något. Du kan fortfarande använda metoden från den här videon, men informationen kommer att vara något annorlunda i en felsökare.
 

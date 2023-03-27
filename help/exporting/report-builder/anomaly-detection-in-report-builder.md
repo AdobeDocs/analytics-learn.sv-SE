@@ -8,7 +8,7 @@ doc-type: feature video
 thumbnail: 25444.jpg
 kt: 1768
 exl-id: 80d85955-022f-4d79-aee8-c440592645f3
-source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
 source-wordcount: '118'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 Lär dig hur du lägger till [!UICONTROL anomaly detection] [!UICONTROL metrics] på era dataförfrågningar, samt gradera data kreativt.
 
->[!VIDEO](https://video.tv.adobe.com/v/23543/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23543/?quality=12&learn=on)
 
 [!UICONTROL Anomaly detection] använder statistisk modellering för att automatiskt hitta oväntade trender i dina data.
 

@@ -10,7 +10,7 @@ kt: 1663
 role: User
 level: Intermediate
 exl-id: ca1d8ca8-a854-4d02-8017-4e3e3587ab9e
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 0%
@@ -21,6 +21,6 @@ ht-degree: 0%
 
 I den här videon visas hur du använder händelser för att starta ett nytt besök i Adobe Analytics med hjälp av en [!UICONTROL Virtual Report Suite]Besöksinställningar.
 
->[!VIDEO](https://video.tv.adobe.com/v/23129/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23129/?quality=12&learn=on)
 
 Du kan definiera om sammanhanget för ett besök i Adobe Analytics med anpassade timeoutinställningar, ignorera bakgrundstötningar eller utlösa ett nytt besök när appen startas. Med den här funktionen utökar vi den här funktionaliteten så att du kan utlösa ett nytt besök för valfri kombination av händelser, i stället för att bara via en programstart.

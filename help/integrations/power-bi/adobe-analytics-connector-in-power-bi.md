@@ -10,7 +10,7 @@ kt: 1655
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Intermediate
 exl-id: 5e6bb1fe-1677-479e-b953-6b42356450e1
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 2%
@@ -21,7 +21,7 @@ ht-degree: 2%
 
 I den här videon går vi igenom Adobe Analytics Connector genom att skapa och läsa in en begäran, ändra dataformatet och skapa en [!UICONTROL visualization]och publicera till onlinetjänsten.
 
->[!VIDEO](https://video.tv.adobe.com/v/23130/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23130/?quality=12&learn=on)
 
 ## Ytterligare material {#additional-resources}
 

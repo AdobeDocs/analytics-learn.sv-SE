@@ -7,7 +7,7 @@ kt: 2011
 role: User
 level: Beginner
 exl-id: 2f2ef013-1118-4c78-8877-c294654865e0
-source-git-commit: f59fdf873fc6aaee8aaa5bd244a31de931034c44
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 I den här videon visar vi hur du kan utnyttja två datumjämförelsefunktioner i [!UICONTROL freeform tables] - &#39;[!UICONTROL add time period column]och[!UICONTROL compare time periods].&#39;
 
->[!VIDEO](https://video.tv.adobe.com/v/23985/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23985/?quality=12&learn=on)
 
 Datumjämförelser är ett enkelt sätt att lägga till djup i de aktuella Analysis Workspace-tabellerna och hjälper dig att enkelt sätta aktuella data i perspektiv till historiska resultat.
 

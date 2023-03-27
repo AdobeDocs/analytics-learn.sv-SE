@@ -12,7 +12,7 @@ kt: 2281
 role: User
 level: Beginner
 exl-id: da173124-ce09-4be3-9418-8791acd16240
-source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
 source-wordcount: '114'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 I den här videon visas hur du aktiverar och inaktiverar trunkering av etiketter i [!DNL flow visualization]. Lär dig även att dra och släppa dimensioner på [!DNL flow] för flerdimensionell [!DNL flow] analys.
 
->[!VIDEO](https://video.tv.adobe.com/v/24041/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/24041/?quality=12&learn=on)
 
 Mer information om den här funktionen finns på [dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow.html?lang=en).
 

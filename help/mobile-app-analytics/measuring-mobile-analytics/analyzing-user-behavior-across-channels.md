@@ -10,7 +10,7 @@ kt: 3053
 role: User
 level: Beginner
 exl-id: 92af75b4-c1c3-4679-aede-b9e154e9f836
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 0%
@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Lär dig hur du identifierar användarnas vägar till konvertering i mobilappar med [!DNL Flow] och jämför det med andra upplevelser som webben. Definiera och mät konverteringar i flerstegsprocesser för att skapa framgång för era mobilappar.
 
->[!VIDEO](https://video.tv.adobe.com/v/27824/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27824/?quality=12&learn=on)

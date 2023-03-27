@@ -14,7 +14,7 @@ topic: Administration
 role: Admin, Architect
 level: Beginner
 exl-id: 8ada68ff-c7fc-45e3-a663-c477519f557f
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 0%
@@ -25,6 +25,6 @@ ht-degree: 0%
 
 [!UICONTROL Server Call Usage] rapportering gör det möjligt för dig att exakt följa upp hur mycket av ditt serviceåtagande för serversamtal som du har använt vid en viss tidpunkt, och du får även en varning när du närmar dig ditt totala åtagande.
 
->[!VIDEO](https://video.tv.adobe.com/v/23137/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23137/?quality=12&learn=on)
 
 Det kan vara svårt att hålla sig à jour med serversamtalskonsumtionen i organisationen, vilket kan leda till frustration kring överläggningar. Med [!UICONTROL Server Call Usage] rapporter kan du spåra exakt hur mycket av ditt abonnemang på serversamtal som du har använt vid en viss tidpunkt, och du får även en varning när du närmar dig ditt totala abonnemang. Den medföljande kontrollpanelen gör att du kan analysera var dina serveranrop används, så att du kan åtgärda implementeringar som körs eller arbeta med kollegor för att skala tillbaka där stora volymer av mindre värdefulla data kan samlas in.

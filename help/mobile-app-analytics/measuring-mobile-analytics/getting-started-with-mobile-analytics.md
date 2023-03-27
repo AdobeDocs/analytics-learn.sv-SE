@@ -10,7 +10,7 @@ kt: 3051
 role: User
 level: Beginner
 exl-id: 80d3545c-3c3c-4003-a92a-39a410c76996
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 0%
@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Lär dig hur du kommer igång med Adobe Analytics för mobilappar med hjälp av mallar. Förinbyggt [!UICONTROL standard templates] hjälper er att förstå användarengagemang och appprestanda [!UICONTROL metrics] i Analysis Workspace. Lär dig även hur du anpassar ditt projekt med vårt lättanvända dra och släpp-gränssnitt.
 
->[!VIDEO](https://video.tv.adobe.com/v/27826/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27826/?quality=12&learn=on)

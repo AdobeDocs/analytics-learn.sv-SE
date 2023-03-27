@@ -10,7 +10,7 @@ kt: 2386
 role: Developer, Data Engineer
 level: Experienced
 exl-id: c2bf15d7-4614-4bda-83de-1a45b5f98c7b
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 9%
@@ -21,6 +21,6 @@ ht-degree: 9%
 
 I den här videon visar vi hur du använder Analysis Workspace för att automatiskt skapa API 2.0-begäranden. Genom att felsöka gränssnittet kan du kopiera och klistra in JSON-begäranden direkt i vilken API-klient som helst för att returnera [!DNL Analytics] data. Nu kan du aktivera felsökaren enklare genom att gå till Hjälp för arbetsyta > Aktivera felsökning.
 
->[!VIDEO](https://video.tv.adobe.com/v/25890/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25890/?quality=12&learn=on)
 
 Mer information finns på [dokumentation](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/reporting-tricks.md).

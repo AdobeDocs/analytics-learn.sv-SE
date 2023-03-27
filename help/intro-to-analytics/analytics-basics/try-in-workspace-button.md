@@ -10,7 +10,7 @@ kt: 1965
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: d5aab59f-ff73-4ef5-82d6-fd4ada90a7cd
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
 source-wordcount: '57'
 ht-degree: 0%
@@ -21,4 +21,4 @@ ht-degree: 0%
 
 De flesta rapporter i [!UICONTROL Reports & Analytics] include a **[!UICONTROL Try in Workspace]** så att du kan återskapa den aktuella vyn i [!UICONTROL Analysis Workspace] för ytterligare anpassning.
 
->[!VIDEO](https://video.tv.adobe.com/v/23959/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23959/?quality=12&learn=on)

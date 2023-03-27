@@ -10,7 +10,7 @@ kt: 2340
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 8b59b6d3-3754-464d-ac87-7b57ce442676
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 0%
@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Kundanalys har aldrig varit mer lovande. Men att samla data som kan vara användbara för företagsanvändare i hela organisationen - och fånga upp viktiga trender i tid för att agera utifrån dem - är inte ens något som ett avancerat datavetenskapsteam kan hantera på egen hand. Med hjälp av de data ni redan samlar in kan ni utnyttja Adobe Sensei AI och maskininlärningsfunktionerna i Adobe Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/25837/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25837/?quality=12&learn=on)

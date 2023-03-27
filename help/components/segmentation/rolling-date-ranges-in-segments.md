@@ -10,7 +10,7 @@ kt: 2304
 role: User
 level: Beginner
 exl-id: d90b0284-caef-4271-9f2a-d3cb1fd57e2b
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
 source-wordcount: '98'
 ht-degree: 0%
@@ -21,5 +21,5 @@ ht-degree: 0%
 
 Med Adobe Analytics kan ni svara på frågor som&quot;Vad var mitt 60-dagars rullande genomsnitt för Intäkter?&quot; eller&quot;Hur många besökare visade innehåll i min app mer än fem gånger under den senaste veckan?&quot; genom att inkludera rullande [!UICONTROL date ranges] in [!UICONTROL segments]. Den här videon visar hur du gör det.
 
->[!VIDEO](https://video.tv.adobe.com/v/25403/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25403/?quality=12&learn=on)
 

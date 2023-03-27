@@ -10,7 +10,7 @@ kt: 3972
 role: User
 level: Intermediate
 exl-id: b237a965-9fe6-4c9a-923e-31af1c019790
-source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Det finns flera¨-inställningar som du kan använda för att anpassa din vy av [!UICONTROL retention] eller [!UICONTROL churn]. Se dem markerade i den här videon.
 
->[!VIDEO](https://video.tv.adobe.com/v/29433/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/29433/?quality=12&learn=on)
 
 Anpassningar för [!UICONTROL Cohort Table] kan
 

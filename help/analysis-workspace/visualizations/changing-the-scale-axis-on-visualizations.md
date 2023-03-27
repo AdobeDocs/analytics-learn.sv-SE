@@ -10,7 +10,7 @@ kt: 2133
 role: User
 level: Beginner
 exl-id: c76d8252-d6b7-48d7-b75e-3f8bedc50815
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 0%
@@ -21,4 +21,4 @@ ht-degree: 0%
 
 I den här videon visas hur du enkelt kan ändra skalan (eller axelgränserna) för Y-axeln på en [!UICONTROL line] i Analysis Workspace för att göra data svårare för dig och andra att feltolka.
 
->[!VIDEO](https://video.tv.adobe.com/v/24708/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/24708/?quality=12&learn=on)

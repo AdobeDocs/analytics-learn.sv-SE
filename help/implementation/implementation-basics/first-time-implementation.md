@@ -7,7 +7,7 @@ level: Beginner
 kt: 2362
 thumbnail: 25456.jpg
 exl-id: 110d2962-cbcf-4574-bd39-308f2ad33c5e
-source-git-commit: d78c3351d2a98704396ceb8f84d123dd463befe5
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
 source-wordcount: '54'
 ht-degree: 29%
@@ -18,4 +18,4 @@ ht-degree: 29%
 
 Det är enklare än någonsin att implementera Adobe Analytics. Om du inte har använt vår lösning tidigare bör du lära dig att komma igång med Adobe Analytics-data på några minuter.
 
->[!VIDEO](https://video.tv.adobe.com/v/25456/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25456/?quality=12&learn=on)

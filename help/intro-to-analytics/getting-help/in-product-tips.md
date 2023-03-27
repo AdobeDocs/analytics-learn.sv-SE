@@ -10,7 +10,7 @@ kt: 1672
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: ad2e2c1a-c87b-4ee2-8b8c-6cc796c22f85
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
 source-wordcount: '51'
 ht-degree: 0%
@@ -21,4 +21,4 @@ ht-degree: 0%
 
 [!UICONTROL Analysis Workspace] Tips som ger dig snabb inlärning direkt i [!UICONTROL Analysis Workspace], med länkar till relaterade videoklipp så att du kan se varje tips i praktiken.
 
->[!VIDEO](https://video.tv.adobe.com/v/23135/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23135/?quality=12&learn=on)

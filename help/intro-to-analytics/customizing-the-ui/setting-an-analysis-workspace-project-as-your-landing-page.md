@@ -9,7 +9,7 @@ doc-type: feature video
 thumbnail: 25459.jpg
 kt: 2364
 exl-id: 1222621b-52db-41b6-8a74-8ab8a8ddd51a
-source-git-commit: 9253a35bcb67c9e69b042e47475d915d7e45ef3e
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
 source-wordcount: '48'
 ht-degree: 0%
@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Lär dig mer om ett effektivt sätt att enkelt få nybörjare till projektdata för arbetsyteanalys.
 
->[!VIDEO](https://video.tv.adobe.com/v/25459/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25459/?quality=12&learn=on)

@@ -7,7 +7,7 @@ thumbnail: 25405.jpg
 role: User
 level: Beginner
 exl-id: be1610a0-dbec-46d0-8cad-b4726333b8f9
-source-git-commit: f59fdf873fc6aaee8aaa5bd244a31de931034c44
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
 source-wordcount: '178'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 I den här videon visas hur du skapar ett segment i Analysis Workspace utifrån beteendesekvenser på din webbplats eller i din app. Med andra ord kanske du vill skapa ett segment med besökare som gjorde&quot;någonting A&quot; och sedan gjorde&quot;någonting B&quot;, så att du kan se hur den sekvensen av händelser påverkade alla andra data. Mycket nöje.
 
->[!VIDEO](https://video.tv.adobe.com/v/25405/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25405/?quality=12&learn=on)
 
 Mer information finns på [dokumentation](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-sequential-build.html?lang=en).
 

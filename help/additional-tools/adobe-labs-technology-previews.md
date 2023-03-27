@@ -7,7 +7,7 @@ kt: 4818
 role: Architect
 level: Beginner
 exl-id: 05bbfccf-a76f-4f01-9f44-a959afc7d12a
-source-git-commit: d8ac4494a517608fce4c78769136b684937c7639
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
 source-wordcount: '89'
 ht-degree: 7%
@@ -18,7 +18,7 @@ ht-degree: 7%
 
 [!DNL Adobe Labs] (Förhandstitt på teknik) gör det möjligt för er att engagera er med ny teknik, att upptäcka värdefulla insikter och att påverka framtiden [!DNL Analytics] funktionsutveckling och -prioriteringar.
 
->[!VIDEO](https://video.tv.adobe.com/v/32841/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/32841/?quality=12&learn=on)
 
 När en [!DNL Labs] kan du utvärdera funktionen i samband med dina egna affärsanvändningsfall och data.
 

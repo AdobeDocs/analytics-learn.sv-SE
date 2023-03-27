@@ -7,7 +7,7 @@ kt: 4844
 role: User
 level: Beginner
 exl-id: ed4eccc6-a56e-4767-aeea-046bbbb7ee9c
-source-git-commit: f59fdf873fc6aaee8aaa5bd244a31de931034c44
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 &#39;Är lika med någon av&#39; och &#39;Är inte lika med någon av&#39; segmentoperatorer har lagts till i segmentbyggaren. Använd dessa operatorer för att filtrera till en lista med specifika objekt i stället för att använda flera OR-satser eller &quot;Innehåller någon av&quot;. Om du använder de här operatorerna i stället för &quot;innehåller någon av&quot; förbättras även frågehastigheten.
 
->[!VIDEO](https://video.tv.adobe.com/v/32960/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/32960/?quality=12&learn=on)
 
 Mer information finns på [dokumentation](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segment-reference/seg-operators.html)
 

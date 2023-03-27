@@ -11,7 +11,7 @@ doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 1597
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
 source-wordcount: '146'
 ht-degree: 1%
@@ -23,7 +23,7 @@ ht-degree: 1%
 
 I den här videon visas hur du använder [!UICONTROL Usage Log Tracking] på [!DNL Workspace] -projekt, som hjälper dig att förstå hur dina användare använder Adobe Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/22922/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/22922/?quality=12&learn=on)
 
 [!DNL Workspace] bland annat följande spårningsalternativ:
 

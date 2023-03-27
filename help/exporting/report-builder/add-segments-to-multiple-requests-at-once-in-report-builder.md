@@ -8,7 +8,7 @@ doc-type: feature video
 thumbnail: 25445.jpg
 kt: 2344
 exl-id: db5b7623-d863-4ecd-9902-8b20f6aea257
-source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 Den här videon visar hur du kan använda [!UICONTROL Report Builder] för att lägga till segment i alla förfrågningar samtidigt, vilket sparar både tid och arbetsmoment.
 
->[!VIDEO](https://video.tv.adobe.com/v/25445/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25445/?quality=12&learn=on)
 
 Mer information om den här funktionen finns på [dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/home.html?lang=en).
 

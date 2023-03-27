@@ -7,7 +7,7 @@ role: User
 level: Beginner
 thumbnail: 335798.jpg
 exl-id: 655034a6-42b9-4437-961b-02ad3da57d83
-source-git-commit: c9f3316fe30d6cfc505dd2c3238b1b6f0661a709
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Du kan visa överlappning och skärning av segment visuellt i Analysis Workspace med hjälp av Venndiagram. Det är enkelt att skapa fantastiska, insiktsfulla Venn-diagram på några sekunder. Den här videon visar hur du gör.
 
->[!VIDEO](https://video.tv.adobe.com/v/335798/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335798/?quality=12&learn=on)
 
 Mer information om den här funktionen finns på [dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/venn.html?lang=en).
 

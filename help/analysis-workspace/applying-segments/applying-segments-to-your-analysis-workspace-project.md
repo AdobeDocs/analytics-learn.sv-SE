@@ -7,7 +7,7 @@ kt: 4107
 role: User
 level: Beginner
 exl-id: d8bd4226-a3f0-4faa-8b78-4b47b5a008ce
-source-git-commit: e021df988079334ecd81b8c320f9e3d9a43da2e4
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
 source-wordcount: '106'
 ht-degree: 9%
@@ -18,7 +18,7 @@ ht-degree: 9%
 
 I den här videon får du lära dig hur du begränsar data i tabeller och visualiseringar genom att tillämpa segment på data.
 
->[!VIDEO](https://video.tv.adobe.com/v/30994/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/30994/?quality=12&learn=on)
 
 Mer information finns på [dokumentation](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/t-seg-apply.html).
 

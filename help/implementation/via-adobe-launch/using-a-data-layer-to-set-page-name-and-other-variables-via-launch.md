@@ -7,7 +7,7 @@ level: Beginner
 kt: 1852
 thumbnail: 25899.jpg
 exl-id: 408ceb47-df05-4456-85bb-0ef2798a05a5
-source-git-commit: d78c3351d2a98704396ceb8f84d123dd463befe5
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
 source-wordcount: '315'
 ht-degree: 0%
@@ -37,7 +37,7 @@ Granska ytterligare information om datalager i [Experience Cloud dokumentation](
 
 I följande video får du hjälp med processen.
 
->[!VIDEO](https://video.tv.adobe.com/v/25899/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25899/?quality=12&learn=on)
 
 >[!NOTE]
 >

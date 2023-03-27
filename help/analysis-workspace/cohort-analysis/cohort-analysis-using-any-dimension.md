@@ -10,7 +10,7 @@ kt: 2478
 role: User
 level: Intermediate
 exl-id: 0bb472c0-83e6-44cb-8fca-658355ae3e50
-source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Den anpassade [!UICONTROL Cohort] [!UICONTROL Dimension] kan du analysera [!UICONTROL cohorts] använda [!UICONTROL dimensions] annat än tid. Jämför [!UICONTROL cohorts] efter marknadsföringskanal, kampanjregion, produktsida osv. för att bättre förstå hur [!UICONTROL retention] (eller [!UICONTROL churn]) ändras med [!UICONTROL dimension] objekt.
 
->[!VIDEO](https://video.tv.adobe.com/v/25967/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25967/?quality=12&learn=on)
 
 Mer information finns i [dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=en).
 

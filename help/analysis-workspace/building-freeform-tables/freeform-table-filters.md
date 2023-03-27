@@ -7,7 +7,7 @@ kt: 1699
 role: User
 level: Beginner
 exl-id: 17423156-1e0c-4698-9af2-b59f0753176f
-source-git-commit: a3aef96c996343d0d90de8e1462f6dcbf362c403
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Filter ger bättre kontroll över vilka datarader som delas i en [!DNL freeform table].
 
->[!VIDEO](https://video.tv.adobe.com/v/23232/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23232/?quality=12&learn=on)
 
 I Analysis Workspace erbjuder vi nu mer filtreringskontroll med 11 filtervillkor och AND/OR-operatorer.
 

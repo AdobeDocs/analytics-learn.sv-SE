@@ -10,7 +10,7 @@ kt: 2114
 role: User
 level: Beginner
 exl-id: f6881db0-68c8-4b17-aaf3-232a6886c925
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
 source-wordcount: '68'
 ht-degree: 0%
@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Den här sessionen handlar om [!UICONTROL visualizations] inom Analysis Workspace. Ni kommer att lära er färdigheter och åtgärder som hjälper er att leverera kraftfulla insikter till organisationen i det mest användbara formatet.
 
->[!VIDEO](https://video.tv.adobe.com/v/25036/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25036/?quality=12&learn=on)

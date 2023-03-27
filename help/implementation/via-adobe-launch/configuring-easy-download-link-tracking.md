@@ -10,7 +10,7 @@ kt: 1844
 role: Developer, Data Engineer
 level: Beginner
 exl-id: 28822d90-6bbb-43dc-bf98-892e21e71a1d
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Med bara några klick i Adobe Analytics [!UICONTROL Extension] i Adobe [!DNL Experience Platform Launch]kan du börja spåra hämtningslänkar på din plats (länkar som hämtar filer som inte är webbläsare på din dator). I den här videon visas hur du konfigurerar den.
 
->[!VIDEO](https://video.tv.adobe.com/v/25762/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25762/?quality=12&learn=on)
 
 Vare sig det handlar om rapporter, handböcker, ljud- eller videofiler eller en mängd andra möjligheter kan du ha länkar på webbplatsen för att ladda ned filer som inte öppnas i en webbläsare. Även om de öppnas i en webbläsare (som en textfil) kan du i alla fall inte ha [!DNL Analytics] på sidan för spårning. Därför måste du spåra länken till den hämtade filen.
 

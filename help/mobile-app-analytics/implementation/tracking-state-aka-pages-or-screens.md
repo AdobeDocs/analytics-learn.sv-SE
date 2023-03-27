@@ -11,7 +11,7 @@ topic: Mobile
 role: Developer, Data Engineer
 level: Experienced
 exl-id: e58f7e86-dc61-44eb-a44e-fe5e984d8248
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 0%
@@ -22,6 +22,6 @@ ht-degree: 0%
 
 Lägen representerar skärmar eller vyer i din app. Varje gång ett nytt läge visas i ditt program, till exempel när en användare navigerar från startsidan till nyhetsflödet, `trackState` kan anropas för att skickas i lägesnamnet (sidnamn i [!DNL Analytics]) och ytterligare data. Den här videon visar hur du gör det.
 
->[!VIDEO](https://video.tv.adobe.com/v/26260/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/26260/?quality=12&learn=on)
 
 Mer information om trackState finns i [dokumentation](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core/configuration-reference/mobile-core-api-reference).

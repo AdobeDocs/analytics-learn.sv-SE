@@ -8,7 +8,7 @@ level: Intermediate
 thumbnail: 23119.jpg
 kt: 1642
 exl-id: 884e8232-edca-4224-a0b9-467a0136e12f
-source-git-commit: ecfce7b894986903f28ecaaa3252c903420f5aa8
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
 source-wordcount: '57'
 ht-degree: 3%
@@ -19,7 +19,7 @@ ht-degree: 3%
 
 Få en översikt över hur du konfigurerar [!UICONTROL report suites] att använda [!DNL Advertising Analytics], hur du konfigurerar ett betalt sökkonto och rapporterar information om [!DNL Advertising Analytics].
 
->[!VIDEO](https://video.tv.adobe.com/v/23119/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23119/?quality=12&learn=on)
 
 ## Ytterligare material {#additional-resources}
 
