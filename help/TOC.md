@@ -3,9 +3,9 @@ user-guide-title: Självstudiekurser om Adobe Analytics
 user-guide-description: Se videosjälvstudiekurser om Adobe Analytics och lär dig hur du får ut det mesta av dina data.
 breadcrumb-title: Självstudiekurser om Analytics
 solution: Analytics
-source-git-commit: 01a70b931120a5ea8cd82ffd1c91369e3fa041cd
+source-git-commit: d9688dbc8d4958e76aa5fd6d976a8fd28bfe63ba
 workflow-type: tm+mt
-source-wordcount: '2354'
+source-wordcount: '2361'
 ht-degree: 7%
 
 ---
@@ -67,6 +67,7 @@ ht-degree: 7%
       + [Visa Analysis Workspace prestandamått](analysis-workspace/analysis-workspace-basics/view-analysis-workspace-performance-metrics.md)
    + Tips och tricks {#tips-and-tricks}
       + [7 Tips och tricks för Analysis Workspace](analysis-workspace/tips-and-tricks/seven-tips-and-tricks-in-analysis-workspace.md)
+      + [Högerklicka på tips och tricks för effektivare arbetsflöden](analysis-workspace/tips-and-tricks/right-click-tips-and-tricks-for-more-efficient-workflows.md)
       + [Tips för att öka produktiviteten i Analysis Workspace](analysis-workspace/tips-and-tricks/tips-to-increase-productivity-in-analysis-workspace.md)
       + [Kundtips för att fortsätta din Adobe Analytics Learning Journey](analysis-workspace/tips-and-tricks/customer-tips-for-continuing-your-adobe-analytics-learning-journey.md)
    + Navigera i arbetsyteprojekt {#navigating-workspace-projects}
