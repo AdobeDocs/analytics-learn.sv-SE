@@ -7,7 +7,7 @@ kt: 2918
 role: User
 level: Beginner
 exl-id: 47bd517d-d315-46bd-a17e-c01574a7bb7d
-source-git-commit: f59fdf873fc6aaee8aaa5bd244a31de931034c44
+source-git-commit: 812184643b5c4a5c01dea2b2f49b57049c1805da
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Den nya [!UICONTROL Distinct Count] operatorer i [!UICONTROL Segment builder] kan du segmentera baserat på antalet unika objekt i [!UICONTROL dimension]. Filtrera efter besök där mer än fem sidor visats, eller träffar där mer än fem produkter köptes, dvs. i en enda beställning.
 
->[!VIDEO](https://video.tv.adobe.com/v/27257/?quality=9)
+>[!VIDEO](https://video.tv.adobe.com/v/27257/?quality=12&learn=on)
 
 Kan den här funktionen vara coolare? :)
 
