@@ -3,9 +3,9 @@ user-guide-title: Självstudiekurser om Adobe Analytics
 user-guide-description: Se videosjälvstudiekurser om Adobe Analytics och lär dig hur du får ut det mesta av dina data.
 breadcrumb-title: Självstudiekurser om Analytics
 solution: Analytics
-source-git-commit: d9688dbc8d4958e76aa5fd6d976a8fd28bfe63ba
+source-git-commit: bb9b02a58b9c39e57021433869388b652627e550
 workflow-type: tm+mt
-source-wordcount: '2361'
+source-wordcount: '2369'
 ht-degree: 7%
 
 ---
@@ -309,6 +309,7 @@ ht-degree: 7%
       + [Använda segment i Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-in-analysis-workspace.html)
       + [Använda segment som Dimensioner i Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.html)
       + [Använda segment för att begränsa data i Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.html)
+      + [Skillnader mellan segmentbyggaren och snabbsegment](components/segmentation/differences-between-the-segment-builder-and-quick-segments.md)
       + [Sekventiell segmentering](components/segmentation/sequential-segmentation.md)
       + [Före/Efter sekvenser i sekventiell segmentering](components/segmentation/before-after-sequences-in-sequential-segmentation.md)
       + [Segmentering på antal distinkta Dimensioner](components/segmentation/segmentation-on-distinct-dimension-counts.md)
