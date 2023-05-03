@@ -8,7 +8,7 @@ doc-type: Article
 last-substantial-update: 2023-05-02T00:00:00Z
 jira: KT-13181
 thumbnail: KT-13181.jpeg
-source-git-commit: d7b1fac5c98080f9ca786ea21a3700d2937c7ebc
+source-git-commit: 5d20da6a06c9395f56bccbc97ba1d7fb8bb49ff8
 workflow-type: tm+mt
 source-wordcount: '1883'
 ht-degree: 0%
@@ -92,7 +92,7 @@ Om du har sett ALL of the Back till Framtidens filmer vet du att Marty McFly gic
 
 1. Lite innan **1:30 am** på **26 oktober 1985** går Marty McFly tillbaka i tiden till **5 november 1955**, där han först springer över ett pinjeträd i en tidsresa DeLorean.  Under nästa och en halv vecka interagerar han med ett flertal människor, inklusive hans föräldrar, vilket i slutänden påverkar framtiden genom att påverka hans pappa till att stå upp för en mobbning vid namn Biff, så att hans pappa kan förverkliga sin egen potential att bli en framgångsrik författare till science-fiction.
 1. Senare samma morgon **26 oktober 1985** Doktor Emmett Brown kommer på Marty McFly&#39;s uppfartsväg för att informera honom och hans flickvän om att något har gått fruktansvärt fel med deras barn och de måste skynda sig till framtiden för att lösa sina problem.  Medan de åker, bevittnas deras avfärd av Biff, som tycker att det är konstigt att se en flygande DeLorean.  I framtiden, när Biff ännu en gång ser en flygande DeLorean och till och med senare får syn på &quot;två versioner&quot; av Marty, börjar han sätta ihop saker.   När han pratar om Doc Brown och Marty och argumenterar hur &quot;tidsmaskinen&quot; aldrig ska användas för personlig vinning och bara för forskning (eftersom Marty hade mullat över att ta en idrottsalmanacka tillbaka till det förgångna för att göra några personliga val), så stjäl Biff tidmaskinen medan de två är distraherade för att leverera sportalmanacet till sitt yngre jag förut.
-1. Efter sin resa till framtiden återvänder Doc Brown och Marty till en **26 oktober 1985** de känner inte igen och de tar fram tidslinjerna som har ändrats av en ond biff.  De måste fixa det som hände, Doc och Marty återkommer till **12 november 1955**, den ödesdigra kvällen då allt ändrades av Marty när han besökte **1955**.  Doktorn och Marty räddar sista dagen genom att stjäla den sportmanac som Old Biff hade levererat till Young Biff i framtiden **1955**, men inte utan en helt ny twist måste du verkligen se filmernas hela trilogi för att verkligen njuta av och förstå.
+1. Efter sin resa till framtiden återvänder Doc Brown och Marty till en **26 oktober 1985** de känner inte igen och de tar fram tidslinjen som har ändrats av en ond biff.  De måste fixa det som hände, Doc och Marty återkommer till **12 november 1955**, den ödesdigra kvällen då allt ändrades av Marty när han besökte **1955**.  Doktorn och Marty räddar sista dagen genom att stjäla den sportmanac som Old Biff hade levererat till Young Biff i framtiden **1955**, men inte utan en helt ny twist måste du verkligen se filmernas hela trilogi för att verkligen njuta av och förstå.
 
 Beroende på vår **Attributionsmodell** och **Fönstret Lookback** kan vi få några intressanta scenarier:
 
@@ -109,7 +109,7 @@ Så vad betyder allt det här för oss som analytiker?
 
 The **Attributionspanel** och **Fönstret Lookback** ger oss möjlighet att titta bortom enkla data på ytnivå och fördjupa oss i kundresan. Genom att förstå vilka kontaktytor som haft störst effekt på konverteringarna kan vi fatta välgrundade beslut om våra marknadsföringsstrategier och fördela resurser mer effektivt.
 
-Kom ihåg, när du har **Attributionsmodeller** och **Sökfönster** Om du väljer det här alternativet kan du fortfarande ändra dina data ytterligare genom att filtrera dem med ett segment eller någon annan komponent som du vill använda.  När panelen har renderats har du dessutom alla funktioner som finns i en traditionell **Arbetsyta**, vilket innebär att du har en officiell licens att köra 88 mph!
+Kom ihåg, när du har **Attributionsmodeller** och **Sökfönster** Om du väljer det här alternativet kan du fortfarande ändra dina data ytterligare genom att filtrera dem med ett segment eller någon annan komponent som du vill använda.  När panelen har renderats har du dessutom alla funktioner som finns i en traditionell **Arbetsyta**, vilket betyder att du har en officiell licens att köra 88 mph!
 
 ## Äntligen till övning
 
