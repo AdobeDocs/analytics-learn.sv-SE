@@ -8,9 +8,9 @@ doc-type: Article
 last-substantial-update: 2023-05-02T00:00:00Z
 jira: KT-13181
 thumbnail: KT-13181.jpeg
-source-git-commit: 5d20da6a06c9395f56bccbc97ba1d7fb8bb49ff8
+source-git-commit: 48dbac6921a69dbdba1e98bf412ff55ceb27baf5
 workflow-type: tm+mt
-source-wordcount: '1883'
+source-wordcount: '1881'
 ht-degree: 0%
 
 ---
@@ -72,7 +72,7 @@ Kort sagt, om tio personer trycker på en knapp för att gå genom en dörr, kom
 * **Sista beröring**: Och precis som det låter.   Den här modellen ger 100 % beröm till den siste som gick in i dörren.  Den här modellen används ofta för att analysera saker som sökkampanjer och kampanjer med kort marknadsföringscykel.
 * **Linjär**: Detta ger lika stor tilltro till alla som gick genom dörren.  Du får en DeLorean och får en DeLorean och en DeLorean.  ALLA FÅR EN DELOREAN!!
 * **U-formad**: Den här ger 40 % av krediterna till den första i dörren, sprider 20 % av krediterna till alla däremellan och ger sedan 40 % till den sista genom.  Tänk på en situation där du vill känna igen de flesta konverteringar både på fram- och baksidan, men också vill dra ihop en liten del av krediten över några av de medverkande interaktionerna däremellan.
-* **Tidsminskning**: Jag skulle bli missad om jag inte delade den här med dig innan jag skickar ut dig till den officiella dokumentationen för att granska de återstående modellerna.  Precis som Doc Browns plutonium har den här modellen bokstavligen en halveringstid som sjunker exponentiellt!  I det här fallet är standardparametern för den här modellens halveringstid 7 dagar.  Det sätt det fungerar på är att sedan lägga vikt på varje marknadsföringskanal, baserat på den tid som går efter den första kontaktytan och när kunden konverterar.
+* **Tidsminskning**: Jag skulle bli missad om jag inte delade den här med dig innan jag skickar ut dig till den officiella dokumentationen för att gå igenom de återstående modellerna.  Precis som Doc Browns plutonium har den här modellen bokstavligen en halveringstid som sjunker exponentiellt!  I det här fallet är standardparametern för den här modellens halveringstid 7 dagar.  Det sätt det fungerar på är att sedan lägga vikt på varje marknadsföringskanal, baserat på den tid som går efter den första kontaktytan och när kunden konverterar.
 
 Mer information om detta och om återstående **Attributionsmodeller**, [klicka här](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html).
 
@@ -82,7 +82,7 @@ Nu kör vi tillbaka i tid!  För här börjar det roliga!
 
 Adobe definierar **Sökfönster** som&quot;hur lång tid en konvertering ska ta tillbaka för att inkludera beröringspunkter. Attributionsmodeller som ger större tilltro till första interaktioner ser större skillnader när du tittar på olika uppslagsfönster.&quot;
 
-* **Besök uppslagsfönstret**: Går tillbaka till början av ett besök när en konvertering inträffar
+* **Besök uppslagsfönstret**: Går tillbaka till början av ett besök när en konvertering sker.
 * **Fönster för besökaruppslag**: Alla besök utförs fram till den 1:e i månaden av det aktuella datumintervallet.
 * **Anpassat uppslagsfönster**: Gör att du kan expandera fönstret Attribution efter rapportens datumintervall upp till maximalt **90 dagar**.
 
