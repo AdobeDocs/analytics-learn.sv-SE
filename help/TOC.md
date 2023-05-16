@@ -3,9 +3,9 @@ user-guide-title: Självstudiekurser om Adobe Analytics
 user-guide-description: Se videosjälvstudiekurser om Adobe Analytics och lär dig hur du får ut det mesta av dina data.
 breadcrumb-title: Självstudiekurser om Analytics
 solution: Analytics
-source-git-commit: 1c4c7876ad5f4cfe6c41ff6a8cbf72fa9e787173
+source-git-commit: b11a329ca3f5c676aea08c7037e5ee87003edfe6
 workflow-type: tm+mt
-source-wordcount: '2404'
+source-wordcount: '2434'
 ht-degree: 7%
 
 ---
@@ -128,6 +128,7 @@ ht-degree: 7%
       + [Sammanfattningsnummer och visualiseringar av sammanfattningsändringar](analysis-workspace/visualizations/summary-number-and-summary-change-visualizations-2021.md)
       + [Visualisering av nyckelmätvärden](analysis-workspace/visualizations/key-metric-summary.md)
       + [Textvisualisering](analysis-workspace/visualizations/rich-text-editor-in-analysis-workspace.md)
+      + [Mer än ord - Använda textvisualiseringar och beskrivningar](analysis-workspace/visualizations/more-than-words-using-text-visualizations-and-descriptions.md)
       + [Scatterplot visualization](analysis-workspace/visualizations/scatterplot-visualization.md)
       + [Treemap-visualisering](analysis-workspace/visualizations/treemap-visualization.md)
       + [Visualisering av Venndiagram](analysis-workspace/visualizations/venn-diagram-visualization.md)
@@ -322,6 +323,7 @@ ht-degree: 7%
       + [Dimension Models in Segmentation](components/segmentation/dimension-models-in-segmentation.md)
       + [Lika med någon av operatorerna i segmentering](components/segmentation/equals-any-of-operator-in-segmentation.md)
       + [Analytics Insider Webinar - strategier för kundsegmentering](components/segmentation/customer-segmentation-strategies.md)
+      + [Vänta nu bara på ett segment.. Använda segmentering för att hitta nya insikter](components/segmentation/segmentation-to-discover-new-insights.md)
    + Beräknade mätvärden {#calculated-metrics}
       + [Distinkt funktion för ungefärligt antal i beräknade värden](components/calculated-metrics/approximate-count-distinct-function-in-calculated-metrics.md)
       + [Attribution IQ i beräknade värden](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/attribution-iq-in-calculated-metrics.html)
@@ -332,6 +334,7 @@ ht-degree: 7%
       + [Beräknade mått - mätväljare](components/calculated-metrics/calculated-metrics-metric-selector.md)
       + [Snabbberäknade värden i Analysis Workspace](components/calculated-metrics/quick-calculated-metrics-in-analysis-workspace.md)
       + [Använda Dimensioner i beräknade värden](components/calculated-metrics/using-dimensions-in-calculated-metrics.md)
+      + [Ta dataanalysen till nästa nivå med Beräknade värden](components/calculated-metrics/take-your-data-analysis-to-the-next-level-with-calculated-metrics.md)
    + Klassificeringar {#classifications}
       + [Översikt över klassificeringar](components/classifications/overview-of-classifications.md)
       + [Använda Klassificeringsregelverktyget](components/classifications/using-the-classification-rule-builder.md)
