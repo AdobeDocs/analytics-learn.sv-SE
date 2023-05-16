@@ -8,7 +8,7 @@ doc-type: Article
 last-substantial-update: 2023-05-16T00:00:00Z
 jira: KT-13213
 thumbnail: KT-13213.jpeg
-source-git-commit: 5988e9d68f0c2200168da56373259bdf9f4f901b
+source-git-commit: 1b82bc495f72b099c44a1118145a63c255dcc62a
 workflow-type: tm+mt
 source-wordcount: '1110'
 ht-degree: 0%
@@ -34,7 +34,7 @@ Aktuella digitala prestanda
 1. Första besöket konverterar något högre än antalet besök för båda, 11,6 % jämfört med 11,4 %.
 1. Jämfört med 2021 minskade konverteringsgraden i båda segmenten.
 
-![Besökstabell](assets/visits-table.png)
+![Besökstabell](assets/cohort1.png)
 
 ## Del 2: Kohortanalys - Besök Edible Arrangements Global Prod
 
@@ -70,14 +70,14 @@ Konfigurera kohorttabellen
 1) Månader med störst volym är februari och maj
 1) Det finns cirka 1 000 besökare som återvänder till webbplatsen varje månad
 
-![2022 kvarhållningstabell](assets/2022-retention-table.png)
+![2022 kvarhållningstabell](assets/cohort2.png)
 
 **År 2021:**
 
 1) Månader med högsta lojalitetsgrad +1 månad omfattar april, januari och mars
 1) Månader med störst volym är februari och maj
 
-![2021 Retention table](assets/2021-retention-table.png)
+![2021 Retention table](assets/cohort3.png)
 
 **Åtgärdsobjekt:**
 
@@ -128,7 +128,7 @@ Vilken skulle påverkas om vi kunde få fler användare att logga in? Är det en
 
 Undersök webbplatsens användarupplevelse för att få användare att skapa ett konto under utcheckning
 
-![Kohorttabell 4](assets/cohort-table-4.png)
+![Kohorttabell 4](assets/cohort4.png)
 
 ## Del 4: Custom Dimension Cohort
 
@@ -156,7 +156,7 @@ Tabellen Custom Dimension Cohort visar produkter som ger högre retentionstakt �
 1) Produkt 2
 1) Produkt 3 - presterar ofta bättre än den genomsnittliga retentionshastigheten jämfört med den genomsnittliga retentionshastigheten.
 
-![Kohorttabell 5](assets/cohort-table-5.png)
+![Kohorttabell 5](assets/cohort5.png)
 
 ## Slutsats
 
