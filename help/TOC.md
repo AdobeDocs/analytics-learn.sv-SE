@@ -3,9 +3,9 @@ user-guide-title: Självstudiekurser om Adobe Analytics
 user-guide-description: Se videosjälvstudiekurser om Adobe Analytics och lär dig hur du får ut det mesta av dina data.
 breadcrumb-title: Självstudiekurser om Analytics
 solution: Analytics
-source-git-commit: b11a8a838efbf7321eb73105c114122e3aeb294a
+source-git-commit: 1c4c7876ad5f4cfe6c41ff6a8cbf72fa9e787173
 workflow-type: tm+mt
-source-wordcount: '2397'
+source-wordcount: '2404'
 ht-degree: 7%
 
 ---
@@ -204,6 +204,7 @@ ht-degree: 7%
       + [Kohortanalys med valfri Dimension](analysis-workspace/cohort-analysis/cohort-analysis-using-any-dimension.md)
       + [Svarsanalys med kohorttabeller](analysis-workspace/cohort-analysis/latency-analysis-with-cohort-tables.md)
       + [Beräkna kvarhållande av rullande text i kohorttabeller](analysis-workspace/cohort-analysis/calculate-rolling-retention-in-cohort-tables.md)
+      + [Använd kohortanalys för att förstå kundbeteende](analysis-workspace/cohort-analysis/use-cohort-analysis-to-understand-customer-behavior.md)
    + Röstanalys {#voice-analytics}
       + [Hantera och spåra appdata för röstassistenten](analysis-workspace/voice-analytics/how-to-manage-and-track-your-voice-assistant-app-data.md)
       + [Förstå skillnader mellan röstaktiverade enheter](analysis-workspace/voice-analytics/understand-differences-across-voice-enabled-devices.md)
