@@ -8,7 +8,7 @@ doc-type: Article
 last-substantial-update: 2023-05-15T00:00:00Z
 jira: KT-13216
 thumbnail: KT-13216.jpeg
-source-git-commit: b11a8a838efbf7321eb73105c114122e3aeb294a
+source-git-commit: fff44440dc527ccfed920954301faaf01d27736c
 workflow-type: tm+mt
 source-wordcount: '872'
 ht-degree: 0%
@@ -32,16 +32,13 @@ Om du granskar diagrammet kan du lägga märke till några saker:
 
 1. Det beror på att ditt bränsle sjönk till 0 % och du var tvungen att vänta på hjälp från vägarna för att ta sig genom Portland och fylla upp din gastank
 
-En sådan resa vore uppenbarligen olycklig, oförutsägbar och farlig.
-Det är inte ett sätt att köra. Du behöver kontinuerlig information om hastighet, tillryggalagd sträcka och bränslenivåer för att kunna göra kontinuerliga justeringar av hur du kör. Det råder ingen tvekan om att en rimlig person skulle rippa ut kartongen från kontrollpanelen och regelbundet kontrollera, vilket skulle radera timmar från resan, nästan eliminera risken för att gasen tar slut och hålla dig i rätt hastighet för att undvika en fortkörningsbot.
+En sådan resa vore uppenbarligen olycklig, oförutsägbar och farlig. Det är inte ett sätt att köra. Du behöver kontinuerlig information om hastighet, tillryggalagd sträcka och bränslenivåer för att kunna göra kontinuerliga justeringar av hur du kör. Det råder ingen tvekan om att en rimlig person skulle rippa ut kartongen från kontrollpanelen och regelbundet kontrollera, vilket skulle radera timmar från resan, nästan eliminera risken för att gasen tar slut och hålla dig i rätt hastighet för att undvika en fortkörningsbot.
 
 Så varför accepterar så många chefer detta som ett rimligt sätt att sköta sina webbplatser och appar?
 
-Många chefer har inte tillgång till aktuell, relevant information som behövs för att vidta åtgärder i tid. Istället får de en våning en gång i månaden med statistik som exporterats från Adobe Analytics till Excel, diagram och sedan monterad i en PowerPoint. Om en influensapunkt inträffar tidigt i månaden kommer de inte att få veta om den förrän i början av nästa månad, långt efter att de kan ställa frågor eller vidta åtgärder.
-Anpassade aviseringar är också ett bra alternativ, men vi vet alla hur en exec-inkorgs ser ut.
+Många chefer har inte tillgång till aktuell, relevant information som behövs för att vidta åtgärder i tid. Istället får de en våning en gång i månaden med statistik som exporterats från Adobe Analytics till Excel, diagram och sedan monterad i en PowerPoint. Om en influensapunkt inträffar tidigt i månaden kommer de inte att få veta om den förrän i början av nästa månad, långt efter att de kan ställa frågor eller vidta åtgärder. Anpassade aviseringar är också ett bra alternativ, men vi vet alla hur en exec-inkorgs ser ut.
 
-Men cheferna är också väldigt upptagna. Tänk dig att du gjorde samma resa, men istället för den rena dashboard du har i bilen hade du inte bara bränslenivå, vägmätare och hastighetsmätare, utan även två dussin andra meter som gav dig otroligt detaljerade data om allt från vindrutetorkare till uppskattad livslängd för oljefärgfiltren.
-Det skulle vara för mycket, för specifikt, för specialiserat.
+Men cheferna är också väldigt upptagna. Tänk dig att du gjorde samma resa, men istället för den rena dashboard du har i bilen hade du inte bara bränslenivå, vägmätare och hastighetsmätare, utan även två dussin andra meter som gav dig otroligt detaljerade data om allt från vindrutetorkare till uppskattad livslängd för oljefärgfiltren. Det skulle vara för mycket, för specifikt, för specialiserat.
 
 Ni vill att cheferna ska ha tillräckligt med data för att veta när deras uppmärksamhet behövs, inte så mycket att de slänger händerna i frustration. Om du kommer med ett meddelande från en produktägare eller marknadschef om att en chef vill veta mer om en avvikelse så stöter du på den ljuva fläcken.
 
@@ -59,8 +56,7 @@ Lägg till några listrutor för det som är viktigt för er organisation. Jag t
 
 Båda är viktiga generellt, men som alltid måste du se till att det du väljer är relevant för din webbplats eller app.
 
-Längst ned lägger du till några detaljer. Jag tycker att sidprestanda ofta är populärt hos chefer, men nyckeln är att den är under det förgångna.
-De kan söka efter den om de vill ha den, men i annat fall har de data de behöver ställa frågor direkt:
+Längst ned lägger du till några detaljer. Jag tycker att sidprestanda ofta är populärt hos chefer, men nyckeln är att den är under det förgångna. De kan söka efter den om de vill ha den, men i annat fall har de data de behöver ställa frågor direkt:
 
 ![Stor kontrollpanel.png](assets/large-dashboard.png)
 
