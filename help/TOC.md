@@ -3,9 +3,9 @@ user-guide-title: Självstudiekurser om Adobe Analytics
 user-guide-description: Se videosjälvstudiekurser om Adobe Analytics och lär dig hur du får ut det mesta av dina data.
 breadcrumb-title: Självstudiekurser om Analytics
 solution: Analytics
-source-git-commit: b11a329ca3f5c676aea08c7037e5ee87003edfe6
+source-git-commit: db4cbbb061f4d0d4d1bc75463e7018ee55a8655e
 workflow-type: tm+mt
-source-wordcount: '2434'
+source-wordcount: '2435'
 ht-degree: 7%
 
 ---
@@ -58,6 +58,7 @@ ht-degree: 7%
       + [Analysis Workspace quick intro](analysis-workspace/analysis-workspace-basics/analysis-workspace-introduction.md)
       + [Översikt över Analysis Workspace](analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md)
       + [Navigera på den nya landningssidan](analysis-workspace/analysis-workspace-basics/navigating-the-new-landing-page.md)
+      + [Påbörja analysen med en färdig rapport](analysis-workspace/analysis-workspace-basics/start-your-analysis-with-a-pre-built-report.md)
       + [Bygga ett arbetsyteprojekt från grunden](analysis-workspace/analysis-workspace-basics/building-a-workspace-project-from-scratch.md)
       + [Skapa och hantera egna mallar i Analysis Workspace](analysis-workspace/analysis-workspace-basics/create-manage-custom-templates-in-analysis-workspace.md)
       + [Förstå hur data kommer in i ditt Analysis Workspace-projekt](analysis-workspace/analysis-workspace-basics/understanding-how-data-gets-into-your-analysis-workspace-project.md)
@@ -233,7 +234,6 @@ ht-degree: 7%
       + [Skapa en intern Adobe Analytics-webbplats](administration/admin-tips/create-an-internal-adobe-analytics-site.md)
       + [Använd en global rapportsvit](administration/admin-tips/use-a-global-report-suite.md)
       + [Skapa ett nytt projekt](administration/admin-tips/create-a-news-and-announcements-project.md)
-      + [Framgångsrik med instrumentpaneler för sammanfattningar](administration/admin-tips/driving-success-with-executive-summary-dashboards.md)
    + Företagsinställningar {#company-settings}
       + [Tvinga begränsningar för e-postdomän](administration/company-settings/enforce-email-domain-restrictions.md)
       + [Visa tillgängliga funktioner för ditt konto](administration/company-settings/view-your-accounts-available-features.md)
