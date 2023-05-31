@@ -7,9 +7,9 @@ kt: 2011
 role: User
 level: Beginner
 exl-id: 2f2ef013-1118-4c78-8877-c294654865e0
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '140'
+source-wordcount: '102'
 ht-degree: 0%
 
 ---
@@ -23,12 +23,3 @@ I den här videon visar vi hur du kan utnyttja två datumjämförelsefunktioner 
 Datumjämförelser är ett enkelt sätt att lägga till djup i de aktuella Analysis Workspace-tabellerna och hjälper dig att enkelt sätta aktuella data i perspektiv till historiska resultat.
 
 Mer information om den här funktionen finns i [dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/time-comparison.html?lang=en).
-
->[!INFO]
->
-> Den här videon ingår i två kurser:
->
-> * [Frihandsritningar, grunden för analys](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3)
-> * [Filtrera data med anpassad segmentering och datum](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata)
->
-> Båda finns gratis på Experience League!

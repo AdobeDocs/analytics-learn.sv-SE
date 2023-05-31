@@ -10,9 +10,9 @@ kt: 3972
 role: User
 level: Intermediate
 exl-id: b237a965-9fe6-4c9a-923e-31af1c019790
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
@@ -32,7 +32,3 @@ Anpassningar för [!UICONTROL Cohort Table] kan
 Den genomsnittliga raden är särskilt användbar för visning [!UICONTROL retention] eller [!UICONTROL churn] generellt, i stället för individuellt [!UICONTROL cohort] rader.
 
 Mer information om [!UICONTROL cohort] analys, gå till [dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/t-cohort.html?lang=en).
-
->[!INFO]
->
-> Den här videon är en del av en kurs [Attribuera värde till digitala kontaktytor på kundresan](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2), kan köpas kostnadsfritt på Experience League!

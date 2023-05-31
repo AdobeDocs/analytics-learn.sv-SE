@@ -8,10 +8,10 @@ topic: Administration
 role: Admin, Architect
 level: Beginner
 exl-id: 6bbca02c-e788-431b-bcdc-57cda794a76e
-source-git-commit: ecc86de650d87aa7f3d8d1cb6275f38b7cdca7e0
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '150'
-ht-degree: 2%
+source-wordcount: '115'
+ht-degree: 0%
 
 ---
 
@@ -20,7 +20,3 @@ ht-degree: 2%
 När du har definierat variablerna och händelserna som du ska använda i [!DNL Analytics] måste du gå in och konfigurera dem i [!DNL Admin Console], så att rapporterna/dimensionerna/mätvärdena har rätt namn och beteende. Den här videon visar var och hur du gör just det.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28755/?quality=12&learn=on)
-
->[!INFO]
->
-> Den här videon ingår i flera kurser [Implementering av guidad analys](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1) och [Konfiguration och administration av rapportsviter i Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration), kan köpas kostnadsfritt på Experience League!

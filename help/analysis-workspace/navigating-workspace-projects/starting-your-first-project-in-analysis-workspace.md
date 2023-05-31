@@ -9,10 +9,10 @@ thumbnail: 30368.jpg
 team: Technical Marketing
 kt: 4102
 exl-id: f13b349a-3f36-4b48-ae5a-5c045c58b069
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '71'
-ht-degree: 7%
+source-wordcount: '48'
+ht-degree: 0%
 
 ---
 
@@ -21,7 +21,3 @@ ht-degree: 7%
 Lär dig hur du skapar Analysis Workspace-projekt med hjälp av mallar. Detta är en tidsbesparande teknik jämfört med att skapa projekt manuellt och kan hjälpa nya användare att komma igång snabbt.
 
 >[!VIDEO](https://video.tv.adobe.com/v/30368/?quality=12&learn=on)
-
->[!INFO]
->
-> Den här videon ingår i en kurs: [Komma igång med Analysis Workspace](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace), kan köpas kostnadsfritt på Experience League!

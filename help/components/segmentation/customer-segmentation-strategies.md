@@ -8,9 +8,9 @@ doc-type: event
 thumbnail: 338829.jpg
 kt: 9404
 exl-id: c14474e8-658b-4607-8bf7-39a685ecbf4d
-source-git-commit: f59fdf873fc6aaee8aaa5bd244a31de931034c44
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '130'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,3 @@ ht-degree: 0%
 Delta i analysinsikterna för en analysstorsdag som fokuserar på kundsegmentering, strategier och bästa metoder. Carolyn Sebasky på athenahealth går igenom en fallstudie om hur hennes organisation har integrerat data från Demandbase och CRM i Adobe Analytics för analys, och sedan Adobe Target för personalisering. Obs! Visualiseringar har justerats så att känsliga data inte avslöjas.
 
 >[!VIDEO](https://video.tv.adobe.com/v/338829/?quality=12&learn=on)
-
->[!INFO]
->
-> Den här videon är en del av en kurs [Filtrera data med anpassad segmentering och datum](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata), kan köpas kostnadsfritt på Experience League!

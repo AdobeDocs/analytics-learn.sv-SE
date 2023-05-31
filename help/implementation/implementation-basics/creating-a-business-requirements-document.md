@@ -7,10 +7,10 @@ level: Beginner
 kt: 3580
 thumbnail: 28758.jpg
 exl-id: b86869d2-7c43-485d-98b3-4f7bebc4f420
-source-git-commit: ecc86de650d87aa7f3d8d1cb6275f38b7cdca7e0
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '135'
-ht-degree: 2%
+source-wordcount: '115'
+ht-degree: 0%
 
 ---
 
@@ -23,7 +23,3 @@ Lär dig mer om det viktiga steget att definiera de beteendedata som du vill hä
 [Hämta](assets/aa-implementation-playbook.xlsx) en Excel-exempelmall som dokumenterar krav och datainsamlingsdesign för dina digitala egenskaper.
 
 [Hämta](assets/geometrixx-clothiers-brd-sdr.xlsx) det Excel-dokument som visas i den här videon och/eller tittar på det relaterade [referensvideo för lösningsdesign](creating-and-maintaining-an-sdr.md).
-
->[!INFO]
->
-> Den här videon är en del av en kurs [Implementering av guidad analys](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1), kan köpas kostnadsfritt på Experience League!

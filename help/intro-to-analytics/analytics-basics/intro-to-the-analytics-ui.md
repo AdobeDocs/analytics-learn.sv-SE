@@ -6,10 +6,10 @@ kt: 3567
 role: User
 level: Beginner
 exl-id: f979ce69-935d-4273-a5dc-b09aee82166d
-source-git-commit: ecc86de650d87aa7f3d8d1cb6275f38b7cdca7e0
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 4%
+source-wordcount: '67'
+ht-degree: 0%
 
 ---
 
@@ -18,7 +18,3 @@ ht-degree: 4%
 I den här videon går du till Adobe Analytics gränssnitt och visar var du hittar de verktyg du behöver när du implementerar och när du gör analyser.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28748/?quality=12&learn=on)
-
->[!INFO]
->
-> Den här videon är en del av en kurs [Implementering av guidad analys](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1), kan köpas kostnadsfritt på Experience League!

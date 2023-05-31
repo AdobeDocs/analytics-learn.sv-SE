@@ -10,9 +10,9 @@ kt: 6067
 role: User
 level: Intermediate
 exl-id: b5843678-6444-453b-a9c9-1e301ffca876
-source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '312'
+source-wordcount: '286'
 ht-degree: 3%
 
 ---
@@ -38,7 +38,3 @@ Det finns många sätt att utveckla din attribueringsmetod med Adobe Analytics. 
 * 4:30 - Kolumninställningarna kan uppdateras gruppvis nu i stället för 1 x 1. Läs mer på 8:45 i videon: [Rad- och kolumninställningar i frihandstabeller](../building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
 
 Mer information finns på [dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html).
-
->[!INFO]
->
-> Den här videon är en del av en kurs [Attribuera värde till digitala kontaktytor på kundresan](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2), kan köpas kostnadsfritt på Experience League!

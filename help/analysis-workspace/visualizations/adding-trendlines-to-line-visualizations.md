@@ -7,9 +7,9 @@ kt: 6833
 role: User
 level: Beginner
 exl-id: cef228e1-945f-44e2-80cd-d22842fd05a4
-source-git-commit: c9f3316fe30d6cfc505dd2c3238b1b6f0661a709
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '142'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,3 @@ Under [!UICONTROL Visualization Settings]kan du välja att lägga till en regres
 Mer information finns i [dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/line.html?lang=en#analysis-workspace).
 
 Om du vill exportera glidande medelvärden eller vill lägga till många medelvärden i en tabell samtidigt, kan du skapa beräknade värden i stället. Läs mer i [den här videon](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/using-the-cumulative-average-function-to-apply-metric-smoothing.html#analysis-workspace).
-
->[!INFO]
->
-> Den här videon ingår i en kurs: [Använda visualiseringar för att berätta dina databerättelser](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations), kan köpas kostnadsfritt på Experience League!

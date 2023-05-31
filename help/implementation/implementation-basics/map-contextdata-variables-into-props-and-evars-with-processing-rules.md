@@ -7,9 +7,9 @@ role: User
 level: Intermediate
 thumbnail: 26124.jpg
 exl-id: 37729e4a-f33f-4564-a49e-95ee371c1687
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '112'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,3 @@ När du använder [!DNL contextData] -variabler i Adobe Analytics-implementering
 >[!VIDEO](https://video.tv.adobe.com/v/26124/?quality=12&learn=on)
 
 Mer information finns i [dokumentation](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/processing-rules/processing-rules.html?lang=en).
-
->[!INFO]
->
-> Den här videon är en del av en kurs [Konfiguration och administration av rapportsviter i Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration), kan köpas kostnadsfritt på Experience League!

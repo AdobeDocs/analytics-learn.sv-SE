@@ -7,9 +7,9 @@ kt: 6176
 role: User
 level: Beginner
 exl-id: 73791a22-a4f1-4fc9-a192-b7aa1d8b9142,ac127eac-2752-424b-aa1b-18a9688d42db
-source-git-commit: 3cddbed3646c8e6c003088d58d84be6db9257574
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '89'
 ht-degree: 0%
 
 ---
@@ -32,7 +32,3 @@ Lär dig allt om att arbeta med dimensioner i frihandstabeller, inklusive att l�
 * Dimensioner som filter (8:30)
 * Uppdelningar (9:48)
 * Rankade, över tid och trendrapporter (13:11)
-
->[!INFO]
->
-> Den här videon ingår i en kurs: [Frihandsritningar, grunden för analys](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3), kan köpas kostnadsfritt på Experience League!

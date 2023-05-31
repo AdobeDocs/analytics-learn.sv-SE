@@ -7,9 +7,9 @@ kt: 2918
 role: User
 level: Beginner
 exl-id: 47bd517d-d315-46bd-a17e-c01574a7bb7d
-source-git-commit: 812184643b5c4a5c01dea2b2f49b57049c1805da
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '117'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,3 @@ Den nya [!UICONTROL Distinct Count] operatorer i [!UICONTROL Segment builder] ka
 Kan den här funktionen vara coolare? :)
 
 Mer information finns på [dokumentation](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segment-reference/seg-operators.html?lang=en).
-
->[!INFO]
->
-> Den här videon är en del av en kurs [Filtrera data med anpassad segmentering och datum](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata), kan köpas kostnadsfritt på Experience League!

@@ -7,9 +7,9 @@ kt: 1944
 role: User
 level: Beginner
 exl-id: 8abd1788-6c65-400a-94d9-42e71f0dfbbe
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '203'
+source-wordcount: '177'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,3 @@ Panelens listrutezon har nu funktioner för nedrullningsbar filtrering. Med nedr
 Listrutor är ett praktiskt sätt att konsolidera projekt och paneler. Om du till exempel har flera versioner av ett projekt som innehåller landsspecifik rapportering kan du nu komprimera dessa projekt till ett enda projekt och lägga till i en listruta där användarna kan växla mellan.
 
 Mer information finns på [dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/panels.html?lang=en).
-
->[!INFO]
->
-> Den här videon är en del av en kurs [Filtrera data med anpassad segmentering och datum](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata), kan köpas kostnadsfritt på Experience League!

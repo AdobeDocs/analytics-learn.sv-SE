@@ -12,10 +12,10 @@ topic: Administration
 role: Admin
 level: Beginner
 exl-id: 2d8692e0-a2f9-4edc-9a26-421aeac4a85a
-source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '79'
-ht-degree: 21%
+source-wordcount: '52'
+ht-degree: 32%
 
 ---
 
@@ -26,7 +26,3 @@ Lär dig hur du lägger till en användare som administratör i Adobe Admin Cons
 >[!VIDEO](https://video.tv.adobe.com/v/37648/?quality=12&learn=on)
 
 Läs mer på [dokumentation](https://helpx.adobe.com/se/enterprise/using/admin-console.html).
-
->[!INFO]
->
-> Den här videon är en del av en kurs [Konfiguration och administration av rapportsviter i Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration), kan köpas kostnadsfritt på Experience League!

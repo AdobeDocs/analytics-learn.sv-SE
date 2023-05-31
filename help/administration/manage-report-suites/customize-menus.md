@@ -9,9 +9,9 @@ doc-type: feature video
 thumbnail: 333035.jpg
 kt: 7707
 exl-id: 7465f4f9-0afb-447e-a8fe-ea46ac71e439
-source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '159'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,3 @@ Vi rekommenderar att du använder Analysis Workspace för att analysera dina dat
 >[!VIDEO](https://video.tv.adobe.com/v/333035/?quality=12&learn=on)
 
 Mer information finns på [dokumentation](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/customize-menus.html).
-
->[!INFO]
->
-> Den här videon är en del av en kurs [Konfiguration och administration av rapportsviter i Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration), kan köpas kostnadsfritt på Experience League!

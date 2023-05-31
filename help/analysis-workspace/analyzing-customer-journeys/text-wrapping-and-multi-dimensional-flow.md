@@ -12,9 +12,9 @@ kt: 2281
 role: User
 level: Beginner
 exl-id: da173124-ce09-4be3-9418-8791acd16240
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '88'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,3 @@ I den här videon visas hur du aktiverar och inaktiverar trunkering av etiketter
 >[!VIDEO](https://video.tv.adobe.com/v/24041/?quality=12&learn=on)
 
 Mer information om den här funktionen finns på [dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow.html?lang=en).
-
->[!INFO]
->
-> Den här videon är en del av en kurs [Attribuera värde till digitala kontaktytor på kundresan](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2), kan köpas kostnadsfritt på Experience League!

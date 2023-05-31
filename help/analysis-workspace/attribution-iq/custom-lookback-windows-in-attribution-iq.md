@@ -11,10 +11,10 @@ kt: 5553
 role: User
 level: Intermediate
 exl-id: eea84902-834c-4826-91cd-5d258fcb4f0e
-source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '167'
-ht-degree: 41%
+source-wordcount: '141'
+ht-degree: 49%
 
 ---
 
@@ -25,7 +25,3 @@ Med anpassade summeringsfönster kan du expandera attribueringsfönstret utanfö
 >[!VIDEO](https://video.tv.adobe.com/v/36204/?quality=12&learn=on)
 
 Mer information finns i [dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html#lookback-windows)
-
->[!INFO]
->
-> Den här videon är en del av en kurs [Attribuera värde till digitala kontaktytor på kundresan](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2), kan köpas kostnadsfritt på Experience League!

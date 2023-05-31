@@ -7,9 +7,9 @@ kt: 2103
 role: User
 level: Beginner
 exl-id: 35ac587e-33af-4bd3-8d68-7683d09a54ee
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '145'
+source-wordcount: '119'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,3 @@ Att förstå de verkliga skillnaderna mellan marknadsföringssegment har alltid 
 >[!VIDEO](https://video.tv.adobe.com/v/23976/?quality=12&learn=on)
 
 Mer information om den här funktionen finns i [dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/segment-comparison/segment-comparison.html?lang=en).
-
->[!INFO]
->
-> Den här videon är en del av en kurs [Filtrera data med anpassad segmentering och datum](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata), kan köpas kostnadsfritt på Experience League!

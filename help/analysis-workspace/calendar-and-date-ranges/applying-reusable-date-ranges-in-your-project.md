@@ -8,9 +8,9 @@ doc-type: feature video
 thumbnail: 338293.jpg
 kt: 9293
 exl-id: a49b4bf3-a28e-4125-a8f9-d46f5531affa
-source-git-commit: f59fdf873fc6aaee8aaa5bd244a31de931034c44
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '140'
+source-wordcount: '114'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,3 @@ Om du använder anpassade datum- och datumintervall i din produkt kan du få hj�
 >[!VIDEO](https://video.tv.adobe.com/v/338293/?quality=12&learn=on)
 
 Mer information finns på [dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/calendar.html?lang=en).
-
->[!INFO]
->
-> Den här videon är en del av en kurs [Filtrera data med anpassad segmentering och datum](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata), kan köpas kostnadsfritt på Experience League!

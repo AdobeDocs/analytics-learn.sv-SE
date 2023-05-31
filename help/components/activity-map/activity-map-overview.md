@@ -7,9 +7,9 @@ kt: 2349
 role: User
 level: Beginner
 exl-id: c1751182-bf6d-441b-9ffa-d9d40de20bb9
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '98'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,3 @@ ht-degree: 0%
 >[!VIDEO](https://video.tv.adobe.com/v/25451/?quality=12&learn=on)
 
 Mer information om den här funktionen finns på [dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/activity-map/activity-map.html?lang=en).
-
->[!INFO]
->
-> Den här videon är en del av en kurs [Konfiguration och administration av rapportsviter i Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration), kan köpas kostnadsfritt på Experience League!

@@ -7,9 +7,9 @@ kt: 2105
 role: User
 level: Beginner
 exl-id: 01d83596-7de8-4b12-96e7-1770804b99dc,77a96a0a-f4a4-402e-b245-bfb83622a7e7
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: '70'
 ht-degree: 0%
 
 ---
@@ -19,8 +19,3 @@ ht-degree: 0%
 I den här videon visas hur du kan begränsa användare av ett projekt i Analysis Workspace till ett visst segment (eller segment) när de arbetar med verktyget.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24038/?quality=12&learn=on)
-
->[!INFO]
->
-> Den här videon är en del av en kurs [Filtrera data med anpassad segmentering och datum](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata), kan köpas kostnadsfritt på Experience League!
-

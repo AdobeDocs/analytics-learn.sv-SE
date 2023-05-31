@@ -7,9 +7,9 @@ kt: 1661
 role: User
 level: Intermediate
 exl-id: adf48696-d495-43a3-9421-993434f35962,28b1dbc4-315b-47d5-82f7-4b394ed31ad8
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '78'
 ht-degree: 0%
 
 ---
@@ -29,10 +29,3 @@ Varje attribuering [!UICONTROL model] har fullt stöd för segmentering och uppd
 * [!DNL Adobe Analytics Prime]
 * [!DNL Adobe Analytics Ultimate]
 
->[!INFO]
->
-> Den här videon ingår i en kurs: [Frihandsritningar, grunden för analys](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3), kan köpas kostnadsfritt på Experience League!
-
->[!INFO]
->
-> Den här videon är en del av en kurs [Attribuera värde till digitala kontaktytor på kundresan](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2), kan köpas kostnadsfritt på Experience League!

@@ -7,9 +7,9 @@ kt: 2854
 role: User
 level: Beginner
 exl-id: c5d6ec8d-3d45-45bc-b690-97185d74bd18
-source-git-commit: 812184643b5c4a5c01dea2b2f49b57049c1805da
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '117'
+source-wordcount: '92'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,3 @@ ht-degree: 0%
 Den längre tidsperioden som [!UICONTROL metric] är trender, desto svårare är det att berätta om riktningstrender för [!UICONTROL metric]. För att lösa det här [!UICONTROL Cumulative Average] [!UICONTROL function] in [!UICONTROL Calculated Metrics] kan användas för att använda utjämning på [!UICONTROL metrics] i Analysis Workspace.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27068/?quality=12&learn=on)
-
->[!INFO]
->
-> Den här videon ingår i en kurs: [Använda visualiseringar för att berätta dina databerättelser](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations), kan köpas kostnadsfritt på Experience League!

@@ -11,9 +11,9 @@ kt: 2278
 role: User
 level: Beginner
 exl-id: 64097031-55a3-458b-bf5b-18ed4babb956
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '87'
+source-wordcount: '61'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,3 @@ I den här videon visas hur du jämför viktiga arbetsflöden mellan olika segme
 >[!VIDEO](https://video.tv.adobe.com/v/24046/?quality=12&learn=on)
 
 Mer information om den här funktionen finns på [dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/compare-segments-fallout.html?lang=en).
-
->[!INFO]
->
-> Den här videon är en del av en kurs [Attribuera värde till digitala kontaktytor på kundresan](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2), kan köpas kostnadsfritt på Experience League!

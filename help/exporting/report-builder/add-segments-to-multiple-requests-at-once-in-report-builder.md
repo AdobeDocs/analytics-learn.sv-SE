@@ -8,9 +8,9 @@ doc-type: feature video
 thumbnail: 25445.jpg
 kt: 2344
 exl-id: db5b7623-d863-4ecd-9902-8b20f6aea257
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '88'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,3 @@ Den här videon visar hur du kan använda [!UICONTROL Report Builder] för att l
 >[!VIDEO](https://video.tv.adobe.com/v/25445/?quality=12&learn=on)
 
 Mer information om den här funktionen finns på [dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/home.html?lang=en).
-
->[!INFO]
->
-> Den här videon är en del av en kurs [Exportera och demokratisera Adobe Analytics-data](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing), kan köpas kostnadsfritt på Experience League!

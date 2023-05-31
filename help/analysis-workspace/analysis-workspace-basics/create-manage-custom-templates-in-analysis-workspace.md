@@ -8,9 +8,9 @@ doc-type: feature video
 thumbnail: 23231.jpg
 kt: 1695
 exl-id: 8bd32aea-5015-4cae-979f-b2100f329c8a
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '146'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,3 @@ Analysis Workspace innehåller flera fördefinierade mallar som kan hjälpa dig 
 
 Mer information om standardmallar och anpassade mallar finns på [dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/starter-projects.html).
 
->[!INFO]
->
-> Den här videon är en del av en kurs [Exportera och demokratisera Adobe Analytics-data](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing), kan köpas kostnadsfritt på Experience League!

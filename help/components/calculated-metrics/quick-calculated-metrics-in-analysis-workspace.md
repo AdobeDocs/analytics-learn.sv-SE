@@ -7,9 +7,9 @@ kt: 1666
 role: User
 level: Beginner
 exl-id: 461dc5f8-b52e-47ce-b2c4-afe4426dab16
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '112'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,3 @@ ht-degree: 0%
 Nu kan du bygga [!UICONTROL calculated metrics] i farten inom Analysis Workspace.  Om du vill göra en snabb procentuell ändring eller uppdelning med några få [!UICONTROL metrics] i [!UICONTROL freeform table]väljer du bara [!UICONTROL metrics] i sidhuvudet högerklickar du och väljer önskad operator.  Den nya [!UICONTROL calculated metric] visas till höger.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23126/?quality=12&learn=on)
-
->[!INFO]
->
-> Den här videon ingår i en kurs: [Frihandsritningar, grunden för analys](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3), kan köpas kostnadsfritt på Experience League!

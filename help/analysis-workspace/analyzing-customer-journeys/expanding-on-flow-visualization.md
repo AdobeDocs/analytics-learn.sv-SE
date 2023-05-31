@@ -11,9 +11,9 @@ kt: 2280
 role: User
 level: Beginner
 exl-id: 080edb20-1005-4a9e-8067-167a2dd575be
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '85'
 ht-degree: 0%
 
 ---
@@ -26,6 +26,3 @@ I den här videon visas de olika högerklicksalternativen som finns i [!DNL Flow
 
 Mer information om den här funktionen finns på [dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/flow/flow.html?lang=en#analysis-workspace).
 
->[!INFO]
->
-> Den här videon är en del av en kurs [Attribuera värde till digitala kontaktytor på kundresan](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2), kan köpas kostnadsfritt på Experience League!

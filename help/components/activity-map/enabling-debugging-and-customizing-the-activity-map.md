@@ -8,9 +8,9 @@ kt: 1995
 role: User
 level: Beginner
 exl-id: 4160b974-fbdb-42e7-b77d-e1322db433b3
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: '50'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,3 @@ ht-degree: 0%
 Lär dig hur du aktiverar, felsöker och anpassar [!UICONTROL Activity Map] distribueras i Adobe Analytics-tillägget.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25878?quality=12&learn=on)
-
->[!INFO]
->
-> Den här videon är en del av en kurs [Konfiguration och administration av rapportsviter i Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration), kan köpas kostnadsfritt på Experience League!

@@ -7,9 +7,9 @@ kt: 1771
 role: User
 level: Beginner
 exl-id: ffae778a-63a1-4587-94fe-a2ad16931b3a
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '150'
+source-wordcount: '125'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,3 @@ I den här videon visas hur du använder kartvisualiseringen i Analysis Workspac
 >[!VIDEO](https://video.tv.adobe.com/v/23559/?quality=12&learn=on)
 
 Mer information om denna visualisering finns på [dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/map-visualization.html?lang=en).
-
->[!INFO]
->
-> Den här videon ingår i en kurs: [Använda visualiseringar för att berätta dina databerättelser](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations), kan köpas kostnadsfritt på Experience League!

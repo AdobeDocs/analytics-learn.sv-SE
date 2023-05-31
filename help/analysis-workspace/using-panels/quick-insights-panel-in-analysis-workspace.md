@@ -7,10 +7,10 @@ kt: 5838
 role: User
 level: Beginner
 exl-id: af6da0a2-9273-480c-a915-bd5bab7d5c5d
-source-git-commit: 561a36a8e3dc62b99c0efef2d62480b5a2e2f206
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 53%
+source-wordcount: '66'
+ht-degree: 72%
 
 ---
 
@@ -21,7 +21,3 @@ ht-degree: 53%
 >[!VIDEO](https://video.tv.adobe.com/v/37248/?quality=12&learn=on)
 
 Mer information finns i [dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/quickinsight.html).
-
->[!INFO]
->
-> Den här videon ingår i en kurs: [Frihandsritningar, grunden för analys](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3), kan köpas kostnadsfritt på Experience League!

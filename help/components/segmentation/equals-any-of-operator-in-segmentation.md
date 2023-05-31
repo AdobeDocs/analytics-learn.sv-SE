@@ -7,9 +7,9 @@ kt: 4844
 role: User
 level: Beginner
 exl-id: ed4eccc6-a56e-4767-aeea-046bbbb7ee9c
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '138'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,3 @@ ht-degree: 0%
 >[!VIDEO](https://video.tv.adobe.com/v/32960/?quality=12&learn=on)
 
 Mer information finns på [dokumentation](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segment-reference/seg-operators.html)
-
->[!INFO]
->
-> Den här videon är en del av en kurs [Filtrera data med anpassad segmentering och datum](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata), kan köpas kostnadsfritt på Experience League!

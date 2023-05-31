@@ -7,9 +7,9 @@ kt: 1707
 role: User
 level: Intermediate
 exl-id: 948fcfc7-7a43-43a0-987c-587b0fd56599
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '106'
 ht-degree: 0%
 
 ---
@@ -21,8 +21,3 @@ I den här videon får du lära dig hur du använder [!DNL Attribution IQ] [!UIC
 >[!VIDEO](https://video.tv.adobe.com/v/23743/?quality=12&learn=on)
 
 När du gör analyser på din webbplats kommer du ofta att använda segment för att fokusera på en viss grupp besökare, besök eller träffar. När du gör detta bör du nu lägga till ett steg för att överväga vilken attribueringsmodell som fungerar bäst tillsammans med segmentet, mätvärden och den övergripande rapporten.
-
->[!INFO]
->
-> Den här videon är en del av en kurs [Filtrera data med anpassad segmentering och datum](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata), kan köpas kostnadsfritt på Experience League!
-

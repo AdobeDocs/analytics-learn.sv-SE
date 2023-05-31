@@ -6,10 +6,10 @@ kt: 3591
 role: Developer, Data Engineer
 level: Beginner
 exl-id: ae600143-87cc-435d-bba2-0bce929070ac
-source-git-commit: ecc86de650d87aa7f3d8d1cb6275f38b7cdca7e0
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 4%
+source-wordcount: '79'
+ht-degree: 0%
 
 ---
 
@@ -18,7 +18,3 @@ ht-degree: 4%
 I den här videon visas hur du använder [!DNL Experience Platform Launch] för att spåra konverteringshändelser (AKA success events) på din webbplats. Det här visas när du spårar en programprocess på en exempelwebbplats.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28778/?quality=12&learn=on)
-
->[!INFO]
->
-> Den här videon är en del av en kurs [Implementering av guidad analys](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1), kan köpas kostnadsfritt på Experience League!
