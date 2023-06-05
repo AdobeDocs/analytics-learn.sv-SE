@@ -3,9 +3,9 @@ title: Enkla hacks för ökad effektivitet och självbetjäning - del två
 description: Läs om de stora utmaningarna som Analytics-team står inför idag och våra rekommendationer för att lösa dem med hjälp av strategier som bygger på verktyg.
 solution: Analytics
 exl-id: e3ad6c3c-7a95-424b-8757-42fef48bc22c
-source-git-commit: 2d0da239646660a7fb0895fa55a468131193bf0b
+source-git-commit: 7224af1bd798d447f1b14c61e836f8e5c8af7ea4
 workflow-type: tm+mt
-source-wordcount: '777'
+source-wordcount: '705'
 ht-degree: 2%
 
 ---
@@ -15,8 +15,6 @@ ht-degree: 2%
 **Del 2: Verktygsspecifika strategier**
 
 I den här artikeln beskrivs de stora utmaningar som analysteam står inför idag och våra rekommendationer för att lösa dem med hjälp av strategier som bygger på verktyg. Gå [här](/help/strategy/analytics-simple-hacks-for-efficiency-part-one.md) för del ett.
-
-Mer information om effektiva lösningar utanför Adobe Analytics finns här: [här](https://docs.google.com/document/d/1fSrC/_yHW04K61K0Phe4dtg1nCU4jDsqrHWc8KVvsJWk/edit?usp=sharing)
 
 ## Effektivitetstangenter: Verktygsspecifika strategier
 
@@ -93,7 +91,5 @@ Använd anteckningar för att skapa dokumentationsreferenser för lösningar i p
 ## Rapporterings-API för Adobe 2.0
 
 Använd rapporterings-API:t för att flytta standardrapporter från [!UICONTROL Workspace] till schemalagda rapporter och kontrollpaneler. Dessutom kan du dra nytta av [!UICONTROL Analysis Workspace] för att skapa API-begäranden.
-
-Vi hoppas att du har tyckte att den här artikeln om strategier i verktyget är värdefull. Mer information om effektiva lösningar utanför Adobe Analytics finns här: [här](https://docs.google.com/document/d/1fSrC/_yHW04K61K0Phe4dtg1nCU4jDsqrHWc8KVvsJWk/edit?usp=sharing).
 
 Läs mer om strategi och tankeledarskap på [Nöjda kunder](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html) nav.

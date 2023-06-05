@@ -7,9 +7,9 @@ level: Beginner
 kt: 1852
 thumbnail: 25899.jpg
 exl-id: 408ceb47-df05-4456-85bb-0ef2798a05a5
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 7224af1bd798d447f1b14c61e836f8e5c8af7ea4
 workflow-type: tm+mt
-source-wordcount: '315'
+source-wordcount: '301'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ Använda ett datalager för [!DNL Analytics] och andra Experience Cloud-lösning
 
 A _datalager_ är ett ramverk med JavaScript-objekt som utvecklare lägger till på digitala webbsidor. Analyslösningar använder slutligen datalagret för att fylla i rapporter. Tagghanteringssystem, inklusive [!DNL Experience Platform Tags]) är de mellanhänder som läser datalagret, mappar värdena till variabler och skickar dessa data till digitala upplevelselösningar.
 
-Granska ytterligare information om datalager i [Experience Cloud dokumentation](https://experienceleague.adobe.com/docs/analytics/implementation/prepare/data-layer.html?lang=en) och bloggen [Datalager: Från Buzzword till Best Practice](https://blog.adobe.com/en/2014/03/13/data-layers-buzzword-best-practice).
+Granska ytterligare information om datalager i [Experience Cloud dokumentation](https://experienceleague.adobe.com/docs/analytics/implementation/prepare/data-layer.html?lang=en).
 
 ## datalager, [!DNL Experience Platform Tags]och Adobe Analytics{#data-layers-launch-and-adobe-analytics}
 
