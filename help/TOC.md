@@ -3,9 +3,9 @@ user-guide-title: Självstudiekurser om Adobe Analytics
 user-guide-description: Se videosjälvstudiekurser om Adobe Analytics och lär dig hur du får ut det mesta av dina data.
 breadcrumb-title: Självstudiekurser om Analytics
 solution: Analytics
-source-git-commit: 4d4e29d3dbc3cedf1847b7fa9cb79ea85fc36296
+source-git-commit: 2fc695b576b9334aff52fe7a8eb4e88ab38a4b71
 workflow-type: tm+mt
-source-wordcount: '2444'
+source-wordcount: '2443'
 ht-degree: 7%
 
 ---
@@ -87,7 +87,6 @@ ht-degree: 7%
       + [Använda tabeller, visualiseringar och paneler i Analysis Workspace](analysis-workspace/using-panels/using-tables-visualizations-and-panels.md)
       + [Panelen Quick Insights i Analysis Workspace](analysis-workspace/using-panels/quick-insights-panel-in-analysis-workspace.md)
       + [Använda panelen Attribution IQ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-the-attribution-iq-panel.html)
-      + [Om Adobe Analytics Attribution Panel &amp; Lookback Windows](analysis-workspace/using-panels/understanding-adobe-analytics-attribution-panel-and-lookback-windows.md)
       + [Media Concurrent Viewer Panel i Analysis Workspace](analysis-workspace/using-panels/media-concurrent-viewers-panel-in-analysis-workspace.md)
       + [Medieuppspelningstid spenderad panel](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/media-analytics/measuring-media-analytics/media-playback-time-spent-panel.html)
       + [Använda nedrullningsbara filter](analysis-workspace/using-panels/using-drop-down-filters.md)
@@ -236,6 +235,7 @@ ht-degree: 7%
       + [Skapa en intern Adobe Analytics-webbplats](administration/admin-tips/create-an-internal-adobe-analytics-site.md)
       + [Använd en global rapportsvit](administration/admin-tips/use-a-global-report-suite.md)
       + [Skapa ett nytt projekt](administration/admin-tips/create-a-news-and-announcements-project.md)
+      + [Skapa framgångsrika statuspaneler](administration/admin-tips/driving-success-with-executive-summary-dashboards.md)
    + Företagsinställningar {#company-settings}
       + [Tvinga begränsningar för e-postdomän](administration/company-settings/enforce-email-domain-restrictions.md)
       + [Visa tillgängliga funktioner för ditt konto](administration/company-settings/view-your-accounts-available-features.md)
