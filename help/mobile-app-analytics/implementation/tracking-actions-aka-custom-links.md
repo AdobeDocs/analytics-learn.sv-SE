@@ -11,7 +11,7 @@ topic: Mobile
 role: Developer, Data Engineer
 level: Experienced
 exl-id: 541c51b8-638e-43b4-90ac-0ce94290a141
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 4d467928756950074620388645523021b21fb0d5
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
@@ -28,4 +28,4 @@ Det här är det API som du bör använda för att spåra alla åtgärder som in
 
 Dessa data kommer in som `contextData`, vilket även innebär att du då måste använda [!UICONTROL Processing Rules] att hämta in mobildata från dessa `contextData` variabler och mappa dem till [!DNL eVars], [!DNL Props], händelser osv. i Adobe Analytics.
 
-Mer information om trackAction finns i [dokumentation](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core/configuration-reference/mobile-core-api-reference).
+Mer information om trackAction finns i [dokumentation](https://developer.adobe.com/client-sdks/documentation/getting-started/track-events/#track-user-actions-for-adobe-analytics).
