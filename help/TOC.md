@@ -3,9 +3,9 @@ user-guide-title: Självstudiekurser om Adobe Analytics
 user-guide-description: Se videosjälvstudiekurser om Adobe Analytics och lär dig hur du får ut det mesta av dina data.
 breadcrumb-title: Självstudiekurser om Analytics
 solution: Analytics
-source-git-commit: 2fc695b576b9334aff52fe7a8eb4e88ab38a4b71
+source-git-commit: 0e99202f5861310370cba2753339e8a9a45d6804
 workflow-type: tm+mt
-source-wordcount: '2443'
+source-wordcount: '2438'
 ht-degree: 7%
 
 ---
@@ -37,7 +37,6 @@ ht-degree: 7%
       + [Analyscykeln](intro-to-analytics/analytics-basics/understanding-the-analytics-cycle.md)
       + [Hur analysdata samlas in](intro-to-analytics/analytics-basics/how-analytics-data-is-collected.md)
       + [Logga in på Adobe Analytics](intro-to-analytics/analytics-basics/logging-in-to-adobe-analytics.md)
-      + [Introduktion till analysgränssnittet](intro-to-analytics/analytics-basics/intro-to-the-analytics-ui.md)
       + [Förstå och skapa rapportsviter](intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.md)
       + [Grundläggande besöksmått](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/understanding-basic-visitor-metrics.html)
       + [Introduktion till trafikvariabler (Props)](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-traffic-variables-props.html)
