@@ -3,9 +3,9 @@ user-guide-title: Självstudiekurser om Adobe Analytics
 user-guide-description: Se videosjälvstudiekurser om Adobe Analytics och lär dig hur du får ut det mesta av dina data.
 breadcrumb-title: Självstudiekurser om Analytics
 solution: Analytics
-source-git-commit: 0e99202f5861310370cba2753339e8a9a45d6804
+source-git-commit: e4975a7fad9eb42ab4d2bbad99efb73cabea564e
 workflow-type: tm+mt
-source-wordcount: '2438'
+source-wordcount: '2445'
 ht-degree: 7%
 
 ---
@@ -65,11 +65,13 @@ ht-degree: 7%
       + [Komponenthantering i Analysis Workspace](analysis-workspace/analysis-workspace-basics/component-management-in-analysis-workspace.md)
       + [Välja en rapportsvit i Analysis Workspace](analysis-workspace/analysis-workspace-basics/selecting-a-report-suite-in-analysis-workspace.md)
       + [Visa Analysis Workspace prestandamått](analysis-workspace/analysis-workspace-basics/view-analysis-workspace-performance-metrics.md)
+      + [Skapa robotrapporter](analysis-workspace/analysis-workspace-basics/bot-reporting.md)
    + Tips och tricks {#tips-and-tricks}
       + [7 Tips och tricks för Analysis Workspace](analysis-workspace/tips-and-tricks/seven-tips-and-tricks-in-analysis-workspace.md)
       + [Högerklicka på tips och tricks för effektivare arbetsflöden](analysis-workspace/tips-and-tricks/right-click-tips-and-tricks-for-more-efficient-workflows.md)
       + [Tips för att öka produktiviteten i Analysis Workspace](analysis-workspace/tips-and-tricks/tips-to-increase-productivity-in-analysis-workspace.md)
       + [Kundtips för att fortsätta din Adobe Analytics Learning Journey](analysis-workspace/tips-and-tricks/customer-tips-for-continuing-your-adobe-analytics-learning-journey.md)
+      + [Skapa dynamiska nedrullningsbara filter](analysis-workspace/tips-and-tricks/dynamic-drop-downs.md)
    + Navigera i arbetsyteprojekt {#navigating-workspace-projects}
       + [Dataordlista i Analysis Workspace](analysis-workspace/navigating-workspace-projects/data-dictionary-in-analysis-workspace.md)
       + [Skapa projekt med mallar](analysis-workspace/navigating-workspace-projects/starting-your-first-project-in-analysis-workspace.md)
