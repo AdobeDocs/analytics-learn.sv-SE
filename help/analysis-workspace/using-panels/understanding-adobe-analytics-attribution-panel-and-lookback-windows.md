@@ -8,9 +8,9 @@ doc-type: Article
 last-substantial-update: 2023-06-20T00:00:00Z
 jira: KT-13181
 thumbnail: KT-13181.jpeg
-source-git-commit: ae6fb85c3903986940463a4133f7b46f5efb64e1
+source-git-commit: 486a708f735eeb87240c37306350ac0f69ffca84
 workflow-type: tm+mt
-source-wordcount: '1662'
+source-wordcount: '1682'
 ht-degree: 0%
 
 ---
@@ -46,7 +46,9 @@ I **attribuering** Tänk bara på hur händelser/händelser kan orsakas av en in
 Enligt [Adobe](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/attribution/overview.html?lang=en), *attribuering* ger analytiker möjlighet att anpassa hur *Dimension* artiklar får kredit för *success events*.
 
 
-**⛔** DETOUR: Bara en kort anteckning som visar att **attribueringsmodeller** är så ofta associerade med **marknadsföringskanaler** som jag menar *genomstruken* KANAL i bilden ovan för att visa att det går att utföra **attribuering** analys mot de flesta andra ***dimension***.
+>[!WARNING]
+>
+>**⛔** DETOUR: Bara en kort anteckning som visar att **attribueringsmodeller** är så ofta associerade med **marknadsföringskanaler** som jag menar *genomstruken* ❷ CHANNEL i bilden ovan för att visa att det går att utföra **attribuering** analys mot de flesta andra ***dimension***.
 
 
 Det är faktiskt sällan någon viss kundresa är helt linjär och ännu mindre förutsägbar.  I ännu högre grad kommer varje kund att fortsätta i sin egen takt. ofta kan de fördubbla, stoppa, släppa ut eller engagera sig i andra icke-linjära beteenden. Dessa organiska åtgärder gör det svårt eller praktiskt taget omöjligt att veta hur marknadsföringssatsningarna påverkar hela kundresan. Det hämmar också arbetet med att knyta samman olika datakanaler.
@@ -55,25 +57,27 @@ Det stämmer.  Låt era &quot;domino&quot;-anletsdrag vara vid dörren och öppn
 
 ## **Attributionsmodeller**
 
-När vi använder **attribueringspanel** kan vi börja observera flera olika saker.  Till exempel **attribueringsmodeller** visa oss hur *konverteringar* (dvs. ***framgångsmått***) kan fördelas över *träffar* i en viss grupp.
+När vi använder **attribueringspanel** kan vi börja observera flera olika saker.  Till exempel **attribueringsmodeller** visa oss hur *konverteringar* (dvs. ❶ **framgångsmått**) kan fördelas över *träffar* i en viss grupp.
 
 Kort sagt, om **10 personer** tryck på en **STOR RÖD-KNAPP** för att ta sig genom en dörr, vår **attribueringsmodeller** kommer att berätta vilka av dem **10 personer** vi vill tilldela &quot;kredit&quot; - eller ännu bättre säga, hur *mycket* &quot;credit&quot; vill vi tilldela dem - för att du trycker på knappen.
 
 ![Knapp](assets/button.png)
 
-Här är några exempel på hur **attribueringsmodeller** kan påverka **10 personer**:
+Här är några exempel på hur ❷ **attribueringsmodeller** kan påverka **10 personer**:
 
 - **Första beröringen**: Den här modellen fungerar exakt som den låter genom att **100 % kredit** till *först* person som gick genom dörren.  Marknadsförarna är mer benägna att använda den här metoden för taktiker som ***sociala medier*** eller ***visa***; Men det är också en bra taktik att ofta använda för att rekommendera produkter på plats.
 - **Senaste beröring**: Den här taktiken fungerar också exakt som den låter, men ger i stället **100 % kredit** till den sista personen som gick genom dörren.  Den här modellen används vanligtvis för att analysera saker som ***naturlig (organisk) sökning*** och andra *kortfristig* marknadsföringskampanjer.
 - **Linjär**: Den här modellen distribuerar lika mycket beröm till alla enskilda personer som gick genom dörren.
 
-Du bör dock vara försiktig här eftersom du kan sprida dina resultat mycket snabbt när du använder den här taktiken, med tanke på hur lång tid den är och ju större målgrupp den träffar.
+  >[!CAUTION]
+  >
+  >Du bör dock vara försiktig här eftersom du kan sprida dina resultat mycket snabbt när du använder den här taktiken, med tanke på hur lång tid den är och ju större målgrupp den träffar.
 
 - **U-formad**: Den här metoden tilldelar **40 %** av krediten till *första person* i dörren, uppslag **20 %** av krediten över *alla däremellan* och sedan ger **40 %** till **sista** genom. Den här modellen används oftast i situationer när du har en **lång konverterings-/försäljningscykel** innehållande *flera kontaktytor* längs vägen.  I det här fallet är ditt mål att i första hand lyfta fram ***först*** och ***sista*** marknadsföringstaktik som bidrog till att kunden konverterade.
 - **J**-**Form** och **Inverterad J**:
    - Fundera på **U-formad**, men i stället tilldelas i den här modellen **60 %** kreditera *senaste person* gå genom dörren, **20 %** till *först* och sedan *divides* återstående **20 %** tvärs över *alla andra* i mitten.  **Inverterad J** gör raka motsatsen.
 
-Målet här är att lägga större vikt vid dig, antingen i *början* eller *end* av er kampanj, Men du vill ändå tilldela ett visst belopp kredit till det bidragande objektet i motsatt ände samtidigt som du bekräftar &quot;små killar&quot; under resans gång.
+     Målet här är att lägga större vikt vid dig, antingen i *början* eller *end* av er kampanj, Men du vill ändå tilldela ett visst belopp kredit till det bidragande objektet i motsatt ände samtidigt som du bekräftar &quot;små killar&quot; under resans gång.
 
 - **Tidsminskning**: Nu skulle jag vara borta om jag inte delade den här. Den här modellen har bokstavligen en halveringstid som sjunker exponentiellt - med tiden!  I det här fallet *standard* parametern för den här modellens halveringstid är **7 dagar**.  Så fungerar det sedan *vikt* för varje **marknadsföringskanal**, *baserat på hur lång tid det tar* som skickas efter *inledande kontaktyta* och när kunden konverterar.
 
@@ -108,12 +112,23 @@ Så vad betyder allt det här för oss som analytiker?
 
 The **attribueringspanel** och **uppslagsfönster** ger oss möjlighet att se bortom alla kanaler, data på ytnivå och fördjupa oss i kundresan. Genom att förstå vilka kontaktytor som hade störst effekt på *konverteringar* kan vi fatta välgrundade beslut om våra marknadsföringsstrategier och fördela resurser mer effektivt.
 
-Kom ihåg, när du har **attribueringsmodeller** och **sökfönster** kan du fortfarande ändra dina data ytterligare genom att filtrera dem med  **segment,** eller någon annan komponent som du vill ha.  När panelen har renderats har du dessutom tillgång till alla funktioner i en traditionell arbetsyta.
+Kom ihåg, när du har **attribueringsmodeller** och **sökfönster** kan du fortfarande ändra dina data ytterligare genom att filtrera dem med en ❺ **segment,** eller någon annan komponent som du vill ha.  När panelen har renderats har du dessutom tillgång till alla funktioner i en traditionell arbetsyta.
 
 ## **Till sist i praktiken**
 
 Nu när du har lagt ner idéerna kan du föreställa dig att du kör en marknadsföringskampanj och försöker avgöra vilken kanal som är *mest effektiv* för konverteringar. Med hjälp av **attribueringspanel** kan du inte bara se **senaste beröring**, men även **första beröringen**, **samma beröring** och andra **modell** du väljer att avgöra vilka **kanaler** är *mest effektiv* när du kör *konverteringar*. Sedan kan den här informationen användas för att *optimera* era kampanjer och förbättra det övergripande resultatet genom att helt enkelt vrida tillbaka klockan med **uppslagsfönster** efter ditt val!
 
-Nu när du har sett vad det kan göra ska du inte luras eller skrämmas av de till synes komplexa funktionerna i attribueringspanelen.  **Ansiktet**.  *Reparera* den.  Förstå det*.* MEN DET FLESTA AV ALLA - *Använd det till din fördel.* The **attribueringspanel** och **uppslagsfönster** är nyckeln till en djupare förståelse för era kunder och deras resa med ert varumärke.
+Nu när du har sett vad det kan göra ska du inte luras eller skrämmas av de till synes komplexa funktionerna i attribueringspanelen.  **Ansiktet**.  *Reparera* den.  **Förstå** den.
+MEN DET FLESTA AV ALLA - *Använd det till din fördel.* The **attribueringspanel** och **uppslagsfönster** är nyckeln till en djupare förståelse för era kunder och deras resa med ert varumärke.
 
-Nu kan vi resa[tillbaka i tiden](https://youtu.be/gVryJmZNFdU)&quot; med tillförsikt och med hjälp av kraftfulla tidsmaskiner (alias ***Adobe Analytics***) för att fatta databaserade beslut.
+Nu kan vi resa[tillbaka i tiden](https://youtu.be/gVryJmZNFdU)&quot; med tillförsikt och med hjälp av styrkan hos vår tillförlitliga tidsmaskin (även känd som ***Adobe Analytics***) för att fatta databaserade beslut.
+
+## Upphovsman
+
+Det här dokumentet har skrivits av:
+
+![Jeff Bloomer](assets/jeff-headshot.png)
+
+**Jeff Bloomer**, Manager, Digital Analytics på Kroger Personal Finance
+
+Adobe Analytics Champion
