@@ -1,24 +1,22 @@
 ---
 title: Beräknade mått - segmenterade mått
-description: Lär dig hur du skapar segmenterade mätvärden i Adobe Analytics
+description: Lär dig hur du skapar beräknade mätvärden baserat på segment, så att du effektivare kan analysera besökare, besök och sidvyer som hör till dem.
 feature: Calculated Metrics
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
 kt: 2319
 role: User
 level: Beginner
 exl-id: c02b968d-aa0e-4a93-acd4-d8797533b182
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 18d3c3105c2c536a1f4e40b663bfcdf25934acaa
 workflow-type: tm+mt
-source-wordcount: '24'
-ht-degree: 0%
+source-wordcount: '73'
+ht-degree: 2%
 
 ---
 
-# [!UICONTROL Calculated metrics]: Segmenterade mått {#calculated-metrics-segmented-metrics}
+# [!UICONTROL Calculated metrics]: Segmenterade mätvärden {#calculated-metrics-segmented-metrics}
 
-Lär dig hur du skapar segmenterade mätvärden i Adobe Analytics
+Lär dig hur du skapar beräknade mätvärden baserat på segment, så att du effektivare kan analysera besökare, besök och sidvyer som hör till dem.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25409/?quality=12&learn=on)
+
+Mer information finns på [dokumentation](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetric-workflow/metrics-with-segments.html).
