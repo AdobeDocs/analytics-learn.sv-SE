@@ -3,9 +3,9 @@ user-guide-title: Självstudiekurser om Adobe Analytics
 user-guide-description: Se videosjälvstudiekurser om Adobe Analytics och lär dig hur du får ut det mesta av dina data.
 breadcrumb-title: Självstudiekurser om Analytics
 solution: Analytics
-source-git-commit: e4975a7fad9eb42ab4d2bbad99efb73cabea564e
+source-git-commit: f5027defc8853b3d66d8383bccba5928c8ea25aa
 workflow-type: tm+mt
-source-wordcount: '2445'
+source-wordcount: '2451'
 ht-degree: 7%
 
 ---
@@ -95,6 +95,7 @@ ht-degree: 7%
       + [Välja segment för en panel](analysis-workspace/using-panels/choose-segments-for-a-panel.md)
       + [Flera rapportsviter i Analysis Workspace](analysis-workspace/using-panels/multiple-report-suites-in-analysis-workspace.md)
       + [Paneler och rapporter för arbetsytan Nästa/Föregående och Sidsammanfattning](analysis-workspace/using-panels/next-previous-and-page-summary-workspace-panels-reports.md)
+      + [Om attribueringspanelen och uppslagsfönster](analysis-workspace/using-panels/understanding-adobe-analytics-attribution-panel-and-lookback-windows.md)
    + Bygger frihandstabeller {#building-freeform-tables}
       + [Förstå era data - frihandstabeller](analysis-workspace/building-freeform-tables/understand-your-data-freeform-tables.md)
       + [Använd den vänstra listen för att skapa frihandstabeller](analysis-workspace/building-freeform-tables/using-the-left-rail-to-build-freeform-tables-in-analysis-workspace.md)
