@@ -3,9 +3,9 @@ user-guide-title: Självstudiekurser om Adobe Analytics
 user-guide-description: Se videosjälvstudiekurser om Adobe Analytics och lär dig hur du får ut det mesta av dina data.
 breadcrumb-title: Självstudiekurser om Analytics
 solution: Analytics
-source-git-commit: f5027defc8853b3d66d8383bccba5928c8ea25aa
+source-git-commit: f9ef44adb364df5373c64cda4cead5f0a4da5eb9
 workflow-type: tm+mt
-source-wordcount: '2451'
+source-wordcount: '2446'
 ht-degree: 7%
 
 ---
@@ -84,6 +84,8 @@ ht-degree: 7%
       + [Anteckningar](analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace.md)
       + [Visa densitet](analysis-workspace/navigating-workspace-projects/view-density-in-analysis-workspace.md)
       + [Använda filter](analysis-workspace/navigating-workspace-projects/using-filters-tags-in-the-left-rail.md)
+   + Realtidsrapporter {#real-time-reports}
+      + [Realtidsrapportering](analysis-workspace/real-time-reports/realtime-reporting.md)
    + Använda paneler {#using-panels}
       + [Använda tabeller, visualiseringar och paneler i Analysis Workspace](analysis-workspace/using-panels/using-tables-visualizations-and-panels.md)
       + [Panelen Quick Insights i Analysis Workspace](analysis-workspace/using-panels/quick-insights-panel-in-analysis-workspace.md)
@@ -217,8 +219,6 @@ ht-degree: 7%
       + [Minska felfrekvensen och förbättra antalet lyckade försök i din röstapp](analysis-workspace/voice-analytics/reducing-error-rates-and-improving-success-rates-in-your-voice-app.md)
       + [Förstå användarbeteende för röstassistenter](analysis-workspace/voice-analytics/understand-user-behavior-on-voice-assistants.md)
       + [Förstå användarens röstresa](analysis-workspace/voice-analytics/understanding-the-users-voice-journey.md)
-+ Reports and Analytics {#reports-and-analytics}
-   + [Realtidsrapportering i Reports and Analytics](reports-and-analytics/realtime-reporting-in-reports-and-analytics.md)
 + Administrering {#administration}
    + Viktiga administratörskunskaper {#key-admin-skills}
       + [Skapa en kraftfull community](administration/key-admin-skills/empowered-community.md)
