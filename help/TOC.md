@@ -3,7 +3,7 @@ user-guide-title: Självstudiekurser om Adobe Analytics
 user-guide-description: Se videosjälvstudiekurser om Adobe Analytics och lär dig hur du får ut det mesta av dina data.
 breadcrumb-title: Självstudiekurser om Analytics
 solution: Analytics
-source-git-commit: f9ef44adb364df5373c64cda4cead5f0a4da5eb9
+source-git-commit: f9e39eb73cb73ef4993a12270137d2405cf4a978
 workflow-type: tm+mt
 source-wordcount: '2446'
 ht-degree: 7%
@@ -329,14 +329,14 @@ ht-degree: 7%
       + [Analytics Insider Webinar - strategier för kundsegmentering](components/segmentation/customer-segmentation-strategies.md)
       + [Vänta nu bara på ett segment.. Använda segmentering för att hitta nya insikter](components/segmentation/segmentation-to-discover-new-insights.md)
    + Beräknade mätvärden {#calculated-metrics}
-      + [Distinkt funktion för ungefärligt antal i beräknade värden](components/calculated-metrics/approximate-count-distinct-function-in-calculated-metrics.md)
-      + [Attribution IQ i beräknade värden](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/attribution-iq-in-calculated-metrics.html)
-      + [Beräknade mått - Metrisk Builder](components/calculated-metrics/calculated-metrics-metric-builder.md)
+      + [Översikt över verktyget för beräkning av mätvärden](components/calculated-metrics/calculated-metrics-metric-builder.md)
       + [Beräknade mått - funktioner](components/calculated-metrics/calculated-metrics-functions.md)
       + [Beräknade mått - Mätvärden utan implementering](components/calculated-metrics/calculated-metrics-implementationless-metrics.md)
       + [Beräknade mått - segmenterade mått](components/calculated-metrics/calculated-metrics-segmented-metrics.md)
       + [Beräknade mått - mätväljare](components/calculated-metrics/calculated-metrics-metric-selector.md)
       + [Snabbberäknade värden i Analysis Workspace](components/calculated-metrics/quick-calculated-metrics-in-analysis-workspace.md)
+      + [Distinkt funktion för ungefärligt antal i beräknade värden](components/calculated-metrics/approximate-count-distinct-function-in-calculated-metrics.md)
+      + [Attribution IQ i beräknade värden](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/attribution-iq-in-calculated-metrics.html)
       + [Använda Dimensioner i beräknade värden](components/calculated-metrics/using-dimensions-in-calculated-metrics.md)
       + [Ta dataanalysen till nästa nivå med Beräknade värden](components/calculated-metrics/take-your-data-analysis-to-the-next-level-with-calculated-metrics.md)
    + Klassificeringar {#classifications}
