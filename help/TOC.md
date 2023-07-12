@@ -3,7 +3,7 @@ user-guide-title: Självstudiekurser om Adobe Analytics
 user-guide-description: Se videosjälvstudiekurser om Adobe Analytics och lär dig hur du får ut det mesta av dina data.
 breadcrumb-title: Självstudiekurser om Analytics
 solution: Analytics
-source-git-commit: 5f49401fd82602a7d6c046a33623698c4eb45397
+source-git-commit: 87bd18f19597e910195db6b23ba2d6ab0fe4bdcc
 workflow-type: tm+mt
 source-wordcount: '2446'
 ht-degree: 7%
@@ -330,12 +330,12 @@ ht-degree: 7%
       + [Vänta nu bara på ett segment.. Använda segmentering för att hitta nya insikter](components/segmentation/segmentation-to-discover-new-insights.md)
    + Beräknade mätvärden {#calculated-metrics}
       + [Översikt över verktyget för beräkning av mätvärden](components/calculated-metrics/calculated-metrics-metric-builder.md)
-      + [Beräknade mått - funktioner](components/calculated-metrics/calculated-metrics-functions.md)
       + [Beräknade mått - Mätvärden utan implementering](components/calculated-metrics/calculated-metrics-implementationless-metrics.md)
       + [Beräknade mått - segmenterade mått](components/calculated-metrics/calculated-metrics-segmented-metrics.md)
+      + [Beräknade mått - funktioner](components/calculated-metrics/calculated-metrics-functions.md)
+      + [Distinkt funktion för ungefärligt antal i beräknade värden](components/calculated-metrics/approximate-count-distinct-function-in-calculated-metrics.md)
       + [Snabbberäknade värden i Analysis Workspace](components/calculated-metrics/quick-calculated-metrics-in-analysis-workspace.md)
       + [Hantera dina beräknade mätvärden](components/calculated-metrics/manage-your-calculated-metrics.md)
-      + [Distinkt funktion för ungefärligt antal i beräknade värden](components/calculated-metrics/approximate-count-distinct-function-in-calculated-metrics.md)
       + [Attribution IQ i beräknade värden](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/attribution-iq-in-calculated-metrics.html)
       + [Använda Dimensioner i beräknade värden](components/calculated-metrics/using-dimensions-in-calculated-metrics.md)
       + [Ta dataanalysen till nästa nivå med Beräknade värden](components/calculated-metrics/take-your-data-analysis-to-the-next-level-with-calculated-metrics.md)
@@ -447,7 +447,7 @@ ht-degree: 7%
 + Användningsexempel för analys {#analysis-use-cases}
    + Intern webbplatssökning {#internal-site-search}
       + [Definiera affärskrav för intern webbplatssökning](analysis-use-cases/internal-site-search/defining-your-internal-site-search-business-requirements.md)
-      + [Implementera interna sökvariabler med AppMeasurementet](analysis-use-cases/internal-site-search/implement-internal-search-variables-using-appmeasurement.md)
+      + [Implementera interna sökvariabler med AppMeasurement](analysis-use-cases/internal-site-search/implement-internal-search-variables-using-appmeasurement.md)
       + [Implementera interna sökvariabler med Web SDK](analysis-use-cases/internal-site-search/implement-internal-search-variables-using-web-sdk.md)
       + [Mappa Web SDK-variabler till Adobe Analytics](analysis-use-cases/internal-site-search/map-web-sdk-variables-into-adobe-analytics.md)
       + [Konfigurera interna sökrapporter](analysis-use-cases/internal-site-search/configure-internal-site-search-reports.md)
