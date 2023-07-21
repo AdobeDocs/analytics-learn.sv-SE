@@ -3,9 +3,9 @@ user-guide-title: Självstudiekurser om Adobe Analytics
 user-guide-description: Se videosjälvstudiekurser om Adobe Analytics och lär dig hur du får ut det mesta av dina data.
 breadcrumb-title: Självstudiekurser om Analytics
 solution: Analytics
-source-git-commit: 87bd18f19597e910195db6b23ba2d6ab0fe4bdcc
+source-git-commit: fa1b982c09cfeb427fa7ad8fdbdc4b9c995aa400
 workflow-type: tm+mt
-source-wordcount: '2446'
+source-wordcount: '2451'
 ht-degree: 7%
 
 ---
@@ -162,6 +162,7 @@ ht-degree: 7%
       + [Använd segment för att begränsa data i Analysis Workspace](analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.md)
       + [Snabbsegment i Analysis Workspace](analysis-workspace/applying-segments/quick-segments-in-analysis-workspace.md)
       + [Bygga kundresesegment](analysis-workspace/applying-segments/building-customer-journey-segments.md)
+      + [Bygga kundresesegment - del 2](analysis-workspace/applying-segments/building-customer-journey-segments-part-two.md)
    + Mätvärden {#metrics}
       + [Grundläggande besöksmått](analysis-workspace/metrics/understanding-basic-visitor-metrics.md)
       + [Lägga till Dimensioner och statistik i ditt projekt i Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.html)
@@ -447,7 +448,7 @@ ht-degree: 7%
 + Användningsexempel för analys {#analysis-use-cases}
    + Intern webbplatssökning {#internal-site-search}
       + [Definiera affärskrav för intern webbplatssökning](analysis-use-cases/internal-site-search/defining-your-internal-site-search-business-requirements.md)
-      + [Implementera interna sökvariabler med AppMeasurement](analysis-use-cases/internal-site-search/implement-internal-search-variables-using-appmeasurement.md)
+      + [Implementera interna sökvariabler med AppMeasurementet](analysis-use-cases/internal-site-search/implement-internal-search-variables-using-appmeasurement.md)
       + [Implementera interna sökvariabler med Web SDK](analysis-use-cases/internal-site-search/implement-internal-search-variables-using-web-sdk.md)
       + [Mappa Web SDK-variabler till Adobe Analytics](analysis-use-cases/internal-site-search/map-web-sdk-variables-into-adobe-analytics.md)
       + [Konfigurera interna sökrapporter](analysis-use-cases/internal-site-search/configure-internal-site-search-reports.md)
