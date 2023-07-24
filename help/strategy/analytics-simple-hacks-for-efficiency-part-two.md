@@ -1,9 +1,12 @@
 ---
 title: Enkla hacks för ökad effektivitet och självbetjäning - del två
 description: Läs om de stora utmaningarna som Analytics-team står inför idag och våra rekommendationer för att lösa dem med hjälp av strategier som bygger på verktyg.
+feature: Analytics Basics
+role: Admin, Leader
+level: Intermediate
 solution: Analytics
 exl-id: e3ad6c3c-7a95-424b-8757-42fef48bc22c
-source-git-commit: 7224af1bd798d447f1b14c61e836f8e5c8af7ea4
+source-git-commit: d7fd77640928697f5857ccfcaf2c0f561aebeac3
 workflow-type: tm+mt
 source-wordcount: '705'
 ht-degree: 2%

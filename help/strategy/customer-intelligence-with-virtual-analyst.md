@@ -1,9 +1,12 @@
 ---
 title: Stärk kundanalysen med Virtual Analyst och Segment IQ
 description: Lär dig hur viktigt det är att använda artificiell intelligens och maskininlärning (AI/ML). Se fördelarna med och lär dig av framgångsrika kunder från hela världen som använder Virtual Analyst och Segment IQ för att upptäcka avvikelser, undvika avvikelser och maximera avkastningen.
+feature: AI Tools
+role: Admin, Leader
+level: Intermediate
 solution: Analytics
 exl-id: 6793fbe2-cdab-435a-b213-17cff814fc9b
-source-git-commit: 2d0da239646660a7fb0895fa55a468131193bf0b
+source-git-commit: d7fd77640928697f5857ccfcaf2c0f561aebeac3
 workflow-type: tm+mt
 source-wordcount: '1100'
 ht-degree: 0%

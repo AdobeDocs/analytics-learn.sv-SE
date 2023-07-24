@@ -1,9 +1,12 @@
 ---
 title: Enkla hacks för ökad effektivitet och självbetjäning - del 1
 description: Lär dig de viktigaste utmaningarna som analysteamen står inför idag och våra rekommendationer för att lösa dem med hjälp av strategier utanför Adobe Analytics användargränssnitt.
+feature: Analytics Basics
+role: Admin, Leader
+level: Intermediate
 solution: Analytics
 exl-id: 5d1077fd-d006-4a85-bf1c-54f6b2d31934
-source-git-commit: 1181bfa62c5ec3d465aec5d1293e927c2c56f288
+source-git-commit: d7fd77640928697f5857ccfcaf2c0f561aebeac3
 workflow-type: tm+mt
 source-wordcount: '712'
 ht-degree: 0%
