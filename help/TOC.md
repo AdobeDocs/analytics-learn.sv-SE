@@ -3,9 +3,9 @@ user-guide-title: Självstudiekurser om Adobe Analytics
 user-guide-description: Se videosjälvstudiekurser om Adobe Analytics och lär dig hur du får ut det mesta av dina data.
 breadcrumb-title: Självstudiekurser om Analytics
 solution: Analytics
-source-git-commit: fa1b982c09cfeb427fa7ad8fdbdc4b9c995aa400
+source-git-commit: 69e3927128d643c58932c0c21a376e52d76a0880
 workflow-type: tm+mt
-source-wordcount: '2451'
+source-wordcount: '2448'
 ht-degree: 7%
 
 ---
@@ -164,11 +164,11 @@ ht-degree: 7%
       + [Bygga kundresesegment](analysis-workspace/applying-segments/building-customer-journey-segments.md)
       + [Bygga kundresesegment - del 2](analysis-workspace/applying-segments/building-customer-journey-segments-part-two.md)
    + Mätvärden {#metrics}
-      + [Grundläggande besöksmått](analysis-workspace/metrics/understanding-basic-visitor-metrics.md)
-      + [Lägga till Dimensioner och statistik i ditt projekt i Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.html)
+      + [Grundläggande besöksstatistik](analysis-workspace/metrics/understanding-basic-visitor-metrics.md)
+      + [Lägga till mått och mätvärden i projektet](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.html)
       + [Introduktion till konverteringshändelser](analysis-workspace/metrics/introduction-to-conversion-events.md)
-      + [Arbeta med mått i en frihandstabell](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.html)
-      + [Använda deltagandemått i Analysis Workspace](analysis-workspace/metrics/using-participation-metrics-in-analysis-workspace.md)
+      + [Arbeta med mätvärden i en frihandsritning](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.html)
+      + [Använda deltagandestatistik i Analysis Workspace](analysis-workspace/metrics/using-participation-metrics-in-analysis-workspace.md)
       + [Hej då Excel, hej till beräknade mätvärden](analysis-workspace/metrics/goodbye-excel-hello-calculated-metrics.md)
    + Dimensioner {#dimensions}
       + [Lägga till Dimensioner och statistik i ditt projekt i Analysis Workspace](analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.md)
@@ -305,7 +305,7 @@ ht-degree: 7%
       + [Publicera Experience Platform Launch Libraries till scenen och produktionen](implementation/via-adobe-launch/publishing-launch-libraries-to-stage-and-production.md)
    + Använda JavaScript {#using-javascript}
       + [Anpassad länkspårning utan tagghanterare](implementation/using-javascript/custom-link-tracking-without-a-tag-manager.md)
-      + [Uppdatera AppMeasurement när Experience Platform Launch inte används](implementation/using-javascript/updating-appmeasurement-when-not-using-adobe-launch.md)
+      + [AppMeasurementet uppdateras när Experience Platform Launch inte används](implementation/using-javascript/updating-appmeasurement-when-not-using-adobe-launch.md)
    + Validera och felsöka {#validating-and-troubleshooting}
       + [Inspektera implementeringar med Adobe Experience Cloud Debugger](implementation/validating-and-troubleshooting/inspecting-implementations-with-the-adobe-experience-cloud-debugger.md)
    + SPA sidor {#spa-pages}
