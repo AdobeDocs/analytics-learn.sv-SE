@@ -1,28 +1,24 @@
 ---
-title: Använda Dimensioner i beräknade värden
-description: Dimensioner är nu tillgängliga i verktyget Beräknade mätvärden. De kan läggas till i alla beräknade mätformler för att skapa ett internt segment direkt.
+title: Använd dimensioner i beräknade mått
+description: Dimensioner är tillgängliga i verktyget för beräknade mått och kan läggas till i alla beräknade metriska formler för att begränsa det nya måttet till ett mått- eller dimensionsvärde.
 feature: Calculated Metrics
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
 kt: 1904
 role: User
 level: Beginner
 exl-id: f2f1a820-63fe-4c80-8fba-0f9c9687f56d
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 25435f340b525b80c68094caf800cae5b4859c52
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '97'
 ht-degree: 0%
 
 ---
 
-# Använda [!UICONTROL Dimensions] in [!UICONTROL Calculated Metrics] {#using-dimensions-in-calculated-metrics}
+# Använd dimensioner i beräknade mått {#using-dimensions-in-calculated-metrics}
 
-[!UICONTROL Dimensions] finns nu i [!UICONTROL Calculated Metric Builder]. De kan läggas till i alla [!UICONTROL calculated metric] [!UICONTROL formula] för att skapa ett internt segment i farten.
+Dimensioner är tillgängliga i verktyget för beräknade mått och kan läggas till i alla beräknade metriska formler för att begränsa det nya måttet till ett mått- eller dimensionsvärde.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23723/?quality=12&learn=on)
 
-Den här funktionen effektiviserar arbetsflödet för att skapa och använda [!UICONTROL segments] inom [!UICONTROL calculated metrics].
+Den här funktionen effektiviserar arbetsflödet för att skapa och använda segment inom beräknade värden.
 
 Mer information om den här funktionen finns på [dokumentation](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetric-workflow/cm-build-metrics.html?lang=en).
