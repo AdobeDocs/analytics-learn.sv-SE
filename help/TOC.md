@@ -3,9 +3,9 @@ user-guide-title: Självstudiekurser om Adobe Analytics
 user-guide-description: Se videosjälvstudiekurser om Adobe Analytics och lär dig hur du får ut det mesta av dina data.
 breadcrumb-title: Självstudiekurser om Analytics
 solution: Analytics
-source-git-commit: 25435f340b525b80c68094caf800cae5b4859c52
+source-git-commit: f38a35067bf95fe02200d1409e3e70c1ef28abb3
 workflow-type: tm+mt
-source-wordcount: '2448'
+source-wordcount: '2458'
 ht-degree: 7%
 
 ---
@@ -126,6 +126,7 @@ ht-degree: 7%
       + [Visualisering av punktdiagram](analysis-workspace/visualizations/bullet-graph-visualization.md)
       + [Visualisering av ring](analysis-workspace/visualizations/using-the-donut-visualization.md)
       + [Histogramvisualisering](analysis-workspace/visualizations/histogram-visualization.md)
+      + [Frigöra insikter med histogram](analysis-workspace/visualizations/unlocking-insights-with-histograms.md)
       + [Radvisualisering](analysis-workspace/visualizations/line-visualization-in-analysis-workspace.md)
       + [Kombinationsdiagram](analysis-workspace/visualizations/combo-charts.md)
       + [Lägga till trendlinjer i linjevisualiseringar](analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.md)
@@ -137,11 +138,11 @@ ht-degree: 7%
       + [Scatterplot visualization](analysis-workspace/visualizations/scatterplot-visualization.md)
       + [Treemap-visualisering](analysis-workspace/visualizations/treemap-visualization.md)
       + [Visualisering av Venndiagram](analysis-workspace/visualizations/venn-diagram-visualization.md)
-      + [Använda den kumulativa genomsnittsfunktionen för att använda utjämning av mätvärden](analysis-workspace/visualizations/using-the-cumulative-average-function-to-apply-metric-smoothing.md)
+      + [Använd funktionen för kumulativt genomsnitt för att använda måttutjämning](analysis-workspace/visualizations/using-the-cumulative-average-function-to-apply-metric-smoothing.md)
       + [Flexibla layouter](analysis-workspace/visualizations/flexible-layouts.md)
       + [Ändra skala/axel för visualiseringar](analysis-workspace/visualizations/changing-the-scale-axis-on-visualizations.md)
       + [Dimension-graph live linking](analysis-workspace/visualizations/dimension-graph-live-linking.md)
-      + [Korrigering av granularitet](analysis-workspace/visualizations/granularity-toggle.md)
+      + [Ange granularitet för visualiseringar](analysis-workspace/visualizations/granularity-toggle.md)
       + [Intralänkning i Analysis Workspace](analysis-workspace/visualizations/intra-linking-in-analysis-workspace.md)
       + [Ändra ordning och storlek på visualiseringar](analysis-workspace/visualizations/rearranging-and-resizing-visualizations.md)
       + [Anpassa visualiseringsförklaringar](analysis-workspace/visualizations/customize-visualization-legends.md)
@@ -239,6 +240,7 @@ ht-degree: 7%
       + [Använd en global rapportsvit](administration/admin-tips/use-a-global-report-suite.md)
       + [Skapa ett nytt projekt](administration/admin-tips/create-a-news-and-announcements-project.md)
       + [Skapa framgångsrika statuspaneler med chefssammanfattning](administration/admin-tips/driving-success-with-executive-summary-dashboards.md)
+      + [Skapa driftinstrumentpaneler](administration/admin-tips/create-operational-dashboards.md)
    + Företagsinställningar {#company-settings}
       + [Tvinga begränsningar för e-postdomän](administration/company-settings/enforce-email-domain-restrictions.md)
       + [Visa tillgängliga funktioner för ditt konto](administration/company-settings/view-your-accounts-available-features.md)
@@ -364,9 +366,9 @@ ht-degree: 7%
    + Från användargränssnittet {#from-the-ui}
       + [Exportera till CSV från Analysis Workspace](exporting/from-the-ui/export-to-csv-from-analysis-workspace.md)
    + Data Warehouse {#data-warehouse}
-      + [Introduktion till Data warehouse](exporting/data-warehouse/introduction-to-data-warehouse.md)
-      + [Skicka Data warehouse-begäran via SFTP](exporting/data-warehouse/send-data-warehouse-request-via-sftp.md)
-      + [Skicka Data warehouse-rapporter i Tableu Data Extract](exporting/data-warehouse/send-data-warehouse-reports-in-tableau-data-extract.md)
+      + [Introduktion till Data Warehouse](exporting/data-warehouse/introduction-to-data-warehouse.md)
+      + [Skicka begäran om Data Warehouse via SFTP](exporting/data-warehouse/send-data-warehouse-request-via-sftp.md)
+      + [Skicka Data Warehouse-rapporter i Extract](exporting/data-warehouse/send-data-warehouse-reports-in-tableau-data-extract.md)
    + Datafeeds {#data-feeds}
       + [Användargränssnitt för hantering av dataflöden](exporting/data-feeds/data-feeds-management-ui.md)
       + [Hämta autentiseringsnyckeln för datafeeds](exporting/data-feeds/download-the-data-feed-authentication-key.md)
