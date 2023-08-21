@@ -3,9 +3,9 @@ user-guide-title: Självstudiekurser om Adobe Analytics
 user-guide-description: Se videosjälvstudiekurser om Adobe Analytics och lär dig hur du får ut det mesta av dina data.
 breadcrumb-title: Självstudiekurser om Analytics
 solution: Analytics
-source-git-commit: a59a2e6f6a08e9dab5c519488e84d916d289c869
+source-git-commit: b9f08a980d1adfb8fb08fb6348e83394228582ea
 workflow-type: tm+mt
-source-wordcount: '2465'
+source-wordcount: '2457'
 ht-degree: 7%
 
 ---
@@ -143,9 +143,7 @@ ht-degree: 7%
       + [Ändra skala/axel för visualiseringar](analysis-workspace/visualizations/changing-the-scale-axis-on-visualizations.md)
       + [Dimension-graph live linking](analysis-workspace/visualizations/dimension-graph-live-linking.md)
       + [Ange granularitet för visualiseringar](analysis-workspace/visualizations/granularity-toggle.md)
-      + [Intralänkning i Analysis Workspace](analysis-workspace/visualizations/intra-linking-in-analysis-workspace.md)
       + [Länka till eller utanför ditt projekt](analysis-workspace/visualizations/linking-inside-or-outside-of-your-project.md)
-      + [Ändra ordning och storlek på visualiseringar](analysis-workspace/visualizations/rearranging-and-resizing-visualizations.md)
       + [Anpassa visualiseringsförklaringar](analysis-workspace/visualizations/customize-visualization-legends.md)
       + [100 % staplade visualiseringar](analysis-workspace/visualizations/hundred-percent-stacked-visualizations.md)
       + [Inställningar för datakälla för tabeller och visualisering](analysis-workspace/visualizations/table-and-visualization-data-source-settings.md)
