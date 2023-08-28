@@ -3,9 +3,9 @@ user-guide-title: Självstudiekurser om Adobe Analytics
 user-guide-description: Se videosjälvstudiekurser om Adobe Analytics och lär dig hur du får ut det mesta av dina data.
 breadcrumb-title: Självstudiekurser om Analytics
 solution: Analytics
-source-git-commit: b9f08a980d1adfb8fb08fb6348e83394228582ea
+source-git-commit: 215c0c84936c2fc415180b5bdaf6b70633203cca
 workflow-type: tm+mt
-source-wordcount: '2457'
+source-wordcount: '2450'
 ht-degree: 7%
 
 ---
@@ -114,13 +114,11 @@ ht-degree: 7%
       + [Frihandstabellfilter](analysis-workspace/building-freeform-tables/freeform-table-filters.md)
       + [Tidsdelning av dimensioner](analysis-workspace/building-freeform-tables/time-parting-dimensions-in-analysis-workspace.md)
    + Visualiseringar {#visualizations}
-      + [Datavisualisering i Analysis Workspace](analysis-workspace/visualizations/data-visualization-in-analysis-workspace.md)
-      + [Visualiseringstyper](analysis-workspace/visualizations/visualization-types.md)
+      + [Visualiseringstyper och översikt](analysis-workspace/visualizations/visualization-types.md)
       + [Användningsexempel för visualisering](analysis-workspace/visualizations/visualization-use-cases.md)
-      + [Markera data som ska visualiseras](analysis-workspace/visualizations/selecting-data-to-visualize.md)
-      + [Datavisualisering - spelbok](analysis-workspace/visualizations/data-visualization-playbook.md)
+      + [Spelbok för datavisualisering](analysis-workspace/visualizations/data-visualization-playbook.md)
       + [Hämta data till visualiseringar](analysis-workspace/visualizations/getting-data-into-visualizations.md)
-      + [Använda komponentlistrutor i arbetsytan](analysis-workspace/visualizations/using-component-dropdowns-in-workspace.md)
+      + [Använda komponentlistrutor i Workspace](analysis-workspace/visualizations/using-component-dropdowns-in-workspace.md)
       + [Staplade visualiseringar i område och område](analysis-workspace/visualizations/area-and-area-stacked.md)
       + [Stolpvisa och staplade visualiseringar](analysis-workspace/visualizations/bar-and-bar-stacked-visualizations.md)
       + [Visualisering av punktdiagram](analysis-workspace/visualizations/bullet-graph-visualization.md)
