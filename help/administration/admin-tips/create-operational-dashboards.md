@@ -9,7 +9,7 @@ doc-type: Article
 last-substantial-update: 2023-08-18T00:00:00Z
 jira: KT-13829
 thumbnail: KT-13829.jpeg
-source-git-commit: 4ee8c50c4dc8c7e1e0901e97eb768093b3e2b19b
+source-git-commit: 15e9c1c1722cbf6476b8035540d1973aaf095f86
 workflow-type: tm+mt
 source-wordcount: '1150'
 ht-degree: 0%
@@ -57,7 +57,7 @@ När era frågor och svar blir heltäckande kan ni dela dem med företaget för 
 
 Här följer några skärmbilder av hur en FAQ-kontrollpanel kan se ut:
 
-![Skärmbild 1](assets/screenshot-1.png)
+![Skärmbild 1](assets/screenshot-1_v2.png)
 
 ![Vanliga frågor om lågtrafik1](assets/low-traffic-faq.png)
 
