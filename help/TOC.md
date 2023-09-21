@@ -3,9 +3,9 @@ user-guide-title: Självstudiekurser om Adobe Analytics
 user-guide-description: Se videosjälvstudiekurser om Adobe Analytics och lär dig hur du får ut det mesta av dina data.
 breadcrumb-title: Självstudiekurser om Analytics
 solution: Analytics
-source-git-commit: 215c0c84936c2fc415180b5bdaf6b70633203cca
+source-git-commit: 09f89bcfed09ad63803c899f6995e25e5d8980b4
 workflow-type: tm+mt
-source-wordcount: '2450'
+source-wordcount: '2441'
 ht-degree: 7%
 
 ---
@@ -275,13 +275,11 @@ ht-degree: 7%
       + [Översikt över administratörsloggar för Analytics](administration/logs/overview-of-analytics-admin-logs.md)
 + Implementering {#implementation}
    + Implementeringsgrunder {#implementation-basics}
-      + [Första gången](implementation/implementation-basics/first-time-implementation.md)
       + [Förstå och skapa rapportsviter](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html)
       + [Mappa contextData-variabler till Props och Evar med bearbetningsregler](implementation/implementation-basics/map-contextdata-variables-into-props-and-evars-with-processing-rules.md)
       + [Identifiera er analysspårningsserver och rapportsviter](implementation/implementation-basics/how-to-identify-your-analytics-tracking-server-and-report-suites.md)
       + [Skapa ett dokument med affärskrav](implementation/implementation-basics/creating-a-business-requirements-document.md)
       + [Skapa och underhålla en SDR](implementation/implementation-basics/creating-and-maintaining-an-sdr.md)
-      + [Använda ett datalager på platsen](implementation/implementation-basics/using-a-data-layer-on-your-site.md)
    + Via Experience Platform Launch {#via-adobe-launch}
       + [Implementera Experience Cloud på webbplatser med Experience Platform Launch](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html)
       + [Grundläggande konfiguration av Analytics-starttillägget](implementation/via-adobe-launch/basic-configuration-of-the-analytics-launch-extension.md)
