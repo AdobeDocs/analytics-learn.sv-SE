@@ -3,7 +3,8 @@ user-guide-title: Självstudiekurser om Adobe Analytics
 user-guide-description: Se videosjälvstudiekurser om Adobe Analytics och lär dig hur du får ut det mesta av dina data.
 breadcrumb-title: Självstudiekurser om Analytics
 solution: Analytics
-source-git-commit: 09f89bcfed09ad63803c899f6995e25e5d8980b4
+auto-video-transcripts: true
+source-git-commit: bb057df9b6c1b06ebe834a4235bfb010e9060ac7
 workflow-type: tm+mt
 source-wordcount: '2441'
 ht-degree: 7%
