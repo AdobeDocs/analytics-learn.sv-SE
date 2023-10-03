@@ -4,9 +4,9 @@ user-guide-description: Se videosjälvstudiekurser om Adobe Analytics och lär d
 breadcrumb-title: Självstudiekurser om Analytics
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: bb057df9b6c1b06ebe834a4235bfb010e9060ac7
+source-git-commit: 00d89f74344be15eb4e8583cfd9c91e921b797a5
 workflow-type: tm+mt
-source-wordcount: '2441'
+source-wordcount: '2435'
 ht-degree: 7%
 
 ---
@@ -317,14 +317,14 @@ ht-degree: 7%
       + [Segmentbehållare](components/segmentation/segment-containers.md)
       + [Segmenthantering och delning](components/segmentation/segment-management-and-sharing.md)
       + [Använda segment i Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-in-analysis-workspace.html)
-      + [Använda segment som Dimensioner i Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.html)
-      + [Använda segment för att begränsa data i Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.html)
+      + [Använda segment som dimensioner](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.html)
+      + [Använda segment för att begränsa data](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.html)
       + [Skillnader mellan segmentbyggaren och snabbsegment](components/segmentation/differences-between-the-segment-builder-and-quick-segments.md)
       + [Sekventiell segmentering](components/segmentation/sequential-segmentation.md)
-      + [Före/Efter sekvenser i sekventiell segmentering](components/segmentation/before-after-sequences-in-sequential-segmentation.md)
-      + [Segmentering på antal distinkta Dimensioner](components/segmentation/segmentation-on-distinct-dimension-counts.md)
-      + [Dimension Models in Segmentation](components/segmentation/dimension-models-in-segmentation.md)
-      + [Lika med någon av operatorerna i segmentering](components/segmentation/equals-any-of-operator-in-segmentation.md)
+      + [Före/Efter-sekvenser i sekventiell segmentering](components/segmentation/before-after-sequences-in-sequential-segmentation.md)
+      + [Segmentering på distinkta dimensionsantal](components/segmentation/segmentation-on-distinct-dimension-counts.md)
+      + [Dimensioner i segmentering](components/segmentation/dimension-models-in-segmentation.md)
+      + [Likställer operatorn &quot;Valfri av&quot; i segmentering](components/segmentation/equals-any-of-operator-in-segmentation.md)
       + [Analytics Insider Webinar - strategier för kundsegmentering](components/segmentation/customer-segmentation-strategies.md)
       + [Vänta nu bara på ett segment.. Använda segmentering för att hitta nya insikter](components/segmentation/segmentation-to-discover-new-insights.md)
    + Beräknade mätvärden {#calculated-metrics}
