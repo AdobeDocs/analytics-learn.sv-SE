@@ -4,7 +4,7 @@ user-guide-description: Se videosjälvstudiekurser om Adobe Analytics och lär d
 breadcrumb-title: Självstudiekurser om Analytics
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 00d89f74344be15eb4e8583cfd9c91e921b797a5
+source-git-commit: d6b91c8e32304e0a141da35d37163fbe8dd59327
 workflow-type: tm+mt
 source-wordcount: '2435'
 ht-degree: 7%
@@ -324,7 +324,7 @@ ht-degree: 7%
       + [Före/Efter-sekvenser i sekventiell segmentering](components/segmentation/before-after-sequences-in-sequential-segmentation.md)
       + [Segmentering på distinkta dimensionsantal](components/segmentation/segmentation-on-distinct-dimension-counts.md)
       + [Dimensioner i segmentering](components/segmentation/dimension-models-in-segmentation.md)
-      + [Likställer operatorn &quot;Valfri av&quot; i segmentering](components/segmentation/equals-any-of-operator-in-segmentation.md)
+      + [Använd &#39;motsvarar något av&#39; i segmentering](components/segmentation/equals-any-of-operator-in-segmentation.md)
       + [Analytics Insider Webinar - strategier för kundsegmentering](components/segmentation/customer-segmentation-strategies.md)
       + [Vänta nu bara på ett segment.. Använda segmentering för att hitta nya insikter](components/segmentation/segmentation-to-discover-new-insights.md)
    + Beräknade mätvärden {#calculated-metrics}
