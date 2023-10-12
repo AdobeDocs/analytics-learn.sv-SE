@@ -4,9 +4,9 @@ user-guide-description: Se videosjälvstudiekurser om Adobe Analytics och lär d
 breadcrumb-title: Självstudiekurser om Analytics
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: d6b91c8e32304e0a141da35d37163fbe8dd59327
+source-git-commit: 42bf16df9585d1f41206b81bf509a72c10f1d7f2
 workflow-type: tm+mt
-source-wordcount: '2435'
+source-wordcount: '2436'
 ht-degree: 7%
 
 ---
@@ -277,8 +277,8 @@ ht-degree: 7%
 + Implementering {#implementation}
    + Implementeringsgrunder {#implementation-basics}
       + [Förstå och skapa rapportsviter](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html)
-      + [Mappa contextData-variabler till Props och Evar med bearbetningsregler](implementation/implementation-basics/map-contextdata-variables-into-props-and-evars-with-processing-rules.md)
-      + [Identifiera er analysspårningsserver och rapportsviter](implementation/implementation-basics/how-to-identify-your-analytics-tracking-server-and-report-suites.md)
+      + [Mappa contextData-variabler till utkast och eVars med bearbetningsregler](implementation/implementation-basics/map-contextdata-variables-into-props-and-evars-with-processing-rules.md)
+      + [Så här identifierar du analysspårningsservern och rapporterar ett Suite-ID](implementation/implementation-basics/how-to-identify-your-analytics-tracking-server-and-report-suites.md)
       + [Skapa ett dokument med affärskrav](implementation/implementation-basics/creating-a-business-requirements-document.md)
       + [Skapa och underhålla en SDR](implementation/implementation-basics/creating-and-maintaining-an-sdr.md)
    + Via Experience Platform Launch {#via-adobe-launch}
