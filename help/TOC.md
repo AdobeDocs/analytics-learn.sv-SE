@@ -4,9 +4,9 @@ user-guide-description: Se videosjälvstudiekurser om Adobe Analytics och lär d
 breadcrumb-title: Självstudiekurser om Analytics
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 42bf16df9585d1f41206b81bf509a72c10f1d7f2
+source-git-commit: 0959983ce935880b9e42fb2118cb0f71890db0a2
 workflow-type: tm+mt
-source-wordcount: '2436'
+source-wordcount: '2429'
 ht-degree: 7%
 
 ---
@@ -342,10 +342,10 @@ ht-degree: 7%
       + [Översikt över klassificeringar](components/classifications/overview-of-classifications.md)
       + [Använda Klassificeringsregelverktyget](components/classifications/using-the-classification-rule-builder.md)
    + Virtual Report Suites {#virtual-report-suites}
-      + [Virtual Report Suites](components/virtual-report-suites/virtual-report-suites.md)
-      + [Komponenturval i virtuella rapportsviter](components/virtual-report-suites/component-curation-in-virtual-report-suites.md)
-      + [Sammanhangsberoende sessioner i virtuella rapportsviter](components/virtual-report-suites/context-aware-sessions-in-virtual-report-suites.md)
-      + [Starta ett nytt besök på en händelse i virtuella rapportsviter](components/virtual-report-suites/start-a-new-visit-on-any-event-in-virtual-report-suites.md)
+      + [Översikt över Virtual Report Suites](components/virtual-report-suites/virtual-report-suites.md)
+      + [Komponenturval](components/virtual-report-suites/component-curation-in-virtual-report-suites.md)
+      + [Anpassa besök i virtuella rapportsviter](components/virtual-report-suites/context-aware-sessions-in-virtual-report-suites.md)
+      + [Starta ett nytt besök på ett evenemang](components/virtual-report-suites/start-a-new-visit-on-any-event-in-virtual-report-suites.md)
    + Activity Map {#activity-map}
       + [Översikt över Activity Map](components/activity-map/activity-map-overview.md)
       + [Aktivera, felsöka och anpassa Adobe Analytics Activity Map](components/activity-map/enabling-debugging-and-customizing-the-activity-map.md)

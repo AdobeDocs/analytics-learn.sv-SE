@@ -1,26 +1,20 @@
 ---
 title: Starta ett nytt besök på en händelse i virtuella rapportsviter
-description: I den här videon visas hur du använder händelser för att utlösa början av ett nytt besök i Adobe Analytics med en Virtual Report Suites inställningar för besök.
+description: I den här videon visas hur du använder händelser för att utlösa början av ett nytt besök i Adobe Analytics med hjälp av besöksinställningarna i en virtuell rapportserie.
 feature: VRS
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
 kt: 1663
 role: User
 level: Intermediate
 exl-id: ca1d8ca8-a854-4d02-8017-4e3e3587ab9e
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 0959983ce935880b9e42fb2118cb0f71890db0a2
 workflow-type: tm+mt
-source-wordcount: '123'
+source-wordcount: '74'
 ht-degree: 0%
 
 ---
 
-# Starta ett nytt besök på en händelse i [!UICONTROL Virtual Report Suites] {#start-a-new-visit-on-any-event-in-virtual-report-suites}
+# Starta ett nytt besök på en händelse i virtuella rapportsviter
 
-I den här videon visas hur du använder händelser för att starta ett nytt besök i Adobe Analytics med hjälp av en [!UICONTROL Virtual Report Suite]Besöksinställningar.
+I den här videon visas hur du använder händelser för att utlösa början av ett nytt besök i Adobe Analytics med hjälp av besöksinställningarna i en virtuell rapportserie.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23129/?quality=12&learn=on)
-
-Du kan definiera om sammanhanget för ett besök i Adobe Analytics med anpassade timeoutinställningar, ignorera bakgrundstötningar eller utlösa ett nytt besök när appen startas. Med den här funktionen utökar vi den här funktionaliteten så att du kan utlösa ett nytt besök för valfri kombination av händelser, i stället för att bara via en programstart.
