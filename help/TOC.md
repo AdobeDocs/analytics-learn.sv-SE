@@ -4,9 +4,9 @@ user-guide-description: Se videosjälvstudiekurser om Adobe Analytics och lär d
 breadcrumb-title: Självstudiekurser om Analytics
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 0959983ce935880b9e42fb2118cb0f71890db0a2
+source-git-commit: 94edd5018fede719f4d5c8f07479da15469e4859
 workflow-type: tm+mt
-source-wordcount: '2429'
+source-wordcount: '2428'
 ht-degree: 7%
 
 ---
@@ -362,9 +362,9 @@ ht-degree: 7%
    + Från användargränssnittet {#from-the-ui}
       + [Exportera till CSV från Analysis Workspace](exporting/from-the-ui/export-to-csv-from-analysis-workspace.md)
    + Data Warehouse {#data-warehouse}
-      + [Introduktion till Data Warehouse](exporting/data-warehouse/introduction-to-data-warehouse.md)
-      + [Skicka begäran om Data Warehouse via SFTP](exporting/data-warehouse/send-data-warehouse-request-via-sftp.md)
-      + [Skicka Data Warehouse-rapporter i Extract](exporting/data-warehouse/send-data-warehouse-reports-in-tableau-data-extract.md)
+      + [Exportera datalager](exporting/data-warehouse/introduction-to-data-warehouse.md)
+      + [Skicka begäran om datalager via SFTP](exporting/data-warehouse/send-data-warehouse-request-via-sftp.md)
+      + [Skicka datalagerrapporter i tabelldataextrahering](exporting/data-warehouse/send-data-warehouse-reports-in-tableau-data-extract.md)
    + Datafeeds {#data-feeds}
       + [Användargränssnitt för hantering av dataflöden](exporting/data-feeds/data-feeds-management-ui.md)
       + [Hämta autentiseringsnyckeln för datafeeds](exporting/data-feeds/download-the-data-feed-authentication-key.md)
