@@ -4,9 +4,9 @@ user-guide-description: Se videosjälvstudiekurser om Adobe Analytics och lär d
 breadcrumb-title: Självstudiekurser om Analytics
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 94edd5018fede719f4d5c8f07479da15469e4859
+source-git-commit: 572efe8df10b7ba82ca7717f232dfc0fbf134561
 workflow-type: tm+mt
-source-wordcount: '2428'
+source-wordcount: '2425'
 ht-degree: 7%
 
 ---
@@ -170,10 +170,10 @@ ht-degree: 7%
       + [Använda deltagandestatistik i Analysis Workspace](analysis-workspace/metrics/using-participation-metrics-in-analysis-workspace.md)
       + [Hej då Excel, hej till beräknade mätvärden](analysis-workspace/metrics/goodbye-excel-hello-calculated-metrics.md)
    + Dimensioner {#dimensions}
-      + [Lägga till Dimensioner och statistik i ditt projekt i Analysis Workspace](analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.md)
-      + [Introduktion till trafikvariabler (Props)](analysis-workspace/dimensions/introduction-to-traffic-variables-props.md)
-      + [Introduktion till konverteringsvariabler](analysis-workspace/dimensions/introduction-to-conversion-variables-evars.md)
-      + [Arbeta med Dimensioner i en frihandstabell](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.html)
+      + [Lägga till mått och mätvärden i projektet](analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.md)
+      + [Introduktion till trafikvariabler (props)](analysis-workspace/dimensions/introduction-to-traffic-variables-props.md)
+      + [Introduktion till konverteringsvariabler (eVars)](analysis-workspace/dimensions/introduction-to-conversion-variables-evars.md)
+      + [Arbeta med dimensioner i en frihandsritabell](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.html)
    + Kalender- och datumintervall {#calendar-and-date-ranges}
       + [Använda datum i Analysis Workspace](analysis-workspace/calendar-and-date-ranges/using-dates-in-analysis-workspace.md)
       + [Använda återanvändbara datumintervall i ditt projekt](analysis-workspace/calendar-and-date-ranges/applying-reusable-date-ranges-in-your-project.md)
