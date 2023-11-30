@@ -4,9 +4,9 @@ user-guide-description: Se videosjälvstudiekurser om Adobe Analytics och lär d
 breadcrumb-title: Självstudiekurser om Analytics
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 572efe8df10b7ba82ca7717f232dfc0fbf134561
+source-git-commit: e493003e4beec22a377115a3619bd1bfc838ccfe
 workflow-type: tm+mt
-source-wordcount: '2425'
+source-wordcount: '2427'
 ht-degree: 7%
 
 ---
@@ -281,10 +281,10 @@ ht-degree: 7%
       + [Så här identifierar du analysspårningsservern och rapporterar ett Suite-ID](implementation/implementation-basics/how-to-identify-your-analytics-tracking-server-and-report-suites.md)
       + [Skapa ett dokument med affärskrav](implementation/implementation-basics/creating-a-business-requirements-document.md)
       + [Skapa och underhålla en SDR](implementation/implementation-basics/creating-and-maintaining-an-sdr.md)
-   + Via Experience Platform Launch {#via-adobe-launch}
+   + Använda Experience Platform-taggar {#via-adobe-launch}
       + [Implementera Experience Cloud på webbplatser med Experience Platform Launch](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html)
       + [Grundläggande konfiguration av Analytics-starttillägget](implementation/via-adobe-launch/basic-configuration-of-the-analytics-launch-extension.md)
-      + [Konfigurera bibliotekshantering för analys](implementation/via-adobe-launch/configuring-library-management-in-the-launch-analytics-extension.md)
+      + [Konfigurera bibliotekshantering för Analytics-tillägget](implementation/via-adobe-launch/configuring-library-management-in-the-launch-analytics-extension.md)
       + [Konfigurera allmänna inställningar i Launch Analytics-tillägget](implementation/via-adobe-launch/configuring-general-settings-in-the-launch-analytics-extension.md)
       + [Konfigurera globala variabler i Launch Analytics-tillägget](implementation/via-adobe-launch/configuring-global-variables-in-the-launch-analytics-extension.md)
       + [Konfigurera cookie-inställningar i Launch Analytics-tillägget](implementation/via-adobe-launch/configuring-cookie-settings-in-the-launch-analytics-extension.md)
