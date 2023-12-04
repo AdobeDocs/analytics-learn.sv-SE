@@ -4,10 +4,10 @@ user-guide-description: Se videosjälvstudiekurser om Adobe Analytics och lär d
 breadcrumb-title: Självstudiekurser om Analytics
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: e493003e4beec22a377115a3619bd1bfc838ccfe
+source-git-commit: 63f2bfa9eb45495eb609122164f3a4617575aa8d
 workflow-type: tm+mt
-source-wordcount: '2427'
-ht-degree: 7%
+source-wordcount: '2260'
+ht-degree: 2%
 
 ---
 
@@ -113,7 +113,7 @@ ht-degree: 7%
       + [Använda Attribution IQ i frihandstabeller](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-attribution-iq-in-freeform-tables.html)
       + [Korsförsäljningsanalys](analysis-workspace/building-freeform-tables/cross-sell-analysis-workspace.md)
       + [Frihandstabellfilter](analysis-workspace/building-freeform-tables/freeform-table-filters.md)
-      + [Tidsdelning av dimensioner](analysis-workspace/building-freeform-tables/time-parting-dimensions-in-analysis-workspace.md)
+      + [Tidsdelningsdimensioner](analysis-workspace/building-freeform-tables/time-parting-dimensions-in-analysis-workspace.md)
    + Visualiseringar {#visualizations}
       + [Visualiseringstyper och översikt](analysis-workspace/visualizations/visualization-types.md)
       + [Användningsexempel för visualisering](analysis-workspace/visualizations/visualization-use-cases.md)
@@ -191,7 +191,7 @@ ht-degree: 7%
       + [Dela inbäddade komponenter](analysis-workspace/curate-and-share-projects/share-embedded-components.md)
       + [Schemalägg och hämtningsbara projekt](analysis-workspace/curate-and-share-projects/scheduled-downloadable-projects-analysis-workspace.md)
       + [Projektdelning i Analysis Workspace](analysis-workspace/curate-and-share-projects/project-sharing-in-analysis-workspace.md)
-      + [Visa projekt i Analysis Workspace](analysis-workspace/curate-and-share-projects/view-only-projects-in-analysis-workspace.md)
+      + [Visa endast projekt i Analysis Workspace](analysis-workspace/curate-and-share-projects/view-only-projects-in-analysis-workspace.md)
       + [Frigör kraften i delning med endast visning](analysis-workspace/curate-and-share-projects/unlocking-the-power-of-view-only-sharing.md)
    + Attribution IQ {#attribution-iq}
       + [Använda flikanalys för att utforska grundläggande marknadsattribuering](analysis-workspace/attribution-iq/using-cross-tab-analysis-to-explore-basic-marketing-attribution-in-analysis-workspace.md)
@@ -219,7 +219,7 @@ ht-degree: 7%
       + [Minska felfrekvensen och förbättra antalet lyckade försök i din röstapp](analysis-workspace/voice-analytics/reducing-error-rates-and-improving-success-rates-in-your-voice-app.md)
       + [Förstå användarbeteende för röstassistenter](analysis-workspace/voice-analytics/understand-user-behavior-on-voice-assistants.md)
       + [Förstå användarens röstresa](analysis-workspace/voice-analytics/understanding-the-users-voice-journey.md)
-+ Administrering {#administration}
++ Administration {#administration}
    + Viktiga administratörsfärdigheter {#key-admin-skills}
       + [Skapa en kraftfull community](administration/key-admin-skills/empowered-community.md)
       + [Förenkla och lägg mindre tid på utbildning](administration/key-admin-skills/simplify-training-users.md)
@@ -283,9 +283,9 @@ ht-degree: 7%
       + [Skapa och underhålla en SDR](implementation/implementation-basics/creating-and-maintaining-an-sdr.md)
    + Använda Experience Platform-taggar {#via-adobe-launch}
       + [Implementera Experience Cloud på webbplatser med Experience Platform Launch](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html)
-      + [Grundläggande konfiguration av Analytics-starttillägget](implementation/via-adobe-launch/basic-configuration-of-the-analytics-launch-extension.md)
+      + [Grundläggande konfiguration av Analytics-tillägget](implementation/via-adobe-launch/basic-configuration-of-the-analytics-launch-extension.md)
       + [Konfigurera bibliotekshantering för Analytics-tillägget](implementation/via-adobe-launch/configuring-library-management-in-the-launch-analytics-extension.md)
-      + [Konfigurera allmänna inställningar i Launch Analytics-tillägget](implementation/via-adobe-launch/configuring-general-settings-in-the-launch-analytics-extension.md)
+      + [Konfigurera allmänna inställningar för Analytics-tillägget](implementation/via-adobe-launch/configuring-general-settings-in-the-launch-analytics-extension.md)
       + [Konfigurera globala variabler i Launch Analytics-tillägget](implementation/via-adobe-launch/configuring-global-variables-in-the-launch-analytics-extension.md)
       + [Konfigurera cookie-inställningar i Launch Analytics-tillägget](implementation/via-adobe-launch/configuring-cookie-settings-in-the-launch-analytics-extension.md)
       + [Använda anpassad kod när du konfigurerar Launch Analytics-tillägget](implementation/via-adobe-launch/using-custom-code-while-configuring-the-launch-analytics-extension.md)
@@ -342,7 +342,7 @@ ht-degree: 7%
       + [Översikt över klassificeringar](components/classifications/overview-of-classifications.md)
       + [Använda Klassificeringsregelverktyget](components/classifications/using-the-classification-rule-builder.md)
    + Virtual Report Suites {#virtual-report-suites}
-      + [Översikt över Virtual Report Suites](components/virtual-report-suites/virtual-report-suites.md)
+      + [Översikt över virtuella rapportsviter](components/virtual-report-suites/virtual-report-suites.md)
       + [Komponenturval](components/virtual-report-suites/component-curation-in-virtual-report-suites.md)
       + [Anpassa besök i virtuella rapportsviter](components/virtual-report-suites/context-aware-sessions-in-virtual-report-suites.md)
       + [Starta ett nytt besök på ett evenemang](components/virtual-report-suites/start-a-new-visit-on-any-event-in-virtual-report-suites.md)
@@ -352,7 +352,7 @@ ht-degree: 7%
 + Ytterligare verktyg {#additional-tools}
    + [Adobe Labs (förhandsvisning av teknik)](additional-tools/adobe-labs-technology-previews.md)
    + Kontrollpaneler för analyser {#analytics-dashboards}
-      + [Adobe Analytics-instrumentpaneler i Styrkort](additional-tools/analytics-dashboards/adobe-analytics-dashboards-scorecard-builder.md)
+      + [Adobe Analytics Dashboards Scorecard Builder](additional-tools/analytics-dashboards/adobe-analytics-dashboards-scorecard-builder.md)
       + [Visualiseringar för mobila styrkort](additional-tools/analytics-dashboards/visualizations-for-mobile-scorecards.md)
       + [Använd anpassade datumintervall](additional-tools/analytics-dashboards/apply-custom-date-ranges-to-mobile-scorecard-projects.md)
       + [Kontrollpaneler för analys i appupplevelser](additional-tools/analytics-dashboards/adobe-analytics-dashboards-in-app-experience.md)
@@ -365,7 +365,7 @@ ht-degree: 7%
       + [Exportera datalager](exporting/data-warehouse/introduction-to-data-warehouse.md)
       + [Skicka begäran om datalager via SFTP](exporting/data-warehouse/send-data-warehouse-request-via-sftp.md)
       + [Skicka datalagerrapporter i tabelldataextrahering](exporting/data-warehouse/send-data-warehouse-reports-in-tableau-data-extract.md)
-   + Datafeeds {#data-feeds}
+   + Dataflöden {#data-feeds}
       + [Användargränssnitt för hantering av dataflöden](exporting/data-feeds/data-feeds-management-ui.md)
       + [Hämta autentiseringsnyckeln för datafeeds](exporting/data-feeds/download-the-data-feed-authentication-key.md)
       + [Hitta ditt ID för datafeed](exporting/data-feeds/find-your-data-feed-id.md)
@@ -380,12 +380,12 @@ ht-degree: 7%
       + [Använd Report Builder avancerade leveransalternativ för Power BI](exporting/report-builder/use-report-builder-advanced-delivery-options-for-power-bi.md)
 + Integreringar {#integrations}
    + Experience Cloud {#experience-cloud}
-      + [Förbättringar i Experience Cloud Audience Publishing](integrations/experience-cloud/improved-experience-cloud-audience-publishing.md)
+      + [Förbättrad Experience Cloud-publikpublicering](integrations/experience-cloud/improved-experience-cloud-audience-publishing.md)
    + Audience Manager {#audience-manager}
       + [Aktivera vidarebefordran på serversidan i Experience Platform Launch](integrations/audience-manager/enable-server-side-forwarding-in-adobe-launch.md)
       + [Audience Analytics - Integrera AAM segment i Analytics](integrations/audience-manager/audience-analytics-integrate-aam-segments-into-analytics.md)
-   + Målgrupp {#target}
-      + [Panelen Analytics for Target (A4T) i Analysis Workspace](integrations/target/analytics-for-target-a4t-panel-in-analysis-workspace.md)
+   + Mål {#target}
+      + [Analyser för målpanelen (A4T) i Analysis Workspace](integrations/target/analytics-for-target-a4t-panel-in-analysis-workspace.md)
       + [Analysera en automatisk målaktivitet med A4T-panelen](integrations/target/analyze-an-auto-target-activity-using-the-a4t-panel.md)
    + Ad Cloud {#ad-cloud}
       + [Konfigurera Advertising Analytics](integrations/ad-cloud/configuring-advertising-analytics.md)
@@ -393,10 +393,10 @@ ht-degree: 7%
       + [Introduktion till Analytics for Advertising Cloud DSP Integration](integrations/ad-cloud/introduction-to-the-analytics-for-advertising-cloud-dsp-integration.md)
       + [Skapa en kampanjanalys före start](integrations/ad-cloud/create-a-pre-launch-campaign-analysis-with-adobe-analytics.md)
       + [Rapportering med Advertising Cloud marknadsföringskanaler](integrations/ad-cloud/reporting-with-advertising-cloud-marketing-channels.md)
-      + [Skapa reseprofiler för Analytics-webbplatsen](integrations/ad-cloud/create-analytics-site-journey-profiles.md)
-      + [Skapa Analytics-segment för aktivering och rapportering](integrations/ad-cloud/create-analytics-segments-for-activation-and-reporting.md)
+      + [Skapa profiler för Analytics-webbplatsresor](integrations/ad-cloud/create-analytics-site-journey-profiles.md)
+      + [Skapa analyssegment för aktivering och rapportering](integrations/ad-cloud/create-analytics-segments-for-activation-and-reporting.md)
       + [Skapa Advertising Cloud Alerts med Adobe Analytics](integrations/ad-cloud/create-advertising-cloud-alerts-with-adobe-analytics.md)
-      + [Skapa anpassade Analytics-värden med Advertising Cloud-data](integrations/ad-cloud/create-analytics-custom-metrics-with-advertising-cloud-data.md)
+      + [Skapa anpassade analysvärden med Advertising Cloud Data](integrations/ad-cloud/create-analytics-custom-metrics-with-advertising-cloud-data.md)
       + [Skapa Advertising Cloud Site Entry-rapporter](integrations/ad-cloud/create-advertising-cloud-site-entry-reports.md)
       + [Skapa Advertising Cloud Dashboards](integrations/ad-cloud/create-advertising-cloud-dashboards-with-adobe-analytics.md)
    + Ad hoc-analys {#ad-hoc-analytics}
@@ -421,7 +421,7 @@ ht-degree: 7%
       + [Lägga till grundläggande butiksvariabler och händelser i startregler](vertical-specific/retail/adding-basic-retail-variables-and-events-to-launch-rules.md)
       + [Lägga till en startregel för inköpshändelsen](vertical-specific/retail/adding-a-launch-rule-for-the-purchase-event.md)
       + [Summit 2019 Super Session - Retail](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-retail.html)
-+ Media Analytics {#media-analytics}
++ Medieanalys {#media-analytics}
    + Mätning av medieanalys {#measuring-media-analytics}
       + [Medieuppspelningstid spenderad panel](media-analytics/measuring-media-analytics/media-playback-time-spent-panel.md)
       + [Använda mallen Ljudförbrukning i Analysis Workspace](media-analytics/measuring-media-analytics/using-the-audio-consumption-template-in-analysis-workspace.md)
