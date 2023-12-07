@@ -4,9 +4,9 @@ user-guide-description: Se videosjälvstudiekurser om Adobe Analytics och lär d
 breadcrumb-title: Självstudiekurser om Analytics
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 63f2bfa9eb45495eb609122164f3a4617575aa8d
+source-git-commit: 3dd6fd5f97f2fac3651891e35113e72e89e2261f
 workflow-type: tm+mt
-source-wordcount: '2260'
+source-wordcount: '2264'
 ht-degree: 2%
 
 ---
@@ -231,6 +231,7 @@ ht-degree: 2%
       + [Frågar du rätt frågor?](administration/key-admin-skills/are-you-asking-the-right-questions.md)
    + Administratörstips och metodtips {#admin-tips}
       + [Hämta implementeringens spelningsbok](administration/admin-tips/download-the-adobe-analytics-implementation-playbook.md)
+      + [Granska din dataordlista](administration/admin-tips/audit-your-data-dictionary.md)
       + [Skapa standardiserade namnkonventioner](administration/admin-tips/create-standardized-naming-conventions.md)
       + [Skapa standardiserade kodmallar](administration/admin-tips/create-standardized-code-templates.md)
       + [Skapa grundläggande videor och kurser](administration/admin-tips/create-basic-videos-and-training.md)
