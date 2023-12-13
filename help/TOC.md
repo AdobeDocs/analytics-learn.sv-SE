@@ -4,7 +4,7 @@ user-guide-description: Se videosjälvstudiekurser om Adobe Analytics och lär d
 breadcrumb-title: Självstudiekurser om Analytics
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 3dd6fd5f97f2fac3651891e35113e72e89e2261f
+source-git-commit: a3eaa0feedb826c176e233e8d243ae617b816cab
 workflow-type: tm+mt
 source-wordcount: '2264'
 ht-degree: 2%
@@ -287,7 +287,7 @@ ht-degree: 2%
       + [Grundläggande konfiguration av Analytics-tillägget](implementation/via-adobe-launch/basic-configuration-of-the-analytics-launch-extension.md)
       + [Konfigurera bibliotekshantering för Analytics-tillägget](implementation/via-adobe-launch/configuring-library-management-in-the-launch-analytics-extension.md)
       + [Konfigurera allmänna inställningar för Analytics-tillägget](implementation/via-adobe-launch/configuring-general-settings-in-the-launch-analytics-extension.md)
-      + [Konfigurera globala variabler i Launch Analytics-tillägget](implementation/via-adobe-launch/configuring-global-variables-in-the-launch-analytics-extension.md)
+      + [Konfigurera globala variabelinställningar för Analytics-tillägget](implementation/via-adobe-launch/configuring-global-variables-in-the-launch-analytics-extension.md)
       + [Konfigurera cookie-inställningar i Launch Analytics-tillägget](implementation/via-adobe-launch/configuring-cookie-settings-in-the-launch-analytics-extension.md)
       + [Använda anpassad kod när du konfigurerar Launch Analytics-tillägget](implementation/via-adobe-launch/using-custom-code-while-configuring-the-launch-analytics-extension.md)
       + [Använda ett datalager för att ange sidnamn och andra variabler via Launch](implementation/via-adobe-launch/using-a-data-layer-to-set-page-name-and-other-variables-via-launch.md)
