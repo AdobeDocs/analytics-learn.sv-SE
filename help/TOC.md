@@ -4,9 +4,9 @@ user-guide-description: Se videosjälvstudiekurser om Adobe Analytics och lär d
 breadcrumb-title: Självstudiekurser om Analytics
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: a3eaa0feedb826c176e233e8d243ae617b816cab
+source-git-commit: a280621d6b9656a1dc6c33dfec7bf8226bfb5be5
 workflow-type: tm+mt
-source-wordcount: '2264'
+source-wordcount: '2249'
 ht-degree: 2%
 
 ---
@@ -34,19 +34,17 @@ ht-degree: 2%
    + Övergång från andra plattformar {#transitioning-from-other-platforms}
       + [Övergång från Google Analytics](intro-to-analytics/transitioning-from-other-platforms/transition-from-google-analytics.md)
    + Grunderna i analyser {#analytics-basics}
-      + [Knappen Prova i arbetsytan i Reports and Analytics](intro-to-analytics/analytics-basics/try-in-workspace-button.md)
       + [Analyscykeln](intro-to-analytics/analytics-basics/understanding-the-analytics-cycle.md)
       + [Hur analysdata samlas in](intro-to-analytics/analytics-basics/how-analytics-data-is-collected.md)
       + [Logga in på Adobe Analytics](intro-to-analytics/analytics-basics/logging-in-to-adobe-analytics.md)
       + [Förstå och skapa rapportsviter](intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.md)
-      + [Grundläggande besöksmått](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/understanding-basic-visitor-metrics.html)
-      + [Introduktion till trafikvariabler (Props)](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-traffic-variables-props.html)
-      + [Introduktion till konverteringsvariabler](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-conversion-variables-evars.html)
+      + [Förstå grundläggande besökarstatistik](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/understanding-basic-visitor-metrics.html)
+      + [Introduktion till trafikvariabler (props)](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-traffic-variables-props.html)
+      + [Introduktion till konverteringsvariabler (eVars)](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-conversion-variables-evars.html)
       + [Introduktion till konverteringshändelser](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/introduction-to-conversion-events.html)
    + Anpassa användargränssnittet {#customizing-the-ui}
       + [Anpassa användarinställningar för Analysis Workspace](intro-to-analytics/customizing-the-ui/user-preferences.md)
       + [Lägg till mått och måttbeskrivningar](intro-to-analytics/customizing-the-ui/adding-dimension-and-metric-descriptions.md)
-      + [Anpassa menyn i Reports and Analytics](intro-to-analytics/customizing-the-ui/customizing-the-menu-in-reports-and-analytics.md)
       + [Förbättra säkerheten](intro-to-analytics/customizing-the-ui/enhancing-security.md)
       + [Ange ett Analysis Workspace-projekt som landningssida](intro-to-analytics/customizing-the-ui/setting-an-analysis-workspace-project-as-your-landing-page.md)
    + Få hjälp {#getting-help}
