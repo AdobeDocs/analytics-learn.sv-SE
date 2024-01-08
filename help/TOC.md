@@ -4,9 +4,9 @@ user-guide-description: Se videosjälvstudiekurser om Adobe Analytics och lär d
 breadcrumb-title: Självstudiekurser om Analytics
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: a280621d6b9656a1dc6c33dfec7bf8226bfb5be5
+source-git-commit: 8f5adbc0627b30256529c9de36ae43f18ddcad84
 workflow-type: tm+mt
-source-wordcount: '2249'
+source-wordcount: '2227'
 ht-degree: 2%
 
 ---
@@ -180,17 +180,15 @@ ht-degree: 2%
       + [Datumjämförelser i Analysis Workspace](analysis-workspace/calendar-and-date-ranges/date-comparisons-in-analysis-workspace.md)
       + [Lägga till jämförelser med föregående månad och år i trender](analysis-workspace/calendar-and-date-ranges/adding-prior-month-and-year-comparisons-to-trends.md)
    + Kuratera och dela projekt {#curate-and-share-projects}
-      + [Spara, dela och samarbeta i projekt i Analysis Workspace](analysis-workspace/curate-and-share-projects/saving-sharing-and-collaborating-on-projects-in-analysis-workspace.md)
-      + [Curation and Sharing in Analysis Workspace](analysis-workspace/curate-and-share-projects/curation-and-sharing-in-analysis-workspace.md)
+      + [Spara, dela och samarbeta i projekt](analysis-workspace/curate-and-share-projects/saving-sharing-and-collaborating-on-projects-in-analysis-workspace.md)
+      + [Kuratera och dela projekt](analysis-workspace/curate-and-share-projects/curation-and-sharing-in-analysis-workspace.md)
       + [Direktlänk till ett projekt](analysis-workspace/curate-and-share-projects/direct-link-to-a-project.md)
-      + [Dela med vem som helst i Analysis Workspace](analysis-workspace/curate-and-share-projects/share-with-anyone-in-analysis-workspace.md)
+      + [Dela med vem du vill](analysis-workspace/curate-and-share-projects/share-with-anyone-in-analysis-workspace.md)
       + [Hämta 50 000 objekt som CSV](analysis-workspace/curate-and-share-projects/download-50000-items-as-csv.md)
-      + [Exportera till CSV och PDF från Analysis Workspace](analysis-workspace/curate-and-share-projects/export-to-csv-and-pdf-from-analysis-workspace.md)
+      + [Exportera till CSV och PDF](analysis-workspace/curate-and-share-projects/export-to-csv-and-pdf-from-analysis-workspace.md)
       + [Dela inbäddade komponenter](analysis-workspace/curate-and-share-projects/share-embedded-components.md)
-      + [Schemalägg och hämtningsbara projekt](analysis-workspace/curate-and-share-projects/scheduled-downloadable-projects-analysis-workspace.md)
-      + [Projektdelning i Analysis Workspace](analysis-workspace/curate-and-share-projects/project-sharing-in-analysis-workspace.md)
-      + [Visa endast projekt i Analysis Workspace](analysis-workspace/curate-and-share-projects/view-only-projects-in-analysis-workspace.md)
-      + [Frigör kraften i delning med endast visning](analysis-workspace/curate-and-share-projects/unlocking-the-power-of-view-only-sharing.md)
+      + [Skapa projekt med endast visning](analysis-workspace/curate-and-share-projects/view-only-projects-in-analysis-workspace.md)
+      + [Lås upp möjligheten till delning endast via visning](analysis-workspace/curate-and-share-projects/unlocking-the-power-of-view-only-sharing.md)
    + Attribution IQ {#attribution-iq}
       + [Använda flikanalys för att utforska grundläggande marknadsattribuering](analysis-workspace/attribution-iq/using-cross-tab-analysis-to-explore-basic-marketing-attribution-in-analysis-workspace.md)
       + [Lägga till jämförelser sida vid sida av Attribution IQ](analysis-workspace/attribution-iq/adding-side-by-side-comparisons-of-attribution-iq-models.md)
