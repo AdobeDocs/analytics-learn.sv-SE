@@ -4,7 +4,7 @@ user-guide-description: Se videosjälvstudiekurser om Adobe Analytics och lär d
 breadcrumb-title: Självstudiekurser om Analytics
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 8f5adbc0627b30256529c9de36ae43f18ddcad84
+source-git-commit: b80d4af99da80f76efe3a37b5112d8c49cd0aabd
 workflow-type: tm+mt
 source-wordcount: '2227'
 ht-degree: 2%
@@ -187,7 +187,7 @@ ht-degree: 2%
       + [Hämta 50 000 objekt som CSV](analysis-workspace/curate-and-share-projects/download-50000-items-as-csv.md)
       + [Exportera till CSV och PDF](analysis-workspace/curate-and-share-projects/export-to-csv-and-pdf-from-analysis-workspace.md)
       + [Dela inbäddade komponenter](analysis-workspace/curate-and-share-projects/share-embedded-components.md)
-      + [Skapa projekt med endast visning](analysis-workspace/curate-and-share-projects/view-only-projects-in-analysis-workspace.md)
+      + [Dela skrivskyddade projekt](analysis-workspace/curate-and-share-projects/view-only-projects-in-analysis-workspace.md)
       + [Lås upp möjligheten till delning endast via visning](analysis-workspace/curate-and-share-projects/unlocking-the-power-of-view-only-sharing.md)
    + Attribution IQ {#attribution-iq}
       + [Använda flikanalys för att utforska grundläggande marknadsattribuering](analysis-workspace/attribution-iq/using-cross-tab-analysis-to-explore-basic-marketing-attribution-in-analysis-workspace.md)
