@@ -4,9 +4,9 @@ user-guide-description: Se videosjälvstudiekurser om Adobe Analytics och lär d
 breadcrumb-title: Självstudiekurser om Analytics
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: b80d4af99da80f76efe3a37b5112d8c49cd0aabd
+source-git-commit: e53d68389ae1b9ccd38dc368812c5edbd9ba1550
 workflow-type: tm+mt
-source-wordcount: '2227'
+source-wordcount: '2192'
 ht-degree: 2%
 
 ---
@@ -278,26 +278,26 @@ ht-degree: 2%
       + [Så här identifierar du analysspårningsservern och rapporterar ett Suite-ID](implementation/implementation-basics/how-to-identify-your-analytics-tracking-server-and-report-suites.md)
       + [Skapa ett dokument med affärskrav](implementation/implementation-basics/creating-a-business-requirements-document.md)
       + [Skapa och underhålla en SDR](implementation/implementation-basics/creating-and-maintaining-an-sdr.md)
-   + Använda Experience Platform-taggar {#via-adobe-launch}
-      + [Implementera Experience Cloud på webbplatser med Experience Platform Launch](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html)
+   + Experience Platform-taggar {#experience-platform-tags}
+      + [Implementera Experience Cloud-lösningar på webbplatser med taggar](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html)
       + [Grundläggande konfiguration av Analytics-tillägget](implementation/via-adobe-launch/basic-configuration-of-the-analytics-launch-extension.md)
-      + [Konfigurera bibliotekshantering för Analytics-tillägget](implementation/via-adobe-launch/configuring-library-management-in-the-launch-analytics-extension.md)
-      + [Konfigurera allmänna inställningar för Analytics-tillägget](implementation/via-adobe-launch/configuring-general-settings-in-the-launch-analytics-extension.md)
-      + [Konfigurera globala variabelinställningar för Analytics-tillägget](implementation/via-adobe-launch/configuring-global-variables-in-the-launch-analytics-extension.md)
-      + [Konfigurera cookie-inställningar i Launch Analytics-tillägget](implementation/via-adobe-launch/configuring-cookie-settings-in-the-launch-analytics-extension.md)
-      + [Använda anpassad kod när du konfigurerar Launch Analytics-tillägget](implementation/via-adobe-launch/using-custom-code-while-configuring-the-launch-analytics-extension.md)
-      + [Använda ett datalager för att ange sidnamn och andra variabler via Launch](implementation/via-adobe-launch/using-a-data-layer-to-set-page-name-and-other-variables-via-launch.md)
-      + [Lägga till implementeringsplugin-program i Launch](implementation/via-adobe-launch/adding-implementation-plug-ins-in-launch.md)
-      + [Använda doPlugins i Adobe Analytics Extension](implementation/via-adobe-launch/use-doplugins-in-the-adobe-analytics-extension.md)
-      + [Konfigurera Easy Download Link Tracking](implementation/via-adobe-launch/configuring-easy-download-link-tracking.md)
-      + [Konfigurera enkel avslut länkspårning](implementation/via-adobe-launch/configuring-easy-exit-link-tracking.md)
-      + [Förbereda Experience Platform Launch för er analysimplementering](implementation/via-adobe-launch/preparing-adobe-launch-for-your-analytics-implementation.md)
-      + [Skapa dataelement i Experience Platform Launch för analysimplementeringen](implementation/via-adobe-launch/creating-data-elements-in-launch-for-the-analytics-implementation.md)
-      + [Skapa en regel för en global sida i Experience Platform Launch](implementation/via-adobe-launch/creating-a-global-page-rule-in-launch.md)
-      + [Verifierar den globala sidinläsningsregeln i Experience Platform Launch](implementation/via-adobe-launch/validating-your-global-page-load-rule-in-launch.md)
-      + [Skapa Experience Platform Launch-regler för specialsidor](implementation/via-adobe-launch/creating-launch-rules-for-special-pages.md)
-      + [Skapa Experience Platform Launch-regler för lyckade händelser](implementation/via-adobe-launch/creating-launch-rules-for-success-events.md)
-      + [Publicera Experience Platform Launch Libraries till scenen och produktionen](implementation/via-adobe-launch/publishing-launch-libraries-to-stage-and-production.md)
+      + [Konfigurera bibliotekshantering i Analytics-tillägget](implementation/via-adobe-launch/configuring-library-management-in-the-launch-analytics-extension.md)
+      + [Konfigurera allmänna inställningar i Analytics-tillägget](implementation/via-adobe-launch/configuring-general-settings-in-the-launch-analytics-extension.md)
+      + [Konfigurera globala variabelinställningar i Analytics-tillägget](implementation/via-adobe-launch/configuring-global-variables-in-the-launch-analytics-extension.md)
+      + [Konfigurera cookie-inställningar i Analytics-tillägget](implementation/via-adobe-launch/configuring-cookie-settings-in-the-launch-analytics-extension.md)
+      + [Använd anpassad kod i Analytics-tillägget](implementation/via-adobe-launch/using-custom-code-while-configuring-the-launch-analytics-extension.md)
+      + [Använda ett datalager för att ange variabler](implementation/via-adobe-launch/using-a-data-layer-to-set-page-name-and-other-variables-via-launch.md)
+      + [Lägg till implementeringsplugins](implementation/via-adobe-launch/adding-implementation-plug-ins-in-launch.md)
+      + [Använd doPlugins i Adobe Analytics-tillägget](implementation/via-adobe-launch/use-doplugins-in-the-adobe-analytics-extension.md)
+      + [Konfigurera enkel spårning av nedladdningslänk](implementation/via-adobe-launch/configuring-easy-download-link-tracking.md)
+      + [Konfigurera enkel avslutning av länkspårning](implementation/via-adobe-launch/configuring-easy-exit-link-tracking.md)
+      + [Förbered taggar för er analysimplementering](implementation/via-adobe-launch/preparing-adobe-launch-for-your-analytics-implementation.md)
+      + [Skapa dataelement för Analytics-implementeringen](implementation/via-adobe-launch/creating-data-elements-in-launch-for-the-analytics-implementation.md)
+      + [Skapa en inläsningsregel för en global sida](implementation/via-adobe-launch/creating-a-global-page-rule-in-launch.md)
+      + [Validera den globala sidans inläsningsregel](implementation/via-adobe-launch/validating-your-global-page-load-rule-in-launch.md)
+      + [Skapa regler för specialsidor](implementation/via-adobe-launch/creating-launch-rules-for-special-pages.md)
+      + [Skapa regler för lyckade händelser](implementation/via-adobe-launch/creating-launch-rules-for-success-events.md)
+      + [Publicera taggbibliotek på scenen och i produktionen](implementation/via-adobe-launch/publishing-launch-libraries-to-stage-and-production.md)
    + Använda JavaScript {#using-javascript}
       + [Anpassad länkspårning utan tagghanterare](implementation/using-javascript/custom-link-tracking-without-a-tag-manager.md)
       + [AppMeasurementet uppdateras när Experience Platform Launch inte används](implementation/using-javascript/updating-appmeasurement-when-not-using-adobe-launch.md)

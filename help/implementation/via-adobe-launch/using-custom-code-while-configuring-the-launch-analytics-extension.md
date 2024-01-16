@@ -1,24 +1,25 @@
 ---
-title: Använda anpassad kod när Analytics-starttillägget konfigureras
-description: Om du precis har börjat med Launch, från Adobe och Adobe Analytics-tillägget, kan den här videon hjälpa dig att förstå anpassade alternativ för kodfönster, timing för kodkörning osv.
-feature: Launch Implementation
-topics: null
-activity: implement
+title: Använd anpassad kod i Adobe Analytics-tillägget i [!DNL Tags]
+description: Läs om användningsexempel och tekniska överväganden för att använda den anpassade kodredigeraren när du konfigurerar Adobe Analytics-tillägget i [!DNL Tags].
+feature: Tags
+topics: Development
 doc-type: technical video
 team: Technical Marketing
 kt: 2914
 role: Developer, Data Engineer
 level: Beginner
 exl-id: f44bc723-0a05-4f88-8f49-04ca00dd1057
-source-git-commit: 812184643b5c4a5c01dea2b2f49b57049c1805da
+source-git-commit: e53d68389ae1b9ccd38dc368812c5edbd9ba1550
 workflow-type: tm+mt
-source-wordcount: '76'
+source-wordcount: '73'
 ht-degree: 0%
 
 ---
 
-# Använda anpassad kod när du konfigurerar [!DNL Analytics] [!DNL Launch] Tillägg {#using-custom-code-while-configuring-the-launch-analytics-extension}
+# Använd anpassad kod i Adobe Analytics-tillägget i [!DNL Tags]
 
-Om du just har börjat med Adobe Experience Platform Launch och Adobe Analytics [!UICONTROL Extension]kan den här videon hjälpa dig att förstå anpassade alternativ för kodfönster, timing för kodkörning osv.
+Läs om användningsexempel och tekniska överväganden för att använda den anpassade kodredigeraren när du konfigurerar Adobe Analytics-tillägget i [!DNL Tags].
 
 >[!VIDEO](https://video.tv.adobe.com/v/27272/?quality=12&learn=on)
+
+Granska [dokumentation](https://experienceleague.adobe.com/docs/analytics/implementation/vars/plugins/impl-plugins.html) för mer information om <i>funktionen doPlugins</i> som refereras i den här videon.
