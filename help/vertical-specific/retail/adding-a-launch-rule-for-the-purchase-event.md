@@ -1,20 +1,25 @@
 ---
-title: Lägga till en startregel för inköpshändelsen
-description: I den här videon visas hur du använder produktsträngstillägget i Launch för att spåra inköp på din webbplats, vilket resulterar i skatte-, order- och enhetsstatistik i din analys.
-feature: Launch Implementation
+title: Lägg till en regel för inköpshändelsen i Experience Platform [!DNL tags]
+description: I den här videon visas hur du använder produktsträngstillägget i [!DNL tags] för att spåra inköp på er webbplats, vilket resulterar i statistik över intäkter, beställningar och enheter i er analys.
+feature: Tags
+topics: Development
 kt: 3593
 role: Developer, Data Engineer
 level: Beginner
 exl-id: d5f29523-5726-4c49-8ce6-a21c0a7a6c73
-source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+source-git-commit: a45667a8d7ccb46b9e33bd11a78fac9714a61df5
 workflow-type: tm+mt
-source-wordcount: '65'
+source-wordcount: '74'
 ht-degree: 0%
 
 ---
 
-# Lägga till en [!DNL Launch] [!UICONTROL Rule] för [!DNL Purchase] Händelse
+# Lägg till en regel för inköpshändelsen i Experience Platform [!DNL tags]
 
 I den här videon visas hur du använder produktsträngen [!UICONTROL extension] in [!DNL Experience Platform Launch] för att spåra inköp på er webbplats, vilket resulterar i [!UICONTROL Revenue], [!UICONTROL Orders]och [!UICONTROL Units] [!UICONTROL metrics] i er analys.
+
+>[!NOTE]
+>
+> Starta nu **[!DNL tags]**
 
 >[!VIDEO](https://video.tv.adobe.com/v/28766/?quality=12&learn=on)

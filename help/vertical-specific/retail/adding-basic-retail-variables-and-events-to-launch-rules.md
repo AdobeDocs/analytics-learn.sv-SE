@@ -1,20 +1,25 @@
 ---
-title: Lägga till grundläggande butiksvariabler och händelser i startregler
-description: I den här videon visas hur du använder ett särskilt produktsträngstillägg i Launch för att spåra grundläggande butiksvariabler och händelser, som produktvyn, ett tillägg i kundvagnen, en utcheckning osv.
-feature: Launch Implementation
+title: Lägga till grundläggande variabler och händelser för butiker i Experience Platform [!DNL tags]
+description: I den här videon visas hur du använder ett särskilt produktsträngstillägg i [!DNL tags] för att hålla reda på variabler och händelser för detaljhandeln, som produktvisningar, varukorgstillägg och utcheckningar.
+feature: Tags
+topics: Development
 kt: 3592
 role: Developer, Data Engineer
 level: Beginner
 exl-id: cfddf957-20ca-4393-8a32-597f8a74a15f
-source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+source-git-commit: a45667a8d7ccb46b9e33bd11a78fac9714a61df5
 workflow-type: tm+mt
-source-wordcount: '76'
+source-wordcount: '77'
 ht-degree: 0%
 
 ---
 
-# Lägga till grundläggande butiksvariabler och händelser i [!DNL Launch] [!UICONTROL Rules]
+# Lägga till grundläggande variabler och händelser för butiker i Experience Platform [!DNL tags]
 
-I den här videon visas hur du använder en särskild produktsträng [!UICONTROL extension] in [!DNL Experience Platform Launch] för att spåra grundläggande variabler och händelser för detaljhandeln, som produktvyn, ett tillägg i kundvagnen, en utcheckning osv.
+I den här videon visas hur du använder ett särskilt produktsträngstillägg i [!DNL tags] för att hålla reda på variabler och händelser för detaljhandeln, som produktvisningar, varukorgstillägg och utcheckningar.
+
+>[!NOTE]
+>
+> Starta nu **[!DNL tags]**
 
 >[!VIDEO](https://video.tv.adobe.com/v/28763/?quality=12&learn=on)

@@ -4,7 +4,7 @@ user-guide-description: Se videosjälvstudiekurser om Adobe Analytics och lär d
 breadcrumb-title: Självstudiekurser om Analytics
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: e53d68389ae1b9ccd38dc368812c5edbd9ba1550
+source-git-commit: a45667a8d7ccb46b9e33bd11a78fac9714a61df5
 workflow-type: tm+mt
 source-wordcount: '2192'
 ht-degree: 2%
@@ -280,24 +280,24 @@ ht-degree: 2%
       + [Skapa och underhålla en SDR](implementation/implementation-basics/creating-and-maintaining-an-sdr.md)
    + Experience Platform-taggar {#experience-platform-tags}
       + [Implementera Experience Cloud-lösningar på webbplatser med taggar](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html)
-      + [Grundläggande konfiguration av Analytics-tillägget](implementation/via-adobe-launch/basic-configuration-of-the-analytics-launch-extension.md)
-      + [Konfigurera bibliotekshantering i Analytics-tillägget](implementation/via-adobe-launch/configuring-library-management-in-the-launch-analytics-extension.md)
-      + [Konfigurera allmänna inställningar i Analytics-tillägget](implementation/via-adobe-launch/configuring-general-settings-in-the-launch-analytics-extension.md)
-      + [Konfigurera globala variabelinställningar i Analytics-tillägget](implementation/via-adobe-launch/configuring-global-variables-in-the-launch-analytics-extension.md)
-      + [Konfigurera cookie-inställningar i Analytics-tillägget](implementation/via-adobe-launch/configuring-cookie-settings-in-the-launch-analytics-extension.md)
-      + [Använd anpassad kod i Analytics-tillägget](implementation/via-adobe-launch/using-custom-code-while-configuring-the-launch-analytics-extension.md)
-      + [Använda ett datalager för att ange variabler](implementation/via-adobe-launch/using-a-data-layer-to-set-page-name-and-other-variables-via-launch.md)
-      + [Lägg till implementeringsplugins](implementation/via-adobe-launch/adding-implementation-plug-ins-in-launch.md)
-      + [Använd doPlugins i Adobe Analytics-tillägget](implementation/via-adobe-launch/use-doplugins-in-the-adobe-analytics-extension.md)
-      + [Konfigurera enkel spårning av nedladdningslänk](implementation/via-adobe-launch/configuring-easy-download-link-tracking.md)
-      + [Konfigurera enkel avslutning av länkspårning](implementation/via-adobe-launch/configuring-easy-exit-link-tracking.md)
-      + [Förbered taggar för er analysimplementering](implementation/via-adobe-launch/preparing-adobe-launch-for-your-analytics-implementation.md)
-      + [Skapa dataelement för Analytics-implementeringen](implementation/via-adobe-launch/creating-data-elements-in-launch-for-the-analytics-implementation.md)
-      + [Skapa en inläsningsregel för en global sida](implementation/via-adobe-launch/creating-a-global-page-rule-in-launch.md)
-      + [Validera den globala sidans inläsningsregel](implementation/via-adobe-launch/validating-your-global-page-load-rule-in-launch.md)
-      + [Skapa regler för specialsidor](implementation/via-adobe-launch/creating-launch-rules-for-special-pages.md)
-      + [Skapa regler för lyckade händelser](implementation/via-adobe-launch/creating-launch-rules-for-success-events.md)
-      + [Publicera taggbibliotek på scenen och i produktionen](implementation/via-adobe-launch/publishing-launch-libraries-to-stage-and-production.md)
+      + [Grundläggande konfiguration av Analytics-tillägget](implementation/experience-platform-tags/basic-configuration-of-the-analytics-tags-extension.md)
+      + [Konfigurera bibliotekshantering i Analytics-tillägget](implementation/experience-platform-tags/configuring-library-management-in-the-tags-analytics-extension.md)
+      + [Konfigurera allmänna inställningar i Analytics-tillägget](implementation/experience-platform-tags/configuring-general-settings-in-the-tags-analytics-extension.md)
+      + [Konfigurera globala variabelinställningar i Analytics-tillägget](implementation/experience-platform-tags/configuring-global-variables-in-the-tags-analytics-extension.md)
+      + [Konfigurera cookie-inställningar i Analytics-tillägget](implementation/experience-platform-tags/configuring-cookie-settings-in-the-tags-analytics-extension.md)
+      + [Använd anpassad kod i Analytics-tillägget](implementation/experience-platform-tags/using-custom-code-while-configuring-the-tags-analytics-extension.md)
+      + [Använda ett datalager för att ange variabler](implementation/experience-platform-tags/using-a-data-layer-to-set-page-name-and-other-variables-via-tags.md)
+      + [Lägg till implementeringsplugins](implementation/experience-platform-tags/adding-implementation-plug-ins-in-tags.md)
+      + [Använd doPlugins i Adobe Analytics-tillägget](implementation/experience-platform-tags/use-doplugins-in-the-adobe-analytics-extension.md)
+      + [Konfigurera enkel spårning av nedladdningslänk](implementation/experience-platform-tags/configuring-easy-download-link-tracking.md)
+      + [Konfigurera enkel avslutning av länkspårning](implementation/experience-platform-tags/configuring-easy-exit-link-tracking.md)
+      + [Förbered taggar för er analysimplementering](implementation/experience-platform-tags/preparing-adobe-tags-for-your-analytics-implementation.md)
+      + [Skapa dataelement för Analytics-implementeringen](implementation/experience-platform-tags/creating-data-elements-in-tags-for-the-analytics-implementation.md)
+      + [Skapa en inläsningsregel för en global sida](implementation/experience-platform-tags/creating-a-global-page-rule-in-tags.md)
+      + [Validera den globala sidans inläsningsregel](implementation/experience-platform-tags/validating-your-global-page-load-rule-in-tags.md)
+      + [Skapa regler för specialsidor](implementation/experience-platform-tags/creating-tags-rules-for-special-pages.md)
+      + [Skapa regler för lyckade händelser](implementation/experience-platform-tags/creating-tags-rules-for-success-events.md)
+      + [Publicera taggbibliotek på scenen och i produktionen](implementation/experience-platform-tags/publishing-tags-libraries-to-stage-and-production.md)
    + Använda JavaScript {#using-javascript}
       + [Anpassad länkspårning utan tagghanterare](implementation/using-javascript/custom-link-tracking-without-a-tag-manager.md)
       + [AppMeasurementet uppdateras när Experience Platform Launch inte används](implementation/using-javascript/updating-appmeasurement-when-not-using-adobe-launch.md)
