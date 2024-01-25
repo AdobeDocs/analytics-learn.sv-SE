@@ -4,7 +4,7 @@ user-guide-description: Se videosjälvstudiekurser om Adobe Analytics och lär d
 breadcrumb-title: Självstudiekurser om Analytics
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: a45667a8d7ccb46b9e33bd11a78fac9714a61df5
+source-git-commit: 5a462f1990e12089eb738432a568bbfffbaa4d68
 workflow-type: tm+mt
 source-wordcount: '2192'
 ht-degree: 2%
@@ -290,7 +290,7 @@ ht-degree: 2%
       + [Lägg till implementeringsplugins](implementation/experience-platform-tags/adding-implementation-plug-ins-in-tags.md)
       + [Använd doPlugins i Adobe Analytics-tillägget](implementation/experience-platform-tags/use-doplugins-in-the-adobe-analytics-extension.md)
       + [Konfigurera enkel spårning av nedladdningslänk](implementation/experience-platform-tags/configuring-easy-download-link-tracking.md)
-      + [Konfigurera enkel avslutning av länkspårning](implementation/experience-platform-tags/configuring-easy-exit-link-tracking.md)
+      + [Konfigurera enkel spårning av avslutningslänk](implementation/experience-platform-tags/configuring-easy-exit-link-tracking.md)
       + [Förbered taggar för er analysimplementering](implementation/experience-platform-tags/preparing-adobe-tags-for-your-analytics-implementation.md)
       + [Skapa dataelement för Analytics-implementeringen](implementation/experience-platform-tags/creating-data-elements-in-tags-for-the-analytics-implementation.md)
       + [Skapa en inläsningsregel för en global sida](implementation/experience-platform-tags/creating-a-global-page-rule-in-tags.md)

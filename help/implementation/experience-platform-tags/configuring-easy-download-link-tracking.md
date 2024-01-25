@@ -1,6 +1,6 @@
 ---
-title: Konfigurera enkel länkspårning för hämtning i Experience Platform [!DNL tags]
-description: Du kan börja spåra nedladdningslänkar på din webbplats (länkar som laddar ned filer från andra program än webbläsaren till din dator) med bara några klick i Adobe Analytics-tillägget i Experience Platform [!DNL tags].
+title: Konfigurera enkel länkspårning för hämtning i Experience Platform-taggar
+description: Du kan börja spåra hämtningslänkar på din webbplats (länkar som hämtar filer som inte är webbläsare till din dator) med bara några klick i Adobe Analytics-tillägget i Experience Platform-taggar.
 feature: Tags
 topics: Development
 activity: implement
@@ -10,9 +10,9 @@ kt: 1844
 role: Developer, Data Engineer
 level: Beginner
 exl-id: 28822d90-6bbb-43dc-bf98-892e21e71a1d
-source-git-commit: a45667a8d7ccb46b9e33bd11a78fac9714a61df5
+source-git-commit: 5a462f1990e12089eb738432a568bbfffbaa4d68
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '136'
 ht-degree: 0%
 
 ---
@@ -20,10 +20,6 @@ ht-degree: 0%
 # Konfigurera enkel länkspårning för hämtning i Experience Platform [!DNL tags]
 
 Du kan börja spåra nedladdningslänkar på din webbplats (länkar som laddar ned filer från andra program än webbläsaren till din dator) med bara några klick i Adobe Analytics-tillägget i Experience Platform [!DNL tags].
-
->[!NOTE]
->
-> Starta nu **[!DNL tags]**
 
 >[!VIDEO](https://video.tv.adobe.com/v/25762/?quality=12&learn=on)
 
