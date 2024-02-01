@@ -4,9 +4,9 @@ user-guide-description: Se videosjälvstudiekurser om Adobe Analytics och lär d
 breadcrumb-title: Självstudiekurser om Analytics
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 5a462f1990e12089eb738432a568bbfffbaa4d68
+source-git-commit: 2d758e03110f8a9f4fdccfd2174af1fd256bbdb4
 workflow-type: tm+mt
-source-wordcount: '2192'
+source-wordcount: '2187'
 ht-degree: 2%
 
 ---
@@ -287,8 +287,7 @@ ht-degree: 2%
       + [Konfigurera cookie-inställningar i Analytics-tillägget](implementation/experience-platform-tags/configuring-cookie-settings-in-the-tags-analytics-extension.md)
       + [Använd anpassad kod i Analytics-tillägget](implementation/experience-platform-tags/using-custom-code-while-configuring-the-tags-analytics-extension.md)
       + [Använda ett datalager för att ange variabler](implementation/experience-platform-tags/using-a-data-layer-to-set-page-name-and-other-variables-via-tags.md)
-      + [Lägg till implementeringsplugins](implementation/experience-platform-tags/adding-implementation-plug-ins-in-tags.md)
-      + [Använd doPlugins i Adobe Analytics-tillägget](implementation/experience-platform-tags/use-doplugins-in-the-adobe-analytics-extension.md)
+      + [Använd doPlugins och implementeringsplugins](implementation/experience-platform-tags/use-doplugins-and-implementation-plugins.md)
       + [Konfigurera enkel spårning av nedladdningslänk](implementation/experience-platform-tags/configuring-easy-download-link-tracking.md)
       + [Konfigurera enkel spårning av avslutningslänk](implementation/experience-platform-tags/configuring-easy-exit-link-tracking.md)
       + [Förbered taggar för er analysimplementering](implementation/experience-platform-tags/preparing-adobe-tags-for-your-analytics-implementation.md)
