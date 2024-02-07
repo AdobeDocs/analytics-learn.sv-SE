@@ -8,7 +8,7 @@ level: Experienced
 thumbnail: impactful-stories.jpg
 kt: 10157
 exl-id: b7902626-fbce-4333-909f-60878cd3ac99
-source-git-commit: 32af3db3bd0abe57504708318d9b641324569c65
+source-git-commit: f1bb981a83eb698f4185a22c367346a9ddd0c755
 workflow-type: tm+mt
 source-wordcount: '460'
 ht-degree: 0%
@@ -27,14 +27,14 @@ Börja med att definiera den aktuella situationen och fastställa problemet elle
 
 ## Förklara data
 
-När du har ramat in situationen kan du använda data för att identifiera orsaken till problemet/möjligheterna. Fokusera på resultaten och de variabler som bäst förklarar den aktuella situationen i motsats till en fullständig analys och utforskning för att nå dit.  Skapa övertygande bilder som visar relationen mellan oberoende och beroende variabler, men som håller den enkel så att den blir lätt att använda för er målgrupp.
+När du har ramat in situationen kan du använda data för att identifiera orsaken till problemet/möjligheten. Fokusera på resultaten och de variabler som bäst förklarar den aktuella situationen i motsats till en fullständig analys och utforskning för att nå dit.  Skapa övertygande bilder som visar relationen mellan oberoende och beroende variabler, men som håller den enkel så att den blir lätt att använda för er målgrupp.
 
 **Tips för arbetsytan i Adobe:**
 Skapa enkla, lättlästa bilder som är anpassade efter den typ av data som du delar:
 
 * Använd stapeldiagram för kategoriserade och binära data
 * Använd linjediagram (eller bubbla utanför Adobe) för numeriska data
-* Amerikanska punktdiagram för att visa statistiska relationer
+* Använd punktdiagram för att visa statistiska relationer
 
 ## Erbjud en lösning
 

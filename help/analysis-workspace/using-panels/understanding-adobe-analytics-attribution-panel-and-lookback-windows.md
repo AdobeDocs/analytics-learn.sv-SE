@@ -8,13 +8,13 @@ doc-type: Article
 last-substantial-update: 2023-06-20T00:00:00Z
 jira: KT-13181
 thumbnail: KT-13181.jpeg
-source-git-commit: f38a35067bf95fe02200d1409e3e70c1ef28abb3
+exl-id: 1da9334b-0edb-4237-b7ca-57640865208c
+source-git-commit: f1bb981a83eb698f4185a22c367346a9ddd0c755
 workflow-type: tm+mt
-source-wordcount: '1681'
+source-wordcount: '1664'
 ht-degree: 0%
 
 ---
-
 
 # Om Adobe Analytics attribueringspanel och uppslagsfönster
 
@@ -37,9 +37,9 @@ Du fattar.
 
 Nu när vi alla är glada över tidsresor, kan vi ta ett djupt andetag, ta ett steg bakåt lite och fastställa vad **attribueringspanel** *riktigt* är, och bryt ner lite:
 
-![Attribuering](assets/attribution.png)
+![Attribut](assets/attribution.png)
 
-*Bild 1 - Nummer som visas textbundet med text längre ned*
+*Bild 1 - De siffror som visas är textbundna med texten längre ned*
 
 I **attribuering** Tänk bara på hur händelser/händelser kan orsakas av en individ, flera personer eller något av ett antal olika händelser över tiden.
 
@@ -48,7 +48,7 @@ Enligt [Adobe](https://experienceleague.adobe.com/docs/analytics-platform/using/
 
 >[!WARNING]
 >
->Bara en kort anteckning som visar att **attribueringsmodeller** är så ofta associerade med **marknadsföringskanaler** som jag menar *genomstruken* ❷ CHANNEL i bilden ovan för att visa att det går att utföra **attribuering** analys mot de flesta andra ***dimension***.
+>**Attributionsmodeller** är så ofta associerade med **marknadsföringskanaler** som jag menar *genomstruken* ❷ CHANNEL i bilden ovan för att visa att det går att utföra **attribuering** analys mot de flesta andra ***dimension***.
 
 
 Det är faktiskt sällan någon viss kundresa är helt linjär och ännu mindre förutsägbar.  Dessutom kommer varje kund att fortsätta i sin egen takt. Ofta kan de dubbelklicka, stoppa, släppa ut eller engagera sig i andra icke-linjära beteenden. Dessa organiska åtgärder gör det svårt eller praktiskt taget omöjligt att veta hur marknadsföringssatsningarna påverkar hela kundresan. Det hämmar också arbetet med att knyta samman olika datakanaler.
