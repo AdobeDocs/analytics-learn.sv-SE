@@ -1,6 +1,6 @@
 ---
 title: Konfigurera enkel avslutningslänkspårning i Experience Platform-taggar
-description: Du kan börja spåra slutlänkar på din webbplats (länkar som leder till en annan plats) med bara några klick i Adobe Analytics-tillägget i Experience Platform-taggar. I den här videon visas hur du konfigurerar den.
+description: Lär dig spåra avslutningslänkar på din webbplats (länkar som leder till en annan webbplats) med bara några klick i Adobe Analytics-tillägget i Experience Platform-taggar.
 feature: Tags
 topics: Development
 activity: implement
@@ -10,9 +10,9 @@ kt: 2273
 role: Developer, Data Engineer
 level: Beginner
 exl-id: 80a6a83e-9315-4339-bdfe-2b1f11129403
-source-git-commit: 5a462f1990e12089eb738432a568bbfffbaa4d68
+source-git-commit: 6dd1575364f3bb3cf81c3f5ffb642f3c1043eb8b
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '145'
 ht-degree: 0%
 
 ---
