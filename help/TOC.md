@@ -4,9 +4,9 @@ user-guide-description: Se videosjälvstudiekurser om Adobe Analytics och lär d
 breadcrumb-title: Självstudiekurser om Analytics
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 2d758e03110f8a9f4fdccfd2174af1fd256bbdb4
+source-git-commit: 5539caf525f83074f0862eabe5775a1da2d7b5cd
 workflow-type: tm+mt
-source-wordcount: '2187'
+source-wordcount: '2180'
 ht-degree: 2%
 
 ---
@@ -284,7 +284,6 @@ ht-degree: 2%
       + [Konfigurera bibliotekshantering i Analytics-tillägget](implementation/experience-platform-tags/configuring-library-management-in-the-tags-analytics-extension.md)
       + [Konfigurera allmänna inställningar i Analytics-tillägget](implementation/experience-platform-tags/configuring-general-settings-in-the-tags-analytics-extension.md)
       + [Konfigurera globala variabelinställningar i Analytics-tillägget](implementation/experience-platform-tags/configuring-global-variables-in-the-tags-analytics-extension.md)
-      + [Konfigurera cookie-inställningar i Analytics-tillägget](implementation/experience-platform-tags/configuring-cookie-settings-in-the-tags-analytics-extension.md)
       + [Använd anpassad kod i Analytics-tillägget](implementation/experience-platform-tags/using-custom-code-while-configuring-the-tags-analytics-extension.md)
       + [Använda ett datalager för att ange variabler](implementation/experience-platform-tags/using-a-data-layer-to-set-page-name-and-other-variables-via-tags.md)
       + [Använd doPlugins och implementeringsplugins](implementation/experience-platform-tags/use-doplugins-and-implementation-plugins.md)
