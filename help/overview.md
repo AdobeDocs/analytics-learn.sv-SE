@@ -8,10 +8,10 @@ doc-type: overview
 thumbnail: null
 kt: 10453
 exl-id: 3aa2bc96-ed20-46f7-ba9a-a2b7e8b23313
-source-git-commit: d05f59507a766881250090547b177ffdd0fdf5e0
+source-git-commit: d4d87789018acdd5c587b5f78e3249e0fd694bfb
 workflow-type: tm+mt
-source-wordcount: '320'
-ht-degree: 8%
+source-wordcount: '244'
+ht-degree: 0%
 
 ---
 
@@ -30,17 +30,6 @@ För att komma igång,
 
 Kurser som kursupplevelser per roll och kunskapsnivå finns också i kursavsnittet. Logga bara in med din Adobe ID och navigera till **Lär dig > Rekommenderade kurser** i den övre navigeringen.
 
-<div id="whats-new-section">
-
-## Nyheter
-
-* **[Adobe Analytics mobilstyrkortsapp](additional-tools/analytics-dashboards/adobe-analytics-dashboards-in-app-experience.md)**
-   *Lär dig hur du laddar ned styrkortsprogrammet för mobila enheter och visar styrkort för mobila enheter som skapats i [!DNL Analysis Workspace].*
-
-* **[Anteckningar på arbetsytan (video)](analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace.md)**
-   *Anteckningar i [!DNL Analysis Workspace] kan ni effektivt kommunicera kontextuella datanunkter och insikter till era användare i hela organisationen. Anteckna ett datum eller datumintervall med kända dataproblem, allmänna helgdagar, kampanjlanseringar och så vidare. Detta informerar användarna varför de ser oregelbundenheter i linjediagram, tabeller med mera.*
-
-</div>
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -70,11 +59,11 @@ Kurser som kursupplevelser per roll och kunskapsnivå finns också i kursavsnitt
   </td>
    <td>
     <a href="analysis-workspace/navigating-workspace-projects/training-tutorial-template-in-analysis-workspace.md">
-      <img alt="Självstudiemall i Analysis Workspace" src="assets/33773.jpg" />
+      <img alt="Utbildningsmall i Analysis Workspace" src="assets/33773.jpg" />
     </a>
     <div>
       <a href="analysis-workspace/navigating-workspace-projects/training-tutorial-template-in-analysis-workspace.md">
-    <strong>Självstudiemall i Analysis Workspace</strong>
+    <strong>Utbildningsmall i Analysis Workspace</strong>
     </a>
     </div>
     <p>
@@ -83,7 +72,7 @@ Kurser som kursupplevelser per roll och kunskapsnivå finns också i kursavsnitt
   </td>
   <td>
     <a href="analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md">
-      <img alt="miniatyrbild för videon"Analysis Workspace Overview"" src="assets/thumb_analysis-workspace-overview.png" />
+      <img alt="miniatyrbild för videon&quot;Analysis Workspace Overview&quot;" src="assets/thumb_analysis-workspace-overview.png" />
     </a>
     <div>
       <a href="analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md">
