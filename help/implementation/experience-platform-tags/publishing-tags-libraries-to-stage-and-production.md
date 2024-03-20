@@ -1,25 +1,21 @@
 ---
 title: Publish Experience Platform [!DNL tags] bibliotek till scenen och produktionen
-description: Lär dig hur du bygger [!DNL tags] till en staging-miljö för testning. När testningen är klar kan du bygga den i din produktionsmiljö. Den här videon demonstrerar processen.
+description: Lär dig hur du publicerar webbplatsens analyskod, från utveckling till scen och produktion, i taggar för Experience Platform samt hur du ställer in rapportsviterna för att få korrekta data.
 feature: Tags
 topics: Development
 kt: 3595
 role: Developer, Data Engineer
 level: Beginner
 exl-id: a2805315-ef40-4f8f-a730-8c29596e6652
-source-git-commit: a45667a8d7ccb46b9e33bd11a78fac9714a61df5
+source-git-commit: 8212b481653a5b2dccbc980a6fd9d29b94f756a3
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: '79'
 ht-degree: 0%
 
 ---
 
 # Publish Experience Platform [!DNL tags] bibliotek till scenen och produktionen
 
-Lär dig hur du bygger [!DNL tags] till en staging-miljö för testning. När testningen är klar kan du bygga den i din produktionsmiljö. Den här videon demonstrerar processen.
-
->[!NOTE]
->
-> Starta nu **[!DNL tags]**
+Lär dig hur du publicerar webbplatsens analyskod från utveckling till scen och produktion i Experience Platform [!DNL tags], samt att skapa rapportsviter för att kunna ta emot korrekta data.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28777/?quality=12&learn=on)
