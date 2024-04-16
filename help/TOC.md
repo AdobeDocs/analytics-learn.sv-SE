@@ -4,7 +4,7 @@ user-guide-description: Se videosjälvstudiekurser om Adobe Analytics och lär d
 breadcrumb-title: Självstudiekurser om Analytics
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: d8f5a896b89273eb073d12ddc8c39db186e43794
+source-git-commit: 03db9b1a91ff127020a5a0bc0542f04942a64770
 workflow-type: tm+mt
 source-wordcount: '2176'
 ht-degree: 2%
@@ -72,7 +72,7 @@ ht-degree: 2%
       + [Skapa dynamiska nedrullningsbara filter](analysis-workspace/tips-and-tricks/dynamic-drop-downs.md)
    + Navigera i arbetsyteprojekt {#navigating-workspace-projects}
       + [Dataordlista i Analysis Workspace](analysis-workspace/navigating-workspace-projects/data-dictionary-in-analysis-workspace.md)
-      + [Skapa projekt med mallar](analysis-workspace/navigating-workspace-projects/starting-your-first-project-in-analysis-workspace.md)
+      + [Starta ditt första projekt](analysis-workspace/navigating-workspace-projects/starting-your-first-project-in-analysis-workspace.md)
       + [Utbildningsmall](analysis-workspace/navigating-workspace-projects/training-tutorial-template-in-analysis-workspace.md)
       + [Använda mappar i Analysis Workspace](analysis-workspace/navigating-workspace-projects/use-folders-in-analysis-workspace.md)
       + [Kopiera och infoga paneler och visualiseringar](analysis-workspace/navigating-workspace-projects/copy-insert-analysis-workspace.md)
@@ -448,4 +448,3 @@ ht-degree: 2%
 + [Analytics University - kursplan](analytics-university/curriculum.md)
 + [EXPERIENCE LEAGUE LIVE](exl-live/exl-live-overview.md)
 + [Grundläggande analyser för företagsanvändare har tagits bort](retired-courses/retire-fundamentals-for-business-users-course.md)
-
