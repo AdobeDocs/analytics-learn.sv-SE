@@ -4,9 +4,9 @@ user-guide-description: Se videosjälvstudiekurser om Adobe Analytics och lär d
 breadcrumb-title: Självstudiekurser om Analytics
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 03db9b1a91ff127020a5a0bc0542f04942a64770
+source-git-commit: 9d90cc880dc13d55cc44f915b40c43450db48197
 workflow-type: tm+mt
-source-wordcount: '2176'
+source-wordcount: '2179'
 ht-degree: 2%
 
 ---
@@ -240,6 +240,7 @@ ht-degree: 2%
       + [Visa tillgängliga funktioner för ditt konto](administration/company-settings/view-your-accounts-available-features.md)
    + Användarhantering {#user-management}
       + [Lägga till en administratör i Adobe Analytics](administration/user-management/adding-an-administrator-to-adobe-analytics.md)
+      + [Skapa produktprofiler](administration/user-management/create-product-profiles.md)
       + [Begränsa åtkomst till rapportsviten i Admin Console](administration/user-management/limit-report-suite-access-in-the-admin-console.md)
       + [Överför användarresurser till en annan användare](administration/user-management/transfer-user-assets-to-a-different-user.md)
       + [Kontrollera länkat IMS-ID för att förhindra inloggningsproblem](administration/user-management/check-linked-ims-id-to-prevent-login-issues.md)
