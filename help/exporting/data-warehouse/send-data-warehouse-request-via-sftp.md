@@ -1,6 +1,6 @@
 ---
-title: Skicka data warehouse-begäran via SFTP
-description: Data warehouse refererar till kopian av Analytics-data för lagring och anpassade rapporter, som du kan köra genom att filtrera data. Du kan begära rapporter för att visa avancerade datarelationer från rådata baserat på dina unika frågor. Data warehouse-rapporter skickas via e-post eller FTP och kan ta upp till 72 timmar att behandla. Bearbetningstiden beror på frågans komplexitet och mängden data som begärs.
+title: Skicka Data Warehouse via SFTP
+description: Lär dig hur du skapar en förfrågan om Data Warehouse i Adobe Analytics och ställer in den för SFTP-leverans.
 feature: Data Warehouse
 topic: Administration
 role: User, Architect
@@ -8,16 +8,17 @@ level: Beginner
 doc-type: feature video
 thumbnail: 335751.jpg
 kt: KT-8467
+last-substantial-update: 2024-05-13T00:00:00Z
 exl-id: 76ae8c9f-def3-4da5-ad39-49bd74e5bd8a
-source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+source-git-commit: c56deab9a0496c1152e971f98a832a9f57135d64
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '51'
 ht-degree: 0%
 
 ---
 
-# Skicka Data warehouse-begäran via SFTP
+# Skicka [!DNL Data Warehouse] rapporter via SFTP
 
-Data warehouse refererar till kopian av analysdata för lagring och anpassade rapporter, som du kan köra genom att filtrera data. Du kan begära rapporter för att visa avancerade datarelationer från rådata baserat på dina unika frågor. Data warehouse-rapporter skickas via e-post eller FTP och kan ta upp till 72 timmar att behandla. Bearbetningstiden beror på frågans komplexitet och mängden data som begärs.
+Lär dig skapa en [!DNL Data Warehouse] begär i Adobe Analytics och ställer in den för SFTP-leverans. Mer information finns på [dokumentation](https://experienceleague.adobe.com/en/docs/analytics/export/ftp-and-sftp/secure-file-transfer-protocol/ftp-sftp-dw).
 
 >[!VIDEO](https://video.tv.adobe.com/v/335751/?quality=12&learn=on)
