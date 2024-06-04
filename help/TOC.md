@@ -4,9 +4,9 @@ user-guide-description: Se videosjälvstudiekurser om Adobe Analytics och lär d
 breadcrumb-title: Självstudiekurser om Analytics
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 9d90cc880dc13d55cc44f915b40c43450db48197
+source-git-commit: fa8562f400c93b70d7b83613b90eca21b49dc115
 workflow-type: tm+mt
-source-wordcount: '2179'
+source-wordcount: '2160'
 ht-degree: 2%
 
 ---
@@ -299,10 +299,6 @@ ht-degree: 2%
    + Använda JavaScript {#using-javascript}
       + [Anpassad länkspårning utan tagghanterare](implementation/using-javascript/custom-link-tracking-without-a-tag-manager.md)
       + [AppMeasurementet uppdateras när Experience Platform Launch inte används](implementation/using-javascript/updating-appmeasurement-when-not-using-adobe-launch.md)
-   + Validera och felsöka {#validating-and-troubleshooting}
-      + [Kontrollera implementeringar med Adobe Experience Cloud Debugger](implementation/validating-and-troubleshooting/inspecting-implementations-with-the-adobe-experience-cloud-debugger.md)
-   + SPA sidor {#spa-pages}
-      + [Använda vedertagna metoder för att spåra SPA](implementation/spa-pages/using-best-practices-when-tracking-spa.md)
 + Komponenter {#components}
    + Segmentering {#segmentation}
       + [Översikt över segmentbyggaren](components/segmentation/segment-builder-overview.md)
