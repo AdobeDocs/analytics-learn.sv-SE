@@ -4,9 +4,9 @@ user-guide-description: Se videosjälvstudiekurser om Adobe Analytics och lär d
 breadcrumb-title: Självstudiekurser om Analytics
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: fa8562f400c93b70d7b83613b90eca21b49dc115
+source-git-commit: 2b7d260a10a73f017f65146e1e7e64822983f5b6
 workflow-type: tm+mt
-source-wordcount: '2160'
+source-wordcount: '2157'
 ht-degree: 2%
 
 ---
@@ -339,7 +339,7 @@ ht-degree: 2%
       + [Starta ett nytt besök på ett evenemang](components/virtual-report-suites/start-a-new-visit-on-any-event-in-virtual-report-suites.md)
    + Activity Map {#activity-map}
       + [Översikt över Activity Map](components/activity-map/activity-map-overview.md)
-      + [Aktivera, felsöka och anpassa Adobe Analytics Activity Map](components/activity-map/enabling-debugging-and-customizing-the-activity-map.md)
+      + [Aktivera, felsök och anpassa Activity Map](components/activity-map/enabling-debugging-and-customizing-the-activity-map.md)
 + Ytterligare verktyg {#additional-tools}
    + [Adobe Labs (förhandsvisning av teknik)](additional-tools/adobe-labs-technology-previews.md)
    + Kontrollpaneler för analyser {#analytics-dashboards}
