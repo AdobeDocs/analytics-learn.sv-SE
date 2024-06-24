@@ -1,24 +1,23 @@
 ---
 title: Skapa en innehållsförteckning i Analysis Workspace
-description: Lär dig hur du skapar ett projekt för en innehållsförteckning och anger det som användarens landningssida så att de snabbt kan hitta de data och insikter de behöver i Adobe Analytics.
+description: Läs om Innehållsförteckningen i Analysis Workspace, som innehåller länkar som gör det möjligt för användare att snabbt gå till paneler och visualiseringar i projektet.
 feature: Panels
-topics: null
-activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2812
 role: User
 level: Beginner
+last-substantial-update: 2024-06-21T00:00:00Z
 exl-id: b2315794-8910-4b7f-920f-7f1c3da29ace
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: f3357dcef123114c89ce5ea2409d8a67b0ae537f
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '75'
 ht-degree: 0%
 
 ---
 
 # Skapa en innehållsförteckning i Analysis Workspace {#create-a-table-of-contents-in-analysis-workspace}
 
-Lär dig hur du skapar ett projekt för en innehållsförteckning och anger det som användarens landningssida så att de snabbt kan hitta de data och insikter de behöver i Adobe Analytics.
+Läs om Innehållsförteckningen i Analysis Workspace, som innehåller länkar som gör det möjligt för användare att snabbt gå till paneler och visualiseringar i projektet. Detaljerad dokumentation finns på [Innehållsförteckning för projekt](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/build-workspace-project/project-table-of-contents).
 
 >[!VIDEO](https://video.tv.adobe.com/v/26990/?quality=12&learn=on)

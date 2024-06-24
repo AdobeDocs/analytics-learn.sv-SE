@@ -4,9 +4,9 @@ user-guide-description: Se videosjälvstudiekurser om Adobe Analytics och lär d
 breadcrumb-title: Självstudiekurser om Analytics
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 2b7d260a10a73f017f65146e1e7e64822983f5b6
+source-git-commit: 7817c73a3a11297212eeaf83478b2b803e6f7d8d
 workflow-type: tm+mt
-source-wordcount: '2157'
+source-wordcount: '2166'
 ht-degree: 2%
 
 ---
@@ -65,6 +65,7 @@ ht-degree: 2%
       + [Visa Analysis Workspace prestandamått](analysis-workspace/analysis-workspace-basics/view-analysis-workspace-performance-metrics.md)
       + [Skapa robotrapporter](analysis-workspace/analysis-workspace-basics/bot-reporting.md)
    + Tips och tricks {#tips-and-tricks}
+      + [Skapa hyperlänkar i frihandstabeller](analysis-workspace/tips-and-tricks/create-hyperlinks-in-freeform-tables.md)
       + [7 Tips och tricks för Analysis Workspace](analysis-workspace/tips-and-tricks/seven-tips-and-tricks-in-analysis-workspace.md)
       + [Högerklicka på tips och tricks för effektivare arbetsflöden](analysis-workspace/tips-and-tricks/right-click-tips-and-tricks-for-more-efficient-workflows.md)
       + [Tips för att öka produktiviteten i Analysis Workspace](analysis-workspace/tips-and-tricks/tips-to-increase-productivity-in-analysis-workspace.md)
@@ -82,6 +83,7 @@ ht-degree: 2%
       + [Anteckningar](analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace.md)
       + [Visa densitet](analysis-workspace/navigating-workspace-projects/view-density-in-analysis-workspace.md)
       + [Använda filter](analysis-workspace/navigating-workspace-projects/using-filters-tags-in-the-left-rail.md)
+      + [Använda flervalsfilter](analysis-workspace/navigating-workspace-projects/use-multi-select-drop-down-filters.md)
    + Realtidsrapporter {#real-time-reports}
       + [Realtidsrapportering](analysis-workspace/real-time-reports/realtime-reporting.md)
    + Använda paneler {#using-panels}
