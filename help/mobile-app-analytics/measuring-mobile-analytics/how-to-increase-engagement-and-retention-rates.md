@@ -19,6 +19,6 @@ ht-degree: 0%
 
 # Så här ökar du engagemangs- och kvarhållningsgraden {#how-to-increase-engagement-and-retention-rates}
 
-Identifiera engagerade målgrupper genom deras beteende med [!UICONTROL Cohorts] och veta vilka bakomliggande orsaker som driver detaljrikedomen i era mobilappar. Använd datavetenskapsalgoritmer i [!UICONTROL Segment IQ] för att ta reda på skillnaderna och likheterna mellan segment.
+Identifiera engagerade målgrupper genom deras beteende med hjälp av [!UICONTROL Cohorts] och ta reda på de underliggande orsakerna till att era mobilappar är långsamma. Använd datavetenskapsalgoritmer i [!UICONTROL Segment IQ] för att ta reda på skillnader och likheter mellan segment.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27825/?quality=12&learn=on)

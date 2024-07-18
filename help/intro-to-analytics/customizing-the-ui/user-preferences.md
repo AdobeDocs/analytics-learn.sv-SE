@@ -16,7 +16,7 @@ ht-degree: 0%
 
 ---
 
-# Anpassa [!DNL Analysis Workspace] användarinställningar
+# Anpassa användarinställningar för [!DNL Analysis Workspace]
 
 Lär dig hur du ändrar och anpassar användarinställningar i [!DNL Analysis Workspace]. Detta inkluderar allmänna standardinställningar, visning och datainställningar samt växling av användargränssnittets tema.
 

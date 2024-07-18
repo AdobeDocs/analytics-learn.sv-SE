@@ -9,7 +9,7 @@ level: Beginner
 exl-id: 742e263e-2ac0-4d6e-b321-90691189d914
 source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '82'
 ht-degree: 0%
 
 ---
@@ -20,4 +20,4 @@ När du skapar segment styr träffar-, besök- och besöksbehållarna hur mycket
 
 >[!VIDEO](https://video.tv.adobe.com/v/25401/?quality=12&learn=on)
 
-Mer information finns på [dokumentation](https://experienceleague.adobe.com/docs/analytics/components/segmentation/seg-overview.html?lang=en).
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/components/segmentation/seg-overview.html?lang=en).

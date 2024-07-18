@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # Bygg en heatmap-karta för tidsdelning i Analysis Workspace {#build-a-time-parting-heatmap-in-analysis-workspace}
 
-Lär dig hur du tar din tidsdelningsanalys till nästa nivå genom att skapa en heatmap [!UICONTROL visualization] beteenden.
+Lär dig hur du tar din tidsdelningsanalys till nästa nivå genom att skapa en heatmap [!UICONTROL visualization] med beteenden.
 
 >[!VIDEO](https://video.tv.adobe.com/v/26991/?quality=12&learn=on)

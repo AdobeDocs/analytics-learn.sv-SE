@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # Introduktion till konverteringshändelser
 
-Läs om grunderna för konverteringshändelser, som ofta kallas framgångshändelser, i [!DNL Adobe Analytics]. De mäter konverteringar på era digitala resurser och används som mätvärden i rapporter.
+Lär dig mer om grunderna för konverteringshändelser, som ofta kallas framgångsrika händelser, i [!DNL Adobe Analytics]. De mäter konverteringar på era digitala resurser och används som mätvärden i rapporter.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28764/?quality=12&learn=on)

@@ -11,7 +11,7 @@ kt: 7399
 exl-id: 83797aa3-afda-40ae-b74a-2cd6d5c39597
 source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '112'
 ht-degree: 0%
 
 ---
@@ -22,4 +22,4 @@ När du konfigurerar Adobe Analytics kan konfigureringen av inställningarna på
 
 >[!VIDEO](https://video.tv.adobe.com/v/332330/?quality=12&learn=on)
 
-Mer information finns på [dokumentation](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/general-acct-settings-admin.html?lang=en#admin-tools).
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/general-acct-settings-admin.html?lang=en#admin-tools).

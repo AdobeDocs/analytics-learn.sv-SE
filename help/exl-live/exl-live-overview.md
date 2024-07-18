@@ -9,12 +9,12 @@ hidefromtoc: true
 exl-id: 3c8c6737-3c42-4c87-8850-996798ccfda6
 source-git-commit: dd65de735e01c6c5654f98dbc44b13b64ae1de0c
 workflow-type: tm+mt
-source-wordcount: '201'
-ht-degree: 4%
+source-wordcount: '190'
+ht-degree: 3%
 
 ---
 
-# Experience League LIVE
+# EXPERIENCE LEAGUE LIVE
 
 ## Delta i nästa avsnitt!
 
@@ -30,7 +30,7 @@ Experience League LIVE är ett direktuppspelningsprogram som producerats av Expe
   <td>
       <img alt="Innehållstjänster" src="./assets/journeys.png" />
      <div>
-          <strong>Customer Journeys</strong>
+          <strong>Kundresor</strong>
      </div>
      <div>
           <em>September 2021</em>
@@ -42,7 +42,7 @@ Experience League LIVE är ett direktuppspelningsprogram som producerats av Expe
   <td>
       <img alt="Innehållstjänster" src="./assets/content.png" />
      <div>
-          <strong>Content and Commerce</strong>
+          <strong>Innehåll och Commerce</strong>
      <div>
           <em>Oktober 2021</em>
      </div>
@@ -76,7 +76,7 @@ Missade du ett avsnitt av Experience League LIVE? Vi förlåter dig. Ta en titt 
 
 <td>
     <a href="https://www.youtube.com/watch?v=lxOvLCzEGBI">
-      <img height="225" width="400" alt="Experience League LIVE" src="assets/exl-live-after2.jpg" />
+      <img height="225" width="400" alt="EXPERIENCE LEAGUE LIVE" src="assets/exl-live-after2.jpg" />
     </a>
      <div>
           <strong>Gäster</strong> : <i>Eric Matisoff och Dasha Fitzpatrick</i>
@@ -93,4 +93,4 @@ Missade du ett avsnitt av Experience League LIVE? Vi förlåter dig. Ta en titt 
 
 >[!TIP]
 >
->Om du vill ha fler inlärningsmetoder kan du titta på vår kostnadsfria [kurser](https://experienceleague.adobe.com/#dashboard/learning) såväl som individ [självstudiekurser](https://experienceleague.adobe.com/docs/home-tutorials.html).
+>Om du vill ha fler inlärningsmetoder kan du kolla in våra kostnadsfria [kurser](https://experienceleague.adobe.com/#dashboard/learning) samt enskilda [självstudiekurser](https://experienceleague.adobe.com/docs/home-tutorials.html).

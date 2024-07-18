@@ -19,8 +19,8 @@ ht-degree: 0%
 
 # Använda Analysis Workspace för att skapa Adobe Analytics API 2.0-begäranden {#using-analysis-workspace-to-build-adobe-analytics-api-requests}
 
-I den här videon visar vi hur du använder Analysis Workspace för att automatiskt skapa API 2.0-begäranden. Genom att felsöka gränssnittet kan du kopiera och klistra in JSON-begäranden direkt i vilken API-klient som helst för att returnera [!DNL Analytics] data. Nu kan du aktivera felsökaren enklare genom att gå till Hjälp för arbetsyta > Aktivera felsökning.
+I den här videon visar vi hur du använder Analysis Workspace för att automatiskt skapa API 2.0-begäranden. Genom att felsöka användargränssnittet kan du kopiera och klistra in JSON-begäranden direkt i alla API-klienter för att returnera [!DNL Analytics]-data. Nu kan du aktivera felsökaren enklare genom att gå till Workspace Hjälp > Aktivera felsökning.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25890/?quality=12&learn=on)
 
-Mer information finns på [dokumentation](https://developer.adobe.com/analytics-apis/docs/2.0/#!AdobeDocs/analytics-2.0-apis/master/reporting-tricks.html).
+Mer information finns i [dokumentationen](https://developer.adobe.com/analytics-apis/docs/2.0/#!AdobeDocs/analytics-2.0-apis/master/reporting-tricks.html).

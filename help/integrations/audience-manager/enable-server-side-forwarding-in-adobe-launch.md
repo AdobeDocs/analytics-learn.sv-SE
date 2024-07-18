@@ -17,12 +17,12 @@ ht-degree: 1%
 
 ---
 
-# Integrera [!DNL Adobe Analytics] med [!DNL Adobe Audience Manager] med vidarebefordran på serversidan
+# Integrera [!DNL Adobe Analytics] med [!DNL Adobe Audience Manager] med hjälp av vidarebefordran på serversidan
 
-Lär dig hur du skickar [!DNL Adobe Analytics] data till [!DNL Adobe Audience Manager] med vidarebefordran på serversidan.
+Lär dig hur du skickar [!DNL Adobe Analytics] data till [!DNL Adobe Audience Manager] med hjälp av vidarebefordran på serversidan.
 
 >[!NOTE]
 >
->&quot;[!UICONTROL Launch]har bytt namn till[!UICONTROL tags]&quot; i Experience Cloud-gränssnittet. Välj [!UICONTROL Data Collection] från [!UICONTROL application switcher] om du vill öppna taggar och utföra stegen som beskrivs i den här videon.
+>[!UICONTROL Launch] har bytt namn till [!UICONTROL tags] i Experience Cloud-gränssnittet. Välj [!UICONTROL Data Collection] i [!UICONTROL application switcher] om du vill öppna taggar och utföra stegen som visas i videon.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25172?quality=12&learn=on)

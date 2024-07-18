@@ -12,15 +12,15 @@ level: Beginner
 exl-id: 4dda7501-43ae-4cc7-8b7e-c1f2bcd2950a
 source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '89'
 ht-degree: 0%
 
 ---
 
 # [!DNL Adobe Sensei] och Adobe Analytics
 
-[!DNL Adobe Sensei] gör Adobe Analytics smartare och hjälper marknadsförare att hitta meningsfulla insikter om sina kunder. Den här videon innehåller ytterligare förklaringar av de viktigaste funktionerna i Adobe Analytics med [!DNL Adobe Sensei], inklusive [!UICONTROL Anomaly Detection], [!UICONTROL Contribution Analysis], [!UICONTROL Intelligent Alerts], kluster, [!UICONTROL Segment IQ]och benägenhetsmodellering.
+[!DNL Adobe Sensei] gör Adobe Analytics smartare och hjälper marknadsförare att hitta meningsfulla insikter om sina kunder. Den här videon innehåller ytterligare förklaringar av nyckelfunktioner i Adobe Analytics som drivs av [!DNL Adobe Sensei], inklusive [!UICONTROL Anomaly Detection], [!UICONTROL Contribution Analysis], [!UICONTROL Intelligent Alerts], gruppering, [!UICONTROL Segment IQ] och benägenhetsmodellering.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31500/?quality=12&learn=on)
 
-Läs mer om [!DNL Adobe Sensei] [HÄR](https://www.adobe.com/sensei.html).
+Läs mer om [!DNL Adobe Sensei] [HERE](https://www.adobe.com/sensei.html).

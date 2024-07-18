@@ -1,6 +1,6 @@
 ---
-title: Skapa dataelement i Experience Platform [!DNL tags] för Analytics-implementering
-description: I den här videon visas hur du skapar dataelement för din Analytics-implementering i [!DNL tags] baserat på de variabler och händelser som dokumenterats i ett SDR-dokument (Solution Design Reference).
+title: Skapa dataelement i Experience Platform [!DNL tags] för analysimplementering
+description: I den här videon visas hur du skapar dataelement för din Analytics-implementering i  [!DNL tags] baserat på de variabler och händelser som dokumenteras i ett SDR-dokument (Solution Design Reference).
 feature: Tags
 topics: Development
 activity: implement
@@ -17,8 +17,8 @@ ht-degree: 0%
 
 ---
 
-# Skapa dataelement i Experience Platform [!DNL tags] för Analytics-implementering
+# Skapa dataelement i Experience Platform [!DNL tags] för analysimplementering
 
-I den här videon visas hur du skapar dataelement för din Analytics-implementering i [!DNL tags] baserat på de variabler och händelser som dokumenterats i ett SDR-dokument (Solution Design Reference).
+I den här videon visas hur du skapar dataelement för din Analytics-implementering i [!DNL tags] baserat på de variabler och händelser som dokumenteras i ett SDR-dokument (Solution Design Reference).
 
 >[!VIDEO](https://video.tv.adobe.com/v/28760/?quality=12&learn=on)

@@ -9,8 +9,8 @@ level: Beginner
 exl-id: 5e176b61-6fb2-46f6-8b77-b26338e8422c
 source-git-commit: da8f29dbee916403604000e969e294a2ecad52cf
 workflow-type: tm+mt
-source-wordcount: '216'
-ht-degree: 7%
+source-wordcount: '209'
+ht-degree: 0%
 
 ---
 
@@ -37,7 +37,7 @@ Här är några kategorier av visualiseringar och förslag på visualiseringar s
 
 <td style="vertical-align: top;">
 
-* Frihandstabell
+* Frihandsregister
 * Text
 
   </td>
@@ -48,7 +48,7 @@ Här är några kategorier av visualiseringar och förslag på visualiseringar s
 
 <td style="vertical-align: top;">
 
-* Frihandstabell
+* Frihandsregister
 * Sammanfattning av nyckelmått
 * Sammanfattningsnummer
 * Sammanfattningsändring
@@ -65,7 +65,7 @@ Här är några kategorier av visualiseringar och förslag på visualiseringar s
 * Vågrätt fält
 * Stapel staplad
 * Staplad vågrät stapel
-* Frihandstabell
+* Frihandsregister
 * Frihandsritabell med villkorsstyrd formatering
 * Kombinationsdiagram
 * Bullet (jämför faktiska tal med mål)
@@ -79,7 +79,7 @@ Här är några kategorier av visualiseringar och förslag på visualiseringar s
 
 <td style="vertical-align: top;">
 
-* Linjediagram
+* Linje
 * Område
 * Skiktat område
 * Lodrätt streck
@@ -92,9 +92,9 @@ Här är några kategorier av visualiseringar och förslag på visualiseringar s
 
 <td style="vertical-align: top;">
 
-* Ringdiagram
+* Munk
 * Skiktat område
-* Treemap-diagram
+* Treemap
 
   </td>
 </tr>
@@ -104,7 +104,7 @@ Här är några kategorier av visualiseringar och förslag på visualiseringar s
 
 <td style="vertical-align: top;">
 
-* Spridningsdiagram
+* Scatterplot
 * Venn
 
   </td>
@@ -148,7 +148,7 @@ Här är några kategorier av visualiseringar och förslag på visualiseringar s
 
 <td style="vertical-align: top;">
 
-* Mappa
+* Karta
 
   </td>
 </tr>
@@ -156,4 +156,4 @@ Här är några kategorier av visualiseringar och förslag på visualiseringar s
 
 </table>
 
-Mer information finns på [dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/freeform-analysis-visualizations.html).
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/freeform-analysis-visualizations.html).

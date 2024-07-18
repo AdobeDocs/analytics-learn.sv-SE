@@ -11,7 +11,7 @@ kt: 2296
 exl-id: 105c7767-4ca1-45d0-a1ca-7b99b4cfae6e
 source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '73'
 ht-degree: 0%
 
 ---
@@ -22,4 +22,4 @@ I den här videon visas hur du bättre kan demokratisera analyser genom att skap
 
 >[!VIDEO](https://video.tv.adobe.com/v/341027/?quality=12&learn=on)
 
-Mer information om den här funktionen finns i [dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/shareable-links.html?lang=en).
+Mer information om den här funktionen finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/shareable-links.html?lang=en).

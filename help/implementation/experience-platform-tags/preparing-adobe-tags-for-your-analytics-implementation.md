@@ -1,6 +1,6 @@
 ---
-title: Förbered Experience Platform [!DNL tags] för er Analytics-implementering
-description: Innan ni implementerar Analytics i [!DNL tags]behöver du stöddokument och behöver konfigurera några saker i både Analytics och [!DNL tags]. Den här videon handlar om dessa saker.
+title: Förbered Experience Platform [!DNL tags] för din Analytics-implementering
+description: Innan du implementerar Analytics i  [!DNL tags] behöver du stöddokument, och du måste konfigurera några saker i både Analytics och  [!DNL tags]. Den här videon handlar om dessa saker.
 feature: Tags
 topics: Development
 kt: 3584
@@ -14,8 +14,8 @@ ht-degree: 0%
 
 ---
 
-# Förbered Experience Platform [!DNL tags] för er Analytics-implementering
+# Förbered Experience Platform [!DNL tags] för din Analytics-implementering
 
-Innan ni implementerar Analytics i [!DNL tags]behöver du stöddokument och behöver konfigurera några saker i både Analytics och [!DNL tags]. Den här videon handlar om dessa saker.
+Innan du implementerar Analytics i [!DNL tags] behöver du stöddokument, och du måste konfigurera några saker i både Analytics och [!DNL tags]. Den här videon handlar om dessa saker.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28752/?quality=12&learn=on)

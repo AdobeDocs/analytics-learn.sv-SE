@@ -13,7 +13,7 @@ level: Experienced
 exl-id: 541c51b8-638e-43b4-90ac-0ce94290a141
 source-git-commit: 4d467928756950074620388645523021b21fb0d5
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '166'
 ht-degree: 0%
 
 ---
@@ -26,6 +26,6 @@ ht-degree: 0%
 
 Det här är det API som du bör använda för att spåra alla åtgärder som inte är skärmladdade på webbplatsen. Om skärmen kommer upp använder du trackState, som aktiverar en sidvisningseffekt. I annat fall använder du trackAction för att skicka in variabler som är associerade med den åtgärd som utförs.
 
-Dessa data kommer in som `contextData`, vilket även innebär att du då måste använda [!UICONTROL Processing Rules] att hämta in mobildata från dessa `contextData` variabler och mappa dem till [!DNL eVars], [!DNL Props], händelser osv. i Adobe Analytics.
+Dessa data kommer in som `contextData`, vilket även innebär att du måste använda [!UICONTROL Processing Rules] för att ta mobildata från dessa `contextData`-variabler och mappa dem till [!DNL eVars], [!DNL Props], händelser osv. i Adobe Analytics.
 
-Mer information om trackAction finns i [dokumentation](https://developer.adobe.com/client-sdks/documentation/getting-started/track-events/#track-user-actions-for-adobe-analytics).
+Mer information om trackAction finns i [dokumentationen](https://developer.adobe.com/client-sdks/documentation/getting-started/track-events/#track-user-actions-for-adobe-analytics).

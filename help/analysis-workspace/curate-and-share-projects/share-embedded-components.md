@@ -11,7 +11,7 @@ kt: 2295
 exl-id: 14af33e2-659e-4d78-923f-20752e26067b
 source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '127'
 ht-degree: 0%
 
 ---
@@ -22,4 +22,4 @@ Ibland vill du dela ett Analysis Workspace-projekt, men du glömmer att också d
 
 >[!VIDEO](https://video.tv.adobe.com/v/341273/?quality=12&learn=on)
 
-Mer information om den här funktionen finns i [dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/curate.html?lang=en).
+Mer information om den här funktionen finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/curate.html?lang=en).

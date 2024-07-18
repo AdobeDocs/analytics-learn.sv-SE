@@ -19,6 +19,6 @@ ht-degree: 0%
 
 # Analyserar användarbeteende över flera kanaler {#analyzing-user-behavior-across-channels}
 
-Lär dig hur du identifierar användarnas vägar till konvertering i mobilappar med [!DNL Flow] och jämför det med andra upplevelser som webben. Definiera och mät konverteringar i flerstegsprocesser för att skapa framgång för era mobilappar.
+Lär dig hur du identifierar användarnas sökvägar för konvertering i mobilappar med [!DNL Flow] och jämför dem med andra upplevelser som webben. Definiera och mät konverteringar i flerstegsprocesser för att skapa framgång för era mobilappar.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27824/?quality=12&learn=on)

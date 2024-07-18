@@ -11,7 +11,7 @@ kt: 7440
 exl-id: feb04719-8d70-403d-9546-f42a32442113
 source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '106'
 ht-degree: 0%
 
 ---
@@ -22,4 +22,4 @@ I den här videon visas hur du hanterar olika alternativ för datumintervall nä
 
 >[!VIDEO](https://video.tv.adobe.com/v/332454/?quality=12&learn=on)
 
-Mer information finns i [dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/curator.html).
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/curator.html).

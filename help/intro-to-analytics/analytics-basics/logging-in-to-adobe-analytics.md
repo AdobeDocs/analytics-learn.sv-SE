@@ -15,6 +15,6 @@ ht-degree: 0%
 
 # Logga in på Adobe Analytics
 
-I den här videon visar vi dig en inloggning så att du kan komma in och administrera [!DNL Analytics], liksom att göra analysen.
+I den här videon får du hjälp med en inloggning så att du kan komma in och administrera [!DNL Analytics], liksom att göra din analys.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28771/?quality=12&learn=on)

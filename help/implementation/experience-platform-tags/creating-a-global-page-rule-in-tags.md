@@ -1,6 +1,6 @@
 ---
-title: Skapa en global sidlinjal i Experience Platform [!DNL tags]
-description: Lär dig hur du ställer in en global sidlinjal för datapunkter som du vill skicka till Adobe Analytics på varje sida med Experience Platform [!DNL tags].
+title: Skapa en global sidregel i Experience Platform [!DNL tags]
+description: Lär dig hur du ställer in en global sidregel för datapunkter som du vill skicka till Adobe Analytics på varje sida med Experience Platform [!DNL tags].
 feature: Tags
 topics: Development
 kt: 3588
@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # Skapa en global sidlinjal i Experience Platform [!DNL tags]
 
-Lär dig hur du ställer in en global sidlinjal för datapunkter som du vill skicka till Adobe Analytics på varje sida med Experience Platform [!DNL tags].
+Lär dig hur du ställer in en global sidregel för datapunkter som du vill skicka till Adobe Analytics på varje sida med Experience Platform [!DNL tags].
 
 >[!VIDEO](https://video.tv.adobe.com/v/28769/?quality=12&learn=on)

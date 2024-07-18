@@ -15,8 +15,8 @@ ht-degree: 0%
 
 ---
 
-# Rapportering med marknadsföringskanaler för annonsering
+# Rapportering med Advertising marknadsföringskanaler
 
-Läs om hur informationen för genomskinlig och klickbar post i Advertising Cloud fungerar med Adobe Analytics [!UICONTROL Marketing Channels].
+Lär dig hur Advertising Cloud-vyigenom- och klickningsdata fungerar med Adobe Analytics [!UICONTROL Marketing Channels].
 
 >[!VIDEO](https://video.tv.adobe.com/v/35115/?quality=12&learn=on)

@@ -10,7 +10,7 @@ kt: 5287
 exl-id: ba29664f-da1a-49c7-8c73-ae5b65f11b4a
 source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '72'
+source-wordcount: '64'
 ht-degree: 0%
 
 ---
@@ -21,4 +21,4 @@ I den här videon får du lära dig hur du använder Adobe Analytics-instrumentp
 
 >[!VIDEO](https://video.tv.adobe.com/v/34545/?quality=12&learn=on)
 
-Mer information finns i [dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/home.html?lang=en).
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/home.html?lang=en).

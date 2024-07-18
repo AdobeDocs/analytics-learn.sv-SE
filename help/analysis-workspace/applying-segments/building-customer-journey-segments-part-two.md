@@ -1,5 +1,5 @@
 ---
-title: Bygga kundsegment - del två
+title: Bygga kundresesegment - del två
 description: I del två, lär du dig hur ni bygger segment för köp och lojalitet för att förstå kundernas köpresa och personalisera innehåll. Med hjälp av signaler som"Book Now"-klick eller inloggningar kan vi identifiera inköpsmetoder och kundlojalitet för effektiv analys och riktad marknadsföring.
 feature: Segmentation
 role: User
@@ -7,19 +7,19 @@ level: Experienced
 last-substantial-update: 2023-07-21T00:00:00Z
 jira: KT-13476
 thumbnail: KT-13476.jpeg
-source-git-commit: bc3bf5b22e3cf5a9d77e3fe8aa2d86c65a7eaefb
+exl-id: 2db73010-5cd0-4454-a4ba-fc1667a50cba
+source-git-commit: d95136a21c08312a81baba7673cb7135270af4bd
 workflow-type: tm+mt
-source-wordcount: '1981'
+source-wordcount: '1997'
 ht-degree: 0%
 
 ---
 
-
-# Bygga kundsegment - del två
+# Bygga kundresesegment - del två
 
 I del två, lär du dig hur ni bygger segment för köp och lojalitet för att förstå kundernas köpresa och personalisera innehåll. Med hjälp av signaler som&quot;Book Now&quot;-klick eller inloggningar kan vi identifiera inköpsmetoder och kundlojalitet för effektiv analys och riktad marknadsföring.
 
-## Bygger segment för köp och kvarhållning
+## Bygger segment för köp och lagring av återgivningsmetod
 
 I vårt sista inlägg beskrev vi processen att skapa besökssegment och byggde vårt första besökssegment, One Hit Wonders. Idag ska vi bygga upp våra inköp och kvarhållningssegment. Vi hade segmenterat cirka 23 % av våra besök och vi byggde våra platshållare för de återstående besökssegmenten.
 
@@ -32,7 +32,7 @@ Kom ihåg att segment för att bygga besök är en elimineringsprocess. Vi bygge
 1. Återgivning: 0 - One Hit Wonders
 1. Återgivning: 3 - Inköp
 1. Återgivning: 4 - Kvarhållning
-1. Återgivning: 2 - Att tänka på
+1. Återgivning: 2 - övervägande
 1. Återgivning: 1 - Medvetenhet
 
 I vårt sista inlägg kallade jag&quot;Inköp&quot;-segmentet&quot;Bokning&quot; eftersom jag är med i resebranschen. Men i framtiden kallar vi det köpsegmentet för att göra det enklare att tillämpa det på flera branscher.
@@ -59,7 +59,7 @@ Vi kan se det som något som en mataffär. Om någon plockar upp en produkt som 
 
 Jag föreslår att man använder besökta sidor eller andra explicita signaler för inköpsavsikt och undviker andra, mindre direkta signaler för att identifiera inköpsavsikt. Jag använder till exempel inte antal sessioner eller antal sidor i en session eller liknande. Dessa indirekta signaler indikerar övervägande, inte avsikt att köpa. Tänk på att syftet med det här segmentet är att sluta sig till besökarens avsikter, inte deras benägenhet.
 
-### Identifiera signaler för inköpsavsikt med hjälp av arbetsytan för analyser
+### Använda Analytics Workspace för att identifiera skyltar för inköpsavsikt
 
 Utfallsrapporten är mycket användbar för att identifiera en bra signal som indikerar inköpsavsikt. Leta efter en plats som logiskt anger återgivning. Du kan bekräfta att steget anger avsikten när du ser ett markerat utfall som går till det steget, ofta följt av ett mindre utfall för steget direkt efter.
 
@@ -91,7 +91,7 @@ Lägg till en Exkludera-behållare i segmentet som förenas med villkoret&quot;A
 
 Det bästa sättet är att märka behållarna. Du kommer att bli glad att du gjorde det, särskilt som våra segmentdefinitioner blir mer komplexa.
 
-Nu när vi har skapat segmentet Inköpsmetod kan vi använda arbetsytan för Intent Data Quality för att se att segmentet Inköpsmetod utesluter segmentet One och Done.
+Nu när vi har skapat segmentet Inköpsmetod kan vi använda Workspace Visit Intent Data Quality för att se att segmentet Inköpsmetod är ömsesidigt uteslutande för vårt One and Done-segment.
 
 ![Bild 5](assets/Image-5.png)
 
@@ -105,19 +105,19 @@ Precis som med segmentet Inköpsmetod söker vi efter mycket tydliga indikatione
 
 Jag bör notera att &quot;Kvarhållning&quot; är lite av ett pinsamt namn för besöksavsikten, eftersom besökaren inte finns på vår webbplats &quot;så jag kan behållas som kund.&quot; Vi tänker behålla besöket. Kom bara ihåg att vara empatisk för våra kunder och behålla kundfokus!
 
-### Identifiera signaturer för kvarhållningsmetod med arbetsytan Analytics
+### Använda Analytics Workspace för att identifiera signaler för lagringsmetod
 
-Återigen hjälper Analytics Workspace oss att identifiera bevarandemetod. Du kan kategorisera sidorna med hjälp av sidorna, webbplatsavsnittet eller de anpassade segmentdimensionerna. Sök efter sidor med låga inköpskonverteringsgrader. I det här fallet ser vi att sidorna Online Check-In och Shore Excursion (Shorex) har relativt lägre konverteringsgrader än andra sidor som är mer logiskt kopplade till köp och köp.
+Återigen kan Analytics Workspace hjälpa oss att identifiera bevarandemetod. Du kan kategorisera sidorna med hjälp av sidorna, webbplatsavsnittet eller de anpassade segmentdimensionerna. Leta efter sidor med låga inköpskonverteringsgrader. I det här fallet ser vi att sidorna Online Check-In och Shore Excursion (Shorex) har relativt lägre konverteringsgrader än andra sidor som är mer logiskt kopplade till köp och köp.
 
 ![Bild 6](assets/Image-6.png)
 
-Det är också en bra idé att titta på arbetsytan för sidor med hög trafik. Skanna listan över sidor med hög trafik och bestäm om de visar på en bevarandesats.
+Det är också en bra idé att titta i Workspace efter sidor med mycket trafik. Skanna listan över sidor med hög trafik och bestäm om de visar på en bevarandesats.
 
 ## Utesluta andra segment
 
 Återigen måste våra besöksavsiktssegment vara ömsesidigt uteslutande och fullständigt uttömmande. Om du inte är trött på att läsa detta ännu, kommer du att bli det! För vårt segment för kvarhållningsmetod är det mycket viktigt att utesluta beteenden för inköpsmetod.
 
-För de flesta av oss är inköpsmetod och lagringsmetod inte ömsesidigt uteslutande beteenden. Vi har gäster som kommer till webbplatsen för att hantera sin kommande kryssning, men som också bokar sin nästa resa (tack!). Om du är restaurang kan en besökare kontrollera sina förmånspoäng och sedan göra en onlinebeställning.
+För de flesta av oss är inköpsmetod och kvarhållningsmetod inte ömsesidigt uteslutande beteenden. Vi har gäster som kommer till webbplatsen för att hantera sin kommande kryssning, men som också bokar sin nästa resa (tack!). Om du är restaurang kan en besökare kontrollera sina förmånspoäng och sedan göra en onlinebeställning.
 
 Även om beteendet inte utesluter varandra måste våra segment vara till för kundreseanalys. Vi kan bygga andra mycket intressanta segment för att analysera överlappningen mellan köp- och lojalitetsbeteenden. Men för våra nuvarande syften måste dessa segment vara ömsesidigt uteslutande.
 
@@ -131,7 +131,7 @@ Lägg sedan till exkluderingsbehållare för dina One Hit Wonders- och Purchase 
 
 ![Bild 7](assets/Image-7.png)
 
-Återigen kan du titta på arbetsytan Visit Data Quality för att se till att era segment är ömsesidigt uteslutande. Våra besöksintent-segment är perfekta!
+Återigen kan du titta på Workspace Intent Data Quality för att försäkra dig om att era segment är ömsesidigt uteslutande. Våra besöksintent-segment är perfekta!
 
 ![Bild 8](assets/Image-8.png)
 

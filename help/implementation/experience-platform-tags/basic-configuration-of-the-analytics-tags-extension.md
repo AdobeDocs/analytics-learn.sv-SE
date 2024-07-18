@@ -1,6 +1,6 @@
 ---
-title: Grundläggande konfiguration av Analytics-tillägget i Experience Platform [!DNL tags]
-description: I den här videon visas en snabb konfiguration av Analytics-tillägget i Experience Platform [!DNL tags] för en grundläggande webbplats.
+title: Grundkonfiguration för Analytics-tillägget i Experience Platform [!DNL tags]
+description: I den här videon visas en snabb konfiguration av Analytics-tillägget i Experience Platform [!DNL tags]  för en grundläggande webbplats.
 feature: Tags
 topics: Development
 kt: 3586
@@ -14,8 +14,8 @@ ht-degree: 0%
 
 ---
 
-# Grundläggande konfiguration av Analytics-tillägget i Experience Platform [!DNL tags]
+# Grundläggande konfiguration för Analytics-tillägget i Experience Platform [!DNL tags]
 
-I den här videon visas en snabb konfiguration av Analytics-tillägget i Experience Platform [!DNL tags] för en grundläggande webbplats. Detaljerad dokumentation finns på [Översikt över Adobe Analytics-tillägg](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/client/analytics/overview.html){target="_blank"}.
+I den här videon visas en snabb konfiguration av Analytics-tillägget i Experience Platform [!DNL tags] för en grundläggande webbplats. Mer detaljerad dokumentation finns i [Översikt över Adobe Analytics-tillägg](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/client/analytics/overview.html){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28751/?quality=12&learn=on)

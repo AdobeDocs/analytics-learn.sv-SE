@@ -8,13 +8,13 @@ doc-type: Article
 last-substantial-update: 2023-05-02T00:00:00Z
 jira: KT-13180
 thumbnail: KT-13180.jpeg
-source-git-commit: d7b1fac5c98080f9ca786ea21a3700d2937c7ebc
+exl-id: c06afc7b-e997-404d-82a4-e7ec5d5ba44d
+source-git-commit: d95136a21c08312a81baba7673cb7135270af4bd
 workflow-type: tm+mt
-source-wordcount: '1236'
+source-wordcount: '1243'
 ht-degree: 0%
 
 ---
-
 
 # Bygga kundresesegment
 
@@ -46,19 +46,19 @@ Min första uppsättning av besöksavsiktssegment inkluderade:
 
 För att göra mina besöksintent-segment enkla att använda lade jag till&quot;Intent:&quot; som prefix för mina segmentnamn, gav dem ett nummer för att möjliggöra sortering och taggade dem&quot;intent&quot;. Mina segment såg ut som bilden nedan.
 
-![avsiktliga segment](assets/intent-segments.png)
+![intent segments](assets/intent-segments.png)
 
 **Skapa dina besöksåtergivningssegment med hjälp av besöksbehållaren med en platshållardefinition av sidvyer >= 1.**
 
 Som vi kommer att se är byggandet av dessa segment en iterativ och sammankopplad process. Jag kommer att beskriva processen att bygga dessa segment i en framtida post.
 
-## Arbetsytan Datakvalitet för besöksavsiktssegment
+## Workspace, Data Quality för besökssegment
 
-![besök arbetsytan för återgivning](assets/visit-intent-workspace.png)
+![gå till arbetsytan Återgivning](assets/visit-intent-workspace.png)
 
 Jag använde en enkel arbetsyta för att säkerställa att jag definierade mina besöksintent-segment väl. Kom ihåg att varje besök måste tillhöra ett, och bara ett, besökssegment. Den arbetsyta som jag konfigurerar ser till att alla besök tas med och att det inte finns någon överlappning mellan segmenten.
 
-Jag gav den här arbetsytan namnet&quot;DATAKVALITET: Besök Intent Segments med taggarna &quot;data quality&quot;, &quot;visit intent&quot; och &quot;customer travel&quot;. Senare skapar vi en&quot;Besök instrumentpanel för återgivning&quot; så prefixet&quot;DATAKVALITET&quot; anger att den här arbetsytan används för att konfigurera och underhålla segment. Det är en administrativ kontrollpanel som har ganska lite affärsinsikter men som är viktig för att säkerställa att segmenten upprätthålls. Det är en god idé att regelbundet gå tillbaka till den här instrumentpanelen eller konfigurera aviseringar för att se till att era segment förblir korrekt definierade.
+Jag gav den här arbetsytan namnet&quot;DATAKVALITET: Besök Intent Segments&quot; med taggarna&quot;datakvalitet&quot;,&quot;Besök avsikt&quot; och&quot;kundresa&quot;. Senare skapar vi en&quot;Besök instrumentpanel för återgivning&quot; så prefixet&quot;DATAKVALITET&quot; anger att den här arbetsytan används för att konfigurera och underhålla segment. Det är en administrativ kontrollpanel som har ganska lite affärsinsikter men som är viktig för att säkerställa att segmenten upprätthålls. Det är en god idé att regelbundet gå tillbaka till den här instrumentpanelen eller konfigurera aviseringar för att se till att era segment förblir korrekt definierade.
 
 Den viktigaste visualiseringen på den här arbetsytan är segmentöverlappningsfriformsvisualiseringen i mitten till vänster. Använd mätvärdet för Besök för att skapa kolumnfilter för vart och ett av dina segment för Besöksmetod, plus segmentet Alla besök i den högra kolumnen. Skapa rader för varje besöksintent-segment till vänster. Nu kan du visualisera flera flikar. När era segment är korrekt konfigurerade finns det bara data i en kolumn och en rad, i skärningspunkten mellan varje besöksintent-segment och sig själv.
 
@@ -68,9 +68,9 @@ De näst viktigaste visualiseringarna är sammanfattningsmåtten längst upp til
 
 I det övre högra hörnet har jag lagt till ytterligare mätvärden till vart och ett av segmenten för att ge lite &quot;smak&quot; åt hur segmenten formas. Eftersom de här segmenten utesluter varandra förväntar jag mig att bara se bokningar för bokningsmetoden (det är inte sant, vi får konverteringsgraden när vi gör besökssegmenten besöksbaserade.
 
-Kom ihåg att vi just skapade platshållarsegment. Till att börja med kommer arbetsytan att se fantastisk ut. Alla besöksavsiktssegment överlappar 100 % eftersom de har samma definition. Detta är korrekt och exakt vad du vill se nu i processen. När vi bygger upp segmentdefinitionerna börjar vi se hur dessa segment börjar få form.
+Kom ihåg att vi just skapade platshållarsegment. Till att börja med ser arbetsytan fantastisk ut. Alla besöksavsiktssegment överlappar 100 % eftersom de har samma definition. Detta är korrekt och exakt vad du vill se nu i processen. När vi bygger upp segmentdefinitionerna börjar vi se hur dessa segment börjar få form.
 
-![Besök definitioner av intent-segment](assets/visit-intent-segment-defs.png)
+![Besök segmentdefinitionerna för återgivning](assets/visit-intent-segment-defs.png)
 
 ## Bygger ditt första besökssegment
 
@@ -79,7 +79,7 @@ Att definiera segment för besöksåtergivning är en del av en process av elimi
 1. Återgivning: 0 - One Hit Wonders
 1. Återgivning: 3 - Bokning
 1. Återgivning: 4 - Kvarhållning
-1. Återgivning: 2 - Att tänka på
+1. Återgivning: 2 - övervägande
 1. Återgivning: 1 - Medvetenhet
 
 Ganska slumpmässigt, va? Att definiera dessa segment för besöksåtergivning var en iterativ process fram och tillbaka och ofta en justering av ett segment som krävde uppdateringar av andra segment. Detta blir tydligare när jag beskriver hur jag har definierat de olika segmenten.
@@ -88,15 +88,15 @@ Idag ska vi definiera vårt första och enklaste segment, One Hit Wonders
 
 ## Bygger segmentet One Hit Wonders
 
-Mitt första segment,&quot;One Hit Wonders&quot;, var enkelt att definiera. Det är bara ett besök med bara en sidvy. Vi vet verkligen inte varför användaren var på webbplatsen, eftersom de studsade. Jag antar att vi skulle kunna gissa oss till en metod som bygger på deras anmälningssida, men med bara en sidvy finns det inte tillräckligt med information för att kunna gissa sig till avsikten.
+Mitt första segment,&quot;One Hit Wonders&quot;, var enkelt att definiera. Det är bara ett besök med bara en sidvy. Vi vet verkligen inte varför den användaren var på webbplatsen, eftersom de studsade. Jag antar att vi skulle kunna gissa oss till en metod som bygger på deras anmälningssida, men med bara en sidvy finns det inte tillräckligt med information för att kunna gissa sig till avsikten.
 
 ![Segmentdefinition](assets/segment-def.png)
 
-När du har definierat det här segmentet börjar du se hur arbetsytan Besöksmetod ser ut.
+När du har definierat det här segmentet börjar du se hur Workspace tar form på besökswebbplatsen.
 
 ![Fler segmentdefinitioner](assets/more-segment-defs.png)
 
-Att bygga kundsegment med Adobe Analytics är en utmanande men givande process. Genom att skapa beteendebaserade segment, beräkna målgruppsstorlekar och spåra användarrörelser kan företag personalisera media och förbättra kundupplevelsen. Varje verksamhet är unik och det finns inga specifika formler för att skapa segment, utan riktlinjer och en process att följa. Segmenten bör uppdateras när företag lär sig mer om sina kunder, vilket medför rapporteringsproblem. Genom att följa processen med att bygga segment för besöksavsikt kan företag förbättra den övergripande kundupplevelsen.
+Att bygga kundsegment med Adobe Analytics är en utmanande men givande process. Genom att skapa beteendebaserade segment, beräkna målgruppsstorlekar och spåra användarrörelser kan företag personalisera media och förbättra kundupplevelsen. Varje verksamhet är unik och det finns inga specifika formler för att skapa segment, utan riktlinjer och en process som ska följas. Segmenten bör uppdateras när företag lär sig mer om sina kunder, vilket medför rapporteringsproblem. Genom att följa processen med att bygga segment för besöksavsikt kan företag förbättra den övergripande kundupplevelsen.
 
 ## Upphovsman
 
@@ -107,5 +107,3 @@ Det här dokumentet har skrivits av:
 **Aaron Fossum**, Director, Digital Analytics
 
 Adobe Analytics Champion
-
-

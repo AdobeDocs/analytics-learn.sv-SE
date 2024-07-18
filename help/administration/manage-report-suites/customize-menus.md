@@ -11,7 +11,7 @@ kt: 7707
 exl-id: 7465f4f9-0afb-447e-a8fe-ea46ac71e439
 source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '126'
 ht-degree: 0%
 
 ---
@@ -22,4 +22,4 @@ Vi rekommenderar att du använder Analysis Workspace för att analysera dina dat
 
 >[!VIDEO](https://video.tv.adobe.com/v/333035/?quality=12&learn=on)
 
-Mer information finns på [dokumentation](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/customize-menus.html).
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/customize-menus.html).

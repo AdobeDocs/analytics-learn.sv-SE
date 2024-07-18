@@ -15,8 +15,8 @@ level: Beginner
 exl-id: 0650a07f-5b93-40e0-a4f0-04fa83342a1c
 source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
-source-wordcount: '147'
-ht-degree: 1%
+source-wordcount: '123'
+ht-degree: 0%
 
 ---
 
@@ -28,7 +28,7 @@ I det här fallet kommer vi att konfigurera systemet så att postnummer infogas,
 
 Mer information om aspekter av det här användningsfallet finns i följande dokumentationsavsnitt:
 
-[Postnummer](https://experienceleague.adobe.com/docs/analytics/components/dimensions/zip-code.html?lang=en)
+[Postnummer och postnummer](https://experienceleague.adobe.com/docs/analytics/components/dimensions/zip-code.html?lang=en)
 
 [[!UICONTROL Classifications]](https://experienceleague.adobe.com/docs/analytics/components/classifications/c-classifications.html?lang=en)
 

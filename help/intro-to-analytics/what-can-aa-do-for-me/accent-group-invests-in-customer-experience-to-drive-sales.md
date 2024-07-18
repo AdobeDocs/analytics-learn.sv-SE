@@ -17,8 +17,8 @@ ht-degree: 0%
 
 ---
 
-# Kundexempel: [!DNL Accent Group] Investeringar i kundupplevelsen för att öka försäljningen
+# Användningsexempel: [!DNL Accent Group] Investerar i kundupplevelsen för att öka försäljningen
 
-[!DNL Accent Group], Australiens största skohandlare, ökar sin försäljning och konverteringar genom att leverera enastående kundupplevelser över fysiska och digitala kontaktytor. Se hur [!DNL Accent Group] använder Adobe Experience Cloud för att skapa sömlösa digitala upplevelser.
+[!DNL Accent Group], Australiens största skovaruåterförsäljare, ökar sin försäljning och sina konverteringar genom att leverera enastående kundupplevelser över fysiska och digitala kontaktytor. Se hur [!DNL Accent Group] använder Adobe Experience Cloud för att skapa sömlösa digitala upplevelser.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31505/?quality=12&learn=on)

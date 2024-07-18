@@ -8,13 +8,13 @@ doc-type: Feature Video
 last-substantial-update: 2023-06-08T00:00:00Z
 jira: KT-13458
 thumbnail: 3420314.jpeg
-source-git-commit: 8feccfa54d20a086dfdbcab98edd8025bfb164b8
+exl-id: 630fee46-2a78-4347-a884-c892dc174170
+source-git-commit: d95136a21c08312a81baba7673cb7135270af4bd
 workflow-type: tm+mt
-source-wordcount: '76'
+source-wordcount: '70'
 ht-degree: 0%
 
 ---
-
 
 # Skapa robotrapporter i Analysis Workspace
 
@@ -22,4 +22,4 @@ Lär dig hur du rapporterar om båda data i Analysis Workspace. Punktdata finns 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420314/?learn=on)
 
-Mer information finns på [dokumentation](https://experienceleague.adobe.com/docs/analytics/components/dimensions/bot-name.html).
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/components/dimensions/bot-name.html).

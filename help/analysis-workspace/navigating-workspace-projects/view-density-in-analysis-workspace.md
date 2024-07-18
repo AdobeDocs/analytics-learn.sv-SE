@@ -19,6 +19,6 @@ ht-degree: 0%
 
 # [!UICONTROL View Density] i Analysis Workspace {#view-density-in-analysis-workspace}
 
-The [!UICONTROL View Density] ställa in under [!UICONTROL Project] > [!UICONTROL Project Info & Settings] kan du styra den lodräta utfyllnaden som används på den vänstra listen och tabellerna ([!UICONTROL Freeform] &amp; [!UICONTROL Cohort]). Du kan välja mellan Utökat (standard), Komplext eller Kompakt.
+Inställningen [!UICONTROL View Density] under [!UICONTROL Project] > [!UICONTROL Project Info & Settings] gör att du kan styra den lodräta utfyllnaden som används på den vänstra listen och tabellerna ([!UICONTROL Freeform] &amp; [!UICONTROL Cohort]). Du kan välja mellan Utökat (standard), Komplext eller Kompakt.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25963/?quality=12&learn=on)

@@ -20,6 +20,6 @@ SDR-dokumentet (Solution Design Reference) är en plan för verksamhetskrav och 
 
 >[!VIDEO](https://video.tv.adobe.com/v/28754/?quality=12&learn=on)
 
-[Ladda ned](assets/aa_en_BRD_SDR_template.xlsx) en Excel-exempelmall som dokumenterar krav, variabelanvändning och tilldelning, segment och datainsamlingsdesign för dina digitala egenskaper.
+[Hämta](assets/aa_en_BRD_SDR_template.xlsx) en Excel-exempelmall för att dokumentera krav, variabelanvändning och tilldelning, segment och datainsamlingsdesign för dina digitala egenskaper.
 
-Titta på den relaterade videon och lär dig hur du skapar en [video om krav på företag](creating-a-business-requirements-document.md).
+Titta på den relaterade videon för att lära dig hur du skapar en [video med dokument om affärskrav](creating-a-business-requirements-document.md).

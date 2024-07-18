@@ -1,6 +1,6 @@
 ---
 title: Använda kortkommandon
-description: Lär dig hur du använder kortkommandon i Analysis Workspace
+description: Lär dig använda kortkommandon i Analysis Workspace
 feature: Workspace Basics
 role: User
 level: Beginner
@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # Använda kortkommandon {#use-keyboard-shortcuts}
 
-Lär dig hur du använder kortkommandon i Analysis Workspace. Det här är tidsbesparande tekniker som hjälper dig att utföra olika uppgifter i ett projekt.
+Lär dig använda kortkommandon i Analysis Workspace. Det här är tidsbesparande tekniker som hjälper dig att utföra olika uppgifter i ett projekt.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23984/?quality=12&learn=on)

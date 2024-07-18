@@ -11,7 +11,7 @@ kt: 9575
 exl-id: dc7cd4c7-a085-4d09-aca0-12c41282aa16
 source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '67'
+source-wordcount: '58'
 ht-degree: 0%
 
 ---
@@ -22,4 +22,4 @@ I den här videon går vi igenom konfigurationen av klassificeringar för trafik
 
 >[!VIDEO](https://video.tv.adobe.com/v/340024/?quality=12&learn=on)
 
-Mer information finns på [dokumentation](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/traffic-variables/traffic-classifications.html?lang=en).
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/traffic-variables/traffic-classifications.html?lang=en).

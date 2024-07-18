@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # Använda olika [!DNL Attribution IQ] [!UICONTROL models] med segment i Analysis Workspace {#using-different-attribution-iq-models-with-segments-in-analysis-workspace}
 
-I den här videon får du lära dig hur du använder [!DNL Attribution IQ] [!UICONTROL models] tillsammans med Adobe Analytics-segment på er webbplats.
+I den här videon får du lära dig hur du använder [!DNL Attribution IQ] [!UICONTROL models] tillsammans med Adobe Analytics-segment på din webbplats.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23743/?quality=12&learn=on)
 

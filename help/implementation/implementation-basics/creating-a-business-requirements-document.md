@@ -20,6 +20,6 @@ Lär dig mer om det viktiga steget att definiera de beteendedata som du vill hä
 
 >[!VIDEO](https://video.tv.adobe.com/v/28758/?quality=12&learn=on)
 
-[Ladda ned](assets/aa_en_BRD_SDR_template.xlsx) en Excel-exempelmall som dokumenterar krav, variabelanvändning och tilldelning, segment och datainsamlingsdesign för dina digitala egenskaper.
+[Hämta](assets/aa_en_BRD_SDR_template.xlsx) en Excel-exempelmall för att dokumentera krav, variabelanvändning och tilldelning, segment och datainsamlingsdesign för dina digitala egenskaper.
 
-Titta på den relaterade videon och lär dig hur du skapar en [referensdokument för lösningsdesign](creating-and-maintaining-an-sdr.md).
+Titta på den relaterade videon och lär dig hur du skapar ett [lösningsdesignreferensdokument](creating-and-maintaining-an-sdr.md).

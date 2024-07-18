@@ -14,15 +14,15 @@ ht-degree: 0%
 
 ---
 
-# Använda [!DNL Attribution IQ] in [!DNL Freeform Tables] {#using-attribution-iq-in-freeform-tables}
+# Använder [!DNL Attribution IQ] i [!DNL Freeform Tables] {#using-attribution-iq-in-freeform-tables}
 
-[!DNL Attribution IQ] låter dig ändra attribueringen [!UICONTROL model] till någon av tio regelbaserade modeller på [!UICONTROL Freeform] direkt.
+Med [!DNL Attribution IQ] kan du ändra attributet [!UICONTROL model] till vilken som helst av tio regelbaserade modeller i en [!UICONTROL Freeform] -kolumn.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23136/?quality=12&learn=on)
 
-Varje attribuering [!UICONTROL model] har fullt stöd för segmentering och uppdelningar och gör att du kan göra obegränsade jämförelser i alla dimensioner (till och med [!DNL props]!).
+Varje attribuering [!UICONTROL model] har fullt stöd för segmentering och uppdelningar, och du kan göra obegränsade jämförelser för alla dimensioner (till och med [!DNL props]!).
 
-[!DNL Attribution IQ] finns exklusivt för Analysis Workspace, för kunder som har följande paket:
+[!DNL Attribution IQ] är endast tillgängligt för Analysis Workspace, för kunder som har följande paket:
 
 * [!DNL Adobe Analytics Foundation]
 * [!DNL Adobe Analytics Select]

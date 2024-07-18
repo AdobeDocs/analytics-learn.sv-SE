@@ -10,7 +10,7 @@ kt: 8059
 exl-id: a074d503-94f2-449f-8d3e-8bb599752981
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '58'
+source-wordcount: '48'
 ht-degree: 0%
 
 ---
@@ -21,4 +21,4 @@ Använd en frihandstabell (pivottabell) för att förstå och tolka era data och
 
 >[!VIDEO](https://video.tv.adobe.com/v/334093/?quality=12&learn=on)
 
-Mer information finns på [dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/freeform-table/freeform-table.html?lang=en).
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/freeform-table/freeform-table.html?lang=en).

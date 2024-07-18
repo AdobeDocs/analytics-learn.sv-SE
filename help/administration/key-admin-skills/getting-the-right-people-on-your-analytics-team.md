@@ -1,6 +1,6 @@
 ---
 title: Få rätt personer i ert analysteam
-description: Det är mycket viktigt att ni får rätt personer i teamet när ni implementerar Adobe Analytics och när ni analyserar aktiviteten på er webbplats. I den här videon får du en snabb sammanfattning av de olika roller du vill fylla.
+description: Det är viktigt att ni får rätt personer i teamet när ni implementerar Adobe Analytics och analyserar aktiviteten på er webbplats. I den här videon får du en snabb sammanfattning av de olika roller du vill fylla.
 feature: Analytics Basics
 kt: 3563
 role: Admin
@@ -13,8 +13,8 @@ ht-degree: 0%
 
 ---
 
-# Få rätt personer på dina [!DNL Analytics] Team
+# Rätt personer i ditt [!DNL Analytics]-team hämtas
 
-Det är mycket viktigt att ni får rätt personer i teamet när ni implementerar Adobe Analytics och när ni analyserar aktiviteten på er webbplats. I den här videon får du en snabb sammanfattning av de olika roller du vill fylla.
+Det är viktigt att ni får rätt personer i teamet när ni implementerar Adobe Analytics och analyserar aktiviteten på er webbplats. I den här videon får du en snabb sammanfattning av de olika roller du vill fylla.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28756/?quality=12&learn=on)

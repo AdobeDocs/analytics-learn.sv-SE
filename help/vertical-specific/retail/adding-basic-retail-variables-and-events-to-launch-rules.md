@@ -1,6 +1,6 @@
 ---
-title: Lägga till grundläggande variabler och händelser för butiker i Experience Platform [!DNL tags]
-description: I den här videon visas hur du använder ett särskilt produktsträngstillägg i [!DNL tags] för att hålla reda på variabler och händelser för detaljhandeln, som produktvisningar, varukorgstillägg och utcheckningar.
+title: Lägg till grundläggande butiksvariabler och händelser till regler i Experience Platform [!DNL tags]
+description: I den här videon visas hur du använder ett särskilt produktsträngstillägg i  [!DNL tags]  för att spåra grundläggande butiksvariabler och händelser, som produktvyer, kundvagnstillägg och utcheckningar.
 feature: Tags
 topics: Development
 kt: 3592
@@ -14,9 +14,9 @@ ht-degree: 0%
 
 ---
 
-# Lägga till grundläggande variabler och händelser för butiker i Experience Platform [!DNL tags]
+# Lägg till grundläggande butiksvariabler och händelser till regler i Experience Platform [!DNL tags]
 
-I den här videon visas hur du använder ett särskilt produktsträngstillägg i [!DNL tags] för att hålla reda på variabler och händelser för detaljhandeln, som produktvisningar, varukorgstillägg och utcheckningar.
+I den här videon visas hur du använder ett särskilt produktsträngstillägg i [!DNL tags] för att spåra grundläggande butiksvariabler och händelser, som produktvyer, varukorgstillägg och utcheckningar.
 
 >[!NOTE]
 >

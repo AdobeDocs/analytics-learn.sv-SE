@@ -11,7 +11,7 @@ kt: 9779
 exl-id: d7fb6c34-262c-482c-95ab-fc45399bf9be
 source-git-commit: ae1b87ec6d8d43af51ad6f40e7446e350b2ab1bc
 workflow-type: tm+mt
-source-wordcount: '912'
+source-wordcount: '906'
 ht-degree: 0%
 
 ---
@@ -50,8 +50,8 @@ En vanlig grundläggande utbildningssession täcker förstås inte in alla fråg
 
 * Se till att du även spelar in dessa sessioner och gör dem tillgängliga en i taget när du skapar det nya innehållet.
 * Ibland när implementeringen växer och utvecklas kan du behöva uppdatera dina utbildningstillfällen för att hålla innehållet aktuellt.
-* Beroende på hur implementeringen och organisationen är strukturerad kan det vara relevant att skapa utbildningstillfällen som riktar sig till en viss avdelning eller grupp: dvs. tillhandahålla utbildning till en IT-avdelning om webbläsaranvändning och operativsystemsanvändning, visa varningar om webbplatsens tillgänglighet jämfört med att ge en marknadsföringsavdelning utbildning om referenter, marknadsföringskanaler och de flesta besökta innehållssidor.
-* Du behöver inte skapa allt innehåll själv. Adobe har några utmärkta kostnadsfria utbildningsvägar och ytterligare utbildningsmaterial som du kan erbjuda dina användare på [Adobe Experience League](https://experienceleague.adobe.com/docs/analytics.html?lang=en).
+* Beroende på hur implementeringen och organisationen är uppbyggd kan det vara relevant att skapa utbildningstillfällen som riktar sig till en viss avdelning eller grupp: dvs. att ge en IT-avdelning utbildning i webbläsaranvändning och operativsystemsanvändning, visa varningar om webbplatsens tillgänglighet jämfört med att ge en marknadsföringsavdelning utbildning runt hänvisare, marknadsföringskanaler och de flesta besökta innehållssidorna.
+* Du behöver inte skapa allt innehåll själv. Adobe har utmärkta kostnadsfria utbildningsvägar och ytterligare utbildningsmaterial som du kan erbjuda dina användare i [Adobe Experience League](https://experienceleague.adobe.com/docs/analytics.html?lang=en).
 
 
 
@@ -60,7 +60,7 @@ En vanlig grundläggande utbildningssession täcker förstås inte in alla fråg
 På alla avdelningar finns det i allmänhet en användare som är mer avancerad och kunnig i Adobe Analytics. Utnyttja sin expertis och samarbeta med dem för att bli en ledare för Adobe Analytics-avdelningen. Genom att skapa den här supportnivån hjälper du användarna att förbättra sina kunskaper, göra mer investeringar i Adobe Analytics och bevara din tid för mer avancerade och utmanande frågor.
 
 * Investera i tidsåtgång för att utbilda de ledande avdelningarna och bli avancerade användare, så att de enkelt kan besvara alla frågor och hjälpa nya användare på avdelningen. Den här tiden som investeras kommer att betala utdelningar senare.
-* Se till att du sätter dig förväntningar på att alla avdelningens frågor ska hanteras av den ledande avdelningen. Om de inte kan besvara en fråga, är det då du bör hämtas in för att hjälpa till.
+* Se till att du sätter dig förväntningar på att alla avdelningens frågor ska hanteras av avdelningsledaren. Om de inte kan besvara en fråga, är det då du bör hämtas in för att hjälpa till.
 
 >[!IMPORTANT]
 >

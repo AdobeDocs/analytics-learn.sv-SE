@@ -1,5 +1,5 @@
 ---
-title: Konfigurera interna sökrapporter
+title: Konfigurera interna sökrapporter för webbplatser
 description: Skapa och konfigurera frihandstabeller i Analysis Workspace för att analysera den interna sökfunktionen på din webbplats.
 feature: Use Cases
 role: User
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ---
 
-# Konfigurera interna sökrapporter
+# Konfigurera interna sökrapporter för webbplatser
 
 Skapa och konfigurera frihandstabeller i Analysis Workspace för att analysera den interna sökfunktionen på din webbplats.
 

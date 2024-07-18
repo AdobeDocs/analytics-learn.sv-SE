@@ -19,6 +19,6 @@ ht-degree: 0%
 
 # Ändra skala/axel på [!UICONTROL visualizations] i Analysis Workspace {#changing-the-scale-axis-on-visualizations-in-analysis-workspace}
 
-I den här videon visas hur du enkelt kan ändra skalan (eller axelgränserna) för Y-axeln på en [!UICONTROL line] i Analysis Workspace för att göra data svårare för dig och andra att feltolka.
+I den här videon visas hur du enkelt kan ändra skalan (eller axelgränserna) för Y-axeln i ett [!UICONTROL line]-diagram i Analysis Workspace för att göra data svårare för dig och andra att feltolka.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24708/?quality=12&learn=on)

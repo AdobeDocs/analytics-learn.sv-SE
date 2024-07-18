@@ -19,6 +19,6 @@ ht-degree: 0%
 
 # Förstå användarbeteende för röstassistenter {#understand-user-behavior-on-voice-assistants}
 
-Lär dig förstå användarbeteenden och få insikter genom att titta på nyckeln [!UICONTROL metrics] till exempel de viktigaste metoderna, parametrarna och användarautentiseringen.
+Lär dig hur du förstår användarbeteenden och får insikter genom att titta på nyckeln [!UICONTROL metrics], till exempel de viktigaste metoderna, parametrarna och användarautentiseringen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27227/?quality=12&learn=on)

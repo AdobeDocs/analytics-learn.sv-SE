@@ -1,5 +1,5 @@
 ---
-title: Uppdatera AppMeasurement när Experience Platform Launch inte används
+title: AppMeasurementet uppdateras när Experience Platform Launch inte används
 description: I den här videon visas hur du uppdaterar din appMeasurement-kod när du inte använder Experience Platform Launch. Detta inkluderar var koden ska hämtas och var den ska uppdateras.
 feature: Appmeasurement Implementation
 topics: null
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ---
 
-# Uppdaterar AppMeasurement när inte använder [!DNL Experience Platform Launch] {#updating-appmeasurement-when-not-using-adobe-launch}
+# AppMeasurementet uppdateras när [!DNL Experience Platform Launch] inte används {#updating-appmeasurement-when-not-using-adobe-launch}
 
 I den här videon visas hur du uppdaterar din appMeasurement-kod när du inte använder Adobe [!DNL Experience Platform Launch]. Detta inkluderar var koden ska hämtas och var den ska uppdateras.
 
@@ -25,4 +25,4 @@ I den här videon visas hur du uppdaterar din appMeasurement-kod när du inte an
 
 >[!NOTE]
 >
->Om du använder en tagghanteringslösning som inte är Adobe måste du behandla den [!DNL AppMeasurement] uppdateras som om du inte använde någon tagghanteringslösning. Det innebär, var än du har din AppMeasurement-kod, att det är där du utför uppdateringen (hämta den nya koden och ersätt den gamla koden i filen eller i TMS). Om du använder [!DNL Experience Platform Launch], uppdateringarna är snabba och enkla och ingen kod behöver kopieras eller klistras in.
+>Om du använder en tagghanteringslösning som inte är Adobe måste du behandla [!DNL AppMeasurement]-uppdateringar som om du inte använde någon tagghanteringslösning. Det innebär, var du än har din AppMeasurement-kod, att det är där du utför uppdateringen (hämta den nya koden och ersätt den gamla koden i filen eller i TMS). Om du använder [!DNL Experience Platform Launch] går det snabbt och enkelt att uppdatera och ingen kod behöver kopieras eller klistras in.

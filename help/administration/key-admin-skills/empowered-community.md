@@ -12,7 +12,7 @@ kt: 9780
 exl-id: a5e69595-a9e6-48f4-9e85-6c15640dfaab
 source-git-commit: ae1b87ec6d8d43af51ad6f40e7446e350b2ab1bc
 workflow-type: tm+mt
-source-wordcount: '1556'
+source-wordcount: '1522'
 ht-degree: 0%
 
 ---
@@ -29,43 +29,43 @@ Du kan skapa en kraftfull community inom din organisation. Så här:
 
 * Skapa en startprocess för användare:
 
-   Vilka krav och processer är kopplade till Adobe Analytics åtkomst för ditt företag? Om ni ännu inte har några krav och en process för att introducera nya användare, så har den infrastrukturen stöd för skalbarhet.
+  Vilka krav och processer är kopplade till Adobe Analytics åtkomst för ditt företag? Om ni ännu inte har några krav och en process för nyanställda, så stöder den infrastrukturen skalbarhet.
 
 * Implementera korrekt användarhantering och åtkomst:
 
-   Användaråtkomst till rapportsviter, mätvärden, dimensioner, verktyg, rapporter och komponenter är grundläggande för Adobe Analytics och en viktig del av [hanteringsprocess för användargrupper](https://experienceleague.adobe.com/docs/analytics/admin/admin-console/home.html?lang=en). Tillgång till rätt verktyg ger användarna möjlighet att få tillgång till självbetjäning inom Analysis Workspace och Rapporter och analyser.
+  Användaråtkomst till rapportsviter, mätvärden, dimensioner, verktyg, rapporter och komponenter är grundläggande för Adobe Analytics och en viktig del av [användargrupphanteringsprocessen](https://experienceleague.adobe.com/docs/analytics/admin/admin-console/home.html?lang=en). Tillgång till rätt verktyg ger användarna möjlighet att få tillgång till självbetjäning inom Analysis Workspace och Rapporter och analyser.
 
 * Förstå implementeringen:
 
-   Som en god praxis måste användarna ha grundläggande kunskaper om de affärskrav som stöds av deras implementering, som vanligtvis fångas upp via en [dokument med affärskrav](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-a-business-requirements-document.html?lang=en) (BRD) och [referensdokument för lösningsdesign](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-and-maintaining-an-sdr.html?lang=en) (SDR). Dessa krav bör omfatta vad som har implementerats och definiera affärskrav, rapporter, eVars, händelser och så vidare, per kategori.
+  Som en god praxis måste användarna ha grundläggande kunskaper om de affärskrav som stöds av implementeringen, som vanligtvis fångas in via ett [dokument för affärskrav](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-a-business-requirements-document.html?lang=en) (BRD) och [referensdokument för lösningsdesign](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-and-maintaining-an-sdr.html?lang=en) (SDR). Dessa krav bör omfatta vad som har implementerats och definiera affärskrav, rapporter, eVars, händelser och så vidare, per kategori.
 
 * Använd rapportmallar:
 
-   Adobe Analytics rapportmallar och projekt är viktiga resurser för att göra det möjligt för verktygsanvändare att implementera, rapportera användningsexempel och bästa praxis. Resurserna ska behandla vanliga affärsfrågor och hur de bäst kan besvaras i verktyget.
+  Adobe Analytics rapportmallar och projekt är viktiga resurser för att göra det möjligt för verktygsanvändare att implementera, rapportera användningsexempel och bästa praxis. Resurserna ska behandla vanliga affärsfrågor och hur de bäst kan besvaras i verktyget.
 
-## 2. Skapa en plan för vem som kör den och vem som ska delta
+## 2. Skapa en plan för vem som driver programmet och vem som ska delta
 
 * Bestäm vem som ska leda communityn:
 
-   En stark community börjar med en infrastruktur som bygger på administration och implementering av verksamhetskrav. Det innebär att de team som hanterar ett företags Adobe Analytics administration och aktivering vanligtvis är viktiga när det gäller att hantera en användargrupp eller en intern community.
+  En stark community börjar med en infrastruktur som bygger på administration och implementering av verksamhetskrav. Det innebär att de team som hanterar ett företags Adobe Analytics administration och aktivering vanligtvis är viktiga när det gäller att hantera en användargrupp eller en intern community.
 
 * Definiera vilka som är inblandade, roller och ansvarsområden:
 
-   * **Administrationsprojektteam:** Teamet som ansvarar för företagets användargrupp eller community ansvarar vanligtvis för att definiera affärsmöjligheten, till exempel via en projektbeskrivning, skapa innehållsplanen (åtminstone initialt) och fastställa kommunikationsmedel (till exempel Microsoft®-team, e-postdistribution, kvartalssamtal och så vidare).
+   * **Administrationsprojektteamet:** Teamet som hanterar företagets användargrupp eller community ansvarar vanligtvis för att definiera affärsmöjligheten, till exempel via en projektbeskrivning, skapa innehållsplanen (åtminstone inledningsvis) och fastställa kommunikationsmetoder (till exempel Microsoft®-team, e-postdistribution, kvartalssamtal och så vidare).
 
-   * **Executive sponsor:** Det är viktigt att ha en chefssponsor som stöder framgången för företagets interna användargrupp eller community. Denna roll är avgörande för att stödja milstolpar, kommunikation, säkerställa prioritering i hela teamet samt ändringshantering.
+   * **Executive sponsor:** Det är viktigt att ha en chefssponsor som kan hjälpa ditt företags interna användargrupp eller community att lyckas. Denna roll är avgörande för att stödja milstolpar, kommunikation, säkerställa prioritering i hela teamet samt ändringshantering.
 
-   * **Stödja funktioner:** Beroende på organisationens storlek och struktur kan det vara bra att engagera team som webbutveckling, personalisering, testning och så vidare.
+   * **Supporting functions responsibility:** Beroende på din organisations storlek och struktur kan det vara bra att engagera team som Web Development, Personalization, Testing osv.
 
-   * **Verktygsanvändare:** Det finns en möjlighet för alla som har potential att påverka data som är anpassade till företagets Adobe Analytics-implementering att engagera sig - oavsett titel eller roll!
+   * **Verktygsanvändare:** Det finns en möjlighet för alla som kan påverka data som är anpassade till ditt företags Adobe Analytics-implementering att bli involverade, oavsett titel eller roll!
 
 * Kom ihåg -&quot;Vad innehåller det för dem?&quot; Genom att fokusera på användningsfall och prioriteringar i er community kan ni säkerställa engagemang och framgång!
 
 ## 3. Använd verktygen för att börja bygga en community
 
-* [Skapa en projektbeskrivning](assets/Adobe-Analytics-Empowered-Community-Project-Charter-Template.pptx) (mallhämtning):
+* [Skapa ett projektdiagram](assets/Adobe-Analytics-Empowered-Community-Project-Charter-Template.pptx) (mallhämtning):
 
-   En projektbeskrivning är ofta ett bra sätt att anpassa verksamheten efter möjligheten till en intern, stark community. Genom att svara på följande frågor får du det du behöver för att skriva din stadga:
+  En projektbeskrivning är ofta ett bra sätt att anpassa verksamheten efter möjligheten till en intern, stark community. Genom att svara på följande frågor får du det du behöver för att skriva din stadga:
 
    * Vad är det för problemförklaring du försöker lösa? Vad har ni som mål för er community och vad förutser ni som räckvidd eller inte?
    * &quot;Vad innehåller det för mig?&quot; Vilka är de potentiella fördelarna eller kostnaderna, hur man mäter framgången och vilka är riskerna?
@@ -87,9 +87,9 @@ Du kan skapa en kraftfull community inom din organisation. Så här:
    * Vem ska skicka kommunikation?
    * När? Nyckel för att ta hänsyn till både kommunikationen före lanseringen av communityn och den information som behöver tillhandahållas fortlöpande efter lanseringen.
 
-* Använd communitybilen för att leva! Beroende på vilken teknologi ni arbetar med vill ni också välja ett verktyg eller ett fordon för er community. Detta är anpassat efter er organisation, men många tycker ofta att Microsoft Teams fungerar bra.
+* Använd communitybilen för att leva! Beroende på vilken teknologi ni arbetar med vill ni också välja ett verktyg eller ett fordon för er community. Detta är anpassat för er organisation, men många tycker ofta att Microsoft Teams fungerar bra.
 
-## 4. Bevara er community och se till att den lyckas
+## 4. Upprätthåll communityn och säkerställ dess fortsatta framgång
 
 * Reservera tid - Lägg till communitymöten i kalendrar för att blockera tiden i förväg, återkommande möten är en bra idé där det är möjligt och hjälper dig att förverkliga din innehållsplan. Här är några av våra idéer:
 
@@ -105,7 +105,7 @@ Du kan skapa en kraftfull community inom din organisation. Så här:
 
 Att skapa och underhålla en stark community är en hel del arbete. Det är viktigt att du tar ett steg tillbaka och inser vilka fördelar din organisation kan få genom att göra detta. Här är några av fördelarna som jag personligen har sett:
 
-* Datadrivet beslutsfattande - En stark community kan [ändra er verksamhet](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/how-adobe-analysis-workspace-can-change-your-business.html?lang=en), eftersom Adobe Analytics gör det möjligt att berätta data, förutse resultat och ange resultat på ett sätt som är tillgängligt i hela organisationen för att stödja kundanalys och datadrivet beslutsfattande.
+* Datadrivet beslutsfattande - En behörig community kan [ändra din verksamhet](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/how-adobe-analysis-workspace-can-change-your-business.html?lang=en) eftersom Adobe Analytics möjliggör datalagring, förutser resultat och förskriver resultat på ett sätt som är tillgängligt i hela organisationen som stöd för kundanalys och datadrivet beslutsfattande.
 
 * Ökad expertis och effektivitet - Direktsamband kan göras mellan aktiveringsengagemang och avkastning på marknadsföringsinvesteringar! En stark community ökar nivån på allas expertkunskaper och underlättar utbyte av insikter, bästa praxis, projekt och produktuppdateringar, vilket främjar samarbete. Det gör detta samtidigt som man möjliggör självbetjäning och bättre optimering via Adobe Analytics. Detta stöder marknadsföringskanaler, sidor, geolokalisering, målgrupper och så vidare. Det har också stöd för upplevelseoptimeringar, vilket gör att team kan fokusera på var de kan få störst effekt.
 

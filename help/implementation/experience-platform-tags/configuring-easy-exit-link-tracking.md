@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # Konfigurera enkel spårning av avslutningslänk i Experience Platform [!DNL tags]
 
-Du kan börja spåra slutlänkar på din webbplats (länkar som leder till en annan webbplats) med bara några klick i Adobe Analytics-tillägget i Experience Platform [!DNL tags]. I den här videon visas hur du konfigurerar den.
+Du kan börja spåra slutlänkar på din webbplats (länkar som går till en annan webbplats) med bara några klick i Adobe Analytics-tillägget i Experience Platform [!DNL tags]. I den här videon visas hur du konfigurerar den.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25763/?quality=12&learn=on)
 

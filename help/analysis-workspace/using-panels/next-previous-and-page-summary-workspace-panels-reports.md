@@ -1,6 +1,6 @@
 ---
-title: Paneler och rapporter för arbetsytan Nästa/Föregående och Sidsammanfattning
-description: Vi har lagt till två nya paneltyper i Analysis Workspace - Nästa/Föregående och Sidsammanfattning - samt listat dem som en del av de färdiga rapporterna. De gör arbetsytan mer lik några av de vanligaste rapporterna och analysrapporterna.
+title: Nästa/Föregående och Sidsammanfattning - Workspace-paneler och rapporter
+description: Vi har lagt till två nya paneltyper i Analysis Workspace - Nästa/Föregående och Sidsammanfattning - samt listat dem som en del av de färdiga rapporterna. Dessa ger Workspace samma förutsättningar som några av de populäraste rapporterna och analysrapporterna.
 feature: Panels
 role: User
 level: Beginner
@@ -14,8 +14,8 @@ ht-degree: 0%
 
 ---
 
-# Paneler och rapporter för arbetsytan Nästa/Föregående och Sidsammanfattning
+# Nästa/Föregående och Sidsammanfattning - Workspace-paneler och rapporter
 
-Vi har lagt till två nya paneltyper i Analysis Workspace - Nästa/Föregående och Sidsammanfattning - samt listat dem som en del av de färdiga rapporterna. De gör arbetsytan mer lik några av de vanligaste rapporterna och analysrapporterna.
+Vi har lagt till två nya paneltyper i Analysis Workspace - Nästa/Föregående och Sidsammanfattning - samt listat dem som en del av de färdiga rapporterna. Dessa ger Workspace samma förutsättningar som några av de populäraste rapporterna och analysrapporterna.
 
 >[!VIDEO](https://video.tv.adobe.com/v/342477/?quality=12&learn=on)

@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # Konfigurera bibliotekshantering för Analytics-tillägget
 
-Läs mer om konfigurationsalternativen för bibliotekshantering för Analytics-tillägget i Experience Platform [!DNL tags]. Den här videon handlar också om att välja rapportsviter för datainsamling.  Detaljerad dokumentation finns på [Översikt över Adobe Analytics-tillägg](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/client/analytics/overview.html){target="_blank"}.
+Läs mer om konfigurationsalternativen för bibliotekshantering för Analytics-tillägget i Experience Platform [!DNL tags]. Den här videon handlar också om att välja rapportsviter för datainsamling.  Mer detaljerad dokumentation finns i [Översikt över Adobe Analytics-tillägg](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/client/analytics/overview.html){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27092/?quality=12&learn=on)

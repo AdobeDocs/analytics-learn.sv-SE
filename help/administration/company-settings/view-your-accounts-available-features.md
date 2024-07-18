@@ -17,6 +17,6 @@ ht-degree: 0%
 
 # Visa tillgängliga funktioner för ditt konto
 
-Visa inställningarna för funktionsåtkomstnivåer under avsnittet Administratör i Analytics gör att du kan visa den åtkomstnivå för Adobe Analytics-paket och funktioner som ditt företag är berättigat till. Detta omfattar följande: Activity Map, Advertising Analytics, avvikelseidentifiering i aviseringar osv.
+Visa inställningarna för funktionsåtkomstnivåer under avsnittet Administratör i Analytics gör att du kan visa den åtkomstnivå för Adobe Analytics-paket och funktioner som ditt företag är berättigat till. Detta inkluderar: Activity Map, Advertising Analytics, avvikelseidentifiering i varningar osv.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335742/?quality=12&learn=on)

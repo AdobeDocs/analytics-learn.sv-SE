@@ -10,17 +10,17 @@ kt: 1769
 exl-id: f0ce5bc2-ca6f-44d2-a42b-9351ff37a083
 source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '85'
 ht-degree: 0%
 
 ---
 
-# Redigera [!UICONTROL metrics] flera förfrågningar i [!UICONTROL Report Builder] {#edit-metrics-across-requests-in-report-builder}
+# Redigera [!UICONTROL metrics] över begäranden i [!UICONTROL Report Builder] {#edit-metrics-across-requests-in-report-builder}
 
-Nu kan du redigera [!UICONTROL metrics] över flera [!UICONTROL Report Builder] dataförfrågningar samtidigt med alternativ för att lägga till, ersätta och ta bort.
+Du kan nu redigera [!UICONTROL metrics] över flera [!UICONTROL Report Builder] dataförfrågningar samtidigt med alternativen för att lägga till, ersätta och ta bort.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23547/?quality=12&learn=on)
 
-Den här funktionaliteten är utöver de befintliga redigeringsfunktionerna [!UICONTROL report suites], [!UICONTROL date ranges], [!UICONTROL granularity]och [!UICONTROL segments] över alla förfrågningar. Flera begäranden kan redigeras via högerklicksmenyn eller &quot;[!UICONTROL Edit Multiple]&quot; i hanteringsfönstret.
+Den här funktionen är utöver befintliga funktioner för redigering av [!UICONTROL report suites], [!UICONTROL date ranges], [!UICONTROL granularity] och [!UICONTROL segments] över begäranden. Det går att redigera flera begäranden samtidigt från högerklicksmenyn eller [!UICONTROL Edit Multiple] i hanteringsfönstret.
 
-Mer information om den här funktionen finns på [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/manage-requests/edit-multiple-metrics.html?lang=en).
+Mer information om den här funktionen finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/manage-requests/edit-multiple-metrics.html?lang=en).

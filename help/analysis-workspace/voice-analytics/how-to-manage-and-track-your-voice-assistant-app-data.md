@@ -1,5 +1,5 @@
 ---
-title: Hantera och spåra appdata för röstassistenten
+title: Hantera och spåra appdata för din röstassistent
 description: Lär dig hur du bygger en anpassad kontrollpanel för att hantera och spåra prestanda i din röstassistentapp på ett enkelt, flexibelt, intuitivt och visuellt sätt.
 feature: Visualizations
 topics: null
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ---
 
-# Hantera och spåra appdata för röstassistenten {#how-to-manage-and-track-your-voice-assistant-app-data}
+# Hantera och spåra appdata för din röstassistent {#how-to-manage-and-track-your-voice-assistant-app-data}
 
 Lär dig hur du bygger en anpassad kontrollpanel för att hantera och spåra prestanda i din röstassistentapp på ett enkelt, flexibelt, intuitivt och visuellt sätt.
 

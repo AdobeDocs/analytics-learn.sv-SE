@@ -8,17 +8,17 @@ doc-type: Article
 last-substantial-update: 2023-08-18T00:00:00Z
 jira: KT-13833
 thumbnail: KT-13833.jpeg
-source-git-commit: f38a35067bf95fe02200d1409e3e70c1ef28abb3
+exl-id: 8712b293-4d31-4a2b-ada3-59c20094b1d3
+source-git-commit: d95136a21c08312a81baba7673cb7135270af4bd
 workflow-type: tm+mt
-source-wordcount: '1089'
+source-wordcount: '1098'
 ht-degree: 0%
 
 ---
 
-
 # Lås upp insikter med histogram: bortom medelvärden i Analytics
 
-_Upptäck hur histogrammen påverkar analyser för att få insikter utöver medelvärdet. Histogram avslöjar datamönster i kundbeteende, besökarbetsengagemang, tekniska prestanda och formulärfel, vilket ger djupare insikter och välgrundade beslut i Adobe Workspace._
+_Upptäck hur histogram påverkar analyser för att få insikter utöver medelvärdet. Histogram avslöjar datamönster i kundbeteende, besökarengagemang, tekniska prestanda och formulärfel, vilket ger djupare insikter och välgrundade beslut i Adobe Workspace._
 
 Kom så hoppar vi in. Du bör använda [histogram](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/histogram.html). Jag ska förklara varför, men jag vill svara på din första fråga: Vad i världen är ett histogram? Jag fattar. Oftast när man ser en massa staplar som går upp, tror man att det är ett stolpdiagram. Ja, histogrammen ser likadana ut, men jag försäkrar er att de är annorlunda. I ett stapeldiagram jämförs saker, medan ett histogram visar hur ofta en variabel inträffade. Ta en titt. Här är ett stapeldiagram:
 
@@ -76,6 +76,6 @@ Det här dokumentet har skrivits av:
 
 ![Gitai Ben-Ammi](assets/gitai-headshot.png)
 
-**Gitai Ben-Ammi**, rektor konsult på Concentrix Catalyst
+**Gitai Ben-Ammi**, rektor på Concentrix Catalyst
 
 Adobe Analytics Champion

@@ -18,8 +18,8 @@ ht-degree: 0%
 
 # Aktivera, felsök och anpassa Adobe Analytics [!UICONTROL Activity Map]
 
-Lär dig hur du aktiverar, felsöker och anpassar [!UICONTROL Activity Map] distribueras i Analytics-tillägget i Adobe Experience Platform-taggar.
+Lär dig hur du aktiverar, felsöker och anpassar det sätt som [!UICONTROL Activity Map] distribueras i Analytics-tillägget i Adobe Experience Platform-taggar.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25878?quality=12&learn=on)
 
-Mer information om hur du distribuerar [!UICONTROL Activity Map], går till [dokumentation](https://experienceleague.adobe.com/en/docs/analytics/analyze/activity-map/getting-started/activitymap-enable).
+Mer information om hur du distribuerar [!UICONTROL Activity Map] finns i [dokumentationen](https://experienceleague.adobe.com/en/docs/analytics/analyze/activity-map/getting-started/activitymap-enable).

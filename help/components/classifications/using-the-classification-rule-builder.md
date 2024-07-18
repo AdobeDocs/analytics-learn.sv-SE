@@ -19,6 +19,6 @@ ht-degree: 0%
 
 # Använda [!UICONTROL Classification Rule Builder] i Adobe Analytics {#using-the-classification-rule-builder-in-adobe-analytics}
 
-Lär dig använda [!UICONTROL Classification Rule Builder] att automatiskt tillämpa regelbaserad [!UICONTROL classifications] i Adobe Analytics.
+Lär dig använda [!UICONTROL Classification Rule Builder] för att automatiskt tillämpa regelbaserad [!UICONTROL classifications] i Adobe Analytics.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25884?quality=12&learn=on)

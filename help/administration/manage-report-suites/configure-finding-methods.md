@@ -11,7 +11,7 @@ kt: 7708
 exl-id: 2cee782a-1d21-47e6-ab47-911b7610c7f2
 source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '76'
+source-wordcount: '70'
 ht-degree: 0%
 
 ---
@@ -22,4 +22,4 @@ I den här videon får du lära dig hur du konfigurerar inställningar som styr 
 
 >[!VIDEO](https://video.tv.adobe.com/v/333042/?quality=12&learn=on)
 
-Mer information finns på [dokumentation](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/finding-methods.html).
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/finding-methods.html).

@@ -1,5 +1,5 @@
 ---
-title: Inställningar för tabell och visualisering av datakälla
+title: Source-inställningar för tabell- och visualiseringsdata
 description: I den här videon får du se hur tabeller och visualiseringar knyts samman via inställningar och hur du konfigurerar inställningarna för olika användningsfall för analyser.
 feature: Visualizations
 role: User
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Inställningar för tabell och visualisering av datakälla
+# Source-inställningar för tabell- och visualiseringsdata
 
 I den här videon får du se hur tabeller och visualiseringar knyts samman via inställningar och hur du konfigurerar inställningarna för olika användningsfall för analyser.
 

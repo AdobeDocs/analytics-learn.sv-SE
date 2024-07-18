@@ -9,7 +9,7 @@ level: Beginner
 exl-id: be1610a0-dbec-46d0-8cad-b4726333b8f9
 source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---
@@ -20,4 +20,4 @@ I den här videon visas hur du skapar ett segment i Analysis Workspace utifrån 
 
 >[!VIDEO](https://video.tv.adobe.com/v/25405/?quality=12&learn=on)
 
-Mer information finns på [dokumentation](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-sequential-build.html?lang=en).
+Mer information om det här avsnittet finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-sequential-build.html?lang=en).

@@ -10,15 +10,15 @@ level: Beginner
 exl-id: 0962f332-acc7-4ebe-9841-4d3fdf1d77b3
 source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '79'
+source-wordcount: '71'
 ht-degree: 0%
 
 ---
 
 # Använda [!UICONTROL Date Ranges] och jämförelser i Analysis Workspace
 
-I den här videon får du lära dig hur du använder datum, [!UICONTROL date ranges]och datumjämförelser för att anpassa tabeller och visualiseringar till rätt tidsram.
+I den här videon får du lära dig hur du använder datumjämförelser, [!UICONTROL date ranges] och datumjämförelser för att anpassa tabeller och visualiseringar till rätt tidsram.
 
 >[!VIDEO](https://video.tv.adobe.com/v/30753/?quality=12&learn=on)
 
-Mer information finns på [dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/calendar.html).
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/calendar.html).

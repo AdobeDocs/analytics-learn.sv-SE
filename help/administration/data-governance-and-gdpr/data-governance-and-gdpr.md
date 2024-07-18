@@ -9,7 +9,7 @@ level: Intermediate
 exl-id: b78c2b02-a4cb-413d-83c1-ec6a6ef61630
 source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '84'
+source-wordcount: '76'
 ht-degree: 0%
 
 ---
@@ -20,4 +20,4 @@ Den här videon visar dig vägen genom datastyrning och hur datamärkning passar
 
 >[!VIDEO](https://video.tv.adobe.com/v/25455/?quality=12&learn=on)
 
-Mer information finns i [dokumentation](https://experienceleague.adobe.com/docs/analytics/admin/data-governance/an-gdpr-overview.html?lang=en).
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/admin/data-governance/an-gdpr-overview.html?lang=en).

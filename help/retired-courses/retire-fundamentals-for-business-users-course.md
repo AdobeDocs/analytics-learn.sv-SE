@@ -11,8 +11,8 @@ hidefromtoc: true
 exl-id: 0d7f8185-817c-4474-9655-a867beb7d454
 source-git-commit: a4cfd7ce71ff32976451b52fc51fe9c56a3dad9c
 workflow-type: tm+mt
-source-wordcount: '191'
-ht-degree: 7%
+source-wordcount: '173'
+ht-degree: 4%
 
 ---
 
@@ -30,9 +30,9 @@ Om du arbetar som affärsanvändare, affärsadministratör eller någon annan li
 
 1. [Komma igång med Analysis Workspace](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace)
 1. [Frihandsritningar, grunden för analys](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3)
-1. [Använda visualiseringar för att berätta dina databerättelser](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations)
-1. [Attribuera värde till digitala kontaktytor på kundresan](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2)
+1. [Använda visualiseringar för att berätta dina dataartiklar](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations)
+1. [Attribuera värde till digitala Touch-punkter på kundresan](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2)
 
-Det finns ytterligare kurser för [Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace) som är tillgängliga för dig på Experience League.
+Det finns ytterligare kurser för [Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace) som du kan använda på Experience League.
 
 Tack!

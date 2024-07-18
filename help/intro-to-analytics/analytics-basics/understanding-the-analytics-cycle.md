@@ -13,8 +13,8 @@ ht-degree: 0%
 
 ---
 
-# Förstå [!DNL Analytics] Cykel
+# Förstå [!DNL Analytics]-cykeln
 
-I den här enkla, men ändå viktiga videon får du lära dig mer om de steg som krävs för att analysera webbplatsens data. Om du tar lite tid att förstå den här processen kan det göra stor skillnad för dina framgångar [!DNL Analytics] program.
+I den här enkla, men ändå viktiga videon får du lära dig mer om de steg som krävs för att analysera webbplatsens data. Om du tar lite tid på dig att förstå den här processen kan det göra stor skillnad för ditt [!DNL Analytics]-program.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28950/?quality=12&learn=on)

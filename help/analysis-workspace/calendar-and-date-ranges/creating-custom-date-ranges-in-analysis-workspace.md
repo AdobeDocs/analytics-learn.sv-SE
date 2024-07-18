@@ -9,15 +9,15 @@ level: Beginner
 exl-id: ce01320f-24fa-4c9b-ad77-3f82c0829323
 source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '94'
 ht-degree: 0%
 
 ---
 
-# Skapa anpassad [!UICONTROL Date Ranges] i Analysis Workspace {#creating-custom-date-ranges-in-analysis-workspace}
+# Skapar anpassad [!UICONTROL Date Ranges] i Analysis Workspace {#creating-custom-date-ranges-in-analysis-workspace}
 
 När du konfigurerar och anpassar ditt projekt i Analysis Workspace kan du behöva använda ett datumintervall som ligger utanför det som finns i produkten. I den här videon visas hur du skapar tre exempel på anpassade datumintervall.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23975/?quality=12&learn=on)
 
-Mer information finns på [dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/custom-date-ranges.html?lang=en).
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/custom-date-ranges.html?lang=en).

@@ -9,7 +9,7 @@ thumbnail: 344222.jpeg
 exl-id: ab340ade-3804-4b00-a691-39bd5a9c5773
 source-git-commit: 64c445f36409c80878fca85f8136cfe3451c76d4
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '96'
 ht-degree: 0%
 
 ---
@@ -20,4 +20,4 @@ Läs mer om några av de stora förbättringarna inom flödesvisualisering. Du k
 
 >[!VIDEO](https://video.tv.adobe.com/v/344222/?quality=12&learn=on)
 
-Mer information finns på [dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/flow/create-flow.html).
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/flow/create-flow.html).

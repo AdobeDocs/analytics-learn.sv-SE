@@ -19,8 +19,8 @@ ht-degree: 0%
 
 # Konfigurera enkel länkspårning för hämtning i Experience Platform [!DNL tags]
 
-Du kan börja spåra nedladdningslänkar på din webbplats (länkar som laddar ned filer från andra program än webbläsaren till din dator) med bara några klick i Adobe Analytics-tillägget i Experience Platform [!DNL tags].
+Du kan börja spåra hämtningslänkar på din webbplats (länkar som hämtar filer som inte är webbläsare till din dator) med bara några klick i Adobe Analytics-tillägget i Experience Platform [!DNL tags].
 
 >[!VIDEO](https://video.tv.adobe.com/v/25762/?quality=12&learn=on)
 
-Oavsett om det är informationsdokument, handböcker, ljud- eller videofiler eller en mängd andra möjligheter, kan du ha länkar på din webbplats för att hämta filer som inte öppnas i en webbläsare. På dessa filer kan du inte ha [!DNL Analytics] på sidan för spårning. Med den konfiguration som förklaras i videon kan du spåra länken till den hämtade filen.
+Oavsett om det är informationsdokument, handböcker, ljud- eller videofiler eller en mängd andra möjligheter, kan du ha länkar på din webbplats för att hämta filer som inte öppnas i en webbläsare. På dessa filer kan du inte ha [!DNL Analytics] kod på sidan för spårning. Med den konfiguration som förklaras i videon kan du spåra länken till den hämtade filen.

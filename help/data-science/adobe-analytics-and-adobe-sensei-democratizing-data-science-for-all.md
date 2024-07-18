@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ---
 
-# Adobe Analytics + Adobe Sensei: Demokratisera datavetenskap för ALLA {#adobe-analytics-adobe-sensei-democratizing-data-science-for-all}
+# Adobe Analytics + Adobe Sensei: Demokratisera datavetenskapen för ALLA {#adobe-analytics-adobe-sensei-democratizing-data-science-for-all}
 
 Läs om hur Adobe Sensei maskininlärnings- och AI-tekniker i Adobe Analytics kan hjälpa företagsanvändare att hålla jämna steg med sina data och att använda dem på ett praktiskt sätt, när och var det verkligen gäller.
 

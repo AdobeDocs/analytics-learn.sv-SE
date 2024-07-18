@@ -16,10 +16,10 @@ ht-degree: 0%
 
 ---
 
-# Skicka [!DNL Data Warehouse] rapporter i Extract för tabell
+# Skicka [!DNL Data Warehouse] rapporter i extraheringen av tabelldata
 
-Lär dig mer [!DNL Data Warehouse] kan leverera rapporter i TDE-filformat (Tableau Data Extract) så att du kan demokratisera och kombinera data från andra Adobe Analytics-program.
+Lär dig hur [!DNL Data Warehouse] kan leverera rapporter i TDE-filformat (Tableau Data Extract) så att du kan demokratisera och kombinera data från andra Adobe Analytics-program.
 
 >[!VIDEO](https://video.tv.adobe.com/v/341449/?quality=12&learn=on)
 
-Mer information om den här funktionen finns i [dokumentation](https://experienceleague.adobe.com/en/docs/analytics/export/data-warehouse/t-tableau).
+Mer information om den här funktionen finns i [dokumentationen](https://experienceleague.adobe.com/en/docs/analytics/export/data-warehouse/t-tableau).

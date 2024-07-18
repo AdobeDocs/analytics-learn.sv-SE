@@ -17,6 +17,6 @@ ht-degree: 0%
 
 # Lägg till mått och måttbeskrivningar i [!DNL Adobe Analytics] {#add-dimension-and-metric-descriptions-in-adobe-analytics}
 
-Lär dig hur du lägger till kontext till dimensioner och mätvärden i [!DNL Adobe Analytics]. Använd beskrivningsfältet om namnet som tilldelats dina rapporter och mätvärden inte ger tillräcklig tydlighet för användarna i organisationen.
+Lär dig hur du lägger till kontext till dimensioner och mått i [!DNL Adobe Analytics]. Använd beskrivningsfältet om namnet som tilldelats dina rapporter och mätvärden inte ger tillräcklig tydlighet för användarna i organisationen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25453/?quality=12&learn=on)

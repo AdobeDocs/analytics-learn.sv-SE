@@ -1,6 +1,6 @@
 ---
 title: Skapa driftinstrumentpaneler i Analysis Workspace
-description: Upptäck hur kontrollpaneler i Adobe Analytics Workspace revolutionerar kommunikationen och effektiviteten.
+description: Upptäck hur kontrollpanelerna i Adobe Analytics Workspace revolutionerar kommunikationen och effektiviteten.
 feature: Curate and Share
 topic: Administration
 role: User
@@ -9,30 +9,30 @@ doc-type: Article
 last-substantial-update: 2023-08-18T00:00:00Z
 jira: KT-13829
 thumbnail: KT-13829.jpeg
-source-git-commit: 15e9c1c1722cbf6476b8035540d1973aaf095f86
+exl-id: 281f9f97-326f-4745-9dd3-7731c9b9b60a
+source-git-commit: d95136a21c08312a81baba7673cb7135270af4bd
 workflow-type: tm+mt
-source-wordcount: '1150'
+source-wordcount: '1152'
 ht-degree: 0%
 
 ---
 
-
 # Skapa driftinstrumentpaneler i Analysis Workspace
 
-_Upptäck hur kontrollpaneler i Adobe Analytics Workspace revolutionerar kommunikationen och effektiviteten. Upptäck hur du skapar kontrollpaneler för vanliga frågor, nyheter och meddelanden samt buggar och funktioner för smidig information, förbättrad användarupplevelse och ökat engagemang._
+_Upptäck hur de operativa instrumentpanelerna i Adobe Analytics Workspace revolutionerar kommunikationen och effektiviteten. Upptäck hur du kan skapa kontrollpaneler för vanliga frågor, nyheter och meddelanden samt buggar och funktioner för smidig information, förbättrad användarupplevelse och förbättrat engagemang._
 
 
 Som många administratörer kör jag ett internt informationsnav (Confluence eller liknande) för Adobe Analytics. Med tiden blev jag trött på att svara på samma frågor om upprepningar och behövde ett smidigare sätt att nå mina användare utan att känna mig som om jag pingade och irriterade dem hela tiden. Jag behövde databaser för information som var mindre statisk.
 
 Jag lade märke till att användare ofta ignorerade mina hänvisningar till konferenswebbplatsen, med orsaker som&quot;Mitt VPN är inaktiverat&quot; eller&quot;Jag kan inte läsa det nu&quot; osv. &quot;Jag läser det dokumentet senare&quot; betyder att det aldrig kommer att läsas, och samma fråga kommer att ställas igen nästa vecka.
 
-***Verklighetstäckningen:**Arbetsytans mångsidighet kan vara en revolutionerande match. Användarna föredrar snabba, direkta svar i Workspace, så låt dem vara där och undvika extra steg.*
+***Förverkligandeträffen:**Workspace mångsidighet kan vara en spelväxlare. Användare föredrar snabba, direkta svar inom Workspace, så låt oss behålla dem där och undvika extra steg.*
 
 Jag gick vidare och skapade operativa kontrollpaneler för att dela hela företaget. De har hittills hållit användarna informerade, centraliserad information och minskat frustrationen. Detta har varit en enkel process som har utvecklats mycket och som ökar effektiviteten över tid.
 
 Folk har fått mycket bra information utan mig, förstått delar av sajten, se hur cool Adobe Analytics är och (viktigt för mig?) fråga mig färre frågor och ta mindre av min tid.
 
-**Jag rekommenderar att du skapar instrumentpaneler för alla egenskaper och huvudområden på webbplatsen.** De bör ge en översikt över egenskapen/webbplatsen/appen/flödet och ha grundläggande information och snabba insikter. De bör delas med hela företaget, så att alla användare kan förstå egendomen utan att ha något handtag. För mig brukar dessa instrumentpaneler svara på 80 % av de frågor jag får och spara värdefull tid.
+**Jag rekommenderar att du skapar instrumentpaneler för alla egenskaper och huvudområden på webbplatsen.** De bör ge en översikt över egenskapen/platsen/appen/flödet och ha grundläggande information och snabba insikter. De bör delas med hela företaget, så att alla användare kan förstå egendomen utan att ha något handtag. För mig brukar dessa instrumentpaneler svara på 80 % av de frågor jag får och spara värdefull tid.
 
 Inget av detta hindrar er från att behålla er webbplats för Confluence, som fortfarande är mycket användbar. Jag hänvisar till och med till det högst upp på varje kontrollpanel. Men jag älskar genvägar - både för mig och för mina användare.
 
@@ -47,7 +47,7 @@ Låt mig gå igenom de tre kontrollpaneler jag skapade för mitt företag, GenDi
 
 Trött på den oändliga slingan med upprepade svar? Stanna! Spara tid genom att skapa en FAQ-kontrollpanel. Användarna kan läsa den innan de tillfrågas, eller så kan du snabbt länka till den i dina svar.
 
-Skapa bara [textvisualiseringar](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/text.html) med frågor som är formaterade som titlar och svar/förklaringar som innehåll, komprimerade för att bara visa frågan. Gruppera dem efter relevans (t.ex. sidor eller produkter) eller använd paneler. Gör det enkelt och prioritera vanliga frågor högst upp.
+Skapa bara [textvisualiseringar](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/text.html) med frågor formaterade som titlar och svar/förklaringar som innehåll, som alla är komprimerade så att bara frågan visas. Gruppera dem efter relevans (t.ex. sidor eller produkter) eller använd paneler. Gör det enkelt och prioritera vanliga frågor högst upp.
 
 I stället för att skriva långa e-postmeddelanden eller återupptäcka gamla förklaringar kan du uppdatera kontrollpanelen med vanliga frågor. Börja nu och utöka över tid. Använd hyperlänkar för att referera till andra instrumentpaneler eller relaterade frågor och svar i rapporter. Skapa komplexa sammanhang vid behov genom att länka från andra kontrollpaneler till vanliga frågor och svar.
 
@@ -63,11 +63,11 @@ Här följer några skärmbilder av hur en FAQ-kontrollpanel kan se ut:
 
 ![Spåra video - frågor och svar](assets/track-video-faq.png)
 
-![Vanliga frågor om hämtning av spår](assets/track-downloads-faq.png)
+![Spåra hämtningar - frågor och svar](assets/track-downloads-faq.png)
 
 ## 2 - Kontrollpanel för nyheter och meddelanden
 
-En annan användbar kontrollpanel är en nyhets- och meddelandepanel. Jag startade den här eftersom jag ville få ut information till mina användare, men det kändes som om jag pingade och irriterade dem istället. Behöver alla den här uppdateringen? Vilka användare? Endast avancerade användare? Ska jag skicka ut ett veckonyhetsbrev som ingen kommer att läsa? Genom att uppdatera direkt i Workspace i stället kan användarna se den så fort de loggar in, och jag behöver inte skicka ut ännu ett e-postmeddelande till företag som ingen vill läsa.
+En annan användbar kontrollpanel är en nyhets- och meddelandepanel. Jag startade den här eftersom jag ville få ut information till mina användare, men det kändes som om jag pingade och irriterade dem istället. Behöver alla den här uppdateringen? Vilka användare? Endast avancerade användare? Ska jag skicka ut ett veckonyhetsbrev som ingen kommer att läsa? Genom att uppdatera direkt i Workspace kan användarna se den så fort de loggar in och jag behöver inte skicka ut ännu ett e-postmeddelande till företag som ingen vill läsa.
 
 Eftersom dessa instrumentpaneler ses på hela företaget blir uppdateringarna direkt de viktigaste. Här är den typ av information som jag inkluderar på instrumentpanelen för nyheter och meddelanden:
 
@@ -84,7 +84,7 @@ Så här ser min News and Announcement-panel ut:
 
 ## 3 - Logg för programfel, funktioner och större releaser
 
-Målet med denna kontrollpanel är att ha en central plats där alla fel och fel kan placeras. Jag brukade hantera det här i Excel, men det var krångligt och svårt att dela. Varför inte placera det direkt i Workspace?
+Målet med denna kontrollpanel är att ha en central plats där alla fel och fel kan placeras. Jag brukade hantera det här i Excel, men det var krångligt och svårt att dela. Varför inte lägga den direkt i Workspace?
 
 Du kan integrera den i kontrollpanelen för nyheter och meddelanden om du vill att den ska vara mindre framträdande. Om felrapporteringen är omfattande eller viktig för företaget kan det dock vara klokt att använda en separat kontrollpanel.
 
@@ -100,7 +100,7 @@ Här är ett exempel på hur loggen kan se ut:
 
 ![Skärmbild 3](assets/screenshot-3.png)
 
-Att skapa kontrollpaneler i Adobe Analytics Workspace har förändrat mitt spelsätt. Precis som många administratörer har jag haft en intern knutpunkt och kämpat med dubbelarbete och effektiv användarkommunikation. Behovet av dynamiska databaser ledde till insikten om att arbetsytans mångsidighet skulle kunna revolutionera engagemanget. Jag hoppas att du tar till dig kraften i de operativa instrumentpanelerna i Adobe Analytics Workspace. Förbättra användarupplevelsen, spara tid och få en mer strukturerad miljö. Resan börjar nu och dessa instrumentpaneler är nyckeln till effektivitet och användarvänlighet.
+Att skapa kontrollpaneler i Adobe Analytics Workspace har förändrat mitt spelsätt. Precis som många administratörer har jag haft en intern knutpunkt och kämpat med dubbelarbete och effektiv användarkommunikation. Behovet av dynamiska arkiv ledde till insikten om att Workspace mångsidighet skulle kunna revolutionera engagemanget. Jag hoppas att du tar till vara styrkan hos kontrollpanelerna i Adobe Analytics Workspace. Förbättra användarupplevelsen, spara tid och få en mer strukturerad miljö. Resan börjar nu och dessa instrumentpaneler är nyckeln till effektivitet och användarvänlighet.
 
 ## Upphovsman
 

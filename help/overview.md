@@ -23,12 +23,12 @@ Få ut det mesta av [!DNL Adobe Analytics]. Använd dessa självstudiekurser fö
 
 För att komma igång,
 
-* Se **&quot;What&#39;s New&quot;** för de senaste uppdateringarna och funktionerna
+* Se avsnittet **&quot;Nyheter&quot;** nedan för de senaste uppdateringarna och funktionerna
 * **Personalval** markerar en del av vårt favoritinnehåll
-* Utforska innehållet efter ämne och ämne i **vänster navigering**
-* Använd **sök** fält högst upp på sidan om du vet vad du vill lära dig
+* Utforska innehållet efter ämne och underämne i **vänster navigering**
+* Använd fältet **sök** överst på sidan om du vet vad du vill lära dig
 
-Kurser som kursupplevelser per roll och kunskapsnivå finns också i kursavsnittet. Logga bara in med din Adobe ID och navigera till **Lär dig > Rekommenderade kurser** i den övre navigeringen.
+Kurser som kursupplevelser per roll och kunskapsnivå finns också i kursavsnittet. Logga bara in med din Adobe ID och gå till **Läs mer > Rekommenderade kurser** i den övre navigeringen.
 
 
 <div id="recs-overview-body-1"></div>
@@ -50,11 +50,11 @@ Kurser som kursupplevelser per roll och kunskapsnivå finns också i kursavsnitt
     </a>
     <div>
       <a href="analysis-workspace/attribution-iq/algorithmic-model-in-attribution-iq.md">
-    <strong>Algoritmisk modell i Attribution IQ</strong>
+    <strong> Algoritmisk modell i Attribution IQ </strong>
     </a>
     </div>
     <p>
-    <em>I modellen för algoritmisk attribuering i Analysis Workspace används statistiska tekniker för att dynamiskt fastställa den optimala kreditfördelningen för det valda måttet.</em>
+    <em>Den algoritmiska attribueringsmodellen i Analysis Workspace använder statistiska tekniker för att dynamiskt avgöra den optimala allokeringen av kredit för det valda måttet.</em>
     <p>
   </td>
    <td>
@@ -63,11 +63,11 @@ Kurser som kursupplevelser per roll och kunskapsnivå finns också i kursavsnitt
     </a>
     <div>
       <a href="analysis-workspace/navigating-workspace-projects/training-tutorial-template-in-analysis-workspace.md">
-    <strong>Utbildningsmall i Analysis Workspace</strong>
+    <strong>Mall för självstudiekurser i Analysis Workspace</strong>
     </a>
     </div>
     <p>
-    <em>Självstudiekursen (Analysis Workspace Training Tutorial) leder användarna genom vanliga termer och steg för hur de bygger sin första analys i Workspace.</em>
+    <em>I självstudiekursen om Analysis Workspace-utbildning får du hjälp att hitta en vanlig terminologi och steg för att skapa en första analys i Workspace.</em>
     <p>
   </td>
   <td>
@@ -76,11 +76,11 @@ Kurser som kursupplevelser per roll och kunskapsnivå finns också i kursavsnitt
     </a>
     <div>
       <a href="analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md">
-    <strong>Analysis Workspace - översikt</strong>
+    <strong> Analysis Workspace - översikt </strong>
     </a>
     </div>
     <p>
-    <em>Översikt över Analysis Workspace.</em>
+    <em>Översikt över Analysis Workspace på hög nivå.</em>
     <p>
   </td>
 </tr>

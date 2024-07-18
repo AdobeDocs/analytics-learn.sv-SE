@@ -12,15 +12,15 @@ level: Intermediate
 exl-id: 0bb472c0-83e6-44cb-8fca-658355ae3e50
 source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '80'
 ht-degree: 0%
 
 ---
 
-# [!UICONTROL Cohort] Analys med [!UICONTROL Dimension] {#cohort-analysis-using-any-dimension}
+# [!UICONTROL Cohort]-analys använder någon [!UICONTROL Dimension] {#cohort-analysis-using-any-dimension}
 
-Den anpassade [!UICONTROL Cohort] [!UICONTROL Dimension] kan du analysera [!UICONTROL cohorts] använda [!UICONTROL dimensions] annat än tid. Jämför [!UICONTROL cohorts] efter marknadsföringskanal, kampanjregion, produktsida osv. för att bättre förstå hur [!UICONTROL retention] (eller [!UICONTROL churn]) ändras med [!UICONTROL dimension] objekt.
+Med alternativet Anpassad [!UICONTROL Cohort] [!UICONTROL Dimension] kan du analysera [!UICONTROL cohorts] med [!UICONTROL dimensions] annat än tid. Jämför [!UICONTROL cohorts] efter marknadsföringskanal, kampanjregion, produktsida osv. för att bättre förstå hur [!UICONTROL retention] (eller [!UICONTROL churn]) ändras efter [!UICONTROL dimension] objekt.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25967/?quality=12&learn=on)
 
-Mer information finns i [dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=en).
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=en).

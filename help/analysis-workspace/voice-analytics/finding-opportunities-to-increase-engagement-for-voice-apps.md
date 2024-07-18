@@ -19,6 +19,6 @@ ht-degree: 0%
 
 # Hitta möjligheter att öka engagemanget för röstappar {#finding-opportunities-to-increase-engagement-for-voice-apps}
 
-Lär dig hur du får en djupgående förståelse för hur hög engagemanget är i din röstapp genom att utnyttja funktioner som användarfrekvens. [!UICONTROL cohort], besök/användare och sessionslängder.
+Lär dig hur du får en djupgående förståelse för hur hög engagemanget är i din röstapp genom att utnyttja funktioner som användarfrekvens, [!UICONTROL cohort], besök/användare och sessionslängder.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27223/?quality=12&learn=on)

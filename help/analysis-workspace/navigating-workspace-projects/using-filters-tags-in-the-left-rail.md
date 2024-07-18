@@ -1,6 +1,6 @@
 ---
 title: Använda filter (taggar)
-description: Lär dig hur du använder filter (taggar) i Analysis Workspace
+description: Lär dig använda filter (taggar) i Analysis Workspace
 feature: Workspace Basics
 role: User
 level: Beginner

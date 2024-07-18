@@ -19,6 +19,6 @@ ht-degree: 0%
 
 # Redigering av serieetiketter i Analysis Workspace {#series-label-editing-in-analysis-workspace}
 
-En genomgång av några nya funktioner som gör att analytiker och marknadsförare kan justera etiketterna i diagram så att de passar er [!UICONTROL visualization] behov.
+En genomgång av några nya funktioner som gör att analytiker och marknadsförare kan justera etiketterna i diagram efter dina [!UICONTROL visualization]-behov.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23728/?quality=12&learn=on)

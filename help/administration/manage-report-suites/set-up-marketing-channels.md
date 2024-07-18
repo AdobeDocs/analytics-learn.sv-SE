@@ -11,7 +11,7 @@ kt: 9623
 exl-id: 986707b8-3af4-4157-9afb-4ff95cb8705a
 source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '76'
 ht-degree: 0%
 
 ---
@@ -24,6 +24,6 @@ I den här videon visar vi hur du konfigurerar marknadsföringskanalernas rappor
 
 >[!NOTE]
 >
->För att maximera effekten av marknadsföringskanalerna för Attribution IQ och Customer Journey Analytics har vi publicerat några [reviderad bästa praxis](https://experienceleague.adobe.com/docs/analytics/components/marketing-channels/mchannel-best-practices.html?lang=en).
+>För att maximera effekten av marknadsföringskanaler för Attribution IQ och Customer Journey Analytics har vi publicerat [reviderade bästa praxis](https://experienceleague.adobe.com/docs/analytics/components/marketing-channels/mchannel-best-practices.html?lang=en).
 
-Mer information finns på [dokumentation](https://experienceleague.adobe.com/docs/analytics/components/marketing-channels/c-getting-started-mchannel.html?lang=en).
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/components/marketing-channels/c-getting-started-mchannel.html?lang=en).

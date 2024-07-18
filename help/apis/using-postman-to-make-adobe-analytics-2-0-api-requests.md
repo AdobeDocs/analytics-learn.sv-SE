@@ -17,10 +17,10 @@ ht-degree: 0%
 
 ---
 
-# Använda [!DNL Postman] för att göra Adobe Analytics 2.0 API-förfrågningar {#using-postman-to-make-adobe-analytics-api-requests}
+# Använder [!DNL Postman] för att göra Adobe Analytics 2.0 API-begäranden {#using-postman-to-make-adobe-analytics-api-requests}
 
-I den här videon beskrivs hur du konfigurerar [!DNL Postman], en API-klient, för att skicka Adobe Analytics 2.0 API-begäranden. Här ingår att konfigurera en integrering med Adobe I/O (Obs! Du måste vara systemadministratör i Experience Cloud för att konfigurera detta), där du kan hitta ditt globala företags-ID och mycket mer.
+I den här videon beskrivs hur du konfigurerar [!DNL Postman], en API-klient, för att skicka API-begäranden för Adobe Analytics 2.0. Här ingår att konfigurera en integrering med Adobe I/O (Obs! Du måste vara systemadministratör i Experience Cloud för att konfigurera detta), där du kan hitta ditt globala företags-ID och mycket mer.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25889/?quality=12&learn=on)
 
-Mer information finns på [dokumentation](https://developer.adobe.com/analytics-apis/docs/2.0/guides/use-cases/postman/).
+Mer information finns i [dokumentationen](https://developer.adobe.com/analytics-apis/docs/2.0/guides/use-cases/postman/).

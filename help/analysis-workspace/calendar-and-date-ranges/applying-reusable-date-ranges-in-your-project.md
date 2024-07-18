@@ -10,7 +10,7 @@ kt: 9293
 exl-id: a49b4bf3-a28e-4125-a8f9-d46f5531affa
 source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '104'
 ht-degree: 0%
 
 ---
@@ -21,4 +21,4 @@ Om du använder anpassade datum- och datumintervall i din produkt kan du få hj�
 
 >[!VIDEO](https://video.tv.adobe.com/v/338293/?quality=12&learn=on)
 
-Mer information finns på [dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/calendar.html?lang=en).
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/calendar.html?lang=en).

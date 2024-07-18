@@ -1,6 +1,6 @@
 ---
 title: Skapa anpassade detaljvyer för instrumentpaneler
-description: Lär dig anpassa detaljvyer, inklusive text för Adobe Analytics-kontrollpaneler, för att förfina den berättelse du vill berätta för dina intressenter via mobila styrkortsprojekt.
+description: Lär dig att anpassa detaljvyer, inklusive text för Adobe Analytics-kontrollpaneler, för att förfina den berättelse du vill informera dina intressenter genom mobila styrkortsprojekt.
 feature: Analytics Dashboards
 topic: Mobile
 role: User
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Skapa anpassade detaljvyer för instrumentpaneler
 
-Lär dig anpassa detaljvyer, inklusive text för Adobe Analytics-kontrollpaneler, för att förfina den berättelse du vill berätta för dina intressenter via mobila styrkortsprojekt.
+Lär dig att anpassa detaljvyer, inklusive text för Adobe Analytics-kontrollpaneler, för att förfina den berättelse du vill informera dina intressenter genom mobila styrkortsprojekt.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410002/?quality=12&learn=on)

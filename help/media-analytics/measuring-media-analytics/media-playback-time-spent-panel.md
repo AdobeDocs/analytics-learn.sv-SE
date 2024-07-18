@@ -10,7 +10,7 @@ kt: 9379
 exl-id: 100f33bb-9a2f-4181-835b-16537e02cd80
 source-git-commit: c9984b0e1081f3ac19d8c49bc01626a69cd77b55
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '128'
 ht-degree: 0%
 
 ---
@@ -21,4 +21,4 @@ Med Media Playback Time Spent Panel (Spent-tid för mediauppspelning) kan mediaa
 
 >[!VIDEO](https://video.tv.adobe.com/v/338699/?quality=12&learn=on)
 
-Mer information finns på [dokumentation](https://experienceleague.adobe.com/docs/media-analytics/using/media-reports/media-playback-time-spent.html).
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/media-analytics/using/media-reports/media-playback-time-spent.html).

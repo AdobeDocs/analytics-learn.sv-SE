@@ -1,6 +1,6 @@
 ---
 title: Skapa anpassade analysvärden med Advertising Cloud-data
-description: Lär dig mer om användbara anpassade mätvärden när du använder Advertising Cloud-data i Adobe Analytics.
+description: Lär dig mer om användbara anpassade mätvärden som du kan skapa när du använder Advertising Cloud-data i Adobe Analytics.
 feature: Advertising Integration
 topic: Integrations
 role: User
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Skapa anpassade analysvärden med Advertising Cloud-data
 
-Lär dig mer om användbara anpassade mätvärden när du använder Advertising Cloud-data i Adobe Analytics.
+Lär dig mer om användbara anpassade mätvärden som du kan skapa när du använder Advertising Cloud-data i Adobe Analytics.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35119/?quality=12&learn=on)

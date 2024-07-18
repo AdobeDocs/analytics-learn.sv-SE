@@ -15,8 +15,8 @@ ht-degree: 0%
 
 ---
 
-# Konfigurera variabler i [!DNL Admin Console]
+# Konfigurerar variabler i [!DNL Admin Console]
 
-När du har definierat variablerna och händelserna som du ska använda i [!DNL Analytics] måste du gå in och konfigurera dem i [!DNL Admin Console], så att rapporterna/dimensionerna/mätvärdena har rätt namn och beteende. Den här videon visar var och hur du gör just det.
+När du har definierat de variabler och händelser som du ska använda i din [!DNL Analytics]-implementering måste du gå in och konfigurera dem i [!DNL Admin Console] så att rapporterna/dimensionerna/mätvärdena har rätt namn och beteende. Den här videon visar var och hur du gör just det.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28755/?quality=12&learn=on)

@@ -17,8 +17,8 @@ ht-degree: 0%
 
 ---
 
-# [!UICONTROL Calculated Metrics]: Implementeringsfria mått {#calculated-metrics-implementation-less-metrics}
+# [!UICONTROL Calculated Metrics]: Mätvärden utan implementering {#calculated-metrics-implementation-less-metrics}
 
-Lär dig hur du skapar nya [!UICONTROL metrics] i Adobe Analytics utan att implementeringen ändras.
+Lär dig hur du skapar nya [!UICONTROL metrics] i Adobe Analytics utan att ändra implementeringen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25407/?quality=12&learn=on)

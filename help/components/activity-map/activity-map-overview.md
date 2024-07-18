@@ -15,10 +15,10 @@ ht-degree: 0%
 
 ---
 
-# [!UICONTROL Activity Map] översikt i Adobe Analytics
+# Översikt över [!UICONTROL Activity Map] i Adobe Analytics
 
 Läs mer om Activity Map, ett verktyg som hjälper dig att visualisera användaraktivitetsdata direkt på din webbplats. Se antalet klick eller andra mätvärden direkt på länkarna på sidan.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25451/?quality=12&learn=on)
 
-Mer information om den här funktionen finns på [dokumentation](https://experienceleague.adobe.com/en/docs/analytics/analyze/activity-map/activity-map).
+Mer information om den här funktionen finns i [dokumentationen](https://experienceleague.adobe.com/en/docs/analytics/analyze/activity-map/activity-map).

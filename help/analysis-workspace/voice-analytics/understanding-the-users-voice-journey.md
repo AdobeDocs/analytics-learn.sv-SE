@@ -19,6 +19,6 @@ ht-degree: 0%
 
 # Förstå användarens röstresa {#understanding-the-user-s-voice-journey}
 
-Lär dig förstå kundresan med röstappar genom att titta på [!UICONTROL flow] bana och [!UICONTROL fallout] för att identifiera vad som är de vanligaste åtgärderna, sekvensen av dessa åtgärder och när och var användarna faller bort från resan.
+Lär dig hur du förstår kundresan i röstappen genom att titta på [!UICONTROL flow]-sökvägen och [!UICONTROL fallout] för att identifiera vilka de vanligaste åtgärderna är, sekvensen av dessa åtgärder och när och var användare faller bort från resan.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27226/?quality=12&learn=on)

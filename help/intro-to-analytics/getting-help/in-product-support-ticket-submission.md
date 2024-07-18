@@ -15,6 +15,6 @@ ht-degree: 0%
 
 # Inlämning av supportanmälan inifrån produkten {#in-product-support-ticket-submission}
 
-Lär dig hur du skickar en supportanmälan till [!DNL Customer Care] på Adobe direkt i produkten, vilket effektiviserar processen mot upplösning.
+Lär dig hur du skickar en supportanmälan till [!DNL Customer Care] på Adobe direkt i produkten, vilket effektiviserar processen mot en lösning.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23133/?quality=12&learn=on)

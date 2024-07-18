@@ -1,6 +1,6 @@
 ---
 title: Skapa Experience Platform [!DNL tags] regler för lyckade händelser
-description: I den här videon visas hur du använder regler i [!DNL tags] för att spåra konverteringshändelser (lyckade händelser) på din webbplats.
+description: I den här videon visas hur du använder regler i  [!DNL tags]  för att spåra konverteringshändelser (lyckade händelser) på din webbplats.
 feature: Tags
 topics: Development
 kt: 3591
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Skapa Experience Platform [!DNL tags] regler för lyckade händelser
+# Skapa Experience Platform [!DNL tags]-regler för lyckade händelser
 
 I den här videon visas hur du använder regler i [!DNL tags] för att spåra konverteringshändelser (lyckade händelser) på din webbplats.
 

@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # RTF-redigerare i Analysis Workspace
 
-Läs om de funktioner som gör det möjligt för analytiker och marknadsförare att redigera textvisualiseringar (eller beskrivningar) i Analysis Workspace: fet, kursiv, rubriker, länkar med mera.
+Läs om de funktioner som gör att analytiker och marknadsförare kan använda redigering för textvisualiseringar (eller beskrivningar) i Analysis Workspace: fet, kursiv stil, rubriker, länkar med mera.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23726/?quality=12&learn=on)

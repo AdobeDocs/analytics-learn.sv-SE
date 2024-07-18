@@ -12,15 +12,15 @@ level: Intermediate
 exl-id: e31fc334-9a60-4b90-a126-98ff169952b3
 source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '102'
 ht-degree: 0%
 
 ---
 
 # Svarsanalys med [!UICONTROL Cohort Tables] {#latency-analysis-with-cohort-tables}
 
-The [!UICONTROL Latency Table] ange [!UICONTROL Cohort Tables] gör att du kan analysera ditt beteende [!UICONTROL cohorts] före och efter inkluderingshändelsen (inte bara efter standard [!UICONTROL Cohort] bilder). Den här inställningen är praktisk när du vill analysera effekten av en ny produkt eller lansering av en kampanj, som exempel.
+Inställningen [!UICONTROL Latency Table] i [!UICONTROL Cohort Tables] gör att du kan analysera beteendet hos [!UICONTROL cohorts] före och efter inkluderingshändelsen (inte bara efter som standardbilder i [!UICONTROL Cohort]). Den här inställningen är praktisk när du vill analysera effekten av en ny produkt eller lansering av en kampanj, som exempel.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25964/?quality=12&learn=on)
 
-Mer information finns i [dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=en).
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=en).

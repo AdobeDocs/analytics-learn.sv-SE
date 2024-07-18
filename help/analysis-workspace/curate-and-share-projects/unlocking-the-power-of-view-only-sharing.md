@@ -8,19 +8,19 @@ doc-type: Article
 last-substantial-update: 2023-05-02T00:00:00Z
 jira: KT-13179
 thumbnail: KT-13179.jpeg
-source-git-commit: 2159759181206c4980ad82c58f1e1a8636143e34
+exl-id: 5396817e-582f-4389-be81-40b8ff8188b2
+source-git-commit: d95136a21c08312a81baba7673cb7135270af4bd
 workflow-type: tm+mt
 source-wordcount: '688'
 ht-degree: 0%
 
 ---
 
-
 # Möjlighet till skrivskyddad delning i Analysis Workspace
 
 Se hur man kan dela Adobe Analysis Workspace-projekt som skrivskyddade kan skapa chefsklara kontrollpanelsrapporter med ett rent användargränssnitt och fördefinierade filtreringsalternativ, liksom hur det mobila styrkortet kan förenkla delning av nyckeltal för digitala upplevelser med chefer på resande fot.
 
-Att dela Adobe Analytics Workspace-projekt med kollegor är ett viktigt sätt att använda Analytics för att fatta bättre affärsbeslut. Vi kan dela projekt med andra användare för att få behörighet att redigera original, redigera kopia och skrivskyddad. Oftast delar vi antagligen projekt med redigeringsrättigheter för original eller redigering av kopior, så att vi kan uppdatera projektet tillsammans, eller så kan andra användare duplicera projektet som sina egna för ytterligare uppdateringar. Ibland är skrivskyddad delning dock ett förvånansvärt bra delningsalternativ förutom åtkomstkontrollen som anges av det högra åtkomstnamnet.
+Att dela Adobe Analytics Workspace-projekt med kollegor är en viktig del av Analytics för att fatta bättre affärsbeslut. Vi kan dela projekt med andra användare för att få behörighet att redigera original, redigera kopia och skrivskyddad. Oftast delar vi antagligen projekt med redigeringsrättigheter för original eller redigering av kopior, så att vi kan uppdatera projektet tillsammans, eller så kan andra användare duplicera projektet som sina egna för ytterligare uppdateringar. Ibland är skrivskyddad delning dock ett förvånansvärt bra delningsalternativ förutom åtkomstkontrollen som anges av det högra åtkomstnamnet.
 
 ## Varför skrivskyddad
 
@@ -39,7 +39,7 @@ Förutom skrivskyddad projektdelning är Analytics Dashboard ett annat sätt att
 En bra kontrollpanel för chefer bör vara enkel och på viktiga punkter. Genom att bara lägga till KPI:er på första skärmen i en Analytics Dashboard, med en nivådetaljnivå som tillval för att bryta ned en KPI med en dimension från en fördefinierad uppsättning alternativ. Med Analytics Dashboard kan vi berätta en historia som vi vill förmedla till cheferna.
 
 Även om cheferna inte använder kontrollpanelen i Analytics direkt har du dessa nyckeltal färdiga i kontrollpanelen i Analytics och får svaret på rätt sätt när du blir tillfrågad ser du bara coola och väl förberedda ut.
-När vi antar Adobe Analytics inom en organisation vill vi antagligen att alla användare med de fulla funktionerna för att skapa/ändra projekt på arbetsytan ska kunna analyseras. Det finns dock användare med olika kunskaper och fokus, vissa behöver bara förbruka data i vissa fördefinierade arbetsyteprojekt och inte göra någon vidare analys med liten erfarenhet av Adobe Analytics. Skrivskydda projekt- eller analysdashboard ger ett enkelt gränssnitt med fördefinierade upplevelser så att de kan komma åt data.
+När vi antar Adobe Analytics inom en organisation vill vi antagligen att alla användare med de fulla möjligheterna att skapa/ändra Workspace-projekt ska kunna analyseras. Det finns dock användare med olika kunskaper och fokus, vissa behöver bara förbruka data i vissa fördefinierade arbetsyteprojekt och inte göra någon vidare analys med liten erfarenhet av Adobe Analytics. Skrivskydda projekt- eller analysdashboard ger ett enkelt gränssnitt med fördefinierade upplevelser så att de kan komma åt data.
 
 ## Upphovsman
 

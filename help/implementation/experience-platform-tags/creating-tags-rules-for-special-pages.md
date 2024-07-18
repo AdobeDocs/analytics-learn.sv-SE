@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Skapa Experience Platform [!DNL tags] regler för specialsidor
+# Skapa Experience Platform [!DNL tags]-regler för specialsidor
 
 Förutom data som samlas in på varje sida har du andra data som måste samlas in på specifika sidor. I den här videon visas hur du sammanfogar data med gemensamma data och skickar dem till Adobe Analytics.
 

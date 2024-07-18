@@ -1,6 +1,6 @@
 ---
 title: Använda datum i Analysis Workspace
-description: "I den här videon förklaras tre olika sätt att arbeta med datum i Frihandsanalys: kalendern, datumintervallelementen och granularitetselementen. Visas inte, något pinsamt: hur du använder datum för att aktivera linjediagram. "
+description: "I den här videon förklaras tre olika sätt att arbeta med datum i Frihandsanalys: kalendern, datumintervallelementen och granularitetselementen. Visas inte, något pinsamt: hur man använder datum för att aktivera linjediagram. "
 feature: Calendar
 topics: null
 activity: use
@@ -19,6 +19,6 @@ ht-degree: 0%
 
 # Använda datum i Analysis Workspace {#using-dates-in-analysis-workspace}
 
-I den här videon förklaras tre olika sätt att arbeta med datum på [!DNL Freeform] Analys: kalendern, [!UICONTROL date range] och granularitetselementen. Visas inte, något pinsamt: hur du använder datum för att aktivera linjediagram.
+I den här videon förklaras tre olika sätt att arbeta med datum i [!DNL Freeform]-analysen: kalendern, elementen [!UICONTROL date range] och granularitetselementen. Visas inte, något pinsamt: hur man använder datum för att aktivera linjediagram.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24136/?quality=12&learn=on)

@@ -19,6 +19,6 @@ ht-degree: 0%
 
 # Komma igång med Adobe Mobile Analytics {#getting-started-with-mobile-analytics}
 
-Lär dig hur du kommer igång med Adobe Analytics för mobilappar med hjälp av mallar. Förinbyggt [!UICONTROL standard templates] hjälper er att förstå användarengagemang och appprestanda [!UICONTROL metrics] i Analysis Workspace. Lär dig även hur du anpassar ditt projekt med vårt lättanvända dra och släpp-gränssnitt.
+Lär dig hur du kommer igång med Adobe Analytics för mobilappar med hjälp av mallar. Fördefinierade [!UICONTROL standard templates] hjälper dig att förstå användarinteraktion och appprestanda [!UICONTROL metrics] i Analysis Workspace. Lär dig även hur du anpassar ditt projekt med vårt lättanvända dra och släpp-gränssnitt.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27826/?quality=12&learn=on)

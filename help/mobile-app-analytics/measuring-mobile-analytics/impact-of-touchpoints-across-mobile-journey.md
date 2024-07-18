@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # Påverkan av beröringspunkter över mobil resa {#impact-of-touchpoints-across-mobile-journey}
 
-Lär dig hur mobilappsanvändare påverkas av kontaktpunkter och vet vilka kanaler som flyttar nålen för din mobilapp med hjälp av [!DNL Attribution IQ]. Ta reda på vilka kanaler som samarbetar för att skapa framgångsrika händelser i mobilappen.
+Lär dig hur mobilappsanvändare påverkas av kontaktpunkter och vilka kanaler som flyttar nålen för din mobilapp med [!DNL Attribution IQ]. Ta reda på vilka kanaler som samarbetar för att skapa framgångsrika händelser i mobilappen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27827/?quality=12&learn=on)

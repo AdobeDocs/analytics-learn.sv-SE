@@ -17,18 +17,18 @@ ht-degree: 0%
 
 ---
 
-# [!UICONTROL Cohort Table] Inställningar
+# Inställningar för [!UICONTROL Cohort Table]
 
 Lär dig hur du anpassar visningen av kvarhållnings- eller omformningstabeller med hjälp av inställningarna för Kohorttabell.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29433/?quality=12&learn=on)
 
-Anpassningar för [!UICONTROL Cohort Table] kan
+Anpassningar för [!UICONTROL Cohort Table] inkluderar möjligheten att
 
 1. Visa endast procentandelar
 1. Avrunda procenttal till närmaste heltal
 1. Visa/dölj en genomsnittlig procentrad högst upp i tabellen.
 
-Genomsnittliga rader är idealiska för visning [!UICONTROL retention] eller [!UICONTROL churn] generellt, i stället för individuellt [!UICONTROL cohort] rader.
+De genomsnittliga raderna är idealiska för att visa [!UICONTROL retention] eller [!UICONTROL churn] generellt, i stället för enskilda [!UICONTROL cohort] rader.
 
-Mer information om [!UICONTROL cohort] analys, gå till [dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/t-cohort.html?lang=en).
+Mer information om [!UICONTROL cohort]-analys finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/t-cohort.html?lang=en).

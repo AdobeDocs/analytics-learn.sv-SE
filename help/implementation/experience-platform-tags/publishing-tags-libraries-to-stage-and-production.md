@@ -14,8 +14,8 @@ ht-degree: 0%
 
 ---
 
-# Publish Experience Platform [!DNL tags] bibliotek till scenen och produktionen
+# Publish Experience Platform [!DNL tags]-bibliotek till scenen och produktionen
 
-Lär dig hur du publicerar webbplatsens analyskod från utveckling till scen och produktion i Experience Platform [!DNL tags], samt att skapa rapportsviter för att kunna ta emot korrekta data.
+Lär dig hur du publicerar webbplatsens analyskod från utveckling till scen och produktion i Experience Platform [!DNL tags], samt hur du konfigurerar rapportsviterna så att rätt data kan tas emot.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28777/?quality=12&learn=on)

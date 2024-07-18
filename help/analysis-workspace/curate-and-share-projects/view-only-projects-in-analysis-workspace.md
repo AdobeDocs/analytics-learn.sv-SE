@@ -1,6 +1,6 @@
 ---
 title: Dela ett skrivskyddat projekt i Analysis Workspace
-description: Lär dig hur du delar skrivskyddade arbetsyteanalysprojekt till användare och hur du förstår vilka funktioner som är tillgängliga för den här behörighetsnivån.
+description: Lär dig hur du delar skrivskyddade Workspace Analysis-projekt till användare och hur du förstår vilka funktioner som är tillgängliga för den här behörighetsnivån.
 feature: Curate and Share
 topics: null
 activity: use
@@ -20,8 +20,8 @@ ht-degree: 0%
 
 # Dela ett skrivskyddat projekt i Analysis Workspace
 
-Lär dig hur du delar skrivskyddade arbetsyteanalysprojekt till användare och hur du förstår vilka funktioner som är tillgängliga för den här behörighetsnivån.
+Lär dig hur du delar skrivskyddade Workspace Analysis-projekt till användare och hur du förstår vilka funktioner som är tillgängliga för den här behörighetsnivån.
 
 >[!VIDEO](https://video.tv.adobe.com/v/36206/?quality=12&learn=on)
 
-Mer information finns i [dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/view-only-projects.html)
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/view-only-projects.html)

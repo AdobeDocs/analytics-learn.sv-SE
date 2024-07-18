@@ -19,6 +19,6 @@ ht-degree: 0%
 
 # Minska felfrekvensen och förbättra antalet lyckade försök i din röstapp {#reducing-error-rates-and-improving-success-rates-in-your-voice-app}
 
-Lär dig hur du kan hitta områden där röstappen har förbättrats med funktioner som [!UICONTROL churn], antalet lyckade och misslyckade samt återfallsmetoden.
+Lär dig hur du kan hitta områden där röstappen har förbättrats med funktioner som [!UICONTROL churn], lyckade resultat, felfrekvens och återfallsmetod.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27222/?quality=12&learn=on)

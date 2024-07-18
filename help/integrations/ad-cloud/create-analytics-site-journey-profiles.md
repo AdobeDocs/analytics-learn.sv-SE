@@ -17,6 +17,6 @@ ht-degree: 0%
 
 # Skapa profiler för webbplatsresan i Analytics
 
-Lär dig hur du använder Adobe Analytics för att skapa stabila pooler för återanpassning av webbplatser för återmarknadsföring av annonser.
+Lär dig hur du använder Adobe Analytics för att skapa stabila pooler för ny anpassning av webbplatser för återmarknadsföring från Advertising.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35116/?quality=12&learn=on)

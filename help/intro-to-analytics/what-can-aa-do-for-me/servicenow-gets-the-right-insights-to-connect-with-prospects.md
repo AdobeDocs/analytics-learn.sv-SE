@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ---
 
-# Kundexempel: [!DNL ServiceNow] Hämtar de rätta insikterna för att ansluta till potentiella kunder
+# Användningsexempel: [!DNL ServiceNow] får rätt insikter för att ansluta till potentiella kunder
 
 Ta reda på hur [!DNL ServiceNow] får användbara data från sina marknadsföringskanaler och ökar avkastningen på betald sökannonsering med Adobe Advertising Cloud och Adobe Analytics.
 

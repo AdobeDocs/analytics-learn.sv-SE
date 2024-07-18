@@ -15,12 +15,12 @@ ht-degree: 0%
 
 # Grundläggande besöksmått
 
-Läs mer om [[!UICONTROL Page Views]](https://experienceleague.adobe.com/docs/analytics/components/metrics/page-views.html?lang=en), [[!UICONTROL Visits]](https://experienceleague.adobe.com/docs/analytics/components/metrics/visits.html?lang=en)och [[!UICONTROL Visitors]](https://experienceleague.adobe.com/docs/analytics/components/metrics/unique-visitors.html?lang=en) i Adobe Analytics.
+Läs mer om [[!UICONTROL Page Views]](https://experienceleague.adobe.com/docs/analytics/components/metrics/page-views.html?lang=en), [[!UICONTROL Visits]](https://experienceleague.adobe.com/docs/analytics/components/metrics/visits.html?lang=en) och [[!UICONTROL Visitors]](https://experienceleague.adobe.com/docs/analytics/components/metrics/unique-visitors.html?lang=en) i Adobe Analytics.
 
 * Få definitioner av dessa grundläggande besöksmätningar och lär dig mer om deras likheter och skillnader.
 
 * Lär dig de olika termerna (synonymer eller nyckelord) som är kopplade till besökarstatistik och webbplatstrafiken.
 
-* Visa ett exempel [!UICONTROL Workspace] projekt som visar hur dessa mått visas i gränssnittet.
+* Visa ett exempel på [!UICONTROL Workspace]-projekt som visar hur dessa mått visas i gränssnittet.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28774/?quality=12&learn=on)

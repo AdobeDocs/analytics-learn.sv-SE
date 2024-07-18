@@ -9,7 +9,7 @@ kt: 8113
 exl-id: d2d1ff79-0fcc-4de5-872d-8547ed48cf98
 source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '87'
+source-wordcount: '78'
 ht-degree: 0%
 
 ---
@@ -20,4 +20,4 @@ I den här videon får du lära dig hur du lägger till Area- och Area Stached-v
 
 >[!VIDEO](https://video.tv.adobe.com/v/334261/?quality=12&learn=on)
 
-Mer information finns på [dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/area.html?lang=en#)
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/area.html?lang=en#)

@@ -10,7 +10,7 @@ kt: 8060
 exl-id: 55c47805-578e-46a9-8d8c-90a9a109630e
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '54'
+source-wordcount: '44'
 ht-degree: 0%
 
 ---
@@ -21,4 +21,4 @@ Lär dig hur du analyserar en kohorttabell för att bättre förstå hur använd
 
 >[!VIDEO](https://video.tv.adobe.com/v/334094/?quality=12&learn=on)
 
-Mer information finns på [dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=en).
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=en).

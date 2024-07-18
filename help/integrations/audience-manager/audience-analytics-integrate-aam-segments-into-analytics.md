@@ -15,17 +15,17 @@ badgeIntegration: label="Integrering" type="positive"
 exl-id: 5db98e46-c91e-4e24-9745-82e54d19152a
 source-git-commit: dd8bd00ee533126d77596e33915c666ccb591cd2
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '115'
 ht-degree: 0%
 
 ---
 
-# Audience Analytics: Integrera AAM [!DNL Segments] till [!DNL Analytics] {#audience-analytics-integrate-aam-segments-into-analytics}
+# Audience Analytics: Integrera AAM [!DNL Segments] i [!DNL Analytics] {#audience-analytics-integrate-aam-segments-into-analytics}
 
 [!UICONTROL Audience Analytics] är en integrering som gör att du kan dela segment från Audience Manager till [!DNL Analytics] i realtid för att informera om målgruppsidentifiering, segmentering och optimering.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25450/?quality=12&learn=on)
 
-Exempel [!UICONTROL segment] Data som kan delas omfattar: demografiska data från externa dataleverantörer, kampanjdata från annonsservrar (t.ex. externa visningar) och inbyggda CRM-data. Detta är den första producerade integreringen mellan en datahanteringsplattform och en analysmotor på marknaden.
+Exempel på [!UICONTROL segment]-data som kan delas omfattar: demografiska data från tredjepartsdataproviders, kampanjdata från annonsservrar (till exempel externa visningar) och inbyggda CRM-data. Detta är den första producerade integreringen mellan en datahanteringsplattform och en analysmotor på marknaden.
 
-Mer information om den här funktionen finns på [dokumentation](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html).
+Mer information om den här funktionen finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html).

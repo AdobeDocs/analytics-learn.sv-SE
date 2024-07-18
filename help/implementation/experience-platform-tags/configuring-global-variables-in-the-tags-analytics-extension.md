@@ -1,6 +1,6 @@
 ---
-title: Konfigurera globala variabelinställningar i Analytics [!DNL tags] extension
-description: Lär dig konfigurera globala variabelinställningar i Analytics [!DNL tags] tillägg.
+title: Konfigurera globala variabelinställningar i Analytics [!DNL tags] -tillägget
+description: Lär dig hur du konfigurerar de globala variabelinställningarna i Analytics [!DNL tags] -tillägget.
 feature: Tags
 topics: Development
 kt: 2855
@@ -14,8 +14,8 @@ ht-degree: 0%
 
 ---
 
-# Konfigurera globala variabelinställningar i Analytics [!DNL tags] extension
+# Konfigurera globala variabelinställningar i Analytics-tillägget [!DNL tags]
 
-Lär dig konfigurera globala variabelinställningar i Analytics [!DNL tags] tillägg. Detaljerad dokumentation finns på [Översikt över Adobe Analytics-tillägg](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/client/analytics/overview.html){target="_blank"}.
+Lär dig hur du konfigurerar globala variabelinställningar i Analytics-tillägget [!DNL tags]. Mer detaljerad dokumentation finns i [Översikt över Adobe Analytics-tillägg](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/client/analytics/overview.html){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27181/?quality=12&learn=on)

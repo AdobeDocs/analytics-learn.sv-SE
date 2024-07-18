@@ -16,15 +16,15 @@ level: Beginner
 exl-id: 39adbd25-da7f-4b7a-ae43-6681d675b46d
 source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '75'
 ht-degree: 0%
 
 ---
 
-# Konfigurerar [!UICONTROL Zip] och postnummer i Adobe Analytics {#configuring-zip-and-postal-code-settings-in-adobe-analytics}
+# Konfigurerar inställningar för [!UICONTROL Zip] och postnummer i Adobe Analytics {#configuring-zip-and-postal-code-settings-in-adobe-analytics}
 
-I den här videon får du lära dig hur du konfigurerar [!UICONTROL zip] och inställningar för postnummer så att du kan göra analyser baserat på den här regioninformationen.
+I den här videon får du lära dig hur du konfigurerar inställningarna för [!UICONTROL zip] och postnummer så att du kan göra analyser baserat på den här regioninformationen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27051/?quality=12&learn=on)
 
-Mer information om [!UICONTROL zip code] inställningar, se [dokumentation](https://experienceleague.adobe.com/docs/analytics/components/dimensions/zip-code.html?lang=en).
+Mer information om inställningarna för [!UICONTROL zip code] finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/components/dimensions/zip-code.html?lang=en).

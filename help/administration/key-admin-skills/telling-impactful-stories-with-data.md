@@ -21,15 +21,15 @@ Data storytelling är var konst och vetenskap sammanförs med hjälp av data, vi
 
 ## Identifiera affärsmöjligheten eller problemet
 
-Börja med att definiera den aktuella situationen och fastställa problemet eller möjligheten. Här sätter ni in scenen och tillhandahåller tillräckligt med information för att fånga era målgrupper, men inte helt avslöjar lösningen. Den här introduktionen är viktig (och kan vara utmanande), men det är hela motivet i din analys!  Värdet av datalagerberättande är att föreslå åtgärder som resulterar i **ändrat beteende**. Data, Insight &amp; Analysis är i övrigt strömlösa.
+Börja med att definiera den aktuella situationen och fastställa problemet eller möjligheten. Här sätter ni in scenen och tillhandahåller tillräckligt med information för att fånga era målgrupper, men inte helt avslöjar lösningen. Den här introduktionen är viktig (och kan vara utmanande), men det är hela motivet i din analys!  Värdet för datalagerberättelse är att föreslå åtgärder som resulterar i **ändrat beteende**. Data, Insight &amp; Analysis är i övrigt strömlösa.
 
-**Tips för arbetsytan i Adobe:** Ge visualiseringarna en rubrik i form av en fråga för att visa exakt vilket problem eller vilken situation som är aktuell.
+**Adobe Workspace Tips!** Skriv din visualisering i form av en fråga för att visa exakt vilket problem eller vilken situation som markeras.
 
 ## Förklara data
 
 När du har ramat in situationen kan du använda data för att identifiera orsaken till problemet/möjligheten. Fokusera på resultaten och de variabler som bäst förklarar den aktuella situationen i motsats till en fullständig analys och utforskning för att nå dit.  Skapa övertygande bilder som visar relationen mellan oberoende och beroende variabler, men som håller den enkel så att den blir lätt att använda för er målgrupp.
 
-**Tips för arbetsytan i Adobe:**
+**Adobe Workspace Tip:**
 Skapa enkla, lättlästa bilder som är anpassade efter den typ av data som du delar:
 
 * Använd stapeldiagram för kategoriserade och binära data
@@ -40,7 +40,7 @@ Skapa enkla, lättlästa bilder som är anpassade efter den typ av data som du d
 
 Informera om rekommenderad åtgärd och vad som krävs för att ta sig dit.  Se till att ge tillräckligt med information så att intressenter kan fatta ett välgrundat beslut, t.ex. vad gäller kostnader eller nödvändiga resurser för att kunna göra en ändring. Det effektivaste sättet att göra detta är att kvantifiera möjliga effekter genom minst en kritisk KPI.
 
-**Tips för arbetsytan i Adobe:** Utnyttja verktyg som klassificeringar och/eller beräknade mätvärden för att kvantifiera (tänk till exempel på Nettovinst eller CLV) den möjliga effekten direkt i Adobe Analytics och använd sammanfattningsnummer eller förändringar i arbetsytan i Adobe för att avsluta i en högdager!
+**Adobe Workspace Tip:** Utnyttja verktyg som klassificeringar och/eller beräknade värden för att kvantifiera (tänk till exempel på Nettovinst eller CLV) den möjliga effekten direkt i Adobe Analytics och använd sammanfattningsnummer eller ändringar i Adobe Workspace för att avsluta med en högdager!
 
 ## Upphovsman
 

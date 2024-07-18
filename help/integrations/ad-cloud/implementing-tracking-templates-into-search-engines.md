@@ -15,8 +15,8 @@ ht-degree: 0%
 
 ---
 
-# Implementera spårningsmallar från [!DNL Advertising Analytics] till sökmotorer {#implement-tracking-templates-from-advertising-analytics-into-search-engines}
+# Implementera spårningsmallar från [!DNL Advertising Analytics] i sökmotorer {#implement-tracking-templates-from-advertising-analytics-into-search-engines}
 
-Lär dig hur du implementerar dina spårningsmallar från [!DNL Advertising Analytics] i sökmotorer som stöds. Detta är ett viktigt steg som krävs för att samla in och skicka data till Adobe Analytics.
+Lär dig hur du implementerar spårningsmallar från [!DNL Advertising Analytics] i sökmotorer som stöds. Detta är ett viktigt steg som krävs för att samla in och skicka data till Adobe Analytics.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23120/?quality=12&learn=on)

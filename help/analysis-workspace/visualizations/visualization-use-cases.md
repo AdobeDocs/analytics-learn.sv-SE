@@ -9,7 +9,7 @@ kt: 8062
 exl-id: b1fcbd2f-d03e-4cc1-80ba-f76fe66551e5
 source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '72'
+source-wordcount: '62'
 ht-degree: 0%
 
 ---
@@ -20,4 +20,4 @@ Vill du veta vilka produkter som säljer bäst? Lär dig några av de viktigaste
 
 >[!VIDEO](https://video.tv.adobe.com/v/334096/?quality=12&learn=on)
 
-Mer information finns på [dokumentation](https://experienceleague.adobe.com/docs/data-workbench/using/dashboard/visualizations/visualization-types/c-visualization-types.html?lang=en).
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/data-workbench/using/dashboard/visualizations/visualization-types/c-visualization-types.html?lang=en).

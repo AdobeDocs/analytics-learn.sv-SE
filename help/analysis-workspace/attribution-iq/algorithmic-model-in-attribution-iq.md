@@ -13,8 +13,8 @@ level: Intermediate
 exl-id: fc7a4eda-0e1b-45a5-876d-022b97ef6e42
 source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '68'
-ht-degree: 14%
+source-wordcount: '61'
+ht-degree: 0%
 
 ---
 
@@ -24,4 +24,4 @@ I modellen för algoritmisk attribuering i Analysis Workspace används statistis
 
 >[!VIDEO](https://video.tv.adobe.com/v/36205/?quality=12&learn=on)
 
-Mer information finns i [dokumentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/algorithmic.html)
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/algorithmic.html)

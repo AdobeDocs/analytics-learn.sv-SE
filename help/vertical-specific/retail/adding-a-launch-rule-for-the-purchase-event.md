@@ -1,6 +1,6 @@
 ---
 title: Lägg till en regel för inköpshändelsen i Experience Platform [!DNL tags]
-description: I den här videon visas hur du använder produktsträngstillägget i [!DNL tags] för att spåra inköp på er webbplats, vilket resulterar i statistik över intäkter, beställningar och enheter i er analys.
+description: I den här videon visas hur du använder produktsträngstillägget i [!DNL tags] för att spåra inköp på din webbplats, vilket resulterar i skatte-, order- och enhetsstatistik i din analys.
 feature: Tags
 topics: Development
 kt: 3593
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # Lägg till en regel för inköpshändelsen i Experience Platform [!DNL tags]
 
-I den här videon visas hur du använder produktsträngen [!UICONTROL extension] in [!DNL Experience Platform Launch] för att spåra inköp på er webbplats, vilket resulterar i [!UICONTROL Revenue], [!UICONTROL Orders]och [!UICONTROL Units] [!UICONTROL metrics] i er analys.
+I den här videon visas hur du använder produktsträngen [!UICONTROL extension] i [!DNL Experience Platform Launch] för att spåra inköp på din webbplats, vilket resulterar i [!UICONTROL Revenue], [!UICONTROL Orders] och [!UICONTROL Units] [!UICONTROL metrics] i din analys.
 
 >[!NOTE]
 >

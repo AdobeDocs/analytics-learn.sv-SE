@@ -12,7 +12,7 @@ level: Beginner
 exl-id: 9aeb8371-3fac-41db-bea3-35c7ca3deeef
 source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '78'
 ht-degree: 0%
 
 ---
@@ -23,4 +23,4 @@ Datadriven marknadsföring är avgörande för att bli ett upplevelseföretag. L
 
 >[!VIDEO](https://video.tv.adobe.com/v/31502/?quality=12&learn=on)
 
-Se hur Adobe kan hjälpa er att lära känna era kunder ur alla vinklar: [https://adobe.ly/2CabND4](https://adobe.ly/2CabND4)
+Lär dig hur Adobe kan hjälpa dig att lära känna din kund ur alla vinklar: [https://adobe.ly/2CabND4](https://adobe.ly/2CabND4)

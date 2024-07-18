@@ -1,6 +1,6 @@
 ---
-title: Använd anpassad kod i Adobe Analytics-tillägget i [!DNL tags]
-description: Läs om användningsexempel och tekniska överväganden för att använda den anpassade kodredigeraren när du konfigurerar Adobe Analytics-tillägget i [!DNL tags].
+title: Använd anpassad kod i Adobe Analytics-tillägget i  [!DNL tags]
+description: Läs om användningsexempel och tekniska överväganden för att använda den anpassade kodredigeraren när du konfigurerar Adobe Analytics-tillägget i  [!DNL tags].
 feature: Tags
 topics: Development
 doc-type: technical video
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 # Använd anpassad kod i Adobe Analytics-tillägget i [!DNL tags]
 
-Läs om användningsexempel och tekniska överväganden för att använda den anpassade kodredigeraren när du konfigurerar Adobe Analytics-tillägget i [!DNL tags].
+Lär dig mer om användningsexempel och tekniska överväganden när du använder den anpassade kodredigeraren när du konfigurerar Adobe Analytics-tillägget i [!DNL tags].
 
 >[!VIDEO](https://video.tv.adobe.com/v/27272/?quality=12&learn=on)
 
-Granska [dokumentation](https://experienceleague.adobe.com/docs/analytics/implementation/vars/plugins/impl-plugins.html) för mer information om <i>funktionen doPlugins</i> som refereras i den här videon.
+Granska [dokumentationen](https://experienceleague.adobe.com/docs/analytics/implementation/vars/plugins/impl-plugins.html) om du vill ha mer information om <i>doPlugins-funktionen</i> som den här videon refererar till.

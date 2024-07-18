@@ -17,10 +17,10 @@ ht-degree: 0%
 
 ---
 
-# Använda [!UICONTROL Audio Consumption] Mall i Analysis Workspace {#using-the-audio-consumption-template-in-analysis-workspace}
+# Använda mallen [!UICONTROL Audio Consumption] i Analysis Workspace {#using-the-audio-consumption-template-in-analysis-workspace}
 
-Den här videon visar [!UICONTROL Audio Consumption] i Analysis Workspace, som finns i [!DNL Audio Analytics].
+I den här videon visas mallen [!UICONTROL Audio Consumption] i Analysis Workspace, som är tillgänglig direkt för [!DNL Audio Analytics].
 
 >[!VIDEO](https://video.tv.adobe.com/v/23901/?quality=12&learn=on)
 
-[!DNL Audio Analytics] kopplar samman avlyssnarnas engagemang för direktuppspelat ljud med deras fullständiga digitala beteende för att förstå vem som lyssnar var, när och hur ofta användarbeteendet ska utvärderas på en vanligen fragmenterad ljudmarknad. Det gör det möjligt för företag att mäta avlyssnarnas räckvidd, hur populärt deras innehåll är och hur de kan hålla engagemanget baserat på deras beteenden och look-alike-modellering.
+[!DNL Audio Analytics] kopplar samman avlyssnarnas direktuppspelade ljudengagemang med deras fullständiga digitala beteende för att förstå vem som lyssnar var, när och hur ofta användarbeteendet ska utvärderas på en vanligen fragmenterad ljudmarknad. Det gör det möjligt för företag att mäta avlyssnarnas räckvidd, hur populärt deras innehåll är och hur de kan hålla engagemanget baserat på deras beteenden och look-alike-modellering.

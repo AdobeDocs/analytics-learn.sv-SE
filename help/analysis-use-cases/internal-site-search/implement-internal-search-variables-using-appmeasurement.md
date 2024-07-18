@@ -1,5 +1,5 @@
 ---
-title: Implementera interna sökvariabler med AppMeasurement
+title: Implementera interna sökvariabler med AppMeasurementet
 description: I den här videon går vi igenom stegen för implementering av interna sökvariabler för Adobe Analytics med Experience Platform Launch, inklusive sökterm, antal resultat och andra.
 feature: Use Cases
 role: User
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ---
 
-# Implementera interna sökvariabler med AppMeasurement
+# Implementera interna sökvariabler med AppMeasurementet
 
 I den här videon går vi igenom stegen för implementering av interna sökvariabler för Adobe Analytics med Experience Platform Launch, inklusive sökterm, antal resultat och andra.
 

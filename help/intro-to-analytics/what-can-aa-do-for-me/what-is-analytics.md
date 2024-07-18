@@ -27,18 +27,18 @@ Affärsanalys är en del av affärsintelligens och fokuserar på strategiska ris
 
 Det finns fyra typer av affärsanalyser:
 
-* **Beskrivande**: Detta innebär att använda historiska data för att identifiera trender i en organisations verksamhet. En återförsäljare måste till exempel förutsäga efterfrågan före högsäsong eller helgsäsong och behöver ett optimalt lager för att nå sina affärsmål.
+* **Beskrivande**: Detta innebär att historiska data används för att identifiera trender i en organisations verksamhet. En återförsäljare måste till exempel förutsäga efterfrågan före högsäsong eller helgsäsong och kräva optimalt lager för att nå sina affärsmål.
 * **Diagnostik**: Vilka är orsakerna till ett oväntat resultat? Varför fanns det en dramatisk efterfrågan på en produkt eller tjänst under lågsäsong? Diagnostisk analys är en djupare form av beskrivande analys och syftar till att skapa korrelationer utifrån data.
-* **Prediktiv**: Detta använder historiska data för att fastställa troliga resultat eller händelser. Maskinininlärning (ML) och artificiell intelligens (AI) används ofta för mer korrekta prognoser. Kundbortfall är ett exempel på en tillämpning av prediktiv analys i verkligheten. Den här analysen identifierar korrelationer för att identifiera attributen hos kunder som sannolikt kommer att försvinna så att du kan göra något för att förhindra det.
-* **Förskrivande**: Detta är en avancerad form av prediktiv analys som syftar till att identifiera den bästa möjliga vägen till önskat resultat. Denna typ av analys använder även ML- och AI-teknik. Återförsäljare använder prediktiv analys för att förbättra sina marginaler genom att göra ändringar i sin verksamhet.
+* **Prediktiv**: Detta använder historiska data för att avgöra troliga resultat eller händelser. Maskinininlärning (ML) och artificiell intelligens (AI) används ofta för mer korrekta prognoser. Kundbortfall är ett exempel på en tillämpning av prediktiv analys i verkligheten. Den här analysen identifierar korrelationer för att identifiera attributen hos kunder som sannolikt kommer att försvinna så att du kan göra något för att förhindra det.
+* **Beskrivning**: Detta är en avancerad form av prediktiv analys som syftar till att identifiera den bästa möjliga vägen till önskat resultat. Denna typ av analys använder även ML- och AI-teknik. Återförsäljare använder prediktiv analys för att förbättra sina marginaler genom att göra ändringar i sin verksamhet.
 
-![data-analystyper](../what-can-aa-do-for-me/assets/data_analytics_types.png)
+![data-analytics-types](../what-can-aa-do-for-me/assets/data_analytics_types.png)
 
 ## Dataanalysens roll
 
 Dataanalys använder många av de tekniker som används i affärsanalyser, men den har en vidare omfattning och är mer teknisk till sin natur. Big dataanalys bygger till exempel på datakvalitet och datasorganisation. Hur effektivt sorteras, lagras och rensas data? Datavetare arbetar inom dataanalys. De omvandlar enorma datauppsättningar som affärsanalytiker sedan använder för att förmedla information till organisationen för att optimera processer och mätvärden. Datavetare tar djupare kliv in i data och fastställer trender och kopplingar.
 
-![dataanalys](../what-can-aa-do-for-me/assets/data_analytics.png)
+![data-analys](../what-can-aa-do-for-me/assets/data_analytics.png)
 
 ## Var passar Adobe Analytics?
 
@@ -47,7 +47,7 @@ Adobe Analytics är en robust plattform för dataanalys som samlar in data från
 Affärskrav, datadesign och datainsamling är viktiga faktorer för en effektiv analysmetod. Inledningsvis börjar kunderna med att samla in data om viktiga kundresor och önskat affärsresultat för traditionella digitala upplevelser som webben och mobiler. Informationen ska svara på frågor som:
 
 * &quot;Vilket innehåll och vilka innehållstyper är populära hos besökarna?&quot;
-* &quot;Vilka vägar leder till konverteringar med högt värde, som intäkter, bokningar, leads eller prenumerationer?&quot;
+* &quot;Vilka vägar leder till konverteringar med högt värde, till exempel intäkter, bokningar, leads eller prenumerationer?&quot;
 * &quot;Vilka produkter, tjänster eller innehåll ska jag visa för kända och okända besökare&quot;?
 * &quot;Hur fungerar digitala marknadsföringskanaler?&quot;
 

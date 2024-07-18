@@ -9,7 +9,7 @@ level: Beginner
 exl-id: 2f305779-9a19-4603-8be7-3a5e3bf634ab
 source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '71'
 ht-degree: 0%
 
 ---
@@ -20,4 +20,4 @@ I den här videon förklaras hur du [!UICONTROL segment] i Adobe Analytics så a
 
 >[!VIDEO](https://video.tv.adobe.com/v/25400/?quality=12&learn=on)
 
-Mer information finns på [dokumentation](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-sequential-build.html?lang=en).
+Mer information om det här avsnittet finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-sequential-build.html?lang=en).

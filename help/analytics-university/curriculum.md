@@ -9,7 +9,7 @@ hidefromtoc: true
 exl-id: 1202b1f6-fa41-465d-8e76-b7feae217cce
 source-git-commit: d7fd77640928697f5857ccfcaf2c0f561aebeac3
 workflow-type: tm+mt
-source-wordcount: '320'
+source-wordcount: '316'
 ht-degree: 0%
 
 ---
@@ -38,10 +38,10 @@ Gå med i kursen här: [https://edex.adobe.com/pd/course/adobe-analytics-for-tea
 *Därefter kombinerar du dessa DATA med INSIGHTS:*
 
 * Standardmodul för mått och funktioner för Adobe (3) för att få tillgång till och visa KPI-värden och -rapporter för viktig analys
-* Analysis Workspace Fundamentals Module (4) - komma igång med visualisering av analysrapporter
+* Analysis Workspace Fundamentals Module (4) - komma igång med visualiseringar av analysrapporter
 
 Kursplanen med specialbyggda aktiviteter i slutet av varje avsnitt kan kombineras med Adobe Analytics University sandlådemiljö.
 
-Anmäl dig här för att få åtkomst: [Registrering av kursplaner för analyser](https://experienceleague.adobe.com/landing/analytics-university/)
+Registrera dig här för åtkomst: [Registrering av kursplaner för analyser](https://experienceleague.adobe.com/landing/analytics-university/)
 
 [Ladda ned kursplanen för PDF](assets/Adobe-Analytics-Curriculum_2021.pdf)
