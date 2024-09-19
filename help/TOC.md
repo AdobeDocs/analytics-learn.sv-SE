@@ -4,9 +4,9 @@ user-guide-description: Se videosjälvstudiekurser om Adobe Analytics och lär d
 breadcrumb-title: Självstudiekurser om Analytics
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 7817c73a3a11297212eeaf83478b2b803e6f7d8d
+source-git-commit: 234be3d7c4357baec59233039cb6f87170f85880
 workflow-type: tm+mt
-source-wordcount: '2166'
+source-wordcount: '2161'
 ht-degree: 2%
 
 ---
@@ -252,7 +252,6 @@ ht-degree: 2%
       + [Konfigurera identifiering av betald sökning](administration/manage-report-suites/configure-paid-search-detection.md)
       + [Ställ in marknadsföringskanaler](administration/manage-report-suites/set-up-marketing-channels.md)
       + [Skapa regler för bearbetning av marknadsföringskanaler](administration/manage-report-suites/create-marketing-channel-processing-rules.md)
-      + [Anpassa menyer i rapporter och analyser](administration/manage-report-suites/customize-menus.md)
       + [Ändra inkommande data med bearbetningsregler](administration/manage-report-suites/manipulating-incoming-data-with-processing-rules.md)
       + [Konfigurera trafikvariabler (props)](administration/manage-report-suites/configuring-traffic-variables-props.md)
       + [Konfigurera trafikklassificeringar](administration/manage-report-suites/configure-traffic-classifications.md)
