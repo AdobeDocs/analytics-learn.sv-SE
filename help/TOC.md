@@ -4,9 +4,9 @@ user-guide-description: Se videosjälvstudiekurser om Adobe Analytics och lär d
 breadcrumb-title: Självstudiekurser om Analytics
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 234be3d7c4357baec59233039cb6f87170f85880
+source-git-commit: 1687ffc8267fac3ab4a842d9004667486ff52fb7
 workflow-type: tm+mt
-source-wordcount: '2161'
+source-wordcount: '2160'
 ht-degree: 2%
 
 ---
@@ -379,18 +379,18 @@ ht-degree: 2%
    + Mål {#target}
       + [Analyser för målpanelen (A4T) i Analysis Workspace](integrations/target/analytics-for-target-a4t-panel-in-analysis-workspace.md)
       + [Analysera en automatisk målaktivitet med A4T-panelen](integrations/target/analyze-an-auto-target-activity-using-the-a4t-panel.md)
-   + Ad Cloud {#ad-cloud}
+   + Adobe Advertising DSP {#adobe-advertising-dsp}
       + [Konfigurera Advertising Analytics](integrations/ad-cloud/configuring-advertising-analytics.md)
       + [Implementera spårningsmallar i sökmotorer](integrations/ad-cloud/implementing-tracking-templates-into-search-engines.md)
-      + [Introduktion till Analytics for Advertising Cloud DSP Integration](integrations/ad-cloud/introduction-to-the-analytics-for-advertising-cloud-dsp-integration.md)
+      + [Introduktion till integrationen av Adobe Advertising DSP](integrations/ad-cloud/introduction-to-the-analytics-for-advertising-cloud-dsp-integration.md)
       + [Skapa en kampanjanalys före start](integrations/ad-cloud/create-a-pre-launch-campaign-analysis-with-adobe-analytics.md)
-      + [Rapportering med Advertising Cloud marknadsföringskanaler](integrations/ad-cloud/reporting-with-advertising-cloud-marketing-channels.md)
-      + [Skapa profiler för Analytics-webbplatsresor](integrations/ad-cloud/create-analytics-site-journey-profiles.md)
+      + [Rapport om Advertising DSP marknadsföringskanaler](integrations/ad-cloud/reporting-with-advertising-cloud-marketing-channels.md)
+      + [Skapa profiler för webbplatsresan i Analytics](integrations/ad-cloud/create-analytics-site-journey-profiles.md)
       + [Skapa analyssegment för aktivering och rapportering](integrations/ad-cloud/create-analytics-segments-for-activation-and-reporting.md)
-      + [Skapa Advertising Cloud Alerts med Adobe Analytics](integrations/ad-cloud/create-advertising-cloud-alerts-with-adobe-analytics.md)
-      + [Skapa anpassade analysvärden med Advertising Cloud Data](integrations/ad-cloud/create-analytics-custom-metrics-with-advertising-cloud-data.md)
-      + [Skapa Advertising Cloud Site Entry-rapporter](integrations/ad-cloud/create-advertising-cloud-site-entry-reports.md)
-      + [Skapa Advertising Cloud Dashboards](integrations/ad-cloud/create-advertising-cloud-dashboards-with-adobe-analytics.md)
+      + [Skapa Advertising DSP-varningar med Adobe Analytics](integrations/ad-cloud/create-advertising-cloud-alerts-with-adobe-analytics.md)
+      + [Skapa anpassade analysvärden med Advertising DSP-data](integrations/ad-cloud/create-analytics-custom-metrics-with-advertising-cloud-data.md)
+      + [Skapa rapporter för webbplatsinlägg från Advertising DSP](integrations/ad-cloud/create-advertising-cloud-site-entry-reports.md)
+      + [Skapa Advertising DSP-instrumentpaneler](integrations/ad-cloud/create-advertising-cloud-dashboards-with-adobe-analytics.md)
    + Ad hoc-analys {#ad-hoc-analytics}
       + [Använda Project Converter för att flytta projekt från Ad Hoc Analysis till Analytics Workspace](integrations/ad-hoc-analytics/using-the-project-converter-to-move-projects-from-ad-hoc-analysis-to-analytics-workspace.md)
    + Power BI {#power-bi}
