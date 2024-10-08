@@ -4,9 +4,9 @@ user-guide-description: Se videosjälvstudiekurser om Adobe Analytics och lär d
 breadcrumb-title: Självstudiekurser om Analytics
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 1687ffc8267fac3ab4a842d9004667486ff52fb7
+source-git-commit: c6e015f257fd27f27e60a4ce2a30c5369611d123
 workflow-type: tm+mt
-source-wordcount: '2160'
+source-wordcount: '2164'
 ht-degree: 2%
 
 ---
@@ -363,6 +363,7 @@ ht-degree: 2%
       + [Hitta ditt ID för datafeed](exporting/data-feeds/find-your-data-feed-id.md)
       + [Kör om ett datafeedjobb](exporting/data-feeds/rerun-a-data-feed-job.md)
    + Report Builder {#report-builder}
+      + [Uppgradera och schemalägg om arbetsböcker](exporting/report-builder/upgrade-and-reschedule-workbooks.md)
       + [Lägg till segment i flera begäranden samtidigt i Report Builder](exporting/report-builder/add-segments-to-multiple-requests-at-once-in-report-builder.md)
       + [Anomalidentifiering i Report Builder](exporting/report-builder/anomaly-detection-in-report-builder.md)
       + [Redigera mått mellan begäranden](exporting/report-builder/edit-metrics-across-requests.md)
