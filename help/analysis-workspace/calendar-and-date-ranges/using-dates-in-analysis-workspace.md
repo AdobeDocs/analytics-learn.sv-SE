@@ -1,6 +1,6 @@
 ---
 title: Använda datum i Analysis Workspace
-description: "I den här videon förklaras tre olika sätt att arbeta med datum i Frihandsanalys: kalendern, datumintervallelementen och granularitetselementen. Visas inte, något pinsamt: hur man använder datum för att aktivera linjediagram. "
+description: 'I den här videon förklaras tre olika sätt att arbeta med datum i Frihandsanalys: kalendern, datumintervallelementen och granularitetselementen. Visas inte, något pinsamt: hur man använder datum för att aktivera linjediagram. '
 feature: Calendar
 topics: null
 activity: use
