@@ -4,9 +4,9 @@ user-guide-description: Se videosjälvstudiekurser om Adobe Analytics och lär d
 breadcrumb-title: Självstudiekurser om Analytics
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: abfda19fcda0b4469c27886ef4b80e2fe9bf25a6
+source-git-commit: 14bbe0be3c5bc45e58ff54c82c4a9024374de848
 workflow-type: tm+mt
-source-wordcount: '2164'
+source-wordcount: '2160'
 ht-degree: 2%
 
 ---
@@ -236,14 +236,14 @@ ht-degree: 2%
       + [Använd en global rapportsvit](administration/admin-tips/use-a-global-report-suite.md)
       + [Skapa ett nytt projekt](administration/admin-tips/create-a-news-and-announcements-project.md)
       + [Skapa framgångsrika statuspaneler med chefssammanfattning](administration/admin-tips/driving-success-with-executive-summary-dashboards.md)
-      + [Skapa driftinstrumentpaneler](administration/admin-tips/create-operational-dashboards.md)
+      + [Skapa operativa instrumentpaneler](administration/admin-tips/create-operational-dashboards.md)
    + Företagsinställningar {#company-settings}
-      + [Tvinga begränsningar för e-postdomän](administration/company-settings/enforce-email-domain-restrictions.md)
+      + [Använd begränsningar för e-postdomän](administration/company-settings/enforce-email-domain-restrictions.md)
       + [Visa tillgängliga funktioner för ditt konto](administration/company-settings/view-your-accounts-available-features.md)
    + Användarhantering {#user-management}
       + [Lägga till en administratör i Adobe Analytics](administration/user-management/adding-an-administrator-to-adobe-analytics.md)
       + [Skapa produktprofiler](administration/user-management/create-product-profiles.md)
-      + [Begränsa åtkomst till Report Suite i Admin Console](administration/user-management/limit-report-suite-access-in-the-admin-console.md)
+      + [Begränsa åtkomst till rapportsviten i Admin Console](administration/user-management/limit-report-suite-access-in-the-admin-console.md)
       + [Överför användarresurser till en annan användare](administration/user-management/transfer-user-assets-to-a-different-user.md)
       + [Kontrollera länkat IMS-ID för att förhindra inloggningsproblem](administration/user-management/check-linked-ims-id-to-prevent-login-issues.md)
    + Hantera rapportsviter {#manage-report-suites}
@@ -252,25 +252,25 @@ ht-degree: 2%
       + [Konfigurera identifiering av betald sökning](administration/manage-report-suites/configure-paid-search-detection.md)
       + [Ställ in marknadsföringskanaler](administration/manage-report-suites/set-up-marketing-channels.md)
       + [Skapa regler för bearbetning av marknadsföringskanaler](administration/manage-report-suites/create-marketing-channel-processing-rules.md)
-      + [Ändra inkommande data med bearbetningsregler](administration/manage-report-suites/manipulating-incoming-data-with-processing-rules.md)
+      + [Hantera inkommande data med bearbetningsregler](administration/manage-report-suites/manipulating-incoming-data-with-processing-rules.md)
       + [Konfigurera trafikvariabler (props)](administration/manage-report-suites/configuring-traffic-variables-props.md)
       + [Konfigurera trafikklassificeringar](administration/manage-report-suites/configure-traffic-classifications.md)
       + [Konfigurera hierarkivariabler](administration/manage-report-suites/configure-hierarchy-variables.md)
-      + [Konfigurera variabler i Admin Console](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
+      + [Konfigurera händelser och variabler](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
       + [Konfigurera konverteringsklassificeringar](administration/manage-report-suites/configure-conversion-classifications.md)
       + [Konfigurera listvariabler](administration/manage-report-suites/configuring-list-variables.md)
       + [Konfigurera sökmetoder](administration/manage-report-suites/configure-finding-methods.md)
       + [Ange interna URL-filter](administration/manage-report-suites/set-internal-url-filters.md)
       + [Konfigurera inställningar för postnummer och postnummer](administration/manage-report-suites/configuring-zip-and-postal-code-settings.md)
-      + [Aktivera inställningen Valfri tidsstämpel](administration/manage-report-suites/enable-the-timestamp-optional-setting.md)
+      + [Aktivera den valfria inställningen för tidsstämpel](administration/manage-report-suites/enable-the-timestamp-optional-setting.md)
       + [Konfigurera robotregler i Analytics](administration/manage-report-suites/configure-bot-rules-in-analytics.md)
    + Datastyrning och GDPR {#data-governance-and-gdpr}
       + [Datastyrning och GDPR i Adobe Analytics](administration/data-governance-and-gdpr/data-governance-and-gdpr.md)
    + Trafikhantering {#traffic-management}
-      + [Användning av serversamtal](administration/traffic-management/server-call-usage.md)
+      + [Serversamtalsanvändning](administration/traffic-management/server-call-usage.md)
       + [Hantera en kommande trafiktoppning](administration/traffic-management/manage-an-upcoming-traffic-spike.md)
    + Loggar{#logs}
-      + [Loggspårning för användning för Analysis Workspace](administration/logs/usage-log-tracking-for-analysis-workspace.md)
+      + [Loggspårning av användningsloggar för Analysis Workspace](administration/logs/usage-log-tracking-for-analysis-workspace.md)
       + [Översikt över administratörsloggar för Analytics](administration/logs/overview-of-analytics-admin-logs.md)
 + Implementering {#implementation}
    + Implementeringsgrunder {#implementation-basics}
