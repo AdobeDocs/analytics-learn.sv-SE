@@ -1,6 +1,6 @@
 ---
 title: Konfigurera variabler i Admin Console
-description: När du har definierat de variabler och händelser som du ska använda i din Analytics-implementering måste du gå in och konfigurera dem i Admin Console så att alla rapporter/dimensioner/mätvärden har rätt namn och beteende. Den här videon visar var och hur du gör just det.
+description: Lär dig konfigurera variabler och händelser i Report Suite Manager så att rapporter, dimensioner och mätvärden har rätt namn och beteende.
 feature: Report Suite Settings
 thumbnail: 28755.jpg
 kt: 3582
@@ -8,9 +8,9 @@ topic: Administration
 role: Admin, Architect
 level: Beginner
 exl-id: 6bbca02c-e788-431b-bcdc-57cda794a76e
-source-git-commit: c9b9032be39665f2bc6d5592770f90ae7273f8e6
+source-git-commit: 988fe05130035099008c58528f37512ad80c881e
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '83'
 ht-degree: 0%
 
 ---
