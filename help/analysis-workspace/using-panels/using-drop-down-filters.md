@@ -24,4 +24,4 @@ Panelens listzon har nu funktioner för nedrullningsbar filtrering. Med nedrulln
 
 Listrutor är ett praktiskt sätt att konsolidera projekt och paneler. Om du till exempel har flera versioner av ett projekt som innehåller landsspecifik rapportering kan du nu komprimera dessa projekt till ett enda projekt och lägga till i en listruta där användarna kan växla mellan.
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/panels.html?lang=en).
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/panels.html?lang=sv-SE).

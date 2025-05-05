@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Skapa en innehållsförteckning i Analysis Workspace {#create-a-table-of-contents-in-analysis-workspace}
 
-Läs om Innehållsförteckningen i Analysis Workspace, som innehåller länkar som gör det möjligt för användare att snabbt gå till paneler och visualiseringar i projektet. Detaljerad dokumentation finns på [Projektinnehållsförteckning](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/build-workspace-project/project-table-of-contents).
+Läs om Innehållsförteckningen i Analysis Workspace, som innehåller länkar som gör det möjligt för användare att snabbt gå till paneler och visualiseringar i projektet. Detaljerad dokumentation finns på [Projektinnehållsförteckning](https://experienceleague.adobe.com/sv/docs/analytics/analyze/analysis-workspace/build-workspace-project/project-table-of-contents).
 
 >[!VIDEO](https://video.tv.adobe.com/v/26990/?quality=12&learn=on)

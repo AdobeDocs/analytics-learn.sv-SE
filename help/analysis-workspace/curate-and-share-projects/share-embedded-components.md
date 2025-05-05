@@ -22,4 +22,4 @@ Ibland vill du dela ett Analysis Workspace-projekt, men du glömmer att också d
 
 >[!VIDEO](https://video.tv.adobe.com/v/341273/?quality=12&learn=on)
 
-Mer information om den här funktionen finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/curate.html?lang=en).
+Mer information om den här funktionen finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/curate.html?lang=sv-SE).

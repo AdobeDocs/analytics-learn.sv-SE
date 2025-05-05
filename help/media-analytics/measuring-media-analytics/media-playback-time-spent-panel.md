@@ -21,4 +21,4 @@ Med Media Playback Time Spent Panel (Spent-tid för mediauppspelning) kan mediaa
 
 >[!VIDEO](https://video.tv.adobe.com/v/338699/?quality=12&learn=on)
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/media-analytics/using/media-reports/media-playback-time-spent.html).
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/media-analytics/using/media-reports/media-playback-time-spent.html?lang=sv-SE).

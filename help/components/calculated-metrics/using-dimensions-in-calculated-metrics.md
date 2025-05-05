@@ -21,4 +21,4 @@ Dimensioner är tillgängliga i verktyget för beräknade mått och kan läggas 
 
 Den här funktionen effektiviserar arbetsflödet för att skapa och använda segment inom beräknade värden.
 
-Mer information om den här funktionen finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetric-workflow/cm-build-metrics.html?lang=en).
+Mer information om den här funktionen finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetric-workflow/cm-build-metrics.html?lang=sv-SE).

@@ -20,4 +20,4 @@ Vill du veta vilka produkter som säljer bäst? Lär dig några av de viktigaste
 
 >[!VIDEO](https://video.tv.adobe.com/v/334096/?quality=12&learn=on)
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/data-workbench/using/dashboard/visualizations/visualization-types/c-visualization-types.html?lang=en).
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/data-workbench/using/dashboard/visualizations/visualization-types/c-visualization-types.html?lang=sv-SE).

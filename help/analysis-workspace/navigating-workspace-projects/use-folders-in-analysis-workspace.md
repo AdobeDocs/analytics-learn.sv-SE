@@ -22,4 +22,4 @@ Lär dig hur du ordnar projekt i mappar och undermappar i Analysis Workspace.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3413167/?quality=12&learn=on)
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/workspace-folders/about-folders.html).
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/workspace-folders/about-folders.html?lang=sv-SE).

@@ -23,4 +23,4 @@ Inställningen för rullande beräkning inom [!UICONTROL Cohort Tables] kan anv�
 
 >[!VIDEO](https://video.tv.adobe.com/v/25962/?quality=12&learn=on)
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=en).
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=sv-SE).

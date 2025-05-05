@@ -65,7 +65,7 @@ Utbildningssjälvstudiekursen för [!UICONTROL Analysis Workspace] leder använd
 
 ## Panelen [!UICONTROL Quick insights]
 
-[[!UICONTROL Quick insights]](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/quickinsight.html?lang=en) ger vägledning för icke-analytiker och nya användare av Analysis Workspace så att de snabbt och enkelt kan besvara affärsfrågor. Det är också ett bra verktyg för avancerade användare som snabbt och enkelt vill besvara en enkel fråga utan att själva behöva skapa en tabell.
+[[!UICONTROL Quick insights]](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/quickinsight.html?lang=sv-SE) ger vägledning för icke-analytiker och nya användare av Analysis Workspace så att de snabbt och enkelt kan besvara affärsfrågor. Det är också ett bra verktyg för avancerade användare som snabbt och enkelt vill besvara en enkel fråga utan att själva behöva skapa en tabell.
 
 ## Använd [!UICONTROL Descriptions] på dina variabler
 
@@ -95,4 +95,4 @@ Använd anteckningar för att skapa dokumentationsreferenser för lösningar i p
 
 Använd rapporterings-API:t för att flytta standardrapporter från [!UICONTROL Workspace] till schemalagda rapporter och instrumentpaneler. Utnyttja dessutom [!UICONTROL Analysis Workspace] för att skapa API-begäranden.
 
-Läs mer om strategi och tankeledarskap på navet [Nöjda kunder](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html).
+Läs mer om strategi och tankeledarskap på navet [Nöjda kunder](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html?lang=sv-SE).

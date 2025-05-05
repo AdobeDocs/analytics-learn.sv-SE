@@ -90,4 +90,4 @@ Kurser som kursupplevelser per roll och kunskapsnivå finns också i kursavsnitt
 
 ## Ytterligare resurser
 
-[Adobe Analytics-dokumentation](https://experienceleague.adobe.com/docs/analytics.html)
+[Adobe Analytics-dokumentation](https://experienceleague.adobe.com/docs/analytics.html?lang=sv-SE)

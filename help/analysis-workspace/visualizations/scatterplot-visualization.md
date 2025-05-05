@@ -20,4 +20,4 @@ Med den här visualiseringen kan du se förhållandet mellan flera mätvärden f
 
 >[!VIDEO](https://video.tv.adobe.com/v/334459/?quality=12&learn=on)
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/scatterplot.html?lang=en).
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/scatterplot.html?lang=sv-SE).

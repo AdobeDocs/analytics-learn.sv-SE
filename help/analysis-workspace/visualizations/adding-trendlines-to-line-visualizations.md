@@ -20,6 +20,6 @@ Under [!UICONTROL Visualization Settings] kan du välja att lägga till en regre
 
 >[!VIDEO](https://video.tv.adobe.com/v/330176/?quality=12&learn=on)
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/line.html?lang=en#analysis-workspace).
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/line.html?lang=sv-SE#analysis-workspace).
 
-Om du vill exportera glidande medelvärden eller vill lägga till många medelvärden i en tabell samtidigt, kan du skapa beräknade värden i stället. Läs mer i [den här videon](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/using-the-cumulative-average-function-to-apply-metric-smoothing.html#analysis-workspace).
+Om du vill exportera glidande medelvärden eller vill lägga till många medelvärden i en tabell samtidigt, kan du skapa beräknade värden i stället. Läs mer i [den här videon](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/using-the-cumulative-average-function-to-apply-metric-smoothing.html?lang=sv-SE#analysis-workspace).

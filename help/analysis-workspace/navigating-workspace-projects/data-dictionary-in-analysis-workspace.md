@@ -23,4 +23,4 @@ Lär dig mer om Data Dictionary i Analysis Workspace, som hjälper både använd
 
 >[!VIDEO](https://video.tv.adobe.com/v/3418028/?quality=12&learn=on)
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/data-dictionary/data-dictionary-overview.html?lang=en).
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/data-dictionary/data-dictionary-overview.html?lang=sv-SE).

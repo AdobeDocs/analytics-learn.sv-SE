@@ -59,7 +59,7 @@ Läs mer om:
 
 ### [!DNL Cross-Device Virtual Report Suite]
 
-CDA presenteras via en särskild typ av korsenhet [[!UICONTROL Virtual Report Suite]](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-about.html). På så sätt kan ni fortsätta att använda den ursprungliga enhetsbaserade rapportsviten när ni lägger in enhetsövergripande analyser i organisationen. Det är enkelt att konfigurera ett CDA VRS.
+CDA presenteras via en särskild typ av korsenhet [[!UICONTROL Virtual Report Suite]](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-about.html?lang=sv-SE). På så sätt kan ni fortsätta att använda den ursprungliga enhetsbaserade rapportsviten när ni lägger in enhetsövergripande analyser i organisationen. Det är enkelt att konfigurera ett CDA VRS.
 
 I steg ett av VRS-byggaren väljer du [!UICONTROL report suite] som har konfigurerats av Adobe som CDA-aktiverat:
 
@@ -96,10 +96,10 @@ Det är möjligt att Isabelle inte loggade in förrän precis innan köpet gjord
 
 ## Krav för [!UICONTROL Cross-Device Analytics]
 
-CDA ingår i [[!DNL Analytics Ultimate]](https://helpx.adobe.com/legal/product-descriptions/adobe-analytics.html). Från och med september 2019 är [!DNL Analytics Ultimate] kunder som uppfyller villkoren nedan berättigade att använda CDA. Kraven för CDA är följande:
+CDA ingår i [[!DNL Analytics Ultimate]](https://helpx.adobe.com/se/legal/product-descriptions/adobe-analytics.html). Från och med september 2019 är [!DNL Analytics Ultimate] kunder som uppfyller villkoren nedan berättigade att använda CDA. Kraven för CDA är följande:
 
 * Ditt företag måste använda [!DNL Adobe Experience Platform Identity Service Device Graph].
-* Du måste implementera allt som krävs för [!DNL Device Graph], inklusive [Experience Cloud ID (ECID)](https://experienceleague.adobe.com/docs/id-service/using/home.html) och ID-synkronisering med diagrammet.
+* Du måste implementera allt som krävs för [!DNL Device Graph], inklusive [Experience Cloud ID (ECID)](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=sv-SE) och ID-synkronisering med diagrammet.
 * Det går för närvarande inte att använda två IMS-organ med en [!DNL Device Graph], så du måste standardisera med en enda IMS-organisation.
 * [!DNL Device Graph] och vissa komponenter i CDA finns i [!DNL Microsoft Azure]. Det innebär att [!DNL Analytics] data kopieras fram och tillbaka mellan Adobe databehandlingscenter och Adobe presence i [!DNL Microsoft Azure]. Vissa [!DNL Analytics]-data lagras i [!DNL Azure]. Ditt företag måste godkänna detta avtal.
 * CDA kräver en enhet mellan enheter [!UICONTROL report suite]. Det innebär att [!UICONTROL report suite] som du använder för CDA måste innehålla data från flera olika enhetstyper eller&quot;ytor&quot;, till exempel datorwebben, mobilwebben och mobilappar. Från och med september 2019 måste serveranropsvolymen för [!UICONTROL report suite] vara 100 MM serveranrop/dag eller mindre. (Gränserna för antalet samtal på servern kommer att öka under de närmaste månaderna.)
@@ -113,7 +113,7 @@ I CDA [!UICONTROL Virtual Report Suite] ser du några ändringar. Måttet [!UICO
 *Personer och unika enheter*
 ![ CDA [!UICONTROL People Metric]](assets/cda-people-metric.png)
 
-I [[!UICONTROL Segment Builder]](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-build.html) har segmentbehållaren [!UICONTROL Visitor] ersatts av en [!UICONTROL Person] segmentbehållare. Med ett CDA VRS kan du skapa enhetsövergripande segment som:
+I [[!UICONTROL Segment Builder]](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-build.html?lang=sv-SE) har segmentbehållaren [!UICONTROL Visitor] ersatts av en [!UICONTROL Person] segmentbehållare. Med ett CDA VRS kan du skapa enhetsövergripande segment som:
 
 * Personer som använder mer än en enhet
 * Personer som påbörjar sin resa på en mobil enhet och sedan köper den på en stationär enhet
@@ -135,21 +135,21 @@ kommer nu att finnas kvar automatiskt från en enhet till en annan tills köphä
 
 ### Personbaserad målgruppsanalys
 
-Har du någonsin undrat hur många som interagerar med ert varumärke? Har du velat förstå hur många och vilka typer av enheter de använder? Hur överlappar användningen dem? Med ett CDA VRS kan du skapa [Venndiagram](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/venn.html) för olika enheter och [histogram](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/histogram.html) per person.
+Har du någonsin undrat hur många som interagerar med ert varumärke? Har du velat förstå hur många och vilka typer av enheter de använder? Hur överlappar användningen dem? Med ett CDA VRS kan du skapa [Venndiagram](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/venn.html?lang=sv-SE) för olika enheter och [histogram](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/histogram.html?lang=sv-SE) per person.
 
 *Personbaserad målgruppsanalys*
 ![ Venndiagram och histogram ](assets/cda-venn-and-histogram.png)
 
 ### Enhetsövergripande [!DNL Flow]
 
-Med CDA och Analysis Workspace kan du visualisera hur personer flyttar från en enhet till en annan över tid i [[!DNL Flow visualization]](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/flow/flow.html). Du kan se var de lämnar sin resa och var de fortsätter.
+Med CDA och Analysis Workspace kan du visualisera hur personer flyttar från en enhet till en annan över tid i [[!DNL Flow visualization]](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/flow/flow.html?lang=sv-SE). Du kan se var de lämnar sin resa och var de fortsätter.
 
 *[!DNL Flow]med CDA*
 ![[!DNL Flow Visualization]](assets/cda-flow-viz.png)
 
 ### Enhetsövergripande [!DNL Fallout]
 
-Du använder antagligen flera [[!DNL Fallout visualizations]](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow.html) för att analysera hur väl användarna klarar det genom en given serie steg innan de lyckas. Visste du att din vy av dessa [!DNL Fallout visualizations] är begränsad när du använder traditionell enhetsbaserad analys? För att lyckas med genomgången måste nästa steg göras i samma webbläsare eller app som föregående steg. I enhetsbaserad analys är ni blinda för personer som lyckats slutföra nästa steg på en annan enhet.
+Du använder antagligen flera [[!DNL Fallout visualizations]](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow.html?lang=sv-SE) för att analysera hur väl användarna klarar det genom en given serie steg innan de lyckas. Visste du att din vy av dessa [!DNL Fallout visualizations] är begränsad när du använder traditionell enhetsbaserad analys? För att lyckas med genomgången måste nästa steg göras i samma webbläsare eller app som föregående steg. I enhetsbaserad analys är ni blinda för personer som lyckats slutföra nästa steg på en annan enhet.
 
 Oroa dig inte, CDA har er täckt. CDA skapar vyn för olika enheter som gör [!DNL Fallout visualizations] mycket, mycket mer användbar. Det som verkligen betyder något är om personen till slut lyckades med sin uppgift någonstans.
 
@@ -158,11 +158,11 @@ Oroa dig inte, CDA har er täckt. CDA skapar vyn för olika enheter som gör [!D
 
 ### [!DNL Cross-Device Attribution IQ]
 
-Eftersom CDA skapar ett lager med data mellan olika enheter under Analysis Workspace, kommer all analys att smakas med ett perspektiv mellan olika enheter. Ett kraftfullt exempel är genom [[!DNL Attribution IQ]](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/attribution/attribution.html). I [!DNL Attribution IQ] i Analysis Workspace kan du jämföra flera attribueringsmodeller sida vid sida. Genom att använda den här funktionen med CDA kan du nu jämföra hur olika enheter bidrar till framgång.
+Eftersom CDA skapar ett lager med data mellan olika enheter under Analysis Workspace, kommer all analys att smakas med ett perspektiv mellan olika enheter. Ett kraftfullt exempel är genom [[!DNL Attribution IQ]](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/attribution/attribution.html?lang=sv-SE). I [!DNL Attribution IQ] i Analysis Workspace kan du jämföra flera attribueringsmodeller sida vid sida. Genom att använda den här funktionen med CDA kan du nu jämföra hur olika enheter bidrar till framgång.
 
 Anta till exempel att du vill förstå hur ofta en mobiltelefon är den första enheten som används i en interaktion som leder till framgång. Detta representerar mobiltelefonens&quot;förvärvsfrekvens&quot;. Med CDA + [!DNL Attribution IQ] kan du göra den här analysen:
 
 *[!DNL Attribution IQ]med CDA*
 ![[!DNL Attribution IQ]](assets/cda-attribution-iq.png)
 
-Mer information finns i [[!DNL Cross-Device Analytics] hjälpdokumentationen](https://experienceleague.adobe.com/docs/analytics/components/cda/cda-home.html).
+Mer information finns i [[!DNL Cross-Device Analytics] hjälpdokumentationen](https://experienceleague.adobe.com/docs/analytics/components/cda/cda-home.html?lang=sv-SE).

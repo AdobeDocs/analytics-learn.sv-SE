@@ -22,4 +22,4 @@ I den här videon får du lära dig hur du konfigurerar inställningar som styr 
 
 >[!VIDEO](https://video.tv.adobe.com/v/333042/?quality=12&learn=on)
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/finding-methods.html).
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/finding-methods.html?lang=sv-SE).

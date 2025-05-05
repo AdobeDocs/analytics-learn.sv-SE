@@ -19,4 +19,4 @@ I den här videon får du lära dig om [!UICONTROL dimensions] och [!UICONTROL m
 
 >[!VIDEO](https://video.tv.adobe.com/v/30606/?quality=12&learn=on)
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/analysis-workspace-components.html).
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/analysis-workspace-components.html?lang=sv-SE).

@@ -24,4 +24,4 @@ I den här videon visas hur du jämför viktiga arbetsflöden mellan olika segme
 
 >[!VIDEO](https://video.tv.adobe.com/v/24046/?quality=12&learn=on)
 
-Mer information om den här funktionen finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/compare-segments-fallout.html?lang=en).
+Mer information om den här funktionen finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/compare-segments-fallout.html?lang=sv-SE).

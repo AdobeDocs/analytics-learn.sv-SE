@@ -20,4 +20,4 @@ Förstå olika typer av trafikvariabler och hur de används i Adobe Analytics, i
 
 >[!VIDEO](https://video.tv.adobe.com/v/28767/?quality=12&learn=on)
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/components/dimensions/prop.html).
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/components/dimensions/prop.html?lang=sv-SE).

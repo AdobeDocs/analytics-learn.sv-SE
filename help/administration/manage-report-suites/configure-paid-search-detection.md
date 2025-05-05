@@ -22,4 +22,4 @@ Lär dig hur du går igenom konfigurationen av avsnittet Betalsökningsidentifie
 
 >[!VIDEO](https://video.tv.adobe.com/v/339302/?quality=12&learn=on)
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/paid-search-detection/paid-search-detection.html?lang=en#section_0C2CFA0AF77B47098BE37CB024665D0D).
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/paid-search-detection/paid-search-detection.html?lang=sv-SE#section_0C2CFA0AF77B47098BE37CB024665D0D).

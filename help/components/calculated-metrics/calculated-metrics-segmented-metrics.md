@@ -19,4 +19,4 @@ Lär dig hur du skapar beräknade mätvärden baserat på segment, så att du ef
 
 >[!VIDEO](https://video.tv.adobe.com/v/25409/?quality=12&learn=on)
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetric-workflow/metrics-with-segments.html).
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetric-workflow/metrics-with-segments.html?lang=sv-SE).

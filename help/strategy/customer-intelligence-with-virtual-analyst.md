@@ -59,7 +59,7 @@ När det gäller en framgångsrik strategi för kundanalys måste vi gå igenom 
 
 ### Utnyttja er virtuella analytiker
 
-Tänk på [Virtual Analyst](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/overview.html?lang=en) som rockstjärnsanalytiker som:
+Tänk på [Virtual Analyst](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/overview.html?lang=sv-SE) som rockstjärnsanalytiker som:
 
 * Lämna aldrig kontoret och behöver inte
 * Talar om vem, när, var, varför och så.
@@ -84,28 +84,28 @@ Den virtuella analytikern avslöjade följande scenarier för verkliga Adobe-kun
 
 ## Adobe Analytics
 
-[Analysidentifiering](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/anomaly-detection/anomaly-detection.html?lang=en):
+[Analysidentifiering](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/anomaly-detection/anomaly-detection.html?lang=sv-SE):
 
 * Använd inbyggda prediktiva algoritmer för att identifiera toppar och dalar i era data som ni inte visste fanns.
 * Använd 28 unika algoritmer för att identifiera avvikelser, bland annat säsongsvariationer, tillväxt och cykliska modeller samt semesterjustering.
 * Minska beroendet av datavetare och frigöra medborgardatavetare.
 
-[Bidragsanalys](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/contribution-analysis/ca-tokens.html?lang=en):
+[Bidragsanalys](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/contribution-analysis/ca-tokens.html?lang=sv-SE):
 
 * Identifiera snabbt bidragande faktorer som har orsakat betydande förändringar i era data.
 * Spara massor av timmar på att söka efter förklaringar till förändringar i mätvärden.
 * Utnyttja kraftfull maskininlärning som utformats för att omvandla analytiker och marknadsförare till datavetare.
 
-[Intelligenta aviseringar](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/intelligent-alerts/intellligent-alerts.html?lang=en):
+[Intelligenta aviseringar](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/intelligent-alerts/intellligent-alerts.html?lang=sv-SE):
 
 Håll dig informerad om dataavvikelser hela tiden - oavsett om du är på kontoret eller på resande fot
 
 * Skapa aviseringar direkt från Analysis Workspace
 * Basregler för avvikelser (90 %, 95 %, 99 %), % förändring och över/under
 * Använd [!UICONTROL Alert Preview] för att se hur ofta en varning skulle ha utlösts
-* Utnyttja stödet för SMS och e-post med länkar till autogenererade [Analysis Workspace](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/home.html?lang=en)-projekt
+* Utnyttja stödet för SMS och e-post med länkar till autogenererade [Analysis Workspace](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/home.html?lang=sv-SE)-projekt
 
-[Segment-IQ](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/segment-iq.html?lang=en):
+[Segment-IQ](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/segment-iq.html?lang=sv-SE):
 
 * Upptäck skillnaderna och överlappningarna mellan era segment för att informera er segmenteringsstrategi
 * Identifiera viktiga egenskaper hos de målgruppssegment som driver era nyckeltal
@@ -126,4 +126,4 @@ Håll dig informerad om dataavvikelser hela tiden - oavsett om du är på kontor
 
 Titta på vårt [webbinarium](https://adobecustomersuccess.adobeconnect.com/pmetho6ivh68/) om du vill ha mer information.
 
-Läs mer om strategi och tankeledarskap på navet [Nöjda kunder](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html).
+Läs mer om strategi och tankeledarskap på navet [Nöjda kunder](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html?lang=sv-SE).

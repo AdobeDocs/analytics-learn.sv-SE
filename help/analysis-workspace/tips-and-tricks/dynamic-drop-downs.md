@@ -22,4 +22,4 @@ Lär dig hur du skapar nedrullningsbara filter som baseras på en hel dimension.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420315/?learn=on)
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/panels.html#dynamic-drop-down-filters).
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/panels.html?lang=sv-SE#dynamic-drop-down-filters).

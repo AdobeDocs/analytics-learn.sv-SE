@@ -20,4 +20,4 @@ Lär dig hur du lägger till och konfigurerar Treemap-visualiseringen i ditt Ana
 
 >[!VIDEO](https://video.tv.adobe.com/v/334458/?quality=12&learn=on)
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/treemap.html?lang=en).
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/treemap.html?lang=sv-SE).

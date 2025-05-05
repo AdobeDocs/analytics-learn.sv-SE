@@ -47,7 +47,7 @@ Låt mig gå igenom de tre kontrollpaneler jag skapade för mitt företag, GenDi
 
 Trött på den oändliga slingan med upprepade svar? Stanna! Spara tid genom att skapa en FAQ-kontrollpanel. Användarna kan läsa den innan de tillfrågas, eller så kan du snabbt länka till den i dina svar.
 
-Skapa bara [textvisualiseringar](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/text.html) med frågor formaterade som titlar och svar/förklaringar som innehåll, som alla är komprimerade så att bara frågan visas. Gruppera dem efter relevans (t.ex. sidor eller produkter) eller använd paneler. Gör det enkelt och prioritera vanliga frågor högst upp.
+Skapa bara [textvisualiseringar](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/text.html?lang=sv-SE) med frågor formaterade som titlar och svar/förklaringar som innehåll, som alla är komprimerade så att bara frågan visas. Gruppera dem efter relevans (t.ex. sidor eller produkter) eller använd paneler. Gör det enkelt och prioritera vanliga frågor högst upp.
 
 I stället för att skriva långa e-postmeddelanden eller återupptäcka gamla förklaringar kan du uppdatera kontrollpanelen med vanliga frågor. Börja nu och utöka över tid. Använd hyperlänkar för att referera till andra instrumentpaneler eller relaterade frågor och svar i rapporter. Skapa komplexa sammanhang vid behov genom att länka från andra kontrollpaneler till vanliga frågor och svar.
 

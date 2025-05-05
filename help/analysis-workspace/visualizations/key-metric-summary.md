@@ -21,4 +21,4 @@ Lär dig mer om den viktiga mätningssammanfattningen i Analysis Workspace, där
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410003/?quality=12&learn=on)
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/key-metric.html?lang=en)
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/key-metric.html?lang=sv-SE)

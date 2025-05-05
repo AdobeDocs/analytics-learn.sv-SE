@@ -21,4 +21,4 @@ I den här videon går vi igenom konfigurationen av trafikvariabler, som ofta ka
 
 >[!VIDEO](https://video.tv.adobe.com/v/339441/?quality=12&learn=on)
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/traffic-variables/traffic-var.html?lang=en).
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/traffic-variables/traffic-var.html?lang=sv-SE).

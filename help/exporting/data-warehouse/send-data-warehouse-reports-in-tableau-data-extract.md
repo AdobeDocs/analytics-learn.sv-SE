@@ -22,4 +22,4 @@ Lär dig hur [!DNL Data Warehouse] kan leverera rapporter i TDE-filformat (Table
 
 >[!VIDEO](https://video.tv.adobe.com/v/341449/?quality=12&learn=on)
 
-Mer information om den här funktionen finns i [dokumentationen](https://experienceleague.adobe.com/en/docs/analytics/export/data-warehouse/t-tableau).
+Mer information om den här funktionen finns i [dokumentationen](https://experienceleague.adobe.com/sv/docs/analytics/export/data-warehouse/t-tableau).

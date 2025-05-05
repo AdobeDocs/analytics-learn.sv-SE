@@ -20,4 +20,4 @@ I den här videon får du lära dig hur du sparar och exporterar projekt åt dig
 
 >[!VIDEO](https://video.tv.adobe.com/v/30993/?quality=12&learn=on)
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/send-schedule-files.html).
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/send-schedule-files.html?lang=sv-SE).

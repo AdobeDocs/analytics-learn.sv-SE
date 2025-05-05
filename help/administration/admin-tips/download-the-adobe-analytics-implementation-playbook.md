@@ -101,7 +101,7 @@ Vi rekommenderar att du håller det här dokumentet så enkelt som möjligt och 
 >
 >Skapa en webbplatsens namn/egenskapsdimension i Adobe Analytics. Med en dedikerad dimension (vanligtvis en eVar) i Adobe Analytics som identifierar platsnamnet/appnamnet kan du segmentera, felsöka, skapa virtuella rapportsviter osv. Fördelarna är oändliga, särskilt när du kombinerar flera webbplatser i en (global) rapportserie. Nyckeln är att se till att utvecklingsgruppen alltid anger det här värdet i egenskapsdimensionen, inklusive alla sidinläsningar (s.t-anrop/trackState) och alla anpassade händelser (s.tl-anrop/trackAction). Bearbetningsregler kan vara ett värdefullt verktyg som hjälper dig att ange dessa värden på ett korrekt och konsekvent sätt.
 
-[Titta på den här videon av Doug Moore](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-a-business-requirements-document.html){target="_blank"} om du vill ha mer information om hur du fyller i implementeringens spelningsbok.
+[Titta på den här videon av Doug Moore](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-a-business-requirements-document.html?lang=sv-SE){target="_blank"} om du vill ha mer information om hur du fyller i implementeringens spelningsbok.
 
 ## Författare
 

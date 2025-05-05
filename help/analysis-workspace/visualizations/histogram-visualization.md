@@ -20,4 +20,4 @@ Med [!UICONTROL Histograms] kan du visualisera fördelningen av ett mätvärde m
 
 >[!VIDEO](https://video.tv.adobe.com/v/23725/?quality=12&learn=on)
 
-Mer information om den här funktionen finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/histogram.html?lang=en).
+Mer information om den här funktionen finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/histogram.html?lang=sv-SE).

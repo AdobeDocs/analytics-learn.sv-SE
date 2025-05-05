@@ -25,4 +25,4 @@ Lär dig hur du lägger till [!UICONTROL anomaly detection] [!UICONTROL metrics]
 
 I [!UICONTROL Report Builder] kan du returnera [!UICONTROL metric] verkliga värden, tillsammans med förväntade värden och övre och nedre gränser, för att ge mer djup åt de data som du analyserar och delar.
 
-Mer information om den här funktionen finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/anomaly-detection/statistics-anomaly-detection.html?lang=en).
+Mer information om den här funktionen finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/anomaly-detection/statistics-anomaly-detection.html?lang=sv-SE).

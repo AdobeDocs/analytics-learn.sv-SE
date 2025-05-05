@@ -24,6 +24,6 @@ I den här videon går vi igenom hur vi konfigurerar bearbetningsregler för mar
 
 >[!NOTE]
 >
->För att maximera effekten av marknadsföringskanaler för Attribution IQ och Customer Journey Analytics har vi publicerat [reviderade bästa praxis](https://experienceleague.adobe.com/docs/analytics/components/marketing-channels/mchannel-best-practices.html?lang=en).
+>För att maximera effekten av marknadsföringskanaler för Attribution IQ och Customer Journey Analytics har vi publicerat [reviderade bästa praxis](https://experienceleague.adobe.com/docs/analytics/components/marketing-channels/mchannel-best-practices.html?lang=sv-SE).
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/marketing-channels/c-rules.html?lang=en).
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/marketing-channels/c-rules.html?lang=sv-SE).

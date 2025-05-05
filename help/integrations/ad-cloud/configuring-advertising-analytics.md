@@ -23,4 +23,4 @@ Få en översikt över hur du konfigurerar [!UICONTROL report suites] att använ
 
 ## Ytterligare material {#additional-resources}
 
-Mer information finns i [funktionsdokumentationen](https://experienceleague.adobe.com/docs/analytics/integration/advertising-analytics/overview.html)
+Mer information finns i [funktionsdokumentationen](https://experienceleague.adobe.com/docs/analytics/integration/advertising-analytics/overview.html?lang=sv-SE)

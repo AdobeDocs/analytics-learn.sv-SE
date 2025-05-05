@@ -51,7 +51,7 @@ En vanlig grundläggande utbildningssession täcker förstås inte in alla fråg
 * Se till att du även spelar in dessa sessioner och gör dem tillgängliga en i taget när du skapar det nya innehållet.
 * Ibland när implementeringen växer och utvecklas kan du behöva uppdatera dina utbildningstillfällen för att hålla innehållet aktuellt.
 * Beroende på hur implementeringen och organisationen är uppbyggd kan det vara relevant att skapa utbildningstillfällen som riktar sig till en viss avdelning eller grupp: dvs. att ge en IT-avdelning utbildning i webbläsaranvändning och operativsystemsanvändning, visa varningar om webbplatsens tillgänglighet jämfört med att ge en marknadsföringsavdelning utbildning runt hänvisare, marknadsföringskanaler och de flesta besökta innehållssidorna.
-* Du behöver inte skapa allt innehåll själv. Adobe har utmärkta kostnadsfria utbildningsvägar och ytterligare utbildningsmaterial som du kan erbjuda dina användare i [Adobe Experience League](https://experienceleague.adobe.com/docs/analytics.html?lang=en).
+* Du behöver inte skapa allt innehåll själv. Adobe har utmärkta kostnadsfria utbildningsvägar och ytterligare utbildningsmaterial som du kan erbjuda dina användare i [Adobe Experience League](https://experienceleague.adobe.com/docs/analytics.html?lang=sv-SE).
 
 
 

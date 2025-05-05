@@ -22,4 +22,4 @@ I den här videon går vi igenom konfigurationen av klassificeringar för konver
 
 >[!VIDEO](https://video.tv.adobe.com/v/340078/?quality=12&learn=on)
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/conversion-variables/conversion-classifications.html).
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/conversion-variables/conversion-classifications.html?lang=sv-SE).

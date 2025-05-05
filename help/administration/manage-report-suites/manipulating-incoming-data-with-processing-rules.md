@@ -21,4 +21,4 @@ Det kan vara mycket användbart att kunna hantera de data som kommer in i era ra
 
 >[!VIDEO](https://video.tv.adobe.com/v/339440/?quality=12&learn=on)
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/processing-rules/processing-rules.html?lang=en).
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/processing-rules/processing-rules.html?lang=sv-SE).

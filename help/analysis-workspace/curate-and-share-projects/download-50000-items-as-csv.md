@@ -24,4 +24,4 @@ Med alternativet Hämta objekt som CSV kan du hämta upp till 50 000 objekt för
 
 >[!VIDEO](https://video.tv.adobe.com/v/40385/?quality=12&learn=on)
 
-Läs mer i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/download-send.html)
+Läs mer i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/download-send.html?lang=sv-SE)

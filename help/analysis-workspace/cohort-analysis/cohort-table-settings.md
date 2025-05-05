@@ -31,4 +31,4 @@ Anpassningar för [!UICONTROL Cohort Table] inkluderar möjligheten att
 
 De genomsnittliga raderna är idealiska för att visa [!UICONTROL retention] eller [!UICONTROL churn] generellt, i stället för enskilda [!UICONTROL cohort] rader.
 
-Mer information om [!UICONTROL cohort]-analys finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/t-cohort.html?lang=en).
+Mer information om [!UICONTROL cohort]-analys finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/t-cohort.html?lang=sv-SE).

@@ -20,4 +20,4 @@ Att förstå de verkliga skillnaderna mellan marknadsföringssegment har alltid 
 
 >[!VIDEO](https://video.tv.adobe.com/v/23976/?quality=12&learn=on)
 
-Mer information om den här funktionen finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/segment-comparison/segment-comparison.html?lang=en).
+Mer information om den här funktionen finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/segment-comparison/segment-comparison.html?lang=sv-SE).

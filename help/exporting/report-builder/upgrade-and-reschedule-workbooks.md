@@ -19,4 +19,4 @@ Lär dig hur du uppgraderar och schemalägger om äldre [!DNL Report Builder]-ar
 
 >[!VIDEO](https://video.tv.adobe.com/v/3434957/?quality=12&learn=on)
 
-Mer information om den här funktionen finns i [dokumentationen](https://experienceleague.adobe.com/en/docs/analytics/analyze/report-builder/home).
+Mer information om den här funktionen finns i [dokumentationen](https://experienceleague.adobe.com/sv/docs/analytics/analyze/report-builder/home).

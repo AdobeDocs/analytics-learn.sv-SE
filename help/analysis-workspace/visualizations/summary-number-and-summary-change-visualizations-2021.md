@@ -20,4 +20,4 @@ I den här videon går du igenom hur du lägger till och konfigurerar visualiser
 
 >[!VIDEO](https://video.tv.adobe.com/v/335564/?quality=12&learn=on)
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/summary-number-change.html).
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/summary-number-change.html?lang=sv-SE).

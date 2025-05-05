@@ -267,7 +267,7 @@ Jag vill emellertid betona att jag skulle rekommendera att använda både Adobe 
 
 Du har tillgång till många resurser utöver den här guiden som kan förbättra din strategi:
 
-* [Adobe Experience League](https://experienceleague.adobe.com/#home) - Innehåller självstudiekurser, videor, dokumentation och communityforum
+* [Adobe Experience League](https://experienceleague.adobe.com/sv#home) - Innehåller självstudiekurser, videor, dokumentation och communityforum
 * [Adobe-användargrupper](https://analytics-augs.adobe.com/) - Ett nav med communityaktiviteter som hjälper användare att ansluta till varandra och förbättra sina implementeringar.
 * [Adobe Analytics-användargrupper YouTube Channel](https://www.youtube.com/channel/UCQOHnCs7KZgsuFHVzwboQuA) - Kunde inte skapa en Adobe Analytics-användargruppsession? Titta på sessioner med tidigare användargrupper över hela världen för att lära dig mer om hur andra använder verktyget.
 * [Mät Chat Slack channel](https://www.measure.chat/) - Kommunicera med Adobe Analytics-användare över hela världen och dela branschinformation, ställa frågor till kollegor och delta i mät intressegrupper.

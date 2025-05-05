@@ -19,4 +19,4 @@ Lär dig hur du använder funktioner för att skapa beräknade värden i Analysi
 
 >[!VIDEO](https://video.tv.adobe.com/v/25408/?quality=12&learn=on)
 
-Mer information om hur du använder funktionerna [basic](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetrics-reference/cm-functions.html) och [advanced](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetrics-reference/cm-adv-functions.html) när du skapar beräknade värden finns i dokumentationen.
+Mer information om hur du använder funktionerna [basic](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetrics-reference/cm-functions.html?lang=sv-SE) och [advanced](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetrics-reference/cm-adv-functions.html?lang=sv-SE) när du skapar beräknade värden finns i dokumentationen.

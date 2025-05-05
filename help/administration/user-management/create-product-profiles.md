@@ -23,4 +23,4 @@ Skapa Analytics-produktprofiler på Experience Cloud Admin Console för att hant
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428986/?learn=on)
 
-Läs mer genom att gå till [dokumentationen](https://experienceleague.adobe.com/en/docs/analytics/admin/admin-console/permissions/product-profile).
+Läs mer genom att gå till [dokumentationen](https://experienceleague.adobe.com/sv/docs/analytics/admin/admin-console/permissions/product-profile).

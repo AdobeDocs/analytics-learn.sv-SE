@@ -23,4 +23,4 @@ I den här videon får du lära dig hur du använder byggstenarna i ditt Analysi
 
 >[!VIDEO](https://video.tv.adobe.com/v/30369/?quality=12&learn=on)
 
-Mer information finns i dokumentationen för [paneler](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/panels.html) och [visualiseringar](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/freeform-analysis-visualizations.html).
+Mer information finns i dokumentationen för [paneler](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/panels.html?lang=sv-SE) och [visualiseringar](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/freeform-analysis-visualizations.html?lang=sv-SE).

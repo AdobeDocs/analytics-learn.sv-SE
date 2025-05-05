@@ -22,4 +22,4 @@ När du konfigurerar Adobe Analytics kan konfigureringen av inställningarna på
 
 >[!VIDEO](https://video.tv.adobe.com/v/332330/?quality=12&learn=on)
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/general-acct-settings-admin.html?lang=en#admin-tools).
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/general-acct-settings-admin.html?lang=sv-SE#admin-tools).

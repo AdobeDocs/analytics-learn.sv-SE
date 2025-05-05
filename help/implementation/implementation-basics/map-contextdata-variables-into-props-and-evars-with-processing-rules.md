@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # Mappa contextData-variabler till utkast och eVars med bearbetningsregler {#map-contextdata-variables-into-props-and-evars-with-processing-rules}
 
-När du använder [!DNL contextData]-variabler i din Adobe Analytics-implementering måste du mappa [!DNL contextData]-variablerna till [!DNL props/eVars] i [!UICONTROL Processing Rules]-gränssnittet för att dina data ska visas i de faktiska rapporterna. Den här videon visar hur du gör det här. Mer information finns i [Översikt över bearbetningsregler](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/report-suite-general/c-processing-rules/processing-rules.html).
+När du använder [!DNL contextData]-variabler i din Adobe Analytics-implementering måste du mappa [!DNL contextData]-variablerna till [!DNL props/eVars] i [!UICONTROL Processing Rules]-gränssnittet för att dina data ska visas i de faktiska rapporterna. Den här videon visar hur du gör det här. Mer information finns i [Översikt över bearbetningsregler](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/report-suite-general/c-processing-rules/processing-rules.html?lang=sv-SE).
 
 >[!IMPORTANT]
 >

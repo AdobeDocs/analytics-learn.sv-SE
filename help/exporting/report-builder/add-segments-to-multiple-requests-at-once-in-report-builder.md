@@ -21,4 +21,4 @@ I den här videon visas hur du kan använda [!UICONTROL Report Builder] för att
 
 >[!VIDEO](https://video.tv.adobe.com/v/25445/?quality=12&learn=on)
 
-Mer information om den här funktionen finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/home.html?lang=en).
+Mer information om den här funktionen finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/home.html?lang=sv-SE).

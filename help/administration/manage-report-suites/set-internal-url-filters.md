@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # Ange interna URL-filter
 
-I den här videon får du lära dig mer om inställningarna för referenter och ange dem som antingen interna referenter (för att ge anslutningsrapporter) eller externa referenter (för att ge behörighet till referenten/referensdomänrapporter). Detaljerad dokumentation finns på [Interna URL-filter](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/internal-url-filter-admin.html){target="_blank"}.
+I den här videon får du lära dig mer om inställningarna för referenter och ange dem som antingen interna referenter (för att ge anslutningsrapporter) eller externa referenter (för att ge behörighet till referenten/referensdomänrapporter). Detaljerad dokumentation finns på [Interna URL-filter](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/internal-url-filter-admin.html?lang=sv-SE){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/333043/?quality=12&learn=on)
 

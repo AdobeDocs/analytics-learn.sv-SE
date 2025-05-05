@@ -20,4 +20,4 @@ I den här videon får du lära dig hur du lägger till och konfigurerar Donut-v
 
 >[!VIDEO](https://video.tv.adobe.com/v/334309/?quality=12&learn=on)
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/donut.html?lang=en).
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/donut.html?lang=sv-SE).

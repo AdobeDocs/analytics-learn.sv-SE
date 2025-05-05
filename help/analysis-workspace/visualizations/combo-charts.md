@@ -20,4 +20,4 @@ Lär dig mer om visualisering av kombinationsdiagram i Analysis Workspace. Visua
 
 >[!VIDEO](https://video.tv.adobe.com/v/3409159/?quality=12&learn=on)
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/combo-charts.html).
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/combo-charts.html?lang=sv-SE).

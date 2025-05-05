@@ -24,4 +24,4 @@ Lär dig hur du konfigurerar rapporter för mobilappar i Adobe Analytics, inklus
 
 >[!VIDEO](https://video.tv.adobe.com/v/25961/?quality=12&learn=on)
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/mobile-services/using/get-started-ug/gs.html?lang=en).
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/mobile-services/using/get-started-ug/gs.html?lang=sv-SE).

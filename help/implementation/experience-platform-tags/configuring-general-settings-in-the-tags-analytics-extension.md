@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # Konfigurera allmänna inställningar för Analytics-tillägget i Experience Platform [!DNL tags]
 
-Lär dig mer om de allmänna konfigurationsalternativen för Analytics-tillägget i [!DNL tags], inklusive att ställa in spårningsservern. Mer detaljerad dokumentation finns i [Översikt över Adobe Analytics-tillägg](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/client/analytics/overview.html){target="_blank"}.
+Lär dig mer om de allmänna konfigurationsalternativen för Analytics-tillägget i [!DNL tags], inklusive att ställa in spårningsservern. Mer detaljerad dokumentation finns i [Översikt över Adobe Analytics-tillägg](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/client/analytics/overview.html?lang=sv-SE){target="_blank"}.
 
 >[!NOTE]
 >

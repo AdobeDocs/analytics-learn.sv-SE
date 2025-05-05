@@ -22,4 +22,4 @@ I den här videon går vi igenom konfigurationen av klassificeringar för trafik
 
 >[!VIDEO](https://video.tv.adobe.com/v/340024/?quality=12&learn=on)
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/traffic-variables/traffic-classifications.html?lang=en).
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/traffic-variables/traffic-classifications.html?lang=sv-SE).

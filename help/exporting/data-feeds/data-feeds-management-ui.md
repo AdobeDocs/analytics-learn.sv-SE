@@ -21,4 +21,4 @@ Med Adobe Analytics [!UICONTROL Data feed] kan du exportera råa klickströmsdat
 
 >[!VIDEO](https://video.tv.adobe.com/v/25452/?quality=12&learn=on)
 
-Mer information om den här funktionen finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/export/analytics-data-feed/df-manage-feeds.html?lang=en#).
+Mer information om den här funktionen finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/export/analytics-data-feed/df-manage-feeds.html?lang=sv-SE#).

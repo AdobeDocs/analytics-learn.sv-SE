@@ -24,5 +24,5 @@ I den här videon visas de olika högerklicksalternativen som är tillgängliga 
 
 >[!VIDEO](https://video.tv.adobe.com/v/24044/?quality=12&learn=on)
 
-Mer information om den här funktionen finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/flow/flow.html?lang=en#analysis-workspace).
+Mer information om den här funktionen finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/flow/flow.html?lang=sv-SE#analysis-workspace).
 

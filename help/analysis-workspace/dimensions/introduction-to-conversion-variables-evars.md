@@ -20,4 +20,4 @@ Läs om hur konverteringsvariabler, som också kallas [!DNL eVars], används i A
 
 >[!VIDEO](https://video.tv.adobe.com/v/28759/?quality=12&learn=on)
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/components/dimensions/evar.html).
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/components/dimensions/evar.html?lang=sv-SE).

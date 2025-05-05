@@ -21,4 +21,4 @@ Läs om hur våra verktyg för målning och tratt fungerar tillsammans för att 
 
 >[!VIDEO](https://video.tv.adobe.com/v/334095/?quality=12&learn=on)
 
-Mer information finns i dokumentationen för visualiseringar av typen [Utfall](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow.html?lang=en) och [Flöde](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/flow/flow.html?lang=en).
+Mer information finns i dokumentationen för visualiseringar av typen [Utfall](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow.html?lang=sv-SE) och [Flöde](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/flow/flow.html?lang=sv-SE).

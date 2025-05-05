@@ -22,4 +22,4 @@ När du har skapat ett projekt i Analysis Workspace kan du [!UICONTROL curate] (
 
 >[!VIDEO](https://video.tv.adobe.com/v/341021/?quality=12&learn=on)
 
-Mer information om den här funktionen finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/curate.html?lang=en).
+Mer information om den här funktionen finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/curate.html?lang=sv-SE).

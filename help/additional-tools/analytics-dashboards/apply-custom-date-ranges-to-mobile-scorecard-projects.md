@@ -22,4 +22,4 @@ I den här videon visas hur du hanterar olika alternativ för datumintervall nä
 
 >[!VIDEO](https://video.tv.adobe.com/v/332454/?quality=12&learn=on)
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/curator.html).
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/curator.html?lang=sv-SE).

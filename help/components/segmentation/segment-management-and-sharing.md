@@ -20,4 +20,4 @@ Du kan skapa bra segment, men varför behålla dem för dig själv? I den här v
 
 >[!VIDEO](https://video.tv.adobe.com/v/25402/?quality=12&learn=on)
 
-Mer information om den här funktionen finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-manage.html?lang=en).
+Mer information om den här funktionen finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-manage.html?lang=sv-SE).

@@ -26,4 +26,4 @@ Beräknade mätvärden har nu stöd för någon av tio regelbaserade attribuerin
 
 ## Ytterligare material {#additional-resources}
 
-Mer information om [!DNL Attribution IQ] finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/overview.html).
+Mer information om [!DNL Attribution IQ] finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/overview.html?lang=sv-SE).

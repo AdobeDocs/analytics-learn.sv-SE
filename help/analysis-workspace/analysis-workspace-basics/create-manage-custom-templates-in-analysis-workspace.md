@@ -23,5 +23,5 @@ Lär dig hur du använder färdiga mallar och skapar anpassade mallar i Analysis
 
 Analysis Workspace innehåller flera fördefinierade mallar som kan hjälpa dig att komma igång snabbt. Men ibland vill man också ha en egen mall. Lär dig hur du skapar ett projekt i en egen anpassad mall. Du kan hjälpa nya användare att komma igång, hitta dina favoritinstrumentpaneler/projekt eller dela din instrumentpanel mellan olika team.
 
-Mer information om standardmallar och anpassade mallar finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/starter-projects.html).
+Mer information om standardmallar och anpassade mallar finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/starter-projects.html?lang=sv-SE).
 

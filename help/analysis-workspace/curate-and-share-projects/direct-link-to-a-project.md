@@ -22,4 +22,4 @@ I den här videon visas hur du bättre kan demokratisera analyser genom att skap
 
 >[!VIDEO](https://video.tv.adobe.com/v/341027/?quality=12&learn=on)
 
-Mer information om den här funktionen finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/shareable-links.html?lang=en).
+Mer information om den här funktionen finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/shareable-links.html?lang=sv-SE).

@@ -21,4 +21,4 @@ Den här videon ger en konceptuell beskrivning av grundläggande besökarstatist
 
 >[!VIDEO](https://video.tv.adobe.com/v/336483/?quality=12&learn=on)
 
-Mer information finns i [Sidvyer](https://experienceleague.adobe.com/docs/analytics/components/metrics/page-views.html), [Besök](https://experienceleague.adobe.com/docs/analytics/components/metrics/visits.html) och [Unika besökare](https://experienceleague.adobe.com/docs/analytics/components/metrics/unique-visitors.html).
+Mer information finns i [Sidvyer](https://experienceleague.adobe.com/docs/analytics/components/metrics/page-views.html?lang=sv-SE), [Besök](https://experienceleague.adobe.com/docs/analytics/components/metrics/visits.html?lang=sv-SE) och [Unika besökare](https://experienceleague.adobe.com/docs/analytics/components/metrics/unique-visitors.html?lang=sv-SE).

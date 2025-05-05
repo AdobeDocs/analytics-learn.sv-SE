@@ -24,4 +24,4 @@ Med anpassade summeringsfönster kan du expandera attribueringsfönstret utanfö
 
 >[!VIDEO](https://video.tv.adobe.com/v/36204/?quality=12&learn=on)
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html#lookback-windows)
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=sv-SE#lookback-windows)

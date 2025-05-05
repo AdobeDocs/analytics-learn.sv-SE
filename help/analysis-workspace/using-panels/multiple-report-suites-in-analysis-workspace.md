@@ -29,4 +29,4 @@ Flera [!UICONTROL report suites] kan analyseras i ett enda [!DNL Workspace]-proj
 
 Data från flera [!UICONTROL report suites] kan inte kombineras i tabeller, [!UICONTROL segments] eller [!UICONTROL calculated metrics] (summerade, delade osv.). Den bästa metoden för en helhetssyn på data fortsätter att vara att skicka alla träffar till en&quot;global svit&quot;.
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/multiple-report-suites.html).
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/multiple-report-suites.html?lang=sv-SE).

@@ -20,4 +20,4 @@ I den här videon får du lära dig hur du lägger till Area- och Area Stached-v
 
 >[!VIDEO](https://video.tv.adobe.com/v/334261/?quality=12&learn=on)
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/area.html?lang=en#)
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/area.html?lang=sv-SE#)

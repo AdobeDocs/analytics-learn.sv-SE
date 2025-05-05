@@ -15,7 +15,7 @@ ht-degree: 0%
 
 # Grundläggande besöksmått
 
-Läs mer om [[!UICONTROL Page Views]](https://experienceleague.adobe.com/docs/analytics/components/metrics/page-views.html?lang=en), [[!UICONTROL Visits]](https://experienceleague.adobe.com/docs/analytics/components/metrics/visits.html?lang=en) och [[!UICONTROL Visitors]](https://experienceleague.adobe.com/docs/analytics/components/metrics/unique-visitors.html?lang=en) i Adobe Analytics.
+Läs mer om [[!UICONTROL Page Views]](https://experienceleague.adobe.com/docs/analytics/components/metrics/page-views.html?lang=sv-SE), [[!UICONTROL Visits]](https://experienceleague.adobe.com/docs/analytics/components/metrics/visits.html?lang=sv-SE) och [[!UICONTROL Visitors]](https://experienceleague.adobe.com/docs/analytics/components/metrics/unique-visitors.html?lang=sv-SE) i Adobe Analytics.
 
 * Få definitioner av dessa grundläggande besöksmätningar och lär dig mer om deras likheter och skillnader.
 

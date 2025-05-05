@@ -21,4 +21,4 @@ Med anteckningar i Workspace kan ni effektivt kommunicera kontextuella datanunkt
 
 >[!VIDEO](https://video.tv.adobe.com/v/341266/?quality=12&learn=on)
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/annotations/overview.html?lang=en).
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/annotations/overview.html?lang=sv-SE).

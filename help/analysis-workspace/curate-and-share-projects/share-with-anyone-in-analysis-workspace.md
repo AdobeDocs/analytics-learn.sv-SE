@@ -22,4 +22,4 @@ Läs mer om funktionen&quot;dela med vem som helst&quot; i Workspace. Du kan anv
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420093/?learn=on)
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/share-projects.html?lang=en#share-public-link).
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/share-projects.html?lang=sv-SE#share-public-link).

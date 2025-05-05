@@ -26,4 +26,4 @@ I [!DNL Fallout] i Analysis Workspace kan du blanda och matcha dimensioner och m
 
 Denna kraftfulla funktion gör att du kan definiera de användarsteg du vill undersöka mer flexibelt.
 
-Mer information om den här funktionen finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/configuring-interdimensional-fallout.html?lang=en).
+Mer information om den här funktionen finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/configuring-interdimensional-fallout.html?lang=sv-SE).

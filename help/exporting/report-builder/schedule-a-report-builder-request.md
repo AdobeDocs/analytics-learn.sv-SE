@@ -21,4 +21,4 @@ I den här videon får du lära dig hur du ställer in ett grundläggande schema
 
 >[!VIDEO](https://video.tv.adobe.com/v/342376/?quality=12&learn=on)
 
-Mer information om den här funktionen finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/t-schedule-a-data-request.html?lang=en).
+Mer information om den här funktionen finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/t-schedule-a-data-request.html?lang=sv-SE).

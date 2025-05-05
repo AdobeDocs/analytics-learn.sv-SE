@@ -20,5 +20,5 @@ I den här videon visas hur du ser dataflödet från sidan till tabellerna och v
 
 >[!VIDEO](https://video.tv.adobe.com/v/31072/?quality=12&learn=on)
 
-Mer information om Adobe Experience Platform Debugger finns i [dokumentationen](https://experienceleague.adobe.com/docs/debugger/using-v2/experience-cloud-debugger.html).
+Mer information om Adobe Experience Platform Debugger finns i [dokumentationen](https://experienceleague.adobe.com/docs/debugger/using-v2/experience-cloud-debugger.html?lang=sv-SE).
 

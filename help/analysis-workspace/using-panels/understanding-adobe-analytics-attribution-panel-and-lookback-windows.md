@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # Om Adobe Analytics attribueringspanel och uppslagsfönster
 
-När jag först funderade på [attribueringspanelen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/panels/attribution.html?lang=en) och **lookback-fönstret** påmindes jag omedelbart om konceptet med *tidsresor*. Sedan påmindes jag förstås också om vårt vanliga svar på många nya verktyg som dessa är att helt enkelt skjuta upp användningen, eftersom de ser så komplicerade ut.
+När jag först funderade på [attribueringspanelen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/panels/attribution.html?lang=sv-SE) och **lookback-fönstret** påmindes jag omedelbart om konceptet med *tidsresor*. Sedan påmindes jag förstås också om vårt vanliga svar på många nya verktyg som dessa är att helt enkelt skjuta upp användningen, eftersom de ser så komplicerade ut.
 
 Ärligt talat, titta bara på alla alternativ, växlar, paneler, avläsningar och knappar.  Och seriöst, låt oss prata om de komplicerade blinkande ljusen, slangarna, mätarna... VÄNTA!  Det här är inte rätt tillfälle att bli distraherad när vi pratar om tidsmaskiner, vi har inte tid.. eller har vi det?
 
@@ -43,7 +43,7 @@ Nu när vi alla är glada över tidsresor ska vi ta ett djupt andetag, ta ett st
 
 I **attribuering** kan du helt enkelt tänka på hur händelser/åtgärder kan orsakas av en individ, flera individer eller ett antal olika händelser över tiden.
 
-Enligt [Adobe](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/attribution/overview.html?lang=en) ger *attribution* analytiker möjlighet att anpassa hur *Dimension* -objekt får kredit för *success-händelser*.
+Enligt [Adobe](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/attribution/overview.html?lang=sv-SE) ger *attribution* analytiker möjlighet att anpassa hur *Dimension* -objekt får kredit för *success-händelser*.
 
 
 >[!WARNING]
@@ -85,7 +85,7 @@ Här är några exempel på hur de ❸ **attribueringsmodellerna** kan påverka 
 
 - **Anpassad**: Du väljer och väljer vem som ska få kredit.  Det är din kampanj!
 
-[Klicka här](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=en) om du vill ha mer information om dessa och andra attribueringsmodeller
+[Klicka här](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=sv-SE) om du vill ha mer information om dessa och andra attribueringsmodeller
 
 För att göra detta ännu intressantare ska vi prata om att vrida tillbaka klockan!
 

@@ -22,4 +22,4 @@ I den här videon visar vi hur du kan utnyttja två datumjämförelsefunktioner 
 
 Datumjämförelser är ett enkelt sätt att lägga till djup i de aktuella Analysis Workspace-tabellerna och hjälper dig att enkelt sätta aktuella data i perspektiv till historiska resultat.
 
-Mer information om den här funktionen finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/time-comparison.html?lang=en).
+Mer information om den här funktionen finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/time-comparison.html?lang=sv-SE).

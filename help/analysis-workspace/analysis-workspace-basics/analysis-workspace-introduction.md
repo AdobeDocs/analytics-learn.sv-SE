@@ -20,4 +20,4 @@ Få en snabb introduktion till hur Analysis Workspace stöder datanycken och exp
 
 >[!VIDEO](https://video.tv.adobe.com/v/28165/?quality=12&learn=on)
 
-Följ upp den här videon genom att titta på videofilmen Analysis Workspace Overview eller genom att ta en [kostnadsfri introduktionskurs](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace) här på Experience League!
+Följ upp den här videon genom att titta på videofilmen Analysis Workspace Overview eller genom att ta en [kostnadsfri introduktionskurs](https://experienceleague.adobe.com/?lang=sv&recommended=Analytics-U-1-2020.1.workspace) här på Experience League!

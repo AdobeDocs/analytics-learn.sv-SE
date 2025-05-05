@@ -19,7 +19,7 @@ ht-degree: 0%
 
 Lär dig hur du tar bort värden från datalagret och använder dem i Experience Platform [!DNL tags] för att fylla i variabler i Adobe Analytics. Det är bäst att använda ett datalager för [!DNL Analytics] och andra Experience Cloud-lösningar.
 
-Granska ytterligare information om datalager i dokumentationen för [Analytics](https://experienceleague.adobe.com/docs/analytics/implementation/prepare/data-layer.html) och [Experience Platform tags](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/client/client-data-layer/overview.html).
+Granska ytterligare information om datalager i dokumentationen för [Analytics](https://experienceleague.adobe.com/docs/analytics/implementation/prepare/data-layer.html?lang=sv-SE) och [Experience Platform tags](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/client/client-data-layer/overview.html?lang=sv-SE).
 
 >[!VIDEO](https://video.tv.adobe.com/v/25899/?quality=12&learn=on)
 

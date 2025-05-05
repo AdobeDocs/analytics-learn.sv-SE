@@ -22,4 +22,4 @@ ht-degree: 0%
 
 När du använder en [!DNL Labs]-prototyp måste du utvärdera funktionen i kontexten för dina egna användningsfall och data.
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/tech-previews/overview.html).
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/tech-previews/overview.html?lang=sv-SE).

@@ -21,4 +21,4 @@ Använd en frihandstabell (pivottabell) för att förstå och tolka era data och
 
 >[!VIDEO](https://video.tv.adobe.com/v/334093/?quality=12&learn=on)
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/freeform-table/freeform-table.html?lang=en).
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/freeform-table/freeform-table.html?lang=sv-SE).

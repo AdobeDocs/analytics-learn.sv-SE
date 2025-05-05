@@ -21,4 +21,4 @@ Lär dig grunderna i att använda [!DNL Report Builder], inklusive installation,
 
 >[!VIDEO](https://video.tv.adobe.com/v/342373/?quality=12&learn=on)
 
-Mer information om den här funktionen finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/home.html?lang=en).
+Mer information om den här funktionen finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/home.html?lang=sv-SE).

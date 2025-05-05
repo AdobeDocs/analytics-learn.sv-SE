@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # Virtuella rapportsviter i Adobe Analytics {#virtual-report-suites-in-adobe-analytics}
 
-Med Adobe Analytics kan ni skapa&quot;virtuella rapportsviter&quot; för era användare, som segmenterar era data och begränsar användare/grupper till endast de tillåtna datasegmenten. I den här videon visas hur du skapar och arbetar med virtuella rapportsviter. Detaljerad dokumentation finns på [Översikt över virtuella rapportsviter](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-about.html){target="_blank"}.
+Med Adobe Analytics kan ni skapa&quot;virtuella rapportsviter&quot; för era användare, som segmenterar era data och begränsar användare/grupper till endast de tillåtna datasegmenten. I den här videon visas hur du skapar och arbetar med virtuella rapportsviter. Detaljerad dokumentation finns på [Översikt över virtuella rapportsviter](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-about.html?lang=sv-SE){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25412/?quality=12&learn=on)

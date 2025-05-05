@@ -20,4 +20,4 @@ Radvisualiseringen visar mätvärden över en trendtidsperiod. Visualiseringsins
 
 >[!VIDEO](https://video.tv.adobe.com/v/40384/?quality=12&learn=on)
 
-Läs mer i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/line.html).
+Läs mer i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/line.html?lang=sv-SE).

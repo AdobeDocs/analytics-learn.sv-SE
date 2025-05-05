@@ -24,4 +24,4 @@ För kunder som använder Media Analytics kan du med panelen Media Concurrent Vi
 
 >[!VIDEO](https://video.tv.adobe.com/v/330177/?quality=12&learn=on)
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/media-concurrent-viewers.html?lang=en#analysis-workspace).
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/media-concurrent-viewers.html?lang=sv-SE#analysis-workspace).

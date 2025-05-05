@@ -20,4 +20,4 @@ Den här videon visar dig vägen genom datastyrning och hur datamärkning passar
 
 >[!VIDEO](https://video.tv.adobe.com/v/25455/?quality=12&learn=on)
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/admin/data-governance/an-gdpr-overview.html?lang=en).
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/admin/data-governance/an-gdpr-overview.html?lang=sv-SE).

@@ -28,11 +28,11 @@ Av dessa skäl beslutade vi att det skulle vara till stor hjälp för dig, våra
 
 Om du arbetar som affärsanvändare, affärsadministratör eller någon annan liknande roll rekommenderar vi att du går följande kurser för att få de grundläggande funktioner som kan hjälpa dig att använda Analysis Workspace:
 
-1. [Komma igång med Analysis Workspace](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace)
-1. [Frihandsritningar, grunden för analys](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3)
-1. [Använda visualiseringar för att berätta dina dataartiklar](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations)
-1. [Attribuera värde till digitala Touch-punkter på kundresan](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2)
+1. [Komma igång med Analysis Workspace](https://experienceleague.adobe.com/?lang=sv&recommended=Analytics-U-1-2020.1.workspace)
+1. [Frihandsritningar, grunden för analys](https://experienceleague.adobe.com/?lang=sv&recommended=Analytics-U-1-2020.3)
+1. [Använda visualiseringar för att berätta dina dataartiklar](https://experienceleague.adobe.com/?lang=sv&recommended=Analytics-U-1-2021.1.visualizations)
+1. [Attribuera värde till digitala Touch-punkter på kundresan](https://experienceleague.adobe.com/?lang=sv&recommended=Analytics-U-1-2020.2)
 
-Det finns ytterligare kurser för [Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace) som du kan använda på Experience League.
+Det finns ytterligare kurser för [Adobe Analytics](https://experienceleague.adobe.com/?lang=sv&recommended=Analytics-U-1-2020.1.workspace) som du kan använda på Experience League.
 
 Tack!

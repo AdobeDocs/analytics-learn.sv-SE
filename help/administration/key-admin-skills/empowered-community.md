@@ -33,11 +33,11 @@ Du kan skapa en kraftfull community inom din organisation. Så här:
 
 * Implementera korrekt användarhantering och åtkomst:
 
-  Användaråtkomst till rapportsviter, mätvärden, dimensioner, verktyg, rapporter och komponenter är grundläggande för Adobe Analytics och en viktig del av [användargrupphanteringsprocessen](https://experienceleague.adobe.com/docs/analytics/admin/admin-console/home.html?lang=en). Tillgång till rätt verktyg ger användarna möjlighet att få tillgång till självbetjäning inom Analysis Workspace och Rapporter och analyser.
+  Användaråtkomst till rapportsviter, mätvärden, dimensioner, verktyg, rapporter och komponenter är grundläggande för Adobe Analytics och en viktig del av [användargrupphanteringsprocessen](https://experienceleague.adobe.com/docs/analytics/admin/admin-console/home.html?lang=sv-SE). Tillgång till rätt verktyg ger användarna möjlighet att få tillgång till självbetjäning inom Analysis Workspace och Rapporter och analyser.
 
 * Förstå implementeringen:
 
-  Som en god praxis måste användarna ha grundläggande kunskaper om de affärskrav som stöds av implementeringen, som vanligtvis fångas in via ett [dokument för affärskrav](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-a-business-requirements-document.html?lang=en) (BRD) och [referensdokument för lösningsdesign](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-and-maintaining-an-sdr.html?lang=en) (SDR). Dessa krav bör omfatta vad som har implementerats och definiera affärskrav, rapporter, eVars, händelser och så vidare, per kategori.
+  Som en god praxis måste användarna ha grundläggande kunskaper om de affärskrav som stöds av implementeringen, som vanligtvis fångas in via ett [dokument för affärskrav](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-a-business-requirements-document.html?lang=sv-SE) (BRD) och [referensdokument för lösningsdesign](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-and-maintaining-an-sdr.html?lang=sv-SE) (SDR). Dessa krav bör omfatta vad som har implementerats och definiera affärskrav, rapporter, eVars, händelser och så vidare, per kategori.
 
 * Använd rapportmallar:
 
@@ -105,7 +105,7 @@ Du kan skapa en kraftfull community inom din organisation. Så här:
 
 Att skapa och underhålla en stark community är en hel del arbete. Det är viktigt att du tar ett steg tillbaka och inser vilka fördelar din organisation kan få genom att göra detta. Här är några av fördelarna som jag personligen har sett:
 
-* Datadrivet beslutsfattande - En behörig community kan [ändra din verksamhet](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/how-adobe-analysis-workspace-can-change-your-business.html?lang=en) eftersom Adobe Analytics möjliggör datalagring, förutser resultat och förskriver resultat på ett sätt som är tillgängligt i hela organisationen som stöd för kundanalys och datadrivet beslutsfattande.
+* Datadrivet beslutsfattande - En behörig community kan [ändra din verksamhet](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/how-adobe-analysis-workspace-can-change-your-business.html?lang=sv-SE) eftersom Adobe Analytics möjliggör datalagring, förutser resultat och förskriver resultat på ett sätt som är tillgängligt i hela organisationen som stöd för kundanalys och datadrivet beslutsfattande.
 
 * Ökad expertis och effektivitet - Direktsamband kan göras mellan aktiveringsengagemang och avkastning på marknadsföringsinvesteringar! En stark community ökar nivån på allas expertkunskaper och underlättar utbyte av insikter, bästa praxis, projekt och produktuppdateringar, vilket främjar samarbete. Det gör detta samtidigt som man möjliggör självbetjäning och bättre optimering via Adobe Analytics. Detta stöder marknadsföringskanaler, sidor, geolokalisering, målgrupper och så vidare. Det har också stöd för upplevelseoptimeringar, vilket gör att team kan fokusera på var de kan få störst effekt.
 

@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # Segmentering på antal distinkta Dimensioner {#segmentation-on-distinct-dimension-counts}
 
-Med de distinkta räkningsoperatorerna i segmentbyggaren kan du segmentera baserat på antalet unika objekt inom en dimension. Filtrera efter besök där mer än fem sidor visats, eller träffar där flera produkter köptes i en och samma beställning, osv. Detaljerad dokumentation finns på [Jämförelseoperatorer för segment](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segment-reference/seg-operators.html).
+Med de distinkta räkningsoperatorerna i segmentbyggaren kan du segmentera baserat på antalet unika objekt inom en dimension. Filtrera efter besök där mer än fem sidor visats, eller träffar där flera produkter köptes i en och samma beställning, osv. Detaljerad dokumentation finns på [Jämförelseoperatorer för segment](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segment-reference/seg-operators.html?lang=sv-SE).
 
 >[!VIDEO](https://video.tv.adobe.com/v/27257/?quality=12&learn=on)

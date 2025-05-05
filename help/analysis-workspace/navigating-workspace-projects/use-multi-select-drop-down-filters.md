@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Använda flervalsfilter
 
-Lär dig mer om alternativet att markera flera fält i nedrullningsbara filter i Analysis Workspace så att användare kan visa data från något av de markerade fälten. Detaljerad dokumentation finns på [Paneler - översikt](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/panels/panels#static-drop-down-segments).
+Lär dig mer om alternativet att markera flera fält i nedrullningsbara filter i Analysis Workspace så att användare kan visa data från något av de markerade fälten. Detaljerad dokumentation finns på [Paneler - översikt](https://experienceleague.adobe.com/sv/docs/analytics/analyze/analysis-workspace/panels/panels#static-drop-down-segments).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3430412/?learn=on)

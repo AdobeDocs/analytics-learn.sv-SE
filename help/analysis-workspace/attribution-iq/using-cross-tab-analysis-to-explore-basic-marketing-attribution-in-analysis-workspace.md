@@ -37,4 +37,4 @@ Det finns många sätt att utveckla din attribueringsmetod med Adobe Analytics. 
 * 3:20 - Korsfliksdimensionerna blir automatiskt dynamiska när de släpps, vilket innebär att deras värden kan ändras över tid. För den här analysen är det bäst att ta med statiska kolumner istället. Läs mer om dynamiska kolumner vid 6:33 i videon: [Rad- och kolumninställningar i frihandstabeller](../building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
 * 4:30 - Kolumninställningarna kan uppdateras gruppvis nu i stället för 1 x 1. Läs mer på 8:45 i videon: [Rad- och kolumninställningar i frihandstabeller](../building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
 
-Mer information om det här avsnittet finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html).
+Mer information om det här avsnittet finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=sv-SE).

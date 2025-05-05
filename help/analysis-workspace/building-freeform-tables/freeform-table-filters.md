@@ -22,6 +22,6 @@ Filter ger bättre kontroll över vilka datarader som delas i en [!DNL freeform 
 
 I Analysis Workspace erbjuder vi nu mer filtreringskontroll med 11 filtervillkor och AND/OR-operatorer.
 
-Mer information om tillgängliga filter finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/freeform-table/pagination-filtering-sorting.html#cja-workspace?lang=en).
+Mer information om tillgängliga filter finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/freeform-table/pagination-filtering-sorting.html#cja-workspace?lang=sv-SE).
 
 **Obs!** Avancerade specialtecken är inte tillgängliga i Analysis Workspace.

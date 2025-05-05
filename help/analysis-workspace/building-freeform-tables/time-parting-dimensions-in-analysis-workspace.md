@@ -20,4 +20,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/23727/?quality=12&learn=on)
 
-Mer information om den här funktionen finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/dimensions/time-parting-dimensions.html?lang=en).
+Mer information om den här funktionen finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/dimensions/time-parting-dimensions.html?lang=sv-SE).

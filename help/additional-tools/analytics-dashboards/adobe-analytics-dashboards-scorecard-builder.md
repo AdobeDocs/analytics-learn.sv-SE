@@ -21,4 +21,4 @@ I den här videon får du lära dig hur du skapar och delar styrkort i Analysis 
 
 >[!VIDEO](https://video.tv.adobe.com/v/34544/?quality=12&learn=on)
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/home.html?lang=en).
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/home.html?lang=sv-SE).

@@ -24,4 +24,4 @@ Lär dig hur du delar skrivskyddade Workspace Analysis-projekt till användare o
 
 >[!VIDEO](https://video.tv.adobe.com/v/36206/?quality=12&learn=on)
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/view-only-projects.html)
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/view-only-projects.html?lang=sv-SE)

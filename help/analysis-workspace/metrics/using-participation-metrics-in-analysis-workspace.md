@@ -20,4 +20,4 @@ Lär dig hur du skapar deltagandemått och använder dem i [!DNL Analysis Worksp
 
 >[!VIDEO](https://video.tv.adobe.com/v/41266/?quality=12&learn=on)
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetric-workflow/participation-metric.html).
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetric-workflow/participation-metric.html?lang=sv-SE).

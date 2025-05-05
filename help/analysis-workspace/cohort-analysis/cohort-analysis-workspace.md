@@ -23,4 +23,4 @@ Skapa en [!UICONTROL cohort]-analystabell i Analysis Workspace.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23990/?quality=12&learn=on)
 
-Mer information om den här funktionen finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=en).
+Mer information om den här funktionen finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=sv-SE).

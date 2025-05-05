@@ -21,4 +21,4 @@ Vill du börja skapa egna projekt? Lär dig hur du skapar ett Analytics Workspac
 
 >[!VIDEO](https://video.tv.adobe.com/v/334076/?quality=12&learn=on)
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/home.html?lang=en).
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/home.html?lang=sv-SE).

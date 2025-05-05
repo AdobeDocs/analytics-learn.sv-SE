@@ -22,4 +22,4 @@ Lär dig mer om användningsexempel och tekniska överväganden när du använde
 
 >[!VIDEO](https://video.tv.adobe.com/v/27272/?quality=12&learn=on)
 
-Granska [dokumentationen](https://experienceleague.adobe.com/docs/analytics/implementation/vars/plugins/impl-plugins.html) om du vill ha mer information om <i>doPlugins-funktionen</i> som den här videon refererar till.
+Granska [dokumentationen](https://experienceleague.adobe.com/docs/analytics/implementation/vars/plugins/impl-plugins.html?lang=sv-SE) om du vill ha mer information om <i>doPlugins-funktionen</i> som den här videon refererar till.

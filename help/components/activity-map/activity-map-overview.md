@@ -21,4 +21,4 @@ Läs mer om Activity Map, ett verktyg som hjälper dig att visualisera användar
 
 >[!VIDEO](https://video.tv.adobe.com/v/25451/?quality=12&learn=on)
 
-Mer information om den här funktionen finns i [dokumentationen](https://experienceleague.adobe.com/en/docs/analytics/analyze/activity-map/activity-map).
+Mer information om den här funktionen finns i [dokumentationen](https://experienceleague.adobe.com/sv/docs/analytics/analyze/activity-map/activity-map).

@@ -23,6 +23,6 @@ Lär dig hur du mappar analysvariabler från Web SDK till Adobe Analytics med be
 
 ## Ytterligare information
 
-En lista över automatiskt mappade variabler från Web SDK till Adobe Analytics finns i [dokumentationen](https://experienceleague.adobe.com/docs/experience-platform/edge/data-collection/adobe-analytics/automatically-mapped-vars.html)
+En lista över automatiskt mappade variabler från Web SDK till Adobe Analytics finns i [dokumentationen](https://experienceleague.adobe.com/docs/experience-platform/edge/data-collection/adobe-analytics/automatically-mapped-vars.html?lang=sv-SE)
 
 **Obs!** När du konfigurerar bearbetningsregler kan det hända att variabeln&quot;a.x.[ditt schema]&quot; inte automatiskt visas i det nedrullningsbara fönstret. Om den inte är där, var inte panikslagen. Skriv bara in den enligt formatet och lägg till den som en contextData-variabel. När du har lagt till ett eller två kan det bero på att andra är lat inlästa.

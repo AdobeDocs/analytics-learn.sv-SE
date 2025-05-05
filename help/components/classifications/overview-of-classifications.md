@@ -23,4 +23,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/16853/?quality=12&learn=on)
 
-Mer information om den här funktionen finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/components/classifications/c-classifications.html?lang=en).
+Mer information om den här funktionen finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/components/classifications/c-classifications.html?lang=sv-SE).

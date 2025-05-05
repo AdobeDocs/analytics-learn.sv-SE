@@ -21,4 +21,4 @@ Flödesvisualiseringar används för att utforska exakt vilka resor kunderna har
 
 >[!VIDEO](https://video.tv.adobe.com/v/346063/?quality=12&learn=on)
 
-Mer information om den här funktionen finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/flow/flow.html?lang=en).
+Mer information om den här funktionen finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/flow/flow.html?lang=sv-SE).

@@ -19,4 +19,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/25411/?quality=12&learn=on)
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetric-workflow/cm-build-metrics.html)
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetric-workflow/cm-build-metrics.html?lang=sv-SE)

@@ -21,5 +21,5 @@ Utfallsvisualiseringar i [!DNL Analysis Workspace] används för att utforska va
 
 >[!VIDEO](https://video.tv.adobe.com/v/345883/?quality=12&learn=on)
 
-Mer information om den här funktionen finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow.html?lang=en).
+Mer information om den här funktionen finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow.html?lang=sv-SE).
 

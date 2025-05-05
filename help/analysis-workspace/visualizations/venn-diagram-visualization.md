@@ -20,4 +20,4 @@ Du kan visa överlappning och skärning av segment visuellt i Analysis Workspace
 
 >[!VIDEO](https://video.tv.adobe.com/v/335798/?quality=12&learn=on)
 
-Mer information om den här funktionen finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/venn.html?lang=en).
+Mer information om den här funktionen finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/venn.html?lang=sv-SE).

@@ -42,6 +42,6 @@ Gå med i kursen här: [https://edex.adobe.com/pd/course/adobe-analytics-for-tea
 
 Kursplanen med specialbyggda aktiviteter i slutet av varje avsnitt kan kombineras med Adobe Analytics University sandlådemiljö.
 
-Registrera dig här för åtkomst: [Registrering av kursplaner för analyser](https://experienceleague.adobe.com/landing/analytics-university/)
+Registrera dig här för åtkomst: [Registrering av kursplaner för analyser](https://experienceleague.adobe.com/landing/analytics-university/?lang=sv-SE)
 
 [Ladda ned kursplanen för PDF](assets/Adobe-Analytics-Curriculum_2021.pdf)

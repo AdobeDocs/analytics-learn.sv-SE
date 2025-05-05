@@ -89,4 +89,4 @@ Andra viktiga utmaningar som analytiker står inför:
    * Bygg upp sin närvaro genom att hjälpa till att skapa sociala releaser och vinster
    * Använd vanliga kontorstider för att utbilda utbildarna och minska antalet tillfälliga ärenden
 
-Läs mer om strategi och tankeledarskap på navet [Nöjda kunder](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html).
+Läs mer om strategi och tankeledarskap på navet [Nöjda kunder](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html?lang=sv-SE).

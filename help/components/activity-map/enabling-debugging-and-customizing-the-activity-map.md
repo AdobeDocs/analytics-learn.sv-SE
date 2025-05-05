@@ -22,4 +22,4 @@ Lär dig hur du aktiverar, felsöker och anpassar det sätt som [!UICONTROL Acti
 
 >[!VIDEO](https://video.tv.adobe.com/v/25878?quality=12&learn=on)
 
-Mer information om hur du distribuerar [!UICONTROL Activity Map] finns i [dokumentationen](https://experienceleague.adobe.com/en/docs/analytics/analyze/activity-map/getting-started/activitymap-enable).
+Mer information om hur du distribuerar [!UICONTROL Activity Map] finns i [dokumentationen](https://experienceleague.adobe.com/sv/docs/analytics/analyze/activity-map/getting-started/activitymap-enable).

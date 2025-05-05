@@ -24,4 +24,4 @@ I modellen för algoritmisk attribuering i Analysis Workspace används statistis
 
 >[!VIDEO](https://video.tv.adobe.com/v/36205/?quality=12&learn=on)
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/algorithmic.html)
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/algorithmic.html?lang=sv-SE)

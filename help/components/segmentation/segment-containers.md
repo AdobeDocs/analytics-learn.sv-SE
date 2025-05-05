@@ -20,4 +20,4 @@ När du skapar segment styr träffar-, besök- och besöksbehållarna hur mycket
 
 >[!VIDEO](https://video.tv.adobe.com/v/25401/?quality=12&learn=on)
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/components/segmentation/seg-overview.html?lang=en).
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/components/segmentation/seg-overview.html?lang=sv-SE).

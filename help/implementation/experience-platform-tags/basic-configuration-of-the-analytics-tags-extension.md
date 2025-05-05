@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # Grundläggande konfiguration för Analytics-tillägget i Experience Platform [!DNL tags]
 
-I den här videon visas en snabb konfiguration av Analytics-tillägget i Experience Platform [!DNL tags] för en grundläggande webbplats. Mer detaljerad dokumentation finns i [Översikt över Adobe Analytics-tillägg](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/client/analytics/overview.html){target="_blank"}.
+I den här videon visas en snabb konfiguration av Analytics-tillägget i Experience Platform [!DNL tags] för en grundläggande webbplats. Mer detaljerad dokumentation finns i [Översikt över Adobe Analytics-tillägg](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/client/analytics/overview.html?lang=sv-SE){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28751/?quality=12&learn=on)

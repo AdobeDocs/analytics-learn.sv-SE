@@ -20,4 +20,4 @@ I den här videon visas hur du använder kartvisualiseringen i Analysis Workspac
 
 >[!VIDEO](https://video.tv.adobe.com/v/23559/?quality=12&learn=on)
 
-Mer information om den här visualiseringen finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/map-visualization.html?lang=en).
+Mer information om den här visualiseringen finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/map-visualization.html?lang=sv-SE).

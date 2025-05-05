@@ -20,7 +20,7 @@ ht-degree: 0%
 
 _Upptäck hur histogram påverkar analyser för att få insikter utöver medelvärdet. Histogram avslöjar datamönster i kundbeteende, besökarengagemang, tekniska prestanda och formulärfel, vilket ger djupare insikter och välgrundade beslut i Adobe Workspace._
 
-Kom så hoppar vi in. Du bör använda [histogram](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/histogram.html). Jag ska förklara varför, men jag vill svara på din första fråga: Vad i världen är ett histogram? Jag fattar. Oftast när man ser en massa staplar som går upp, tror man att det är ett stolpdiagram. Ja, histogrammen ser likadana ut, men jag försäkrar er att de är annorlunda. I ett stapeldiagram jämförs saker, medan ett histogram visar hur ofta en variabel inträffade. Ta en titt. Här är ett stapeldiagram:
+Kom så hoppar vi in. Du bör använda [histogram](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/histogram.html?lang=sv-SE). Jag ska förklara varför, men jag vill svara på din första fråga: Vad i världen är ett histogram? Jag fattar. Oftast när man ser en massa staplar som går upp, tror man att det är ett stolpdiagram. Ja, histogrammen ser likadana ut, men jag försäkrar er att de är annorlunda. I ett stapeldiagram jämförs saker, medan ett histogram visar hur ofta en variabel inträffade. Ta en titt. Här är ett stapeldiagram:
 
 ![Stapeldiagram 1](assets/bar-chart-1.png)
 

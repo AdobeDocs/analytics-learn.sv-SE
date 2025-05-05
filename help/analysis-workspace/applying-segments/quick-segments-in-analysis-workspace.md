@@ -21,4 +21,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/341466/?quality=12&learn=on)
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/segments/quick-segments.html).
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/segments/quick-segments.html?lang=sv-SE).

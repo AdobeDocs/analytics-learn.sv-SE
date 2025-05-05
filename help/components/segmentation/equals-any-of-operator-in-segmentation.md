@@ -17,6 +17,6 @@ ht-degree: 0%
 
 # Använda operatorn&quot;är lika med&quot; i segmentering
 
-Segmentoperatorerna &#39;equals any of&#39; och &#39;does not equal any of&#39; kan användas för att filtrera till en lista med specifika objekt, i stället för att använda flera OR-satser eller &#39;contains any of&#39;. Om du använder de här operatorerna i stället för &quot;innehåller någon av&quot; förbättras även frågehastigheten. Detaljerad dokumentation finns på [Jämförelseoperatorer för segment](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segment-reference/seg-operators.html){target="_blank"}.
+Segmentoperatorerna &#39;equals any of&#39; och &#39;does not equal any of&#39; kan användas för att filtrera till en lista med specifika objekt, i stället för att använda flera OR-satser eller &#39;contains any of&#39;. Om du använder de här operatorerna i stället för &quot;innehåller någon av&quot; förbättras även frågehastigheten. Detaljerad dokumentation finns på [Jämförelseoperatorer för segment](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segment-reference/seg-operators.html?lang=sv-SE){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/32960/?quality=12&learn=on)

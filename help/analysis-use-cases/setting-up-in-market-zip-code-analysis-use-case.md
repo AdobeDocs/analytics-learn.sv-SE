@@ -28,8 +28,8 @@ I det här fallet kommer vi att konfigurera systemet så att postnummer infogas,
 
 Mer information om aspekter av det här användningsfallet finns i följande dokumentationsavsnitt:
 
-[Postnummer och postnummer](https://experienceleague.adobe.com/docs/analytics/components/dimensions/zip-code.html?lang=en)
+[Postnummer och postnummer](https://experienceleague.adobe.com/docs/analytics/components/dimensions/zip-code.html?lang=sv-SE)
 
-[[!UICONTROL Classifications]](https://experienceleague.adobe.com/docs/analytics/components/classifications/c-classifications.html?lang=en)
+[[!UICONTROL Classifications]](https://experienceleague.adobe.com/docs/analytics/components/classifications/c-classifications.html?lang=sv-SE)
 
-[Analysis Workspace](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/home.html?lang=en)
+[Analysis Workspace](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/home.html?lang=sv-SE)

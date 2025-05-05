@@ -23,4 +23,4 @@ Analysis Workspace identifierar automatiskt avvikelser i dina data för alla tid
 
 >[!VIDEO](https://video.tv.adobe.com/v/25444/?quality=12&learn=on)
 
-Mer information om den här funktionen finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/anomaly-detection/anomaly-detection.html?lang=en).
+Mer information om den här funktionen finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/anomaly-detection/anomaly-detection.html?lang=sv-SE).
