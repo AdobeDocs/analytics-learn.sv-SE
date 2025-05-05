@@ -26,7 +26,7 @@ Som många administratörer kör jag ett internt informationsnav (Confluence ell
 
 Jag lade märke till att användare ofta ignorerade mina hänvisningar till konferenswebbplatsen, med orsaker som&quot;Mitt VPN är inaktiverat&quot; eller&quot;Jag kan inte läsa det nu&quot; osv. &quot;Jag läser det dokumentet senare&quot; betyder att det aldrig kommer att läsas, och samma fråga kommer att ställas igen nästa vecka.
 
-***Förverkligandeträffen:**Workspace mångsidighet kan vara en spelväxlare. Användare föredrar snabba, direkta svar inom Workspace, så låt oss behålla dem där och undvika extra steg.*
+***Förverkligandeträffen:**&#x200B;Workspace mångsidighet kan vara en spelväxlare. Användare föredrar snabba, direkta svar inom Workspace, så låt oss behålla dem där och undvika extra steg.*
 
 Jag gick vidare och skapade operativa kontrollpaneler för att dela hela företaget. De har hittills hållit användarna informerade, centraliserad information och minskat frustrationen. Detta har varit en enkel process som har utvecklats mycket och som ökar effektiviteten över tid.
 

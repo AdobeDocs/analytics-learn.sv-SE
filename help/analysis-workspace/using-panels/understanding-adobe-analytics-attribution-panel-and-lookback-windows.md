@@ -75,7 +75,7 @@ Här är några exempel på hur de ❸ **attribueringsmodellerna** kan påverka 
 
 - **U-Shaped**: Den här metoden tilldelar **40%** av krediten till den *första personen* i dörren, sprider **20%** av krediten till *alla i mellan* och ger sedan **40%** till den **sista** genom. Den här modellen används oftast i situationer när du har en **lång konverterings-/försäljningscykel** som innehåller *flera kontaktytor* längs vägen.  I det här fallet är ditt mål att i första hand lyfta fram marknadsföringstaktiken ***first*** och ***last*** som bidrog till kundkonverteringen.
 - **J**-**Form** och **Omvänd J**:
-   - Fundera på **U-Shaped**, men i stället tilldelar den här modellen **60%** kredit till den *sista personen* som går genom dörren, **20%** till den *första* och sedan *delar* återstående **20%** över *4}alla andra* i mitten.  **Inverterad J** utför den exakta motsatsen.
+   - Fundera på **U-Shaped**, men i stället tilldelar den här modellen **60%** kredit till den *sista personen* som går genom dörren, **20%** till den *första* och sedan *delar* återstående **20%** över *4&rbrace;alla andra* i mitten.  **Inverterad J** utför den exakta motsatsen.
 
      Målet här är att lägga större vikt vid det mesta, antingen vid *början* eller *slutet* av kampanjen. Du vill dock ändå tilldela ett visst belopp kredit till det bidragande objektet i motsatt ände samtidigt som du bekräftar &quot;små killar&quot; längs vägen.
 

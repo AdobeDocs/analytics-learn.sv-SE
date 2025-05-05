@@ -31,7 +31,7 @@ ht-degree: 0%
 * De fem vanligaste tipsen i Adobe Analytics (t.ex. hur du skapar nedrullningsbara listor)
 * Så här använder du Attribution IQ
 
-Sedan kan ni enkelt hänvisa användarna till dessa istället för att skriva långa e-postmeddelanden eller ha ytterligare ett möte. Fler tips och trick om hur du utbilda användare finns i artikeln ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/key-admin-skills/simplify-training-users.html?lang=en){target="_blank"} av [Adobe Champion Thomas Edward Buckley om hur du förenklar och spenderar mindre tid på att utbilda användare.
+Sedan kan ni enkelt hänvisa användarna till dessa istället för att skriva långa e-postmeddelanden eller ha ytterligare ett möte. Fler tips och trick om hur du utbilda användare finns i artikeln [&#128279;](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/key-admin-skills/simplify-training-users.html?lang=en){target="_blank"} av Adobe Champion Thomas Edward Buckley om hur du förenklar och spenderar mindre tid på att utbilda användare.
 
 Dessutom finns det en uppsjö (ja, en uppsjö) av [videokurser](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html){target="_blank"} på Adobe Experience League, samt [kostnadsfria kurser](https://experienceleague.adobe.com/?lang=en#dashboard/learning){target="_blank"}. Om ni behöver en video som är specifik för företagets data och nyckeltal för verksamheten, spelar ni in era egna videor på alla sätt. Men om det räcker med en allmän instruktionsvideo finns det ingen anledning att uppfinna hjulet på nytt.
 

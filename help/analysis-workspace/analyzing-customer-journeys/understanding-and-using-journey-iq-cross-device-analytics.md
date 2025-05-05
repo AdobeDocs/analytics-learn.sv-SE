@@ -63,7 +63,7 @@ CDA presenteras via en särskild typ av korsenhet [[!UICONTROL Virtual Report Su
 
 I steg ett av VRS-byggaren väljer du [!UICONTROL report suite] som har konfigurerats av Adobe som CDA-aktiverat:
 
-*Välj en CDA-aktiverad bas (källa)[!UICONTROL report suite]*
+*Välj en CDA-aktiverad bas (källa) [!UICONTROL report suite]*
 ![[!UICONTROL Virtual Report Suite] Steg ett ](assets/cda-vrs-step-one.png)
 
 Aktivera sedan [!UICONTROL Report Time Processing] och aktivera [!UICONTROL cross-device stitching]:

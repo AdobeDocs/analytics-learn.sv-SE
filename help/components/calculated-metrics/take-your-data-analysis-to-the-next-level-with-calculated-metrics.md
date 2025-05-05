@@ -81,7 +81,7 @@ När vi väl har skapat dessa segment kan vi skapa en beräknad mätmetod som ge
 
 1. Sedan drar och släpper vi mätvärdet **Online Revenue** i samma behållare och sedan **Online Orders**. Eftersom behållare fungerar som matematiska uttryck för att bestämma ordningen på operationer, bearbetas objekt i behållare före efterföljande processer, även om det inte finns flera behållare eller processer i den här beräkningen.
 1. Vi ändrar operatorn mellan de två mätvärdena till division ( max).
-1. Vi väljer **Valuta** som format, **** decimaler och **UP** för polaritet.
+1. Vi väljer **Valuta** som format, **&#x200B;**&#x200B;decimaler och **UP** för polaritet.
 1. Namnge det beräknade måttet och ange en beskrivning.
 1. Spara.
 

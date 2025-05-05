@@ -9,4 +9,4 @@ ht-degree: 0%
 
 Självstudiekurser och hjälpmedel för samarbete i Analytics
 
-[foo](bar)
+[foo] (bar)
