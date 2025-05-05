@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Lär dig hur du skapar nya Analysis Workspace-projekt, antingen från grunden eller med hjälp av mallar. Mallar kan ge dig ett försprång i analysen och är tillgängliga direkt och via projekt som skapats av företag. Mer detaljerad dokumentation finns i [Skapa projekt i Analysis Workspace](https://experienceleague.adobe.com/sv/docs/analytics/analyze/analysis-workspace/build-workspace-project/create-projects).
 
->[!VIDEO](https://video.tv.adobe.com/v/30368/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3429820/?quality=12&learn=on&captions=swe)

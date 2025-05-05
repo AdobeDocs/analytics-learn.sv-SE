@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Lär dig hur du skickar en supportanmälan till [!DNL Customer Care] på Adobe direkt i produkten, vilket effektiviserar processen mot en lösning.
 
->[!VIDEO](https://video.tv.adobe.com/v/23133/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430057/?quality=12&learn=on&captions=swe)

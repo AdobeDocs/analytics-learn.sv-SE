@@ -20,6 +20,6 @@ ht-degree: 0%
 
 Läs mer om funktionen&quot;dela med vem som helst&quot; i Workspace. Du kan använda den här funktionen för att ge skrivskyddad åtkomst till Workspace-projekt till personer som inte har tillgång till Adobe Analytics eller Customer Journey Analytics, inklusive mottagare utanför organisationen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420093/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452456/?learn=on&captions=swe)
 
 Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/share-projects.html?lang=sv-SE#share-public-link).

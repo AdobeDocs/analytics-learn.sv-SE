@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # Adobe Analytics kursplan för skolor
 
->[!VIDEO](https://video.tv.adobe.com/v/334350/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443857/?quality=12&learn=on&captions=swe)
 
 ## Analytics-kursinnehåll
 

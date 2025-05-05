@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Lär dig hur du exporterar hela projekt eller enskilda tabeller till CSV för analys i Excel och andra BI-verktyg.
 
->[!VIDEO](https://video.tv.adobe.com/v/24712/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3429876/?quality=12&learn=on&captions=swe)

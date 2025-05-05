@@ -22,4 +22,4 @@ Lär dig mer om de allmänna konfigurationsalternativen för Analytics-tillägge
 >
 > Starta nu **[!DNL tags]**
 
->[!VIDEO](https://video.tv.adobe.com/v/27093/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3429921/?quality=12&learn=on&captions=swe)

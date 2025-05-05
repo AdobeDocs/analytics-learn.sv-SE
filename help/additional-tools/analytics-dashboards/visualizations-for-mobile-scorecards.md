@@ -20,4 +20,4 @@ ht-degree: 0%
 
 När du tittar på analyser på din mobila enhet är det viktigare än någonsin att använda rätt visualiseringar. I den här videon får du lära dig hur du lägger till visualiseringar i mobila styrkortsprojekt.
 
->[!VIDEO](https://video.tv.adobe.com/v/337570/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3445770/?quality=12&learn=on&captions=swe)

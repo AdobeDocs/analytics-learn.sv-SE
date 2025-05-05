@@ -21,6 +21,6 @@ ht-degree: 0%
 
 Med alternativet Anpassad [!UICONTROL Cohort] [!UICONTROL Dimension] kan du analysera [!UICONTROL cohorts] med [!UICONTROL dimensions] annat än tid. Jämför [!UICONTROL cohorts] efter marknadsföringskanal, kampanjregion, produktsida osv. för att bättre förstå hur [!UICONTROL retention] (eller [!UICONTROL churn]) ändras efter [!UICONTROL dimension] objekt.
 
->[!VIDEO](https://video.tv.adobe.com/v/25967/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430185/?quality=12&learn=on&captions=swe)
 
 Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=sv-SE).

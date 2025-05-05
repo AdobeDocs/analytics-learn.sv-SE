@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Dimensioner är tillgängliga via redskapet för alla segmenteringsdimensioner. Dessa modeller är i första hand användbara för sekventiell segmentering, och gör att du kan segmentera för bestående värden för en dimension (standard), instanser eller icke-upprepande instanser av en dimension. Detaljerad dokumentation finns på [Segment Builder](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-build.html?lang=sv-SE){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/32958/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430067/?quality=12&learn=on&captions=swe)

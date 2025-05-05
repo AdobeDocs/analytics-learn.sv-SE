@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Lär dig utnyttja användargränssnittet för Data Warehouse Reporting fullt ut samt exportkonton och -platser. I den här videon beskrivs det grundläggande arbetsflödet för en rapportleverans till både e-post och Amazon S3. Mer detaljerad dokumentation finns i [Översikt över Datan Warehouse](https://experienceleague.adobe.com/docs/analytics/export/data-warehouse/data-warehouse.html?lang=sv-SE) och omgivande dokument.
 
->[!VIDEO](https://video.tv.adobe.com/v/27306/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3428489/?quality=12&learn=on&captions=swe)

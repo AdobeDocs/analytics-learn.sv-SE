@@ -68,7 +68,7 @@ Kopiera enkelt visualiseringar och paneler från ett ställe och lägg till dem 
 
 Adobe Analytics samlar in enorma mängder data. Komponenturval i [!DNL Virtual Report Suites] gör att administratörer kan skapa en datauppsättning för varje affärsenhet i en organisation. Det innebär att analytiker som arbetar i Analysis Workspace inte behöver gå igenom data för att hitta det som betyder mest för dem. Markera bara rutan [!UICONTROL Enable Customization of Virtual Report Suite Components] i [!UICONTROL Virtual Report Suites] builder under [!UICONTROL “Components] och välj sedan den [!UICONTROL components] som matchar vad ett specifikt team mäter.
 
->[!VIDEO](https://video.tv.adobe.com/v/23544/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3425532/?quality=12&learn=on&captions=swe)
 
 >[!TIP]
 >
@@ -88,7 +88,7 @@ Skapa länkar som tar målgrupper överallt inom Analysis Workspace. Högerklick
 
 Nu kan du enkelt omvandla vilket projekt som helst till en egen mall. Välj bara [!UICONTROL Save As Template] i listrutan [!UICONTROL Project], lägg till taggar som gör mallen enkel att hitta och klicka på [!UICONTROL Save Project As Template]. Nu är mallen tillgänglig för alla Analysis Workspace-användare på fliken [!UICONTROL Custom Templates]. På så sätt kan analytiker påbörja sina projekt med meningsfulla datapunkter i stället för att börja från ruta ett.
 
->[!VIDEO](https://video.tv.adobe.com/v/23231/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3428579/?quality=12&learn=on&captions=swe)
 
 >[!TIP]
 >

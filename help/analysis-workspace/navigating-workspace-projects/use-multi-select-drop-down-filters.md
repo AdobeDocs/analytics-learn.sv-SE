@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Lär dig mer om alternativet att markera flera fält i nedrullningsbara filter i Analysis Workspace så att användare kan visa data från något av de markerade fälten. Detaljerad dokumentation finns på [Paneler - översikt](https://experienceleague.adobe.com/sv/docs/analytics/analyze/analysis-workspace/panels/panels#static-drop-down-segments).
 
->[!VIDEO](https://video.tv.adobe.com/v/3430412/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3439934/?learn=on&captions=swe)

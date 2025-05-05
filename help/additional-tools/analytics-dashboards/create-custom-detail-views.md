@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Lär dig att anpassa detaljvyer, inklusive text för Adobe Analytics-kontrollpaneler, för att förfina den berättelse du vill informera dina intressenter genom mobila styrkortsprojekt.
 
->[!VIDEO](https://video.tv.adobe.com/v/3410002/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3428930/?quality=12&learn=on&captions=swe)

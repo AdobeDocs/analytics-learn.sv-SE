@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Lär dig hur du skapar hyperlänkar för ett eller flera dimensionsobjekt och gör dem klickbara i en frihandstabell i Analysis Workspace. Du kan skapa hyperlänkar för dimensionsobjekt som har URL-värden, anpassade URL:er för dimensionsobjekt som inte har URL-värden, eller för dynamiska anpassade URL:er för flera dimensionsobjekt med hjälp av variabler. Detaljerad dokumentation finns på [Skapa hyperlänkar för dimensioner i en frihandstabell](https://experienceleague.adobe.com/sv/docs/analytics/analyze/analysis-workspace/visualizations/freeform-table/freeform-table-hyperlinks).
 
->[!VIDEO](https://video.tv.adobe.com/v/3430411/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3445786/?learn=on&captions=swe)

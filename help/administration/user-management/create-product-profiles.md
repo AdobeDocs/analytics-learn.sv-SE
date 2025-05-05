@@ -21,6 +21,6 @@ ht-degree: 0%
 
 Skapa Analytics-produktprofiler på Experience Cloud Admin Console för att hantera åtkomst till rapportsviter, mätvärden, dimensioner och verktyg.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428986/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3448811/?learn=on&captions=swe)
 
 Läs mer genom att gå till [dokumentationen](https://experienceleague.adobe.com/sv/docs/analytics/admin/admin-console/permissions/product-profile).

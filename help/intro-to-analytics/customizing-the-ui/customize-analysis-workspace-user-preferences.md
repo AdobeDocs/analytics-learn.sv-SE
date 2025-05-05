@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Lär dig hur du ändrar och anpassar användarinställningar i [!DNL Analysis Workspace]. Detta inkluderar allmänna standardinställningar, visning och datainställningar samt växling av användargränssnittets tema.
 
->[!VIDEO](https://video.tv.adobe.com/v/332600/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3429989/?quality=12&learn=on&captions=swe)

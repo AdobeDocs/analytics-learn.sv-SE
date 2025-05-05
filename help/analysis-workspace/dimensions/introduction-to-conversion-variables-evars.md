@@ -18,6 +18,6 @@ ht-degree: 0%
 
 Läs om hur konverteringsvariabler, som också kallas [!DNL eVars], används i Adobe Analytics, inklusive hur de relaterar till konverteringshändelser och skiljer sig från trafikvariabler.
 
->[!VIDEO](https://video.tv.adobe.com/v/28759/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3429026/?quality=12&learn=on&captions=swe)
 
 Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/components/dimensions/evar.html?lang=sv-SE).

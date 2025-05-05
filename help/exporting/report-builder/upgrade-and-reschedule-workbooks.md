@@ -17,6 +17,6 @@ ht-degree: 0%
 
 Lär dig hur du uppgraderar och schemalägger om äldre [!DNL Report Builder]-arbetsböcker till den senaste versionen av Adobe Analytics Report Builder.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434957/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446186/?quality=12&learn=on&captions=swe)
 
 Mer information om den här funktionen finns i [dokumentationen](https://experienceleague.adobe.com/sv/docs/analytics/analyze/report-builder/home).

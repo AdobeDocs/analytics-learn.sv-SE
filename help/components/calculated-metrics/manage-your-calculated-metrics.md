@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Lär dig hur du hanterar dina beräknade värden, inklusive att söka efter dem, se en lista, byta namn, ta bort, dela osv.
 
->[!VIDEO](https://video.tv.adobe.com/v/3421406/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432461/?learn=on&captions=swe)

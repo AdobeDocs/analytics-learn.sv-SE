@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Lär dig hur du anpassar visningen av kvarhållnings- eller omformningstabeller med hjälp av inställningarna för Kohorttabell.
 
->[!VIDEO](https://video.tv.adobe.com/v/29433/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430097/?quality=12&learn=on&captions=swe)
 
 Anpassningar för [!UICONTROL Cohort Table] inkluderar möjligheten att
 

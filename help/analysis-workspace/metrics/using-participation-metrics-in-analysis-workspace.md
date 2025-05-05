@@ -18,6 +18,6 @@ ht-degree: 0%
 
 Lär dig hur du skapar deltagandemått och använder dem i [!DNL Analysis Workspace].
 
->[!VIDEO](https://video.tv.adobe.com/v/41266/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3429893/?quality=12&learn=on&captions=swe)
 
 Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetric-workflow/participation-metric.html?lang=sv-SE).

@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Lär dig vad som påverkar summorna i frihandstabeller samt hur du aktiverar och inaktiverar dem.
 
->[!VIDEO](https://video.tv.adobe.com/v/29273/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3437404/?quality=12&learn=on&captions=swe)

@@ -20,6 +20,6 @@ ht-degree: 0%
 
 Lär dig hur du skapar nedrullningsbara filter som baseras på en hel dimension. Poster uppdateras dynamiskt utifrån det datumintervall som används i rapportpanelen och de värden som valts i andra nedrullningsbara filter på samma Dimension.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420315/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446820/?learn=on&captions=swe)
 
 Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/panels.html?lang=sv-SE#dynamic-drop-down-filters).

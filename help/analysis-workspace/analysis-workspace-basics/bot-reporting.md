@@ -20,6 +20,6 @@ ht-degree: 0%
 
 Lär dig hur du rapporterar om båda data i Analysis Workspace. Punktdata finns som sammanfattningsdata och kan analyseras i robotaktiverade rapportsviter.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420314/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447641/?learn=on&captions=swe)
 
 Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/components/dimensions/bot-name.html?lang=sv-SE).

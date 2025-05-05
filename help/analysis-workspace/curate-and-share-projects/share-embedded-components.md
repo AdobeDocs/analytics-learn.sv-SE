@@ -20,6 +20,6 @@ ht-degree: 0%
 
 Ibland vill du dela ett Analysis Workspace-projekt, men du glömmer att också dela segment och mätvärden som du har inkluderat med dina kollegor. I den här videon visas hur du nu kan dela segment och mätvärden när du delar dina projekt, så att dina kollegor ser vad du tänkt dig varje gång.
 
->[!VIDEO](https://video.tv.adobe.com/v/341273/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3438787/?quality=12&learn=on&captions=swe)
 
 Mer information om den här funktionen finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/curate.html?lang=sv-SE).

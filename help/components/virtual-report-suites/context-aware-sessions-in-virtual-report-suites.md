@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Det går att ändra definitionen av besök i Adobe Analytics på ett icke-förstörande sätt med hjälp av en virtuell rapportserie. I den här videon visas det och de olika alternativ som är tillgängliga. Detaljerad dokumentation finns på [Kontextmedvetna sessioner](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-mobile-visit-processing.html?lang=sv-SE){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/23545/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3428877/?quality=12&learn=on&captions=swe)

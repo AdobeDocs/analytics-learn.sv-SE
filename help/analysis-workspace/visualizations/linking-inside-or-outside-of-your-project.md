@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Lär dig skapa interna eller externa länkar i ditt Analysis Workspace-projekt.
 
->[!VIDEO](https://video.tv.adobe.com/v/3423014/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3449604/?learn=on&captions=swe)

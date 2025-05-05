@@ -19,7 +19,7 @@ ht-degree: 0%
 
 Lär dig hur du använder färdiga mallar och skapar anpassade mallar i Analysis Workspace, så att du och ditt team kan börja med en fördefinierad uppsättning rapporter.
 
->[!VIDEO](https://video.tv.adobe.com/v/23231/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3428579/?quality=12&learn=on&captions=swe)
 
 Analysis Workspace innehåller flera fördefinierade mallar som kan hjälpa dig att komma igång snabbt. Men ibland vill man också ha en egen mall. Lär dig hur du skapar ett projekt i en egen anpassad mall. Du kan hjälpa nya användare att komma igång, hitta dina favoritinstrumentpaneler/projekt eller dela din instrumentpanel mellan olika team.
 

@@ -18,6 +18,6 @@ ht-degree: 0%
 
 Förstå olika typer av trafikvariabler och hur de används i Adobe Analytics, inklusive trafik-, innehålls- och flödesanalys.
 
->[!VIDEO](https://video.tv.adobe.com/v/28767/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3429905/?quality=12&learn=on&captions=swe)
 
 Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/components/dimensions/prop.html?lang=sv-SE).

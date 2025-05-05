@@ -19,6 +19,6 @@ ht-degree: 0%
 
 Den här videon ger en konceptuell beskrivning av grundläggande besökarstatistik i Adobe Analytics och hur de relaterar till varandra. Du kommer också att gå igenom flera exempel på när du ska använda sidvyer, besök och unika besökare vid rapportering.
 
->[!VIDEO](https://video.tv.adobe.com/v/336483/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3437868/?quality=12&learn=on&captions=swe)
 
 Mer information finns i [Sidvyer](https://experienceleague.adobe.com/docs/analytics/components/metrics/page-views.html?lang=sv-SE), [Besök](https://experienceleague.adobe.com/docs/analytics/components/metrics/visits.html?lang=sv-SE) och [Unika besökare](https://experienceleague.adobe.com/docs/analytics/components/metrics/unique-visitors.html?lang=sv-SE).
