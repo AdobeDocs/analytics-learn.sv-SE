@@ -21,4 +21,4 @@ I den här videon får du lära dig hur du ställer in ett avancerat schema för
 
 >[!VIDEO](https://video.tv.adobe.com/v/342377/?quality=12&learn=on)
 
-Mer information om den här funktionen finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/publish-powerbi/power-bi.html?lang=en).
+Mer information om den här funktionen finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/publish-powerbi/power-bi.html?lang=sv-SE).
