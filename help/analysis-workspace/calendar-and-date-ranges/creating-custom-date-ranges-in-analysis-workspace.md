@@ -1,13 +1,13 @@
 ---
 title: Skapa anpassade datumintervall i Analysis Workspace
 description: När du konfigurerar och anpassar ditt projekt i Analysis Workspace kan du behöva använda ett datumintervall som ligger utanför det som finns i produkten. I den här videon visas hur du skapar tre exempel på anpassade datumintervall.
-feature: Calendar
+feature: Date Ranges
 kt: 2113
 thumbnail: 23975.jpg
 role: User
 level: Beginner
 exl-id: ce01320f-24fa-4c9b-ad77-3f82c0829323
-source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+source-git-commit: d24bab984f57dbf197c5f6fb39d0a82e6fcf2ad2
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%
@@ -20,4 +20,4 @@ När du konfigurerar och anpassar ditt projekt i Analysis Workspace kan du behö
 
 >[!VIDEO](https://video.tv.adobe.com/v/23975/?quality=12&learn=on)
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/custom-date-ranges.html?lang=sv-SE).
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/custom-date-ranges.html?lang=en).

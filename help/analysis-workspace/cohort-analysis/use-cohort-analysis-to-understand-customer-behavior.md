@@ -1,7 +1,7 @@
 ---
 title: Använd kohortanalys för att förstå kundbeteende
 description: För att förbättra kundupplevelsen och intäkterna måste företagen förstå kundbeteendet. Kohortanalyser kan hjälpa er att förstå engagemang och lojalitet, vilket kan leda till åtgärder som att förbättra kontoskapande och skapa kampanjer för stora månadsvolymer.
-feature: Cohort Analysis
+feature: Visualizations
 role: User
 level: Experienced
 doc-type: Article
@@ -9,7 +9,7 @@ last-substantial-update: 2023-05-16T00:00:00Z
 jira: KT-13213
 thumbnail: KT-13213.jpeg
 exl-id: 23dd43c5-47e4-46c7-88ee-66c7f62ca9cf
-source-git-commit: d95136a21c08312a81baba7673cb7135270af4bd
+source-git-commit: d24bab984f57dbf197c5f6fb39d0a82e6fcf2ad2
 workflow-type: tm+mt
 source-wordcount: '1146'
 ht-degree: 0%
@@ -132,13 +132,13 @@ Undersök webbplatsens användarupplevelse för att få användare att skapa ett
 
 ![Kohorttabell 4](assets/cohort4.png)
 
-## Del 4: Custom Dimension Cohort
+## Del 4: Anpassad Dimension-kohort
 
-Kohort för anpassad Dimension: Skapa kohorter baserat på den valda dimensionen i stället för tidsbaserade kohorter (standard). Många kunder vill analysera sina kohorter med något annat än tid, och med den nya funktionen Custom Dimension Cohort kan du skapa kohorter baserat på de mått de själva väljer. Använd dimensioner som marknadsföringskanal, kampanj, produkt, sida, region eller någon annan dimension i Adobe Analytics för att visa hur kvarhållandet ändras baserat på de olika värdena för dessa dimensioner. The
+Anpassad Dimension-kohort: Skapa kohorter baserat på den valda dimensionen i stället för tidsbaserade kohorter (standard). Många kunder vill analysera sina kohorter med något annat än tid, och med den nya funktionen Custom Dimension Cohort kan du skapa kohorter baserat på de mått de väljer. Använd dimensioner som marknadsföringskanal, kampanj, produkt, sida, region eller någon annan dimension i Adobe Analytics för att visa hur kvarhållandet ändras baserat på de olika värdena för dessa dimensioner. The
 
-Segmentdefinitionen för Custom Dimension Cohort tillämpar bara dimensionsobjektet som en del av inkluderingsperioden, inte som en del av returdefinitionen.
+Segmentdefinitionen för anpassad Dimension-kohort tillämpar bara dimensionsobjektet som en del av inkluderingsperioden, inte som en del av returdefinitionen.
 
-När du har valt alternativet Egen Dimension-kohort kan du dra och släppa vilken dimension du vill i släppzonen. På så sätt kan du jämföra liknande dimensionsobjekt under samma tidsperiod. Du kan till exempel jämföra prestanda för städer sida vid sida
+När du har valt alternativet Anpassad Dimension-kohort kan du dra och släppa vilken dimension du vill i släppzonen. På så sätt kan du jämföra liknande dimensionsobjekt under samma tidsperiod. Du kan till exempel jämföra prestanda för städer sida vid sida
 
 sida, produkter, kampanjer osv. Den returnerar de 14 viktigaste artiklarna. Du kan emellertid använda ett filter (öppna det genom att hålla muspekaren åt höger om dimensionen som dragits på) för att endast visa önskade dimensionsobjekt. Det går inte att använda en anpassad Dimension-kohort med funktionen Latency Table.
 

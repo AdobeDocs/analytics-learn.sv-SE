@@ -1,7 +1,7 @@
 ---
 title: Bidragsanalys i Analysis Workspace
 description: Den här videon går igenom bidragsanalysen och dess förmåga att använda maskininlärning för att snabbt och enkelt förklara de faktorer som har bidragit till en trend i dina data.
-feature: Data Science
+feature: Anomaly Detection
 topics: null
 activity: use
 doc-type: feature video
@@ -10,7 +10,7 @@ kt: 2337
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: fd939c04-f28c-4b84-9768-2e9644945afb
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: d24bab984f57dbf197c5f6fb39d0a82e6fcf2ad2
 workflow-type: tm+mt
 source-wordcount: '83'
 ht-degree: 0%
@@ -25,4 +25,4 @@ I den här videon går du igenom [!UICONTROL Contribution Analysis] och kan anv�
 
 [!UICONTROL Contribution Analysis] är tillgängligt i Analysis Workspace för kunder med Adobe Analytics Premium.
 
-Mer information om den här funktionen finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/anomaly-detection/anomaly-detection.html?lang=sv-SE).
+Mer information om den här funktionen finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/anomaly-detection/anomaly-detection.html?lang=en).
