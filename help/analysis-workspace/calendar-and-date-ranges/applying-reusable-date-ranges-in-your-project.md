@@ -19,6 +19,6 @@ ht-degree: 0%
 
 Om du använder anpassade datum- och datumintervall i din produkt kan det hjälpa dig att hitta bara den information som berättar din databerättelse. I den här videon utforskar vi några ställen där du kan använda datumintervall i ditt Analysis Workspace-projekt.
 
->[!VIDEO](https://video.tv.adobe.com/v/338293/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447602/?quality=12&learn=on&captions=swe)
 
 Mer information finns i [dokumentationen](https://experienceleague.adobe.com/sv/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/calendar).
