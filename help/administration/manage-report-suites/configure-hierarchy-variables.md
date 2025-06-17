@@ -22,4 +22,4 @@ Lär dig när och hur du ställer in och konfigurerar hierarkivariabler för din
 
 >[!VIDEO](https://video.tv.adobe.com/v/340680/?quality=12&learn=on)
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/implementation/vars/page-vars/hier.html).
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/implementation/vars/page-vars/hier.html?lang=sv-SE).

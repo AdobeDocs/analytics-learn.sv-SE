@@ -21,4 +21,4 @@ Lär dig hur du analyserar en kohorttabell för att bättre förstå hur använd
 
 >[!VIDEO](https://video.tv.adobe.com/v/334094/?quality=12&learn=on)
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=en).
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=sv-SE).

@@ -21,4 +21,4 @@ I den här videon får du lära dig hur du använder datumjämförelser, [!UICON
 
 >[!VIDEO](https://video.tv.adobe.com/v/30753/?quality=12&learn=on)
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/calendar.html).
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/calendar.html?lang=sv-SE).

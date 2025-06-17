@@ -21,4 +21,4 @@ Om du använder anpassade datum- och datumintervall i din produkt kan det hjälp
 
 >[!VIDEO](https://video.tv.adobe.com/v/338293/?quality=12&learn=on)
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/calendar).
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/sv/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/calendar).

@@ -21,4 +21,4 @@ Vad ska du göra när du behöver placera mer än ett värde i en eVar (en konve
 
 >[!VIDEO](https://video.tv.adobe.com/v/339450/?quality=12&learn=on)
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/conversion-variables/list-var-admin.html).
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/conversion-variables/list-var-admin.html?lang=sv-SE).
