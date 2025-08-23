@@ -18,6 +18,6 @@ ht-degree: 0%
 
 I den här videon får du lära dig hur du sparar och exporterar projekt åt dig själv, skickar projekt till andra mottagare och bjuder in andra att samarbeta i projektet.
 
->[!VIDEO](https://video.tv.adobe.com/v/30993/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3470872/?quality=12&learn=on&captions=swe)
 
 Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/send-schedule-files.html?lang=sv-SE).
