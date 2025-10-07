@@ -4,9 +4,9 @@ user-guide-description: Se videosjälvstudiekurser om Adobe Analytics och lär d
 breadcrumb-title: Självstudiekurser om Analytics
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 14bbe0be3c5bc45e58ff54c82c4a9024374de848
+source-git-commit: ff729de74f29a07316140459a52f589dac7db198
 workflow-type: tm+mt
-source-wordcount: '2160'
+source-wordcount: '2167'
 ht-degree: 2%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 2%
 # Självstudiekurser om Analytics {#tutorials}
 
 + [Självstudiekurser om analys](overview.md)
-+ Introduktion till analysen {#intro-to-analytics}
++ Introduktion till Analytics {#intro-to-analytics}
    + [Vad är analys?](intro-to-analytics/what-can-aa-do-for-me/what-is-analytics.md)
    + Vad kan Adobe Analytics göra för mig? {#what-can-aa-do-for-me}
       + [Hur Adobe Analysis Workspace kan förändra er verksamhet](intro-to-analytics/what-can-aa-do-for-me/how-adobe-analysis-workspace-can-change-your-business.md)
@@ -27,31 +27,31 @@ ht-degree: 2%
       + [Summit 2019 Super Session - Resor och turism](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-travel.md)
       + [Summit 2019 Super Session - Retail](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-retail.md)
       + [Summit 2019 Super Session - High Tech](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.md)
-   + Strategi- och tankeledarskap{#strategy}
+   + Strategi och tankeledarskap{#strategy}
       + [Del 1 - Enkla högar för ökad effektivitet](strategy/analytics-simple-hacks-for-efficiency-part-one.md)
       + [Del 2 - Enkla högar för ökad effektivitet](strategy/analytics-simple-hacks-for-efficiency-part-two.md)
       + [Stärk kundanalysen med Virtual Analyst och Segment IQ i Adobe Analytics](strategy/customer-intelligence-with-virtual-analyst.md)
-   + Övergångar från andra plattformar {#transitioning-from-other-platforms}
+   + Övergång från andra plattformar {#transitioning-from-other-platforms}
       + [Övergång från Google Analytics](intro-to-analytics/transitioning-from-other-platforms/transition-from-google-analytics.md)
-   + Grundläggande om analys {#analytics-basics}
+   + Grunderna i analyser {#analytics-basics}
       + [Analyscykeln](intro-to-analytics/analytics-basics/understanding-the-analytics-cycle.md)
       + [Hur analysdata samlas in](intro-to-analytics/analytics-basics/how-analytics-data-is-collected.md)
       + [Logga in på Adobe Analytics](intro-to-analytics/analytics-basics/logging-in-to-adobe-analytics.md)
       + [Förstå och skapa rapportsviter](intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.md)
-      + [Förstå grundläggande besökarstatistik](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/understanding-basic-visitor-metrics.html?lang=sv-SE)
-      + [Introduktion till trafikvariabler (props)](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-traffic-variables-props.html?lang=sv-SE)
-      + [Introduktion till konverteringsvariabler (eVars)](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-conversion-variables-evars.html?lang=sv-SE)
-      + [Introduktion till konverteringshändelser](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/introduction-to-conversion-events.html?lang=sv-SE)
-   + Anpassar gränssnittet {#customizing-the-ui}
+      + [Förstå grundläggande besökarstatistik](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/understanding-basic-visitor-metrics.html)
+      + [Introduktion till trafikvariabler (props)](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-traffic-variables-props.html)
+      + [Introduktion till konverteringsvariabler (eVars)](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-conversion-variables-evars.html)
+      + [Introduktion till konverteringshändelser](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/introduction-to-conversion-events.html)
+   + Anpassa användargränssnittet {#customizing-the-ui}
       + [Anpassa användarinställningar för Analysis Workspace](intro-to-analytics/customizing-the-ui/user-preferences.md)
       + [Lägg till mått och måttbeskrivningar](intro-to-analytics/customizing-the-ui/adding-dimension-and-metric-descriptions.md)
       + [Förbättra säkerheten](intro-to-analytics/customizing-the-ui/enhancing-security.md)
       + [Ange ett Analysis Workspace-projekt som landningssida](intro-to-analytics/customizing-the-ui/setting-an-analysis-workspace-project-as-your-landing-page.md)
-   + Hämtar hjälp {#getting-help}
+   + Få hjälp {#getting-help}
       + [Få hjälp i Adobe Analytics](intro-to-analytics/getting-help/getting-help.md)
       + [Inlämning av supportanmälan inifrån produkten](intro-to-analytics/getting-help/in-product-support-ticket-submission.md)
 + Analysis Workspace {#analysis-workspace}
-   + Grundläggande om Analysis Workspace {#analysis-workspace-basics}
+   + Analysis Workspace Basics {#analysis-workspace-basics}
       + [Analysis Workspace quick intro](analysis-workspace/analysis-workspace-basics/analysis-workspace-introduction.md)
       + [Översikt över Analysis Workspace](analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md)
       + [Navigera på den nya landningssidan](analysis-workspace/analysis-workspace-basics/navigating-the-new-landing-page.md)
@@ -71,7 +71,7 @@ ht-degree: 2%
       + [Tips för att öka produktiviteten i Analysis Workspace](analysis-workspace/tips-and-tricks/tips-to-increase-productivity-in-analysis-workspace.md)
       + [Kundtips för att fortsätta din Adobe Analytics Learning Journey](analysis-workspace/tips-and-tricks/customer-tips-for-continuing-your-adobe-analytics-learning-journey.md)
       + [Skapa dynamiska nedrullningsbara filter](analysis-workspace/tips-and-tricks/dynamic-drop-downs.md)
-   + Navigerar i Workspace-projekt {#navigating-workspace-projects}
+   + Navigera i Workspace-projekt {#navigating-workspace-projects}
       + [Dataordlista i Analysis Workspace](analysis-workspace/navigating-workspace-projects/data-dictionary-in-analysis-workspace.md)
       + [Starta ditt första projekt](analysis-workspace/navigating-workspace-projects/starting-your-first-project-in-analysis-workspace.md)
       + [Utbildningsmall](analysis-workspace/navigating-workspace-projects/training-tutorial-template-in-analysis-workspace.md)
@@ -86,12 +86,12 @@ ht-degree: 2%
       + [Använda flervalsfilter](analysis-workspace/navigating-workspace-projects/use-multi-select-drop-down-filters.md)
    + Realtidsrapporter {#real-time-reports}
       + [Realtidsrapportering](analysis-workspace/real-time-reports/realtime-reporting.md)
-   + Använder paneler {#using-panels}
+   + Använda paneler {#using-panels}
       + [Använda tabeller, visualiseringar och paneler i Analysis Workspace](analysis-workspace/using-panels/using-tables-visualizations-and-panels.md)
       + [Panelen Quick Insights i Analysis Workspace](analysis-workspace/using-panels/quick-insights-panel-in-analysis-workspace.md)
-      + [Använda Attribution IQ-panelen](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-the-attribution-iq-panel.html?lang=sv-SE)
+      + [Använda Attribution IQ-panelen](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-the-attribution-iq-panel.html)
       + [Media Concurrent Viewer Panel i Analysis Workspace](analysis-workspace/using-panels/media-concurrent-viewers-panel-in-analysis-workspace.md)
-      + [Panel för tidsåtgång för mediauppspelning](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/media-analytics/measuring-media-analytics/media-playback-time-spent-panel.html?lang=sv-SE)
+      + [Panel för tidsåtgång för mediauppspelning](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/media-analytics/measuring-media-analytics/media-playback-time-spent-panel.html)
       + [Använda nedrullningsbara filter](analysis-workspace/using-panels/using-drop-down-filters.md)
       + [Organisera dina Analysis Workspace-projekt med paneler](analysis-workspace/using-panels/using-panels-to-organize-your-analysis-workspace-projects.md)
       + [Välja segment för en panel](analysis-workspace/using-panels/choose-segments-for-a-panel.md)
@@ -107,9 +107,9 @@ ht-degree: 2%
       + [Rad- och kolumninställningar i frihandstabeller](analysis-workspace/building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
       + [Frihandstabellsummor](analysis-workspace/building-freeform-tables/freeform-table-totals-in-analysis-workspace.md)
       + [Använda frihandsritbordsverktyget](analysis-workspace/building-freeform-tables/using-the-freeform-table-builder-in-analysis-workspace.md)
-      + [Högerklicka om du vill se arbetsytans effektivitet](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.html?lang=sv-SE)
+      + [Högerklicka om du vill se arbetsytans effektivitet](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.html)
       + [Ordna om statiska rader](analysis-workspace/building-freeform-tables/reordering-static-rows-in-analysis-workspace.md)
-      + [Använd Attribution IQ i frihandstabeller](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-attribution-iq-in-freeform-tables.html?lang=sv-SE)
+      + [Använd Attribution IQ i frihandstabeller](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-attribution-iq-in-freeform-tables.html)
       + [Korsförsäljningsanalys](analysis-workspace/building-freeform-tables/cross-sell-analysis-workspace.md)
       + [Frihandstabellfilter](analysis-workspace/building-freeform-tables/freeform-table-filters.md)
       + [Tidsdelningsdimensioner](analysis-workspace/building-freeform-tables/time-parting-dimensions-in-analysis-workspace.md)
@@ -146,7 +146,7 @@ ht-degree: 2%
       + [100 % staplade visualiseringar](analysis-workspace/visualizations/hundred-percent-stacked-visualizations.md)
       + [Inställningar för datakälla för tabeller och visualisering](analysis-workspace/visualizations/table-and-visualization-data-source-settings.md)
       + [Skapa en heatmap med tidsdelning](analysis-workspace/visualizations/build-a-time-parting-heatmap.md)
-   + Analyserar kundresor {#analyzing-customer-journeys}
+   + Analysera kundresor {#analyzing-customer-journeys}
       + [Skapa en utfallsvisualisering](analysis-workspace/analyzing-customer-journeys/fallout-visualization.md)
       + [Skapa en flödesvisualisering](analysis-workspace/analyzing-customer-journeys/flow-visualization.md)
       + [Använd bortfall och flöde tillsammans](analysis-workspace/analyzing-customer-journeys/understand-your-data-fallout-flow.md)
@@ -154,8 +154,8 @@ ht-degree: 2%
    + Tillämpar segment {#applying-segments}
       + [Använd segment i ditt Analysis Workspace-projekt](analysis-workspace/applying-segments/applying-segments-to-your-analysis-workspace-project.md)
       + [Använda ad hoc-segment](analysis-workspace/applying-segments/ad-hoc-temporary-segments.md)
-      + [Använd olika Attribution IQ-modeller med segment](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-different-attribution-iq-models-with-segments.html?lang=sv-SE)
-      + [Välj segment för en panel](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/choose-segments-for-a-panel.html?lang=sv-SE)
+      + [Använd olika Attribution IQ-modeller med segment](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-different-attribution-iq-models-with-segments.html)
+      + [Välj segment för en panel](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/choose-segments-for-a-panel.html)
       + [Använd segment som dimensioner i Analysis Workspace](analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.md)
       + [Använd segment för att begränsa data i Analysis Workspace](analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.md)
       + [Snabbsegment i Analysis Workspace](analysis-workspace/applying-segments/quick-segments-in-analysis-workspace.md)
@@ -163,16 +163,16 @@ ht-degree: 2%
       + [Bygga kundresesegment - del 2](analysis-workspace/applying-segments/building-customer-journey-segments-part-two.md)
    + Mätvärden {#metrics}
       + [Grundläggande besöksstatistik](analysis-workspace/metrics/understanding-basic-visitor-metrics.md)
-      + [Lägga till mått och mätvärden i ditt projekt](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.html?lang=sv-SE)
+      + [Lägga till mått och mätvärden i ditt projekt](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.html)
       + [Introduktion till konverteringshändelser](analysis-workspace/metrics/introduction-to-conversion-events.md)
-      + [Arbeta med mått i en frihandstabell](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.html?lang=sv-SE)
+      + [Arbeta med mått i en frihandstabell](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.html)
       + [Använda deltagandestatistik i Analysis Workspace](analysis-workspace/metrics/using-participation-metrics-in-analysis-workspace.md)
       + [Hej då Excel, hej till beräknade mätvärden](analysis-workspace/metrics/goodbye-excel-hello-calculated-metrics.md)
-   + Dimensioner {#dimensions}
+   + Mått {#dimensions}
       + [Lägga till mått och mätvärden i projektet](analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.md)
       + [Introduktion till trafikvariabler (props)](analysis-workspace/dimensions/introduction-to-traffic-variables-props.md)
       + [Introduktion till konverteringsvariabler (eVars)](analysis-workspace/dimensions/introduction-to-conversion-variables-evars.md)
-      + [Arbeta med dimensioner i en frihandstabell](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.html?lang=sv-SE)
+      + [Arbeta med dimensioner i en frihandstabell](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.html)
    + Kalender- och datumintervall {#calendar-and-date-ranges}
       + [Använda datum i Analysis Workspace](analysis-workspace/calendar-and-date-ranges/using-dates-in-analysis-workspace.md)
       + [Använda återanvändbara datumintervall i ditt projekt](analysis-workspace/calendar-and-date-ranges/applying-reusable-date-ranges-in-your-project.md)
@@ -216,8 +216,8 @@ ht-degree: 2%
       + [Minska felfrekvensen och förbättra antalet lyckade försök i din röstapp](analysis-workspace/voice-analytics/reducing-error-rates-and-improving-success-rates-in-your-voice-app.md)
       + [Förstå användarbeteende för röstassistenter](analysis-workspace/voice-analytics/understand-user-behavior-on-voice-assistants.md)
       + [Förstå användarens röstresa](analysis-workspace/voice-analytics/understanding-the-users-voice-journey.md)
-+ Administration {#administration}
-   + Viktiga administratörskunskaper {#key-admin-skills}
++ Administrering {#administration}
+   + Viktiga administratörsfärdigheter {#key-admin-skills}
       + [Skapa en kraftfull community](administration/key-admin-skills/empowered-community.md)
       + [Förenkla och lägg mindre tid på utbildning](administration/key-admin-skills/simplify-training-users.md)
       + [Få rätt personer i ert analysteam](administration/key-admin-skills/getting-the-right-people-on-your-analytics-team.md)
@@ -274,13 +274,13 @@ ht-degree: 2%
       + [Översikt över administratörsloggar för Analytics](administration/logs/overview-of-analytics-admin-logs.md)
 + Implementering {#implementation}
    + Implementeringsgrunder {#implementation-basics}
-      + [Om och skapar rapportsviter](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html?lang=sv-SE)
+      + [Om och skapar rapportsviter](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html)
       + [Mappa contextData-variabler till utkast och eVars med bearbetningsregler](implementation/implementation-basics/map-contextdata-variables-into-props-and-evars-with-processing-rules.md)
       + [Så här identifierar du analysspårningsservern och rapporterar ett Suite-ID](implementation/implementation-basics/how-to-identify-your-analytics-tracking-server-and-report-suites.md)
       + [Skapa ett dokument med affärskrav](implementation/implementation-basics/creating-a-business-requirements-document.md)
       + [Skapa och underhålla en SDR](implementation/implementation-basics/creating-and-maintaining-an-sdr.md)
    + Experience Platform-taggar {#experience-platform-tags}
-      + [Implementera Experience Cloud-lösningar på webbplatser med taggar](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html?lang=sv-SE)
+      + [Implementera Experience Cloud-lösningar på webbplatser med taggar](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html)
       + [Grundläggande konfiguration av Analytics-tillägget](implementation/experience-platform-tags/basic-configuration-of-the-analytics-tags-extension.md)
       + [Konfigurera bibliotekshantering i Analytics-tillägget](implementation/experience-platform-tags/configuring-library-management-in-the-tags-analytics-extension.md)
       + [Konfigurera allmänna inställningar i Analytics-tillägget](implementation/experience-platform-tags/configuring-general-settings-in-the-tags-analytics-extension.md)
@@ -308,9 +308,9 @@ ht-degree: 2%
       + [Segmentjämförelse i Analysis Workspace](components/segmentation/segment-comparison-in-analysis-workspace.md)
       + [Segmentbehållare](components/segmentation/segment-containers.md)
       + [Segmenthantering och delning](components/segmentation/segment-management-and-sharing.md)
-      + [Använda segment i Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-in-analysis-workspace.html?lang=sv-SE)
-      + [Använda segment som dimensioner](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.html?lang=sv-SE)
-      + [Använda segment för att begränsa data](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.html?lang=sv-SE)
+      + [Använda segment i Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-in-analysis-workspace.html)
+      + [Använda segment som dimensioner](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.html)
+      + [Använda segment för att begränsa data](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.html)
       + [Skillnader mellan segmentbyggaren och snabbsegment](components/segmentation/differences-between-the-segment-builder-and-quick-segments.md)
       + [Sekventiell segmentering](components/segmentation/sequential-segmentation.md)
       + [Före/Efter-sekvenser i sekventiell segmentering](components/segmentation/before-after-sequences-in-sequential-segmentation.md)
@@ -327,13 +327,15 @@ ht-degree: 2%
       + [Distinkt funktion för ungefärligt antal i beräknade värden](components/calculated-metrics/approximate-count-distinct-function-in-calculated-metrics.md)
       + [Snabbberäknade mätvärden i Analysis Workspace](components/calculated-metrics/quick-calculated-metrics-in-analysis-workspace.md)
       + [Hantera dina beräknade mätvärden](components/calculated-metrics/manage-your-calculated-metrics.md)
-      + [Attribution IQ i beräknade mått](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/attribution-iq-in-calculated-metrics.html?lang=sv-SE)
+      + [Attribution IQ i beräknade mått](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/attribution-iq-in-calculated-metrics.html)
       + [Använd dimensioner i beräknade mått](components/calculated-metrics/using-dimensions-in-calculated-metrics.md)
       + [Lyft dataanalysen till nästa nivå med beräknade mätvärden](components/calculated-metrics/take-your-data-analysis-to-the-next-level-with-calculated-metrics.md)
    + Klassificeringar {#classifications}
       + [Översikt över klassificeringar](components/classifications/overview-of-classifications.md)
       + [Använda Klassificeringsregelverktyget](components/classifications/using-the-classification-rule-builder.md)
-   + Virtual Report Suites {#virtual-report-suites}
+      + [Introduktion till klassificeringsuppsättningar](components/classifications/introduction-to-classification-sets.md)
+      + [Använd klassificeringsuppsättningar](components/classifications/use-classification-sets.md)
+   + Virtuella rapportsviter {#virtual-report-suites}
       + [Översikt över virtuella rapportsviter](components/virtual-report-suites/virtual-report-suites.md)
       + [Komponenturval](components/virtual-report-suites/component-curation-in-virtual-report-suites.md)
       + [Anpassa besök i virtuella rapportsviter](components/virtual-report-suites/context-aware-sessions-in-virtual-report-suites.md)
@@ -351,7 +353,7 @@ ht-degree: 2%
       + [Skapa anpassade detaljvyer](additional-tools/analytics-dashboards/create-custom-detail-views.md)
       + [Databerättelser för kontrollpaneler för analyser](additional-tools/analytics-dashboards/data-stories-for-analytics-dashboards.md)
 + Exporterar {#exporting}
-   + Från gränssnittet {#from-the-ui}
+   + Från användargränssnittet {#from-the-ui}
       + [Exportera till CSV från Analysis Workspace](exporting/from-the-ui/export-to-csv-from-analysis-workspace.md)
    + Data Warehouse {#data-warehouse}
       + [Exportera datalager](exporting/data-warehouse/introduction-to-data-warehouse.md)
@@ -371,13 +373,13 @@ ht-degree: 2%
       + [Kom igång med Report Builder](exporting/report-builder/get-started-with-report-builder.md)
       + [Boka en Report Builder-förfrågan](exporting/report-builder/schedule-a-report-builder-request.md)
       + [Använd Report Builder avancerade leveransalternativ för Power BI](exporting/report-builder/use-report-builder-advanced-delivery-options-for-power-bi.md)
-+ Integrationer {#integrations}
++ Integreringar {#integrations}
    + Experience Cloud {#experience-cloud}
       + [Förbättrad Experience Cloud Audience Publishing](integrations/experience-cloud/improved-experience-cloud-audience-publishing.md)
    + Audience Manager {#audience-manager}
       + [Aktivera vidarebefordran på serversidan i Experience Platform Launch](integrations/audience-manager/enable-server-side-forwarding-in-adobe-launch.md)
       + [Audience Analytics - Integrera AAM-segment i Analytics](integrations/audience-manager/audience-analytics-integrate-aam-segments-into-analytics.md)
-   + Mål {#target}
+   + Target {#target}
       + [Analyser för målpanelen (A4T) i Analysis Workspace](integrations/target/analytics-for-target-a4t-panel-in-analysis-workspace.md)
       + [Analysera en automatisk målaktivitet med A4T-panelen](integrations/target/analyze-an-auto-target-activity-using-the-a4t-panel.md)
    + Adobe Advertising DSP {#adobe-advertising-dsp}
@@ -404,37 +406,37 @@ ht-degree: 2%
    + [Bidragsanalys i Analysis Workspace](data-science/contribution-analysis-workspace.md)
    + [Intelligenta aviseringar](data-science/intelligent-alerts.md)
    + [Adobe Analytics och Adobe Sensei - Demokratisera datavetenskap för ALLA](data-science/adobe-analytics-and-adobe-sensei-democratizing-data-science-for-all.md)
-+ Lodrätt specifik {#vertical-specific}
++ Lodrätt-specifik {#vertical-specific}
    + Högteknologi {#high-tech}
-      + [Summit 2019 Super Session - High Tech](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.html?lang=sv-SE)
+      + [Summit 2019 Super Session - High Tech](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.html)
    + Resor och turism {#travel-and-hospitality}
-      + [Summit 2019 Super Session - Resor och turism](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-travel.html?lang=sv-SE)
+      + [Summit 2019 Super Session - Resor och turism](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-travel.html)
    + Detaljhandel {#retail}
       + [Introduktion till variabler och händelser för detaljhandeln](vertical-specific/retail/intro-to-retail-variables-and-events.md)
       + [Lägga till grundläggande butiksvariabler och händelser i startregler](vertical-specific/retail/adding-basic-retail-variables-and-events-to-launch-rules.md)
       + [Lägga till en startregel för inköpshändelsen](vertical-specific/retail/adding-a-launch-rule-for-the-purchase-event.md)
-      + [Summit 2019 Super Session - butik](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-retail.html?lang=sv-SE)
-+ Medieanalys {#media-analytics}
+      + [Summit 2019 Super Session - butik](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-retail.html)
++ Media Analytics {#media-analytics}
    + Mätning av medieanalys {#measuring-media-analytics}
       + [Medieuppspelningstid spenderad panel](media-analytics/measuring-media-analytics/media-playback-time-spent-panel.md)
       + [Använda mallen Ljudförbrukning i Analysis Workspace](media-analytics/measuring-media-analytics/using-the-audio-consumption-template-in-analysis-workspace.md)
-+ Analys för mobilappar {#mobile-app-analytics}
++ Mobilappsanalys {#mobile-app-analytics}
    + Implementering {#implementation}
       + [Administratörsinställningar för mobilappar](mobile-app-analytics/implementation/admin-settings-for-mobile-apps.md)
       + [Initiera och visa livscykelstatistik med Experience Platform SDK](mobile-app-analytics/implementation/initializing-and-viewing-lifecycle-metrics-with-the-experience-platform-sdk.md)
       + [Spårningsåtgärder (AKA Custom Links)](mobile-app-analytics/implementation/tracking-actions-aka-custom-links.md)
       + [Spårningsläge (AKA Pages eller Screens)](mobile-app-analytics/implementation/tracking-state-aka-pages-or-screens.md)
-      + [Implementera i iOS Swift-appar](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html?lang=sv-SE)
-      + [Implementering i iOS Objective-C-appar](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html?lang=sv-SE)
-      + [Implementera i Android-appar](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html?lang=sv-SE)
-   + Mätning av mobilanalys {#measuring-mobile-analytics}
+      + [Implementera i iOS Swift-appar](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html)
+      + [Implementering i iOS Objective-C-appar](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html)
+      + [Implementera i Android-appar](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html)
+   + Mäta mobilanalys {#measuring-mobile-analytics}
       + [Komma igång med Adobe Mobile Analytics](mobile-app-analytics/measuring-mobile-analytics/getting-started-with-mobile-analytics.md)
       + [Inverkan av kontaktytor över hela den mobila resan](mobile-app-analytics/measuring-mobile-analytics/impact-of-touchpoints-across-mobile-journey.md)
       + [Analyserar användarbeteende över flera kanaler](mobile-app-analytics/measuring-mobile-analytics/analyzing-user-behavior-across-channels.md)
       + [Så här ökar du engagemangs- och kvarhållningsgraden](mobile-app-analytics/measuring-mobile-analytics/how-to-increase-engagement-and-retention-rates.md)
 + API:er {#apis}
    + [Använda Analysis Workspace för att skapa API 2.0-begäranden](apis/using-analysis-workspace-to-build-api-2-requests.md)
-   + [Använda Report Builder för att lära dig Adobe Analytics API](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/exporting/report-builder/using-report-builder-to-learn-the-adobe-analytics-api.html?lang=sv-SE)
+   + [Använda Report Builder för att lära dig Adobe Analytics API](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/exporting/report-builder/using-report-builder-to-learn-the-adobe-analytics-api.html)
    + [Använda Postman för att göra Adobe Analytics 2.0 API-begäranden](apis/using-postman-to-make-adobe-analytics-2-0-api-requests.md)
 + Användningsexempel för analys {#analysis-use-cases}
    + Intern webbplatssökning {#internal-site-search}
