@@ -35,7 +35,7 @@ Här är ett exempel. Anta att Isabelle interagerade med ert varumärke på föl
 Med hjälp av traditionell analys delas Isabelles resa in i tre delar. Hon representeras som tre unika besökare, som var och en använde olika enheter för att utföra isolerade uppgifter. Det som behövs är en enhetlig vy över Isabelles interaktioner mellan olika enheter. [!DNL Journey IQ: Cross-Device Analytics] innehåller den här vyn.
 
 *Isabelle är en person*
-![ Enhetsövergripande analysresa ](assets/cda-isabelle-journey-cross-device-analytics.png)
+![&#x200B; Enhetsövergripande analysresa &#x200B;](assets/cda-isabelle-journey-cross-device-analytics.png)
 
 ### En enhetsövergripande vy ger bättre analys
 
@@ -64,17 +64,17 @@ CDA presenteras via en särskild typ av korsenhet [[!UICONTROL Virtual Report Su
 I steg ett av VRS-byggaren väljer du [!UICONTROL report suite] som har konfigurerats av Adobe som CDA-aktiverat:
 
 *Välj en CDA-aktiverad bas (källa) [!UICONTROL report suite]*
-![[!UICONTROL Virtual Report Suite] Steg ett ](assets/cda-vrs-step-one.png)
+![[!UICONTROL Virtual Report Suite] Steg ett &#x200B;](assets/cda-vrs-step-one.png)
 
 Aktivera sedan [!UICONTROL Report Time Processing] och aktivera [!UICONTROL cross-device stitching]:
 
 *Aktivera [!UICONTROL report-time processing] och[!UICONTROL cross-device stitching]*
-![[!UICONTROL Virtual Report Suite] Steg två ](assets/cda-vrs-step-two.png)
+![[!UICONTROL Virtual Report Suite] Steg två &#x200B;](assets/cda-vrs-step-two.png)
 
 Slutför konfigurationen av VRS och spara den. CDA VRS visas i Analysis Workspace med en speciell ikon bredvid:
 
 *Markera CDA VRS i Analysis Workspace*
-![[!UICONTROL Virtual Report Suite] Steg tre ](assets/cda-vrs-step-three.png)
+![[!UICONTROL Virtual Report Suite] Steg tre &#x200B;](assets/cda-vrs-step-three.png)
 
 >[!TIP]
 >
@@ -111,7 +111,7 @@ CDA ingår i [[!DNL Analytics Ultimate]](https://helpx.adobe.com/se/legal/produc
 I CDA [!UICONTROL Virtual Report Suite] ser du några ändringar. Måttet [!UICONTROL Unique Visitors] har till exempel ersatts med två nya mått: [!UICONTROL People] och [!UICONTROL Unique Devices]. Dessa nya mätvärden ger er en mycket bättre insikt i målgruppens storlek.
 
 *Personer och unika enheter*
-![ CDA [!UICONTROL People Metric]](assets/cda-people-metric.png)
+![&#x200B; CDA [!UICONTROL People Metric]](assets/cda-people-metric.png)
 
 I [[!UICONTROL Segment Builder]](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-build.html?lang=sv-SE) har segmentbehållaren [!UICONTROL Visitor] ersatts av en [!UICONTROL Person] segmentbehållare. Med ett CDA VRS kan du skapa enhetsövergripande segment som:
 
@@ -120,7 +120,7 @@ I [[!UICONTROL Segment Builder]](https://experienceleague.adobe.com/docs/analyti
 * Besök där personer använder mer än en enhet för att utföra en uppgift
 
 *Personnivåsegment*
-![[!DNL Segment Builder] [!UICONTROL Person] Behållare ](assets/cda-segment-builder-person-container.png)
+![[!DNL Segment Builder] [!UICONTROL Person] Behållare &#x200B;](assets/cda-segment-builder-person-container.png)
 
 ### Dimensionens beständighet
 
@@ -138,7 +138,7 @@ kommer nu att finnas kvar automatiskt från en enhet till en annan tills köphä
 Har du någonsin undrat hur många som interagerar med ert varumärke? Har du velat förstå hur många och vilka typer av enheter de använder? Hur överlappar användningen dem? Med ett CDA VRS kan du skapa [Venndiagram](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/venn.html?lang=sv-SE) för olika enheter och [histogram](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/histogram.html?lang=sv-SE) per person.
 
 *Personbaserad målgruppsanalys*
-![ Venndiagram och histogram ](assets/cda-venn-and-histogram.png)
+![&#x200B; Venndiagram och histogram &#x200B;](assets/cda-venn-and-histogram.png)
 
 ### Enhetsövergripande [!DNL Flow]
 
