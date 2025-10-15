@@ -22,4 +22,4 @@ Lär dig olika metoder för att importera klassificeringsdata med klassificering
 
 >[!VIDEO](https://video.tv.adobe.com/v/3475826/?learn=on&enablevpops)
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/en/docs/analytics/components/classifications/sets/overview){target="_blank"}.
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/sv/docs/analytics/components/classifications/sets/overview){target="_blank"}.
