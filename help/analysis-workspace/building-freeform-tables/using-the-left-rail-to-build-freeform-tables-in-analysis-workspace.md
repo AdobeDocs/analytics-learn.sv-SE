@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Lär dig hur du använder den vänstra listen i Analysis Workspace för att hitta, skapa och lägga till objekt i frihandstabeller.
 
->[!VIDEO](https://video.tv.adobe.com/v/40089/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3475912/?captions=swe&quality=12&learn=on)

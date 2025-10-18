@@ -20,6 +20,6 @@ ht-degree: 0%
 
 Lär dig olika metoder för att importera klassificeringsdata med klassificeringsuppsättningar, samt vissa associerade användningsfall.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475826/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3475832/?captions=swe&learn=on&enablevpops)
 
 Mer information finns i [dokumentationen](https://experienceleague.adobe.com/sv/docs/analytics/components/classifications/sets/overview){target="_blank"}.
