@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Se jobbhistoriken för att ladda upp och ned klassificeringsuppsättningsdata.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476025/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3476031/?captions=swe&learn=on&enablevpops)
