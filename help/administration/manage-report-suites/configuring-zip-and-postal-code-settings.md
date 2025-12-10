@@ -27,4 +27,4 @@ I den här videon får du lära dig hur du konfigurerar inställningarna för [!
 
 >[!VIDEO](https://video.tv.adobe.com/v/27051/?quality=12&learn=on)
 
-Mer information om inställningarna för [!UICONTROL zip code] finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/components/dimensions/zip-code.html?lang=en).
+Mer information om inställningarna för [!UICONTROL zip code] finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/components/dimensions/zip-code.html?lang=sv-SE).

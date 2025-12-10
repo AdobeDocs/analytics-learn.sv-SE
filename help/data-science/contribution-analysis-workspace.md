@@ -25,4 +25,4 @@ I den här videon går du igenom [!UICONTROL Contribution Analysis] och kan anv�
 
 [!UICONTROL Contribution Analysis] är tillgängligt i Analysis Workspace för kunder med Adobe Analytics Premium.
 
-Mer information om den här funktionen finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/anomaly-detection/anomaly-detection.html?lang=en).
+Mer information om den här funktionen finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/anomaly-detection/anomaly-detection.html?lang=sv-SE).

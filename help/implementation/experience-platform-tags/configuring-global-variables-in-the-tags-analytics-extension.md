@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # Konfigurera globala variabelinställningar i Analytics-tillägget [!DNL tags]
 
-Lär dig hur du konfigurerar globala variabelinställningar i Analytics-tillägget [!DNL tags]. Mer detaljerad dokumentation finns i [Översikt över Adobe Analytics-tillägg](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/client/analytics/overview.html){target="_blank"}.
+Lär dig hur du konfigurerar globala variabelinställningar i Analytics-tillägget [!DNL tags]. Mer detaljerad dokumentation finns i [Översikt över Adobe Analytics-tillägg](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/client/analytics/overview.html?lang=sv-SE){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27181/?quality=12&learn=on)

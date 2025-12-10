@@ -20,4 +20,4 @@ Lär dig mer om de typer av analyser som är tillgängliga i [!DNL Analysis Work
 
 >[!VIDEO](https://video.tv.adobe.com/v/31501/?quality=12&learn=on)
 
-[Läs mer om Adobe Analysis Workspace](https://business.adobe.com/products/analytics/ad-hoc-analysis.html?sdid=T32PLYTV&mv=search)
+[Läs mer om Adobe Analysis Workspace](https://business.adobe.com/se/products/analytics/ad-hoc-analysis.html?sdid=T32PLYTV&mv=search)

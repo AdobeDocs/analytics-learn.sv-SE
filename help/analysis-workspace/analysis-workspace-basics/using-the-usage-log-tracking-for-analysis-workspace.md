@@ -36,7 +36,7 @@ Projektvyer är den bästa indikationen på om dina användare använder [!DNL W
 
 ## Ytterligare resurser {#additional-resources}
 
-* [Mer information om loggar](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/logs.html?lang=en)
+* [Mer information om loggar](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/logs.html?lang=sv-SE)
 * [Hämta demoinstrumentpanel](https://adobe.ly/2ygP5ws)
 
 NÄSTA: Vi arbetar för att presentera den här informationen i ett användarvänligt gränssnitt (och med mer information) inom [!DNL Analytics] snart.

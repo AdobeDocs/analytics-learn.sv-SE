@@ -28,4 +28,4 @@ ht-degree: 0%
 
 Exempel på [!UICONTROL segment]-data som kan delas omfattar: demografiska data från tredjepartsdataproviders, kampanjdata från annonsservrar (till exempel externa visningar) och inbyggda CRM-data. Detta är den första producerade integreringen mellan en DMP och en analysmotor på marknaden.
 
-Mer information om den här funktionen finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html).
+Mer information om den här funktionen finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html?lang=sv-SE).

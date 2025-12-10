@@ -94,7 +94,7 @@ Nu kan du enkelt omvandla vilket projekt som helst till en egen mall. Välj bara
 >
 >**Mycket begärd kapacitet:** Flera kunder bad oss att spara projekt som anpassade mallar. Den här funktionen har blivit en av deras favoriter.
 
-[Klicka här för att hitta fler tips och tricks om Experience League](https://experienceleague.adobe.com/?search=tips&tag=Analysis+Workspace#recommended/solutions/analytics)
+[Klicka här för att hitta fler tips och tricks om Experience League](https://experienceleague.adobe.com/sv?search=tips&tag=Analysis+Workspace#recommended/solutions/analytics)
 
 | Om författaren |            |
 |------------|------------|
