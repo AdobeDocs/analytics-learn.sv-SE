@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Lär dig mer om fördelarna med att använda funktionen doPlugins och lägg till plugin-program för Analytics-implementering för att förbättra datainsamlingen. I den här videon visas var koden ska hittas och var den ska läggas till i Experience Platforms [!DNL tags]. Mer information finns i dokumentationen för [doPlugins](https://experienceleague.adobe.com/docs/analytics/implementation/vars/functions/doplugins.html?lang=sv-SE) och [API:er för implementering av analyser](https://experienceleague.adobe.com/docs/analytics/implementation/vars/plugins/impl-plugins.html?lang=sv-SE).
 
->[!VIDEO](https://video.tv.adobe.com/v/28772/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3428853/?captions=swe&quality=12&learn=on)

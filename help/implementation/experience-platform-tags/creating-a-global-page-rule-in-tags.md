@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Lär dig hur du ställer in en global sidregel för datapunkter som du vill skicka till Adobe Analytics på varje sida med Experience Platform [!DNL tags].
 
->[!VIDEO](https://video.tv.adobe.com/v/28769/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443017/?captions=swe&quality=12&learn=on)

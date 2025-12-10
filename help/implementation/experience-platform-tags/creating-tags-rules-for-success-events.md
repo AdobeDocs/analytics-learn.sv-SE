@@ -18,4 +18,4 @@ ht-degree: 0%
 
 I den här videon visas hur du använder regler i [!DNL tags] för att spåra konverteringshändelser (lyckade händelser) på din webbplats.
 
->[!VIDEO](https://video.tv.adobe.com/v/28778/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3429960/?captions=swe&quality=12&learn=on)

@@ -19,5 +19,5 @@ ht-degree: 0%
 
 Lär dig konfigurera variabler och händelser i Report Suite Manager så att rapporter, dimensioner och mätvärden har rätt namn och beteende.
 
->[!VIDEO](https://video.tv.adobe.com/v/28755/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456976/?captions=swe&quality=12&learn=on)
 

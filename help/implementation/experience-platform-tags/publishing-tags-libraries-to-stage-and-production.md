@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Lär dig hur du publicerar webbplatsens analyskod från utveckling till scen och produktion i Experience Platform [!DNL tags], samt hur du konfigurerar rapportsviterna så att rätt data kan tas emot på rätt sätt.
 
->[!VIDEO](https://video.tv.adobe.com/v/28777/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3429982/?captions=swe&quality=12&learn=on)
