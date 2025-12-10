@@ -29,7 +29,7 @@ När du konfigurerar Adobe Analytics, eller när du refererar till det i andra E
 
 När du har implementerat Analytics på en webbplats kan du hitta [!DNL tracking server] och [!DNL report suite ID] direkt i spårningsfunktionen. [!DNL tracking server] är värdnamnet i beacon, så det är lätt att hitta. [!UICONTROL report suite]-ID:n är en kommaavgränsad lista precis efter /b/ss/ i sökvägen till beacon.
 
-Installera Chrome-tillägget [ för ](https://chrome.google.com/webstore/detail/adobe-experience-cloud-de/ocdmogmohccmeicdhlhhgepeaijenapj?hl=sv)&quot;Experience Cloud Debugger&quot; om du vill se fyren, samt all annan information som kommer till Analytics och andra Experience Cloud-lösningar.
+Installera Chrome-tillägget [&#x200B; för &#x200B;](https://chrome.google.com/webstore/detail/adobe-experience-cloud-de/ocdmogmohccmeicdhlhhgepeaijenapj?hl=sv)&quot;Experience Cloud Debugger&quot; om du vill se fyren, samt all annan information som kommer till Analytics och andra Experience Cloud-lösningar.
 
 ## Före implementering {#before-implementation}
 
