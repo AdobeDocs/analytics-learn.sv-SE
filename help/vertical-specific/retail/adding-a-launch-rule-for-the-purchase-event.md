@@ -4,10 +4,10 @@ description: I den här videon visas hur du använder produktsträngstillägget 
 feature: Tags
 topics: Development
 kt: 3593
-role: Developer, Data Engineer
+role: Developer
 level: Beginner
 exl-id: d5f29523-5726-4c49-8ce6-a21c0a7a6c73
-source-git-commit: a45667a8d7ccb46b9e33bd11a78fac9714a61df5
+source-git-commit: 474e68e2937c82efa459b6ed8048a4abd2753285
 workflow-type: tm+mt
 source-wordcount: '74'
 ht-degree: 0%

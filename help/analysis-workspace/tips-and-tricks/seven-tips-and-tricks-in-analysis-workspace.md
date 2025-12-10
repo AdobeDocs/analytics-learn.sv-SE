@@ -7,10 +7,10 @@ activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 3945
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Beginner
 exl-id: af0e66cb-4e74-4ce0-9429-4a461fd54263
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 474e68e2937c82efa459b6ed8048a4abd2753285
 workflow-type: tm+mt
 source-wordcount: '991'
 ht-degree: 0%
@@ -68,7 +68,7 @@ Kopiera enkelt visualiseringar och paneler från ett ställe och lägg till dem 
 
 Adobe Analytics samlar in enorma mängder data. Komponenturval i [!DNL Virtual Report Suites] gör att administratörer kan skapa en datauppsättning för varje affärsenhet i en organisation. Det innebär att analytiker som arbetar i Analysis Workspace inte behöver gå igenom data för att hitta det som betyder mest för dem. Markera bara rutan [!UICONTROL Enable Customization of Virtual Report Suite Components] i [!UICONTROL Virtual Report Suites] builder under [!UICONTROL “Components] och välj sedan den [!UICONTROL components] som matchar vad ett specifikt team mäter.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425532/?quality=12&learn=on&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/23544/?quality=12&learn=on)
 
 >[!TIP]
 >
@@ -88,13 +88,13 @@ Skapa länkar som tar målgrupper överallt inom Analysis Workspace. Högerklick
 
 Nu kan du enkelt omvandla vilket projekt som helst till en egen mall. Välj bara [!UICONTROL Save As Template] i listrutan [!UICONTROL Project], lägg till taggar som gör mallen enkel att hitta och klicka på [!UICONTROL Save Project As Template]. Nu är mallen tillgänglig för alla Analysis Workspace-användare på fliken [!UICONTROL Custom Templates]. På så sätt kan analytiker påbörja sina projekt med meningsfulla datapunkter i stället för att börja från ruta ett.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428579/?quality=12&learn=on&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/23231/?quality=12&learn=on)
 
 >[!TIP]
 >
 >**Mycket begärd kapacitet:** Flera kunder bad oss att spara projekt som anpassade mallar. Den här funktionen har blivit en av deras favoriter.
 
-[Klicka här om du vill hitta fler tips och tricks för Experience League](https://experienceleague.adobe.com/sv?search=tips&tag=Analysis+Workspace#recommended/solutions/analytics)
+[Klicka här för att hitta fler tips och tricks om Experience League](https://experienceleague.adobe.com/?search=tips&tag=Analysis+Workspace#recommended/solutions/analytics)
 
 | Om författaren |            |
 |------------|------------|

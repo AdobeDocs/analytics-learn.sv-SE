@@ -11,10 +11,10 @@ author: Doug Moore
 team: Technical Marketing
 kt: 2679
 topic: Administration
-role: Admin, Architect
+role: Admin, Developer
 level: Beginner
 exl-id: 39adbd25-da7f-4b7a-ae43-6681d675b46d
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 474e68e2937c82efa459b6ed8048a4abd2753285
 workflow-type: tm+mt
 source-wordcount: '75'
 ht-degree: 0%
@@ -27,4 +27,4 @@ I den här videon får du lära dig hur du konfigurerar inställningarna för [!
 
 >[!VIDEO](https://video.tv.adobe.com/v/27051/?quality=12&learn=on)
 
-Mer information om inställningarna för [!UICONTROL zip code] finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/components/dimensions/zip-code.html?lang=sv-SE).
+Mer information om inställningarna för [!UICONTROL zip code] finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/components/dimensions/zip-code.html?lang=en).

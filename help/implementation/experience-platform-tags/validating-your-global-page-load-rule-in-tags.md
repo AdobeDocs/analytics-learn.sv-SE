@@ -3,10 +3,10 @@ title: Verifiera den globala sidinläsningsregeln i Experience Platform [!DNL ta
 description: När du implementerar Adobe Analytics på din webbplats måste du validera koden längs vägen. Lär dig hur du validerar den globala sidinläsningsregeln med Experience Platform debugger.
 feature: Tags
 kt: 3589
-role: Developer, Data Engineer
+role: Developer
 level: Beginner
 exl-id: 57bc5a02-6b78-48e2-9b67-85b97fe52d6a
-source-git-commit: d24bab984f57dbf197c5f6fb39d0a82e6fcf2ad2
+source-git-commit: 474e68e2937c82efa459b6ed8048a4abd2753285
 workflow-type: tm+mt
 source-wordcount: '83'
 ht-degree: 0%

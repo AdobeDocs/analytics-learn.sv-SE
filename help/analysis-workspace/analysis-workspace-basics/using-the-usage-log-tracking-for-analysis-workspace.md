@@ -1,17 +1,15 @@
 ---
 title: Använda spårning av användningslogg för Analysis Workspace
 seo-title: Using the Usage Log Tracking for Analysis Workspace
-description: I den här videon visas hur du använder användningsloggspårning i Workspace-projekt, vilket kan hjälpa dig att förstå hur dina användare använder Adobe Analytics.
-seo-description: This video shows how to use the Usage Log Tracking on Workspace projects, which can help you better understand your users’ usage of Adobe Analytics.
-feature: data configuration and collection
-topics: null
+description: I den här videon visas hur du använder användningsloggspårning i Workspace-projekt, vilket kan hjälpa dig att förstå hur du använder Adobe Analytics.
+seo-description: This video shows how to use the Usage Log Tracking on Workspace projects, which can help you better understand your users' usage of Adobe Analytics.
 audience: analyst, marketer
 activity: use
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 1597
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 474e68e2937c82efa459b6ed8048a4abd2753285
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 1%
@@ -38,7 +36,7 @@ Projektvyer är den bästa indikationen på om dina användare använder [!DNL W
 
 ## Ytterligare resurser {#additional-resources}
 
-* [Mer information om loggar](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/logs.html?lang=sv-SE)
+* [Mer information om loggar](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/logs.html?lang=en)
 * [Hämta demoinstrumentpanel](https://adobe.ly/2ygP5ws)
 
 NÄSTA: Vi arbetar för att presentera den här informationen i ett användarvänligt gränssnitt (och med mer information) inom [!DNL Analytics] snart.

@@ -2,12 +2,12 @@
 title: Skapa och underhåll ett SDR-dokument (Solution Design Reference)
 description: SDR-dokumentet (Solution Design Reference) är en plan för verksamhetskrav, variabeltilldelningar, segmentdefinitioner och datainsamlingsdesign för Analytics om era digitala resurser.
 feature: Implementation Basics
-role: Developer, Data Engineer
+role: Developer
 level: Beginner
 kt: 3581
 thumbnail: 28754.jpg
 exl-id: c942e819-0763-4907-adcc-747ec753c407
-source-git-commit: 245a31092b4a9c253eadd843c7b919c4f701d449
+source-git-commit: 474e68e2937c82efa459b6ed8048a4abd2753285
 workflow-type: tm+mt
 source-wordcount: '118'
 ht-degree: 0%

@@ -2,13 +2,13 @@
 title: Analysvideor och självstudiekurser
 description: Få ut mesta möjliga av Adobe Analytics. Använd dessa självstudiekurser för att lära dig funktionerna i Analytics och dra nytta av fördelarna för ert företag. Det här innehållet passar för administratörer, dataanalytiker, marknadsförare, utvecklare och arkitekter.
 feature: Analytics Basics
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Beginner
 doc-type: overview
 thumbnail: null
 kt: 10453
 exl-id: 3aa2bc96-ed20-46f7-ba9a-a2b7e8b23313
-source-git-commit: d4d87789018acdd5c587b5f78e3249e0fd694bfb
+source-git-commit: 474e68e2937c82efa459b6ed8048a4abd2753285
 workflow-type: tm+mt
 source-wordcount: '244'
 ht-degree: 0%
@@ -90,4 +90,4 @@ Kurser som kursupplevelser per roll och kunskapsnivå finns också i kursavsnitt
 
 ## Ytterligare resurser
 
-[Adobe Analytics-dokumentation](https://experienceleague.adobe.com/docs/analytics.html?lang=sv-SE)
+[Adobe Analytics-dokumentation](https://experienceleague.adobe.com/docs/analytics.html)

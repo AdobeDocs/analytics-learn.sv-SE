@@ -7,10 +7,10 @@ activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1845
-role: Developer, Data Engineer
+role: Developer
 level: Intermediate
 exl-id: e4567b1c-414e-44ad-982f-52b0150e7eda
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 474e68e2937c82efa459b6ed8048a4abd2753285
 workflow-type: tm+mt
 source-wordcount: '271'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # Anpassad länkspårning utan tagghanterare {#custom-link-tracking-without-a-tag-manager}
 
-För många åtgärder på sidan ska spårning inte behandlas som en sidvy. I den här videon får du lära dig att koda en länkspårningsfyr till Analytics, om du inte använder en tagghanterare (till exempel Adobe [!DNL Experience Platform Launch]). Se koden och lär dig ett viktigt tips.
+För många åtgärder på sidan ska spårning inte behandlas som en sidvy. I den här videon får du lära dig att koda en länkspårningsfyr till Analytics, om du inte använder en tagghanterare (som Adobe [!DNL Experience Platform Launch]). Se koden och lär dig ett viktigt tips.
 
 ## Skicka en s.tl()-fyr {#sending-an-s-tl-beacon}
 

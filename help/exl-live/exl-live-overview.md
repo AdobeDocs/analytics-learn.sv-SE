@@ -2,12 +2,12 @@
 title: Experience League LIVE Events
 description: En samling länkar till tidigare Experience League LIVE-händelser
 type: Event
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Beginner
 hide: true
 hidefromtoc: true
 exl-id: 3c8c6737-3c42-4c87-8850-996798ccfda6
-source-git-commit: dd65de735e01c6c5654f98dbc44b13b64ae1de0c
+source-git-commit: 474e68e2937c82efa459b6ed8048a4abd2753285
 workflow-type: tm+mt
 source-wordcount: '190'
 ht-degree: 3%
@@ -20,10 +20,10 @@ ht-degree: 3%
 
 <a href="https://www.youtube.com/watch?v=rogVKsTFbWk"><img alt="om du klickar kommer du till YouTube lobby för Experience League Live" src="assets/1440x492.png" /></a>
 
-Experience League LIVE är ett direktuppspelningsprogram som producerats av Experience League-teamet.  Det är en chans att få kontakt med produktexperter på Adobe och lära dig praktiska tips, tricks och strategier som du kan använda med Adobe Experience Cloud-programmen.
+Experience League LIVE är ett direktuppspelningsprogram som producerats av Experience League team.  Det är en chans att få kontakt med Adobe produktexperter och lära dig praktiska tips, tricks och strategier som du kan tillämpa med Adobe Experience Cloud-programmen.
 
 
-## Kommande Experience League LIVE-event!
+## Kommande event om Experience League LIVE!
 
 <table>
 <tr>
@@ -93,4 +93,4 @@ Missade du ett avsnitt av Experience League LIVE? Vi förlåter dig. Ta en titt 
 
 >[!TIP]
 >
->Om du vill ha fler inlärningsmetoder kan du kolla in våra kostnadsfria [kurser](https://experienceleague.adobe.com/sv#dashboard/learning) samt enskilda [självstudiekurser](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=sv-SE).
+>Om du vill ha fler inlärningsmetoder kan du kolla in våra kostnadsfria [kurser](https://experienceleague.adobe.com/#dashboard/learning) samt enskilda [självstudiekurser](https://experienceleague.adobe.com/docs/home-tutorials.html).

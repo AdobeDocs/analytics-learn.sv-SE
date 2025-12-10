@@ -4,10 +4,10 @@ description: Med Adobe Labs (förhandstitt på teknik) kan ni interagera med nya
 feature: Analytics Basics
 doc-type: feature video
 kt: 4818
-role: Architect
+role: Developer
 level: Beginner
 exl-id: 05bbfccf-a76f-4f01-9f44-a959afc7d12a
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 474e68e2937c82efa459b6ed8048a4abd2753285
 workflow-type: tm+mt
 source-wordcount: '83'
 ht-degree: 0%
@@ -22,4 +22,4 @@ ht-degree: 0%
 
 När du använder en [!DNL Labs]-prototyp måste du utvärdera funktionen i kontexten för dina egna användningsfall och data.
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/tech-previews/overview.html?lang=sv-SE).
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/analyze/tech-previews/overview.html).

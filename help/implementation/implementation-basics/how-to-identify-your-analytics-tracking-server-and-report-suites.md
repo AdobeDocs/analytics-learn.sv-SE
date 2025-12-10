@@ -1,16 +1,16 @@
 ---
 title: Identifiera en analysspårningsserver och ett rapport-Suite-ID
-description: När du konfigurerar Adobe Analytics, eller refererar till det i andra Experience Cloud-lösningar, är det ofta praktiskt eller till och med nödvändigt att känna till den analysserver som du använder, eller den rapportsvit som du skickar data till. I den här videon visas hur du hittar båda värdena, oavsett om du redan har implementerat Adobe Analytics eller inte.
+description: När du konfigurerar Adobe Analytics, eller refererar till det i andra Experience Cloud-lösningar, är det ofta praktiskt eller till och med nödvändigt att känna till den Analytics "Tracking Server" som du använder, eller också den "Report Suite" som du skickar data till. I den här videon visas hur du hittar båda värdena, oavsett om du redan har implementerat Adobe Analytics eller inte.
 feature: Implementation Basics
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 2358
-role: Developer, Data Engineer
+role: Developer
 level: Beginner
 exl-id: 3925026f-69f1-4425-b3a9-6fef26375fed
-source-git-commit: 42bf16df9585d1f41206b81bf509a72c10f1d7f2
+source-git-commit: 474e68e2937c82efa459b6ed8048a4abd2753285
 workflow-type: tm+mt
 source-wordcount: '307'
 ht-degree: 0%
@@ -23,13 +23,13 @@ När du konfigurerar Adobe Analytics, eller när du refererar till det i andra E
 
 >[!IMPORTANT]
 >
->Den här artikeln och videon gäller en&quot;AppMeasurement&quot;-implementering av Adobe Analytics, och inte en implementering med Web SDK.
+>Den här artikeln och videon gäller en&quot;AppMeasurement&quot;-implementering av Adobe Analytics, och inte en implementering som använder Web SDK.
 
 ## Efter implementering {#after-implementation}
 
 När du har implementerat Analytics på en webbplats kan du hitta [!DNL tracking server] och [!DNL report suite ID] direkt i spårningsfunktionen. [!DNL tracking server] är värdnamnet i beacon, så det är lätt att hitta. [!UICONTROL report suite]-ID:n är en kommaavgränsad lista precis efter /b/ss/ i sökvägen till beacon.
 
-Om du vill visa fyren, samt all annan information som kommer till Analytics och andra Experience Cloud-lösningar, installerar du Chrome-tillägget [&quot;Experience Cloud Debugger&quot; &#x200B;](https://chrome.google.com/webstore/detail/adobe-experience-cloud-de/ocdmogmohccmeicdhlhhgepeaijenapj?hl=sv).
+Installera Chrome-tillägget [ för ](https://chrome.google.com/webstore/detail/adobe-experience-cloud-de/ocdmogmohccmeicdhlhhgepeaijenapj?hl=sv)&quot;Experience Cloud Debugger&quot; om du vill se fyren, samt all annan information som kommer till Analytics och andra Experience Cloud-lösningar.
 
 ## Före implementering {#before-implementation}
 

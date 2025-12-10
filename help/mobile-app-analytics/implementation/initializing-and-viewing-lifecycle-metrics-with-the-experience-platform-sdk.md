@@ -1,5 +1,5 @@
 ---
-title: Initiera och visa livscykelvärden med Experience Platform SDK
+title: Initiera och visa livscykelstatistik med Experience Platform SDK
 description: Livscykelstatistik är värdefull och körklar information om appanvändaren. Dessa mätvärden innehåller information om appanvändarens livscykel, t.ex. enhetsinformation, installations- eller uppgraderingsinformation, sessionens start- och paustider osv. I den här videon får du lära dig hur du ställer in livscykelvärden i din app och hur du ser resultaten i en felsökare.
 feature: Mobile SDK
 topics: null
@@ -8,10 +8,10 @@ doc-type: technical video
 team: Technical Marketing
 kt: 2561
 topic: Mobile
-role: Developer, Data Engineer
+role: Developer
 level: Experienced
 exl-id: 8bcc2f31-fac6-45eb-84d8-0ad65779a369
-source-git-commit: 4d467928756950074620388645523021b21fb0d5
+source-git-commit: 474e68e2937c82efa459b6ed8048a4abd2753285
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 0%

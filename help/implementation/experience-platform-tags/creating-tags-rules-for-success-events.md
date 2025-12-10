@@ -4,10 +4,10 @@ description: I den här videon visas hur du använder regler i  [!DNL tags]  fö
 feature: Tags
 topics: Development
 kt: 3591
-role: Developer, Data Engineer
+role: Developer
 level: Beginner
 exl-id: ae600143-87cc-435d-bba2-0bce929070ac
-source-git-commit: 48eef6315e8213c39d0d70093597260a4444d81b
+source-git-commit: 474e68e2937c82efa459b6ed8048a4abd2753285
 workflow-type: tm+mt
 source-wordcount: '50'
 ht-degree: 0%
@@ -18,4 +18,4 @@ ht-degree: 0%
 
 I den här videon visas hur du använder regler i [!DNL tags] för att spåra konverteringshändelser (lyckade händelser) på din webbplats.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429960/?quality=12&learn=on&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/28778/?quality=12&learn=on)
