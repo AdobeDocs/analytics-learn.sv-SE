@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # Vänta nu bara på ett segment.. Använda segment för att hitta nya insikter i Analysis Workspace
 
-Vare sig du är nybörjare eller proffs på Adobe Analytics kommer du att dra nytta av segmenten i dina Analysis Workspace-projekt. Som [Adobe Experience League](https://experienceleague.adobe.com/docs/analytics/components/segmentation/seg-overview.html?lang=sv-SE) beskriver kan du i&quot;segment identifiera underuppsättningar av besökare baserat på egenskaper eller webbplatsinteraktioner&quot;. Det grundläggande resultatet av den här funktionen är att isolera grupper av användare, besök eller träffar på webbplatsen, men en analytiker som du själv kan bli kreativ med det här verktyget och hitta nya sätt att få insikter om webbplatsens aktivitet. Listan med möjliga alternativ är enorm, så tveka inte att försöka skapa en egen och dela den med andra på din organisation eller online i communityn som [Adobe Analytics Community](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community) på Experience League eller i communityn [#measure Slack](https://www.measure.chat/) .
+Vare sig du är nybörjare eller proffs på Adobe Analytics kommer du att dra nytta av segmenten i dina Analysis Workspace-projekt. Som [Adobe Experience League](https://experienceleague.adobe.com/docs/analytics/components/segmentation/seg-overview.html?lang=sv-SE) beskriver kan du i&quot;segment identifiera underuppsättningar av besökare baserat på egenskaper eller webbplatsinteraktioner&quot;. Det grundläggande resultatet av den här funktionen är att isolera grupper av användare, besök eller träffar på webbplatsen, men en analytiker som du själv kan bli kreativ med det här verktyget och hitta nya sätt att få insikter om webbplatsens aktivitet. Listan med möjliga alternativ är enorm, så tveka inte att försöka skapa en egen och dela den med andra på din organisation eller online i communityn som [Adobe Analytics Community](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community?profile.language=sv) på Experience League eller i communityn [#measure Slack](https://www.measure.chat/) .
 
 Om du behöver en snabb uppdatering av hur du skapar ett segment kan du läsa Experience League-dokumentationen om hur du använder [Segment Builder](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-build.html?lang=sv-SE) i Analysis Workspace.
 
@@ -78,7 +78,7 @@ Du kan till och med börja undersöka hur nyckeltal (KPI:er) ändras beroende p�
 
 ![Avsn. 12](assets/s12.png)
 
-Möjligheterna att använda segment för att hitta nya insikter är oändliga! Detta är bara en utgångspunkt. Prova några själv och låt communityn veta vad du har upptäckt: [Adobe Analytics Community](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community) på Experience League eller [#measure Slack](https://www.measure.chat/) community.
+Möjligheterna att använda segment för att hitta nya insikter är oändliga! Detta är bara en utgångspunkt. Prova några själv och låt communityn veta vad du har upptäckt: [Adobe Analytics Community](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community?profile.language=sv) på Experience League eller [#measure Slack](https://www.measure.chat/) community.
 
 Glad segmentering!
 

@@ -113,4 +113,4 @@ Att skapa och underhålla en stark community är en hel del arbete. Det är vikt
 
 * Yrkesutveckling - En stark community skiftar fokus från många analytikerteam, från att vara reaktiva och taktiska till att vara prediktiva och strategiska. Detta öppnar möjligheter till karriärutveckling för communityns projektteam för administration.
 
-Om du har en intern Adobe Analytics-användargrupp eller en mer formell&quot;community&quot;, eller arbetar på att bilda en sådan, vill vi gärna höra din historia i [Adobe Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/bd-p/adobe-analytics-discussions)!
+Om du har en intern Adobe Analytics-användargrupp eller en mer formell&quot;community&quot;, eller arbetar på att bilda en sådan, vill vi gärna höra din historia i [Adobe Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/bd-p/adobe-analytics-discussions?profile.language=sv)!

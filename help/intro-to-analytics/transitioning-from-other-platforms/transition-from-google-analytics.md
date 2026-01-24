@@ -137,7 +137,7 @@ En annan kraftfull funktion i arbetsytorna är möjligheten att använda interak
 
 >[!IMPORTANT]
 >
->Om du vill läsa mer om hur du använder listrutor och frihandsbanor kan du läsa <https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/the-power-of-dropdown-filters-and-dimension-breakdowns-in-adobe/td-p/434680>
+>Om du vill läsa mer om hur du använder listrutor och frihandsbanor kan du läsa <https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/the-power-of-dropdown-filters-and-dimension-breakdowns-in-adobe/td-p/434680?profile.language=sv>
 
 ##### 2.1.2.2. Google Analytics: Kontrollpaneler, anpassade rapporter och sparade rapporter
 
