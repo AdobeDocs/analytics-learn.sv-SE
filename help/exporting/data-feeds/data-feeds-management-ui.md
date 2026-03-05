@@ -20,6 +20,6 @@ ht-degree: 0%
 
 Med Adobe Analytics [!UICONTROL Data feed] kan du exportera råa klickströmsdata för import och sammanfogning med andra datakällor utanför Adobe Analytics. Du kan skapa och hantera din egen [!UICONTROL data feeds] inom Adobe Analytics. Den här videon visar hur du gör.
 
->[!VIDEO](https://video.tv.adobe.com/v/25452/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3428568/?captions=swe&quality=12&learn=on)
 
 Mer information om den här funktionen finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/export/analytics-data-feed/df-manage-feeds.html?lang=sv-SE#).
