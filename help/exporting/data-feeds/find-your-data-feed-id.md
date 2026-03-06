@@ -1,23 +1,21 @@
 ---
 title: Hitta ditt ID för datafeed
-description: Ibland kan du behöva kontakta Adobe i händelse av misslyckad leverans av dataflöden eller med en begäran om att skicka om en dataflödesfil. Det blir bekvämt för kundsupportteamet att hantera sådana förfrågningar om ID för datafeed tillhandahålls av kunden.
-feature: Admin Tools, Data Feeds, Data Configuration and Collection
+description: Ibland kan du behöva kontakta Adobe angående en dataflödesfil. Det kan vara praktiskt att kundsupportteamet hanterar alla förfrågningar om de får ett ID för datafeed från kunden.
+feature: Data Feeds
 topic: Administration
 role: User, Admin
 level: Beginner
-doc-type: feature video
-thumbnail: 335747.jpg
-kt: KT-8464
+kt: 8464
 exl-id: 5687e37d-8284-43c2-9b5f-39852bce538a
-source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+source-git-commit: 14374d74a55ac531a31b7de7f28ba143f9f9411d
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '84'
 ht-degree: 0%
 
 ---
 
 # Hitta ditt ID för datafeed
 
-Ibland kan du behöva kontakta Adobe i händelse av misslyckad leverans av dataflöden eller med en begäran om att skicka om en dataflödesfil. Det blir bekvämt för kundsupportteamet att hantera sådana förfrågningar om ID för datafeed tillhandahålls av kunden.
+Ibland kan du behöva kontakta Adobe angående en dataflödesfil. Det kan vara praktiskt att kundsupportteamet hanterar alla förfrågningar om de får ett ID för datafeed från kunden.
 
->[!VIDEO](https://video.tv.adobe.com/v/335747/?quality=12&learn=on)
+>[!SLIDE](aa-data-feeds-id)
